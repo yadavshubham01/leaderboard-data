@@ -50,7 +50,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
-          message: "🌍 Update JSON - $(date -d '+5 hours +30 minutes' +'%d %b %Y | %I:%M %p')"
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "🌍 Update JSON - $(date -d '+5 hours +30 minutes' +'%d %b %Y | %I:%M %p')"
+          git push
