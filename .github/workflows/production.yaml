@@ -22,10 +22,16 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./data-repo
-          sparse-checkout: data
+          sparse-checkout: |
+            data
+            contributors
 
+      - name: Remove existing files if any (temperory)
+        run: rm -rf ./data ./contributors
       - name: Move Data to Leaderboard
-        run: mv ./data-repo/data ./data
+        run: |
+          mv ./data-repo/data ./data
+          mv ./data-repo/contributors ./contributors
 
       - uses: pnpm/action-setup@v2
         name: Install pnpm
