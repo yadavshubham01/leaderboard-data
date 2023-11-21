@@ -8,6 +8,9 @@ on:
     branches-ignore:
       - main
 
+permissions:
+  pull-requests: read
+
 jobs:
   Deploy-Preview:
     runs-on: ubuntu-latest
@@ -23,6 +26,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ./data-repo
+          ref: ${{ github.ref }}
           sparse-checkout: data
 
       - name: Move Data to Leaderboard
