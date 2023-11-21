@@ -1,0 +1,52 @@
+name: Vercel Preview Deployment
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+permissions:
+  pull-requests: read
+
+jobs:
+  Deploy-Preview:
+    runs-on: ubuntu-latest
+    environment: Open Healthcare Network
+    steps:
+      - name: Checkout Leaderboard
+        uses: actions/checkout@v4
+        with:
+          repository: coronasafe/leaderboard
+          path: .
+
+      - name: Checkout Leaderboard Data
+        uses: actions/checkout@v4
+        with:
+          path: ./data-repo
+          ref: ${{ github.ref }}
+          sparse-checkout: data
+
+      - name: Move Data to Leaderboard
+        run: mv ./data-repo/data ./data
+
+      - uses: pnpm/action-setup@v2
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: 6
+          run_install: false
+
+      - name: Install Vercel CLI
+        run: pnpm add --global vercel@latest
+
+      - name: Pull Vercel Environment Information
+        run: vercel pull --yes --environment=preview --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Build Project Artifacts
+        run: vercel build --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Deploy Project Artifacts to Vercel
+        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }}
