@@ -14,7 +14,9 @@ permissions:
 jobs:
   Deploy-Preview:
     runs-on: ubuntu-latest
-    environment: Open Healthcare Network
+    environment:
+      name: Preview
+      url: ${{ steps.deploy.outputs.deployment_url }}
     steps:
       - name: Checkout Leaderboard
         uses: actions/checkout@v4
@@ -49,4 +51,7 @@ jobs:
         run: vercel build --token=${{ secrets.VERCEL_TOKEN }}
 
       - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }}
+        id: deploy
+        run: |
+          vercel deploy --prebuilt --token=${{ secrets.VERCEL_TOKEN }} > url
+          echo "deployment_url=$(cat url)" >> $GITHUB_OUTPUT
