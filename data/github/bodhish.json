@@ -1,6 +1,13 @@
 {
-  "last_updated": 1696991214.0,
+  "last_updated": 1700988410.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6715",
+      "time": 1700988410.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6715",
+      "text": "Add 2FA support for login"
+    },
     {
       "type": "pr_reviewed",
       "time": 1696991214.0,

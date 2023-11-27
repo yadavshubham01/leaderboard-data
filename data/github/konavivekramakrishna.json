@@ -1,6 +1,20 @@
 {
-  "last_updated": 1700624512.0,
+  "last_updated": 1701005040.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701005040.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1749344468",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1700990020.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1749308577",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6595",
@@ -382,6 +396,49 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "title": "Added a Date/time and round type filter for log updates",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6704",
+      "title": "Navigate to doctor notes page upon doctor notes clicked if popup already in view",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6702",
+      "title": "Keep doctor notes popup opened when initially clicked",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
+      "title": "Update sample_format_external_result",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6694",
+      "title": "Modified the external results sample format",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6687",
+      "title": "Hide KASP Advance Filter",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

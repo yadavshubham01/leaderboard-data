@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700721152.0,
+  "last_updated": 1700981415.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6714",
+      "time": 1700981415.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6714",
+      "text": "Sort by \"Measured At\" in daily rounds"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6693",

@@ -1,6 +1,55 @@
 {
-  "last_updated": 1700938567.0,
+  "last_updated": 1701009944.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1701009944.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144",
+      "text": "Capture `changed_files`, `additions`, `deletions` for a PR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#143",
+      "time": 1701009619.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/143",
+      "text": "Capture turn around time for PRs that are merged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701001782.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1749336175",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1700991690.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1749312467",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1700991649.0,
+      "title": "coronasafe/care_deploy_configs#19",
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19#pullrequestreview-1749312377",
+      "text": "Update sample_format_external_result"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6714",
+      "time": 1700981544.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6714#issuecomment-1826670410",
+      "text": "Closing as ordering should be done by the backend. Ordering from client side wouldn't work with paginated APIs"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6696",
+      "time": 1700976567.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1826579563",
+      "text": "you should be doing:\r\n\r\n```jsx\r\nconst { res, data, loading } = useQuery(...);\r\n```"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700938567.0,
@@ -27866,7 +27915,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1726",
       "title": "Support filtering daily rounds by `taken_at` range",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -27875,7 +27924,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "waiting-for-review"
       ]
