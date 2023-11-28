@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700225585.0,
+  "last_updated": 1701090229.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701090229.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1750380374",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700225585.0,
@@ -29,7 +36,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1589",
       "title": "Adds Nurse user type and promote existing staffs to nurse",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review",
         "done"
@@ -38,16 +45,8 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 0,
+      "stale_for": 10,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1063",
-      "title": "Fixed: Added depth in consultation model for symptoms",
-      "stale_for": 135,
-      "labels": [
-        "waiting-for-review"
-      ]
     }
   ],
   "authored_issue_and_pr": [

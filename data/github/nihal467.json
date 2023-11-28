@@ -1,6 +1,118 @@
 {
-  "last_updated": 1700840670.0,
+  "last_updated": 1701118562.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6736",
+      "time": 1701118562.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6736",
+      "text": "New Cypress Test | Verify Facility Advance Filter | Facility Tab"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6735",
+      "time": 1701116791.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6735",
+      "text": "Facility Local Body in Dummy data is wrongly populated "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6733",
+      "time": 1701096744.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6733",
+      "text": "New Cypress Test | Search for a facility | Facility Tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6733",
+      "time": 1701096231.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6733",
+      "text": "New Cypress Test | Search for a facility | Facility Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6517",
+      "time": 1701091949.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6517#issuecomment-1827841071",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/df49bfef-70ad-4162-83dd-b5e18c121414)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/309841af-21d5-4505-95db-e172a68ff73e)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/bd0ef5d5-d8fe-4df7-946c-7792e1ae88af)\r\n\r\nAfter the discussion during the EOD call, the screenshot above was approved design as an effective way of handling spaces on the patient detail page."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6732",
+      "time": 1701090746.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6732",
+      "text": "Add More Facilities and patients to dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6729",
+      "time": 1701088798.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6729#issuecomment-1827759528",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6730",
+      "time": 1701088239.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6730",
+      "text": "New Cypress Test | Verify Facility CSV Export | Facility Tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6730",
+      "time": 1701087358.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6730",
+      "text": "New Cypress Test | Verify Facility CSV Export | Facility Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6592",
+      "time": 1701066249.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6592#issuecomment-1827192065",
+      "text": "@GokulramGHV as per the latest discussion work on the below :\r\n\r\n- [ ] Create a badge to show location type\r\n- [ ] create a mock up entire UI of the location list where location name, location description, middleware address, buttons, location type, created date and modified date"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6650",
+      "time": 1701064935.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6650#issuecomment-1827171713",
+      "text": "- [ ] the users should only be allowed to upload results for there particular district"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6692",
+      "time": 1701064710.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6692#issuecomment-1827168797",
+      "text": "- [ ] rename all bed type starting with \"non-covid\" to their bed type"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6433",
+      "time": 1701064313.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6433#issuecomment-1827164275",
+      "text": "- [ ] calculate it only if all the data are available , if its unavailable, mention why it can't be calculated\r\n- [ ] do the calculation in front-end only\r\n- [ ] don't create a calculate button to do it manually"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6276",
+      "time": 1701064071.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6276#issuecomment-1827161387",
+      "text": "- [ ] we can only assign to one user"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6717",
+      "time": 1701062981.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6717",
+      "text": "Change the Readme User Details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6716",
+      "time": 1701062812.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6716",
+      "text": "User Deletion Privilege should be given to district admin and above"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6711",
@@ -28755,6 +28867,13 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6736",
+      "title": "New Cypress Test | Verify Facility Advance Filter | Facility Tab",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

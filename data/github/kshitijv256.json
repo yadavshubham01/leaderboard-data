@@ -1,6 +1,27 @@
 {
-  "last_updated": 1700932393.0,
+  "last_updated": 1701074175.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6721",
+      "time": 1701074175.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6721",
+      "text": "changed bed type text in constants file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6692",
+      "time": 1701073873.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6692#issuecomment-1827357684",
+      "text": "@rithviknishad \r\nwe are getting only `id` as number from backend and mapping it to various bed types on frontend, is there a need for backend changes?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6692",
+      "time": 1701069603.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6692#issuecomment-1827257403",
+      "text": "I would like to work on it"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6675",
@@ -665,9 +686,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6721",
+      "title": "changed bed type text in constants file",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6675",
       "title": "showing errors on wrong numbers in PhoneNumberFormField",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

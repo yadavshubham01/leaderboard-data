@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700840733.0,
+  "last_updated": 1701065617.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6715",
+      "time": 1701065617.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1827183063",
+      "text": "Considerations while working on this issue:\r\n\r\n- Modify the login page to include a second step for 2FA. This could be a field for entering a verification code after successful verification of username and password combination.\r\n\r\n- 2FA method would be TOTP ( @bodhish can you confirm this? )\r\n\r\n- Integrate 2FA Library: For TOTP, integrate a library that supports it, such as PyOTP in Python at the backend.\r\n\r\n- At the time of account creation or through account settings, allow users to enroll in 2FA. This will involve generating a secret key for the user, which they can add to their authentication app. They should be able to add/remove 2FA at any time through their profile settings.\r\n\r\n- Offer fallback options like backup codes in case the user loses access to their 2FA device.\r\n\r\n- Store the secret key for TOTP securely in the database.\r\n\r\n- Consider rate limiting 2FA attempts to prevent brute force attacks.\r\n\r\n- Provide clear instructions and support for users to understand how to set up and use 2FA."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6711",
@@ -14163,13 +14170,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1665",
       "title": "Ensure Deterministic Ordering of Local Self Government and Ward Data",
-      "stale_for": 17,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 50,
+      "stale_for": 53,
       "labels": [
         "POC"
       ]
@@ -14177,7 +14184,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 234,
+      "stale_for": 237,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14186,13 +14193,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 247,
+      "stale_for": 250,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 57,
+      "stale_for": 60,
       "labels": [
         "blocked"
       ]

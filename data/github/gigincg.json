@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700819831.0,
+  "last_updated": 1701062348.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6700",
+      "time": 1701062348.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6700",
+      "text": "Keep doctor notes popup opened when initially clicked"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700819831.0,
@@ -6480,7 +6487,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 4,
+      "stale_for": 1,
       "labels": []
     }
   ],

@@ -1,6 +1,55 @@
 {
-  "last_updated": 1700840721.0,
+  "last_updated": 1701096886.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6725",
+      "time": 1701096886.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6725#issuecomment-1827992492",
+      "text": "Will merge it on Dec 15th (when the feature is no longer supported)\r\n\r\ncc: @rithviknishad @nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701096785.0,
+      "title": "coronasafe/care_fe#6725",
+      "link": "https://github.com/coronasafe/care_fe/pull/6725#pullrequestreview-1750628285",
+      "text": "Remove Copilot for PR tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701096736.0,
+      "title": "coronasafe/care_fe#6733",
+      "link": "https://github.com/coronasafe/care_fe/pull/6733#pullrequestreview-1750626439",
+      "text": "New Cypress Test | Search for a facility | Facility Tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701089093.0,
+      "title": "coronasafe/care_fe#6729",
+      "link": "https://github.com/coronasafe/care_fe/pull/6729#pullrequestreview-1750347402",
+      "text": "Show \"ICU Admission Date\" only for Internal Transfer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701088223.0,
+      "title": "coronasafe/care_fe#6730",
+      "link": "https://github.com/coronasafe/care_fe/pull/6730#pullrequestreview-1750323333",
+      "text": "New Cypress Test | Verify Facility CSV Export | Facility Tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701083184.0,
+      "title": "coronasafe/care_fe#6728",
+      "link": "https://github.com/coronasafe/care_fe/pull/6728#pullrequestreview-1750184191",
+      "text": "Fix cypress test in doctor notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_middleware#115",
+      "time": 1701060581.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/115",
+      "text": "dump observation data into s3 every hour + monitor it in sentry"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700840721.0,
@@ -25320,9 +25369,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/115",
+      "title": "dump observation data into s3 every hour + monitor it in sentry",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review",
@@ -25332,7 +25387,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 57,
+      "stale_for": 60,
       "labels": [
         "waiting-for-review"
       ]
@@ -25340,19 +25395,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 279,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 350,
+      "stale_for": 353,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 107,
+      "stale_for": 110,
       "labels": [
         "changes required"
       ]
@@ -25360,25 +25415,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 707,
+      "stale_for": 710,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 713,
+      "stale_for": 716,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 714,
+      "stale_for": 717,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 909,
+      "stale_for": 912,
       "labels": []
     }
   ],

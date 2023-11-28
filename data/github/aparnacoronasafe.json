@@ -1,6 +1,48 @@
 {
-  "last_updated": 1700650192.0,
+  "last_updated": 1701084241.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6517",
+      "time": 1701084241.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6517#issuecomment-1827644345",
+      "text": "@nihal467 why does the implementation look nothing like the images above? @konavivekramakrishna "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6720",
+      "time": 1701073996.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6720",
+      "text": "Review after: Log Update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6718",
+      "time": 1701073789.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6718",
+      "text": "Respiratory rate- non-mandatory"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6716",
+      "time": 1701073348.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6716#issuecomment-1827346340",
+      "text": "Agreed.\r\n\r\nLet us give it to the district admin as well. NOT the Readonly or lab admin"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6276",
+      "time": 1701073278.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6276#issuecomment-1827344795",
+      "text": "> * [ ]  We can only assign one user to a patient; having multiple users assigned to a patient is not currently feasible. @aparnacoronasafe\r\n> \r\n> _Discussion note on 27/11/2023 - Engineering Call_\r\n\r\nIs it 1 nurse & 1 doctor? Or just 1 nurse/doctor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6676",
+      "time": 1701072558.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6676#issuecomment-1827329752",
+      "text": "@xakep8 If you go to log update, Round Type, currently we have two options.\r\n**Normal**- When they select normal log update, they only fill out the one form that appears with vitals and a few other fields.\r\n**Critical Care**- When this is selected, the log update form leads to another more lengthy critical care forms.\r\n\r\nIn this new type \"Telemedicine\" round type, we will go with the same form as in \"Normal\" round type.\r\n\r\nIs it clear?\r\n"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6690",

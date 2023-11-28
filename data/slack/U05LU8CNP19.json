@@ -1397,5 +1397,67 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2023-11-27 00:00:00": [
+        {
+            "client_msg_id": "6bd6465b-9169-41a3-8703-8a2e3837e6da",
+            "type": "message",
+            "text": "EOD 25/06/2023 - 27/11/2023\n\nHow did the day go?\n\u2022 Worked on <https://github.com/coronasafe/care_fe/issues/6690|6690> | PR: <https://github.com/coronasafe/care_fe/pull/6713|6713> ",
+            "user": "U05LU8CNP19",
+            "ts": "1701125305.402089",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "06pMl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 25/06/2023 - 27/11/2023\n\nHow did the day go?\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6690",
+                                            "text": "6690"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " | PR: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6713",
+                                            "text": "6713"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

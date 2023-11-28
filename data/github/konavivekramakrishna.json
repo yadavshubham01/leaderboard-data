@@ -1,6 +1,62 @@
 {
-  "last_updated": 1701005040.0,
+  "last_updated": 1701124784.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701124784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738",
+      "text": "Removed required attribute from Respiratory Rate"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6737",
+      "time": 1701124471.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6737",
+      "text": "Remove the red asterisk from Review field on Log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701103920.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1750915929",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701102405.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1750857987",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6517",
+      "time": 1701085525.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6517#issuecomment-1827674261",
+      "text": "Gigin suggested the implementation since most users will have only one insurance detail. If they have more than one, display all on a separate page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701084110.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1750209825",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701073396.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1827347422",
+      "text": "@rithviknishad, can you please share the type of 'takeAt' we are using similar type in Care Anywhere?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6702",
+      "time": 1701062347.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6702",
+      "text": "Keep doctor notes popup opened when initially clicked"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701005040.0,
@@ -398,35 +454,44 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6713",
-      "title": "Added a Date/time and round type filter for log updates",
+      "link": "https://github.com/coronasafe/care_fe/pull/6738",
+      "title": "Removed required attribute from Respiratory Rate",
       "stale_for": 0,
       "labels": []
     },
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6737",
+      "title": "Removed the red asterisk from Review field on Log update",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "title": "Added a Date/time and round type filter for log updates",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "waiting for back end"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6704",
       "title": "Navigate to doctor notes page upon doctor notes clicked if popup already in view",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6702",
-      "title": "Keep doctor notes popup opened when initially clicked",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6694",
       "title": "Modified the external results sample format",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -434,7 +499,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6687",
       "title": "Hide KASP Advance Filter",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

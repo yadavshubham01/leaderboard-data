@@ -1,6 +1,48 @@
 {
-  "last_updated": 1700842815.0,
+  "last_updated": 1701090546.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701090546.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750389742",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701089129.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701089116.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701089105.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701089105.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1750338585",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701070250.0,
+      "title": "coronasafe/teleicu_middleware#115",
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/115#pullrequestreview-1749789768",
+      "text": "dump observation data into s3 every hour + monitor it in sentry"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700842815.0,
@@ -7001,43 +7043,43 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1727",
       "title": "made patient notes consultation specific",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1716",
       "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1710",
       "title": "offload migrations to beat service",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1707",
       "title": "add management command to load skills",
-      "stale_for": 8,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1705",
       "title": "pin dependencies in pipenv",
-      "stale_for": 16,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1703",
       "title": "add env vars to configure cors headers",
-      "stale_for": 15,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 26,
+      "stale_for": 1,
       "labels": [
         "blocked",
         "changes required",
@@ -7048,7 +7090,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 73,
+      "stale_for": 76,
       "labels": [
         "In progress"
       ]
@@ -7056,19 +7098,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 66,
+      "stale_for": 69,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 127,
+      "stale_for": 130,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 52,
+      "stale_for": 55,
       "labels": []
     }
   ],
