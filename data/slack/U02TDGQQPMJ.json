@@ -25345,5 +25345,233 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2023-11-28 00:00:00": [
+        {
+            "client_msg_id": "3445db31-79cc-4c54-ae7f-2890240c3827",
+            "type": "message",
+            "text": "*EOD 27/11/2023 <!subteam^S035L5S02RF|@care_engineering>* \n\n*How did the day go?*\n\n\u2022 <https://github.com/coronasafe/care/pull/1728|care/1728>, <https://github.com/coronasafe/care_fe/pull/6719|care_fe/6719>: Renamed `admission_date` to `encounter_date`, sanitised existing records, and show appropriate field label as per decision after consultation choice.\n\u2022 <https://github.com/coronasafe/care_fe/pull/6724|care_fe/6724>: Show discharge reason for OP consultations.\n\u2022 <https://github.com/coronasafe/care_fe/pull/6728|care_fe/6728>: Fixed minor cypress test failure in doctor notes.\n\u2022 <https://github.com/coronasafe/care_fe/pull/6725|care_fe/6725>: Updated PR template to not have Copilot for PR tags.\n\u2022 <https://github.com/coronasafe/care_fe/pull/6729|care_fe/6729>: Show \"ICU Admission Date\" only for Internal Transfer in Consultation Form\n\u2022 <https://github.com/coronasafe/care_fe/pull/6734|care_fe/6734>: Attempted to load dummy data for cypress using SQL fixtures\n*What's Next?*\n\n\u2022 Complete events view for leaderboard\n\u2022 Remove scrapper from data repo and use reusable workflow from main repo.",
+            "user": "U02TDGQQPMJ",
+            "ts": "1701140808.649299",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BkXCk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 27/11/2023 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S035L5S02RF",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care/pull/1728",
+                                            "text": "care/1728"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6719",
+                                            "text": "care_fe/6719"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Renamed "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "admission_date",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "encounter_date",
+                                            "style": {
+                                                "code": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", sanitised existing records, and show appropriate field label as per decision after consultation choice."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6724",
+                                            "text": "care_fe/6724"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Show discharge reason for OP consultations."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6728",
+                                            "text": "care_fe/6728"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Fixed minor cypress test failure in doctor notes."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6725",
+                                            "text": "care_fe/6725"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Updated PR template to not have Copilot for PR tags."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6729",
+                                            "text": "care_fe/6729"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Show \"ICU Admission Date\" only for Internal Transfer in Consultation Form"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6734",
+                                            "text": "care_fe/6734"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Attempted to load dummy data for cypress using SQL fixtures"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "What's Next?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Complete events view for leaderboard"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Remove scrapper from data repo and use reusable workflow from main repo."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

@@ -1,6 +1,36 @@
 {
-  "last_updated": 1700927974.0,
+  "last_updated": 1701176980.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6746",
+      "time": 1701176980.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6746",
+      "text": "Add validation for admission_date in consultation form."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "konavivekramakrishna",
+        "sainak",
+        "shyamprakash123",
+        "Omkar76",
+        "ayush-seth",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6712",
@@ -332,11 +362,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6746",
+      "title": "Add validation for admission_date in consultation form.",
+      "stale_for": 0,
+      "labels": [
+        "tested"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6712",
       "title": "Remove blood group, weight and height badges on the top of patient info card",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
@@ -344,7 +382,7 @@
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     },
     {
@@ -352,7 +390,7 @@
       "title": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     }
   ],

@@ -1,6 +1,29 @@
 {
-  "last_updated": 1701124784.0,
+  "last_updated": 1701145507.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "sainak",
+        "shyamprakash123",
+        "Omkar76",
+        "ayush-seth",
+        "sriharsh05",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6738",
@@ -452,58 +475,6 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6738",
-      "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6737",
-      "title": "Removed the red asterisk from Review field on Log update",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6713",
-      "title": "Added a Date/time and round type filter for log updates",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6704",
-      "title": "Navigate to doctor notes page upon doctor notes clicked if popup already in view",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
-      "title": "Update sample_format_external_result",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6694",
-      "title": "Modified the external results sample format",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6687",
-      "title": "Hide KASP Advance Filter",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

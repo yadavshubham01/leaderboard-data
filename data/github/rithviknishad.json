@@ -1,6 +1,118 @@
 {
-  "last_updated": 1701105598.0,
+  "last_updated": 1701173138.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701173138.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1752725132",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701172870.0,
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1752713039",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701172870.0,
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1752713039",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1701169753.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745",
+      "text": "Patient Advanced Filter: filter by review missed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6742",
+      "time": 1701165862.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6742",
+      "text": "Allow route to facility to be edited if null"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701162862.0,
+      "title": "coronasafe/care#1589",
+      "link": "https://github.com/coronasafe/care/pull/1589#pullrequestreview-1752397941",
+      "text": "Adds Nurse user type and promote existing staffs to nurse"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6741",
+      "time": 1701159831.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6741#issuecomment-1829320496",
+      "text": "Another example: https://care.ohc.network/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/e8709ecf-2f3f-4b35-94fe-75da962a0acd/consultation/f7747ab9-8b74-4461-a7ff-747b1cd24223/update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6742",
+      "time": 1701159697.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6742",
+      "text": "Allow route to facility to be edited if null"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6741",
+      "time": 1701159660.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6741#issuecomment-1829316614",
+      "text": "Example: https://care.ohc.network/facility/a31e6a24-0146-4043-b295-3a6c2fe7e095/patient/a709c84e-28e8-41ee-bf5e-f7beb7e859f3/consultation/e38edfd5-bf18-40bd-8cc8-0c46b484dd39/update"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1729",
+      "time": 1701145511.0,
+      "link": "https://github.com/coronasafe/care/pull/1729",
+      "text": "Production Release | Nov Week 4",
+      "collaborated_with": [
+        "sainak",
+        "Ashesh3",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "konavivekramakrishna",
+        "sainak",
+        "shyamprakash123",
+        "Omkar76",
+        "ayush-seth",
+        "sriharsh05",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6714",
+      "time": 1701141610.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6714#issuecomment-1829007627",
+      "text": "If you've read the issue, it has 1 task that is related to FE. You can complete that without adding the closing keyword to the issue.\r\n\r\n<img width=\"615\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/68e079f1-01fb-4a48-b523-1d64692ce0ae\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701137897.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1751755097",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701105598.0,
@@ -28152,13 +28264,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28167,7 +28279,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6724",
       "title": "Show discharge reason for OP consultations",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -28178,14 +28290,13 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "waiting for back end",
-        "merge conflict"
+        "Backend"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -28193,7 +28304,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1726",
       "title": "Support filtering daily rounds by `taken_at` range",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -28202,7 +28313,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -28210,7 +28321,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]

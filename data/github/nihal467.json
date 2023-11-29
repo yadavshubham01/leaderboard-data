@@ -1,6 +1,174 @@
 {
-  "last_updated": 1701118562.0,
+  "last_updated": 1701201655.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6276",
+      "time": 1701201655.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6276#issuecomment-1830631816",
+      "text": "@aparnacoronasafe currently we support only 1 doctor user and we can modify to support either 1 nurse or 1 doctor user"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6743",
+      "time": 1701201361.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6743#issuecomment-1830625171",
+      "text": "it is expected behaviour"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6743",
+      "time": 1701201361.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6743",
+      "text": "Handle Decision After Consultation Field in patient consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6721",
+      "time": 1701201242.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6721#issuecomment-1830622535",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6746",
+      "time": 1701201167.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6746#issuecomment-1830620798",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6737",
+      "time": 1701201017.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6737#issuecomment-1830617320",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701200902.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#issuecomment-1830607625",
+      "text": "@konavivekramakrishna \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/2cdc3389-f8e8-4f41-ad92-4313bd4a356d)\r\n\r\n- [ ] Now, we can submit a blank normal log update, without adding any data, handle this issue, along with this PR\r\n\r\nCC: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6712",
+      "time": 1701200594.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6712#issuecomment-1830575453",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6704",
+      "time": 1701200500.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6704#issuecomment-1830565218",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6688",
+      "time": 1701200126.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6688#issuecomment-1830545711",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6687",
+      "time": 1701197012.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6687#issuecomment-1830470890",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6674",
+      "time": 1701195289.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6674#issuecomment-1830421362",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1701194443.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1830399491",
+      "text": "LGTM, marking it for discussion for UI approval"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701193875.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#issuecomment-1830384849",
+      "text": "@thedevildude check the cypress failure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6640",
+      "time": 1701193626.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6640#issuecomment-1830378759",
+      "text": "@AshrafMd-1 once you complete the UI, we discussed on the EOD call,  mark it for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701193207.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#issuecomment-1830368279",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1701192412.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1830348230",
+      "text": "@sriharsh05 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/0e8ca70d-ad5b-4d5d-9023-de37de9c4951)\r\n\r\n- [ ] The autofill for the pincode isn't working initially in the first input field, but it works properly when you erase the initial input and enter another pincode.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/af60c9ee-f15c-4bf4-b680-b901aea69a65)\r\n\r\n- [ ] ward list is not being fully loaded\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6575",
+      "time": 1701192194.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6575#issuecomment-1830342608",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6731",
+      "time": 1701182206.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6731#issuecomment-1829971713",
+      "text": "- [ ] make it visible in the bottom of the page and discharge summary"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6747",
+      "time": 1701178609.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6747",
+      "text": "Patient List Updated relative time is malfunctioning"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6512",
+      "time": 1701174461.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1829744064",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/a9167ad6-3c41-456d-9849-d148d9b5a408)\r\n\r\n- [ ] without selecting the assign staff field and submit the form, the particular field notification is throw\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c324751d-0b6f-4dc0-ae8a-2eb31ab3b2a2)\r\n\r\n- [ ] When I deselect an already selected ID and save the form, it still doesn't save the unselection of the ID.\r\n\r\n@aeswibon do a complete QA check of the PR "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6742",
+      "time": 1701165765.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6742#issuecomment-1829485662",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6743",
+      "time": 1701160836.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6743",
+      "text": "Handle Decision After Consultation Field in patient consultation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6741",
+      "time": 1701159628.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6741",
+      "text": "Route to facility for old patient record is marked null"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6736",
@@ -28871,7 +29039,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6736",
       "title": "New Cypress Test | Verify Facility Advance Filter | Facility Tab",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

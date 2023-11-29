@@ -1,6 +1,36 @@
 {
-  "last_updated": 1700762318.0,
+  "last_updated": 1701151306.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1701151306.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1829171740",
+      "text": "Minor change based on Bodhi' feedback. Made border rounded and used softer colors.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/60bb9f57-708a-4205-b17e-4a2df892602c)\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "konavivekramakrishna",
+        "sainak",
+        "shyamprakash123",
+        "ayush-seth",
+        "sriharsh05",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
@@ -240,16 +270,6 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6659",
-      "title": "Show fields when copying from previous log",
-      "stale_for": 1,
-      "labels": [
-        "changes required",
-        "merge conflict"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

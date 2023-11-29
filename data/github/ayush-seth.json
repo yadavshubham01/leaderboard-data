@@ -1,6 +1,29 @@
 {
-  "last_updated": 1700629341.0,
+  "last_updated": 1701145507.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "konavivekramakrishna",
+        "sainak",
+        "shyamprakash123",
+        "Omkar76",
+        "sriharsh05",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1700629341.0,
@@ -103,15 +126,6 @@
       "text": "This is the function that controls the visibility of the delete button\r\n```typescript\r\n const showDelete = (user: any) => {\r\n    const STATE_ADMIN_LEVEL = USER_TYPES.indexOf(\"StateAdmin\");\r\n    const STATE_READ_ONLY_ADMIN_LEVEL =\r\n      USER_TYPES.indexOf(\"StateReadOnlyAdmin\");\r\n    const DISTRICT_ADMIN_LEVEL = USER_TYPES.indexOf(\"DistrictAdmin\");\r\n    const level = USER_TYPES.indexOf(user.user_type);\r\n    const currentUserLevel = USER_TYPES.indexOf(authUser.user_type);\r\n    if (user.is_superuser) return true;\r\n\r\n    if (currentUserLevel >= STATE_ADMIN_LEVEL)\r\n      return user.state_object?.id === authUser.state;\r\n    if (\r\n      currentUserLevel < STATE_READ_ONLY_ADMIN_LEVEL &&\r\n      currentUserLevel >= DISTRICT_ADMIN_LEVEL &&\r\n      currentUserLevel > level\r\n    )\r\n      return facilityData?.district_object_id === authUser.district;\r\n    return false;\r\n  };\r\n ```\r\n \r\nReproducing the issue, I can see that the delete button is visible because the 3rd `if` condition is evaluating to `true` which because `currentUserLevel > level` which implies that the `authUser` should be able to delete `user` and they also belong to the same `district`. Which makes me think something is wrong on the backend here? Since the logic for showing the button seems to be right. How can I find out why exactly the backend API is failing?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6688",
-      "title": "hide location filter if facility is not selected",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

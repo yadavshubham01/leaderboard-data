@@ -1,6 +1,25 @@
 {
-  "last_updated": 1700593251.0,
+  "last_updated": 1701175496.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6674",
+      "time": 1701175496.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6674#issuecomment-1829771236",
+      "text": "@nihal467 I'm not able to reproduce the shift patient button issue. I'm able to see \"Track Shifting\". I didn't change or remove the shift patient logic.\r\n<img width=\"2063\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/40627011/58ced5d1-f07c-42f2-a473-a63378d387fe\">\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1729",
+      "time": 1701145511.0,
+      "link": "https://github.com/coronasafe/care/pull/1729",
+      "text": "Production Release | Nov Week 4",
+      "collaborated_with": [
+        "sainak",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1719",
@@ -2883,37 +2902,37 @@
       "title": "Rearranging buttons in the Patient consultation page",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "test failed",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6592",
       "title": "Added location type to location form",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end",
-        "discussion"
+        "changes required",
+        "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1708",
       "title": "Field to classify location as an ICU or Ward or Other",
-      "stale_for": 7,
+      "stale_for": 14,
       "labels": [
         "reviewed"
       ]
@@ -2930,7 +2949,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1692",
       "title": "Prescription: Titrated drug dose",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

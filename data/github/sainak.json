@@ -1,6 +1,48 @@
 {
-  "last_updated": 1701090546.0,
+  "last_updated": 1701181572.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701181572.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1753029355",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1729",
+      "time": 1701145511.0,
+      "link": "https://github.com/coronasafe/care/pull/1729",
+      "text": "Production Release | Nov Week 4",
+      "collaborated_with": [
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6739",
+      "time": 1701145507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6739",
+      "text": "Production Release Nov Week 4",
+      "collaborated_with": [
+        "suprabathk",
+        "khavinshankar",
+        "KshitijTodkar48",
+        "kshitijv256",
+        "Bhavik-ag",
+        "konavivekramakrishna",
+        "shyamprakash123",
+        "Omkar76",
+        "ayush-seth",
+        "sriharsh05",
+        "AshrafMd-1",
+        "vayudarji",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1701090546.0,
@@ -7043,43 +7085,43 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1727",
       "title": "made patient notes consultation specific",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1716",
       "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1710",
       "title": "offload migrations to beat service",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1707",
       "title": "add management command to load skills",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1705",
       "title": "pin dependencies in pipenv",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1703",
       "title": "add env vars to configure cors headers",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "blocked",
         "changes required",
@@ -7090,7 +7132,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 76,
+      "stale_for": 77,
       "labels": [
         "In progress"
       ]
@@ -7098,19 +7140,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 130,
+      "stale_for": 131,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     }
   ],
