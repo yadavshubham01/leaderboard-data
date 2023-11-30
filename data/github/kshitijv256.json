@@ -1,6 +1,23 @@
 {
-  "last_updated": 1701145507.0,
+  "last_updated": 1701233585.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6721",
+      "time": 1701233585.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6721",
+      "text": "changed bed type text in constants file"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6721",
+      "time": 1701233585.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6721",
+      "text": "changed bed type text in constants file",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",
@@ -707,6 +724,15 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6675",
+      "title": "showing errors on wrong numbers in PhoneNumberFormField",
+      "stale_for": 0,
+      "labels": [
+        "tested"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

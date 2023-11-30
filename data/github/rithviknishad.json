@@ -1,6 +1,104 @@
 {
-  "last_updated": 1701173138.0,
+  "last_updated": 1701266044.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701266044.0,
+      "title": "coronasafe/care#1732",
+      "link": "https://github.com/coronasafe/care/pull/1732#pullrequestreview-1755326733",
+      "text": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701266003.0,
+      "title": "coronasafe/care#1733",
+      "link": "https://github.com/coronasafe/care/pull/1733#pullrequestreview-1755325247",
+      "text": "Fix edge case for middleware hostname override in asset.py"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#145",
+      "time": 1701265511.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/145",
+      "text": "Add events and GitHub Markdown rendering"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701260824.0,
+      "title": "coronasafe/care_fe#6755",
+      "link": "https://github.com/coronasafe/care_fe/pull/6755#pullrequestreview-1755145692",
+      "text": "Fix investigation builder crash"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6557",
+      "time": 1701256826.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6557#issuecomment-1831704943",
+      "text": "@khavinshankar maybe we can just merge off the configurations for now, and we can eventually migrate existing files as we go? It won't cause functionality issues right other than eslint errors."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701250401.0,
+      "title": "coronasafe/care_fe#6753",
+      "link": "https://github.com/coronasafe/care_fe/pull/6753#pullrequestreview-1754820556",
+      "text": "Fix feed in patient consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701239372.0,
+      "title": "coronasafe/care_fe#6750",
+      "link": "https://github.com/coronasafe/care_fe/pull/6750#pullrequestreview-1754535355",
+      "text": "Convert the unit from grams to kg in inventory form."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6751",
+      "time": 1701239207.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6751",
+      "text": "Form default date time values: To be current date time instead of date time at which app was loaded"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6749",
+      "time": 1701236970.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6749",
+      "text": "Discharge Date: Unable to select same day as patient admitted date if patient admitted and discharged on same day"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701235818.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1831248608",
+      "text": "Bed is vacant too btw\r\n\r\n<img width=\"1390\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/0791feef-a714-40c6-80d0-179ff5b96252\">\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6721",
+      "time": 1701233585.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6721",
+      "text": "changed bed type text in constants file",
+      "collaborated_with": [
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6575",
+      "time": 1701233507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6575",
+      "text": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers",
+      "collaborated_with": [
+        "nihal467",
+        "sriharsh05"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701233165.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748",
+      "text": "Assign Bed throws error \"Cannot create conflicting entry\" even though no bed was allocated previously"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701173138.0,
@@ -28256,21 +28354,29 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/145",
+      "title": "Add events and GitHub Markdown rendering",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28279,9 +28385,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6724",
       "title": "Show discharge reason for OP consultations",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
@@ -28289,14 +28395,14 @@
       "title": "Rename \"Admission Date\" to encounter specific labels",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "Backend"
+        "Backend",
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -28304,7 +28410,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1726",
       "title": "Support filtering daily rounds by `taken_at` range",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -28313,7 +28419,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting-for-review"
       ]
@@ -28321,7 +28427,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]

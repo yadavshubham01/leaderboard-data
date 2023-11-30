@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701181572.0,
+  "last_updated": 1701264150.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701264150.0,
+      "title": "coronasafe/care#1732",
+      "link": "https://github.com/coronasafe/care/pull/1732#pullrequestreview-1755255403",
+      "text": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701264023.0,
+      "title": "coronasafe/care#1733",
+      "link": "https://github.com/coronasafe/care/pull/1733#pullrequestreview-1755251242",
+      "text": "Fix edge case for middleware hostname override in asset.py"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701181572.0,
@@ -7085,43 +7099,43 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1727",
       "title": "made patient notes consultation specific",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1716",
       "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1710",
       "title": "offload migrations to beat service",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1707",
       "title": "add management command to load skills",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1705",
       "title": "pin dependencies in pipenv",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1703",
       "title": "add env vars to configure cors headers",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "blocked",
         "changes required",
@@ -7132,7 +7146,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 77,
+      "stale_for": 78,
       "labels": [
         "In progress"
       ]
@@ -7140,19 +7154,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 131,
+      "stale_for": 132,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": []
     }
   ],

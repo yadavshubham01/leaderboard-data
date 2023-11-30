@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701145507.0,
+  "last_updated": 1701233661.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6688",
+      "time": 1701233661.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6688",
+      "text": "hide location filter if facility is not selected"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",

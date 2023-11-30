@@ -1,6 +1,87 @@
 {
-  "last_updated": 1701201655.0,
+  "last_updated": 1701286289.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6755",
+      "time": 1701286289.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6755#issuecomment-1832572998",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5929f512-57c7-4be1-9686-bf3636d17879)\r\n\r\nhttps://deploy-preview-6755--care-net.netlify.app/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/update\r\n\r\ncan you check this issue as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701285895.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1832561608",
+      "text": "@konavivekramakrishna \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/03dd2d3e-832c-4357-b72c-128d6644f3be)\r\n\r\n- [ ] this padding was fixed in a earlier PR and current staging, but this solved bug is reappeared in your PR\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/34d98cb3-99ba-4bcd-b768-448d2c339fd9)\r\n\r\n- [ ] in the log update, we only have normal and critical log update , the ICU and automated round type are not relatable in the front-end UI\r\n\r\nCC: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6719",
+      "time": 1701285025.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6719#issuecomment-1832537460",
+      "text": "@rithviknishad can you fix the cypress"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6750",
+      "time": 1701284955.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6750#issuecomment-1832534532",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6724",
+      "time": 1701284685.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6724#issuecomment-1832527958",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6695",
+      "time": 1701284528.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6695#issuecomment-1832524231",
+      "text": "@khavinshankar , clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6675",
+      "time": 1701284130.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6675#issuecomment-1832514968",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6736",
+      "time": 1701268006.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6736",
+      "text": "New Cypress Test | Verify Facility Advance Filter | Facility Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1733",
+      "time": 1701263938.0,
+      "link": "https://github.com/coronasafe/care/pull/1733#issuecomment-1831882599",
+      "text": "LGTM , "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6753",
+      "time": 1701263705.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6753#issuecomment-1831876477",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6575",
+      "time": 1701233507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6575",
+      "text": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers",
+      "collaborated_with": [
+        "sriharsh05",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6276",
@@ -29035,13 +29116,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6736",
-      "title": "New Cypress Test | Verify Facility Advance Filter | Facility Tab",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

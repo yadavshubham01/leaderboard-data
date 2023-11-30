@@ -1,6 +1,59 @@
 {
-  "last_updated": 1701176980.0,
+  "last_updated": 1701237061.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6750",
+      "time": 1701237061.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6750",
+      "text": "Convert the unit from grams to kg in inventory form."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701236870.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1831261036",
+      "text": "I want to work on this issue. Please assign it to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6615",
+      "time": 1701235136.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6615#issuecomment-1831239275",
+      "text": " Yes @Ashesh3, I have stared working on it."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6712",
+      "time": 1701233688.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6712",
+      "text": "Remove blood group, weight and height badges on the top of patient info card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6746",
+      "time": 1701233564.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6746",
+      "text": "Add validation for admission_date in consultation form."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6575",
+      "time": 1701233507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6575",
+      "text": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6575",
+      "time": 1701233507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6575",
+      "text": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6746",
@@ -362,16 +415,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6746",
-      "title": "Add validation for admission_date in consultation form.",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6712",
-      "title": "Remove blood group, weight and height badges on the top of patient info card",
+      "link": "https://github.com/coronasafe/care_fe/pull/6750",
+      "title": "Convert the unit from grams to kg in inventory form.",
       "stale_for": 0,
       "labels": [
         "tested"
@@ -382,15 +427,8 @@
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "test failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6575",
-      "title": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers",
-      "stale_for": 0,
-      "labels": [
-        "tested"
+        "test failed",
+        "merge conflict"
       ]
     }
   ],

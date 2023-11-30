@@ -1,6 +1,13 @@
 {
-  "last_updated": 1698634543.0,
+  "last_updated": 1701262808.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701262808.0,
+      "title": "coronasafe/ayushma#402",
+      "link": "https://github.com/coronasafe/ayushma/pull/402#pullrequestreview-1755212716",
+      "text": "Add support for agents in Testing framework"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#146",

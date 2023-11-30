@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701145507.0,
+  "last_updated": 1701233675.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6704",
+      "time": 1701233675.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6704",
+      "text": "Navigate to doctor notes page upon doctor notes clicked if popup already in view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6687",
+      "time": 1701233647.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6687",
+      "text": "Hide KASP Advance Filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6737",
+      "time": 1701233574.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6737",
+      "text": "Removed the red asterisk from Review field on Log update"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",
@@ -475,6 +496,39 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6738",
+      "title": "Removed required attribute from Respiratory Rate",
+      "stale_for": 1,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "title": "Added a Date/time and round type filter for log updates",
+      "stale_for": 0,
+      "labels": [
+        "test failed",
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
+      "title": "Update sample_format_external_result",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6694",
+      "title": "Modified the external results sample format",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "changes required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

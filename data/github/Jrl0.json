@@ -1,6 +1,13 @@
 {
-  "last_updated": 1696411145.0,
+  "last_updated": 1701249073.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6752",
+      "time": 1701249073.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6752",
+      "text": "patient camera feed not showing up"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6393",

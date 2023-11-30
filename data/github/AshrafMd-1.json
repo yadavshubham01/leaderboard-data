@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701145507.0,
+  "last_updated": 1701235006.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6665",
+      "time": 1701235006.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6665#issuecomment-1831237338",
+      "text": "@Ashesh3 , I am currently addressing a p2 issue. Once I have resolved that, I will proceed to work on and submit a pull request soon."
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",
@@ -591,6 +598,24 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6640",
+      "title": "Use relative time for audit log details.",
+      "stale_for": 1,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6599",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6614"
+    }
+  ]
 }

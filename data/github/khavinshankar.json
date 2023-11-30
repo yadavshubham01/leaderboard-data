@@ -1,6 +1,195 @@
 {
-  "last_updated": 1701165863.0,
+  "last_updated": 1701267992.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701267992.0,
+      "title": "coronasafe/care_fe#6736",
+      "link": "https://github.com/coronasafe/care_fe/pull/6736#pullrequestreview-1755404968",
+      "text": "New Cypress Test | Verify Facility Advance Filter | Facility Tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6753",
+      "time": 1701267837.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6753",
+      "text": "Fix feed in patient consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701263921.0,
+      "title": "coronasafe/care#1733",
+      "link": "https://github.com/coronasafe/care/pull/1733#pullrequestreview-1755247922",
+      "text": "Fix edge case for middleware hostname override in asset.py"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6557",
+      "time": 1701258046.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6557#issuecomment-1831733923",
+      "text": "> @khavinshankar maybe we can just merge off the configurations for now, and we can eventually migrate existing files as we go? It won't cause functionality issues right other than eslint errors.\n\nI agree "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6753",
+      "time": 1701250189.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6753",
+      "text": "Fix feed in patient consultation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6631",
+      "time": 1701233689.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6631",
+      "text": " Patient body details are shown twice in the patient consultation page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6701",
+      "time": 1701233676.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6701",
+      "text": "Navigate to doctor notes page upon doctor notes clicked if popup already in view"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6671",
+      "time": 1701233662.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6671",
+      "text": "Advanced filter on patient: Location (Improvement)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6607",
+      "time": 1701233648.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6607",
+      "text": "Hide KASP Advance Filter in the facility advance filter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6630",
+      "time": 1701233627.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6630",
+      "text": "Rearranging buttons in the Patient consultation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701233610.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#issuecomment-1831215618",
+      "text": "@thedevildude fix the merge conflicts"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6692",
+      "time": 1701233586.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6692",
+      "text": "Phase out \"Covid\" classification from Bed Types in Bed Capacity"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6720",
+      "time": 1701233575.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6720",
+      "text": "Review after: Log Update"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6657",
+      "time": 1701233565.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6657",
+      "text": "Update admission date validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701233439.0,
+      "title": "coronasafe/care_fe#6596",
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1754451104",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701233201.0,
+      "title": "coronasafe/care_fe#6674",
+      "link": "https://github.com/coronasafe/care_fe/pull/6674#pullrequestreview-1754448303",
+      "text": "Rearranging buttons in the Patient consultation page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701233156.0,
+      "title": "coronasafe/care_fe#6688",
+      "link": "https://github.com/coronasafe/care_fe/pull/6688#pullrequestreview-1754447569",
+      "text": "hide location filter if facility is not selected"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701233038.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1754445208",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701233038.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1754445208",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232721.0,
+      "title": "coronasafe/care_fe#6704",
+      "link": "https://github.com/coronasafe/care_fe/pull/6704#pullrequestreview-1754442400",
+      "text": "Navigate to doctor notes page upon doctor notes clicked if popup already in view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232693.0,
+      "title": "coronasafe/care_fe#6712",
+      "link": "https://github.com/coronasafe/care_fe/pull/6712#pullrequestreview-1754442054",
+      "text": "Remove blood group, weight and height badges on the top of patient info card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232640.0,
+      "title": "coronasafe/care_fe#6687",
+      "link": "https://github.com/coronasafe/care_fe/pull/6687#pullrequestreview-1754440120",
+      "text": "Hide KASP Advance Filter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232559.0,
+      "title": "coronasafe/care_fe#6721",
+      "link": "https://github.com/coronasafe/care_fe/pull/6721#pullrequestreview-1754437190",
+      "text": "changed bed type text in constants file"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232516.0,
+      "title": "coronasafe/care_fe#6737",
+      "link": "https://github.com/coronasafe/care_fe/pull/6737#pullrequestreview-1754435631",
+      "text": "Removed the red asterisk from Review field on Log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232459.0,
+      "title": "coronasafe/care_fe#6659",
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#pullrequestreview-1754433585",
+      "text": "Show fields when copying from previous log"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232420.0,
+      "title": "coronasafe/care_fe#6575",
+      "link": "https://github.com/coronasafe/care_fe/pull/6575#pullrequestreview-1754432178",
+      "text": "replace useDispatch with useQuery and request in FacilityCard, FacililyHome and FacilityUsers"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701232335.0,
+      "title": "coronasafe/care_fe#6746",
+      "link": "https://github.com/coronasafe/care_fe/pull/6746#pullrequestreview-1754428964",
+      "text": "Add validation for admission_date in consultation form."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6741",
@@ -25422,17 +25611,18 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
         "need Review",
+        "changes required",
+        "merge conflict",
         "cypress passed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "waiting-for-review"
       ]
@@ -25440,19 +25630,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 354,
+      "stale_for": 355,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": [
         "changes required"
       ]
@@ -25460,25 +25650,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 711,
+      "stale_for": 712,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 717,
+      "stale_for": 718,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 718,
+      "stale_for": 719,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 913,
+      "stale_for": 914,
       "labels": []
     }
   ],
@@ -25554,10 +25744,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/4228",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/4232"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4085",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4086"
     }
   ]
 }
