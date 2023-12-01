@@ -1,6 +1,62 @@
 {
-  "last_updated": 1701267992.0,
+  "last_updated": 1701353226.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6524",
+      "time": 1701353226.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6524#issuecomment-1833848334",
+      "text": "When the asset was deleted and recreated, the asset uptime started working correctly.\r\n\r\nClosing this issue as done, incase if this issue persists, feel free to reopen this issue or create a new issue.\r\n\r\n\r\ncc: @nihal467"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6524",
+      "time": 1701353225.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6524",
+      "text": "Asset uptime and downtime is malfunctioning"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6615",
+      "time": 1701319393.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6615",
+      "text": "Rice can't be added as gram in the inventory list but shown in the dropdown"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6679",
+      "time": 1701319381.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6679",
+      "text": "OP Consultation: auto-discharge."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6027",
+      "time": 1701319368.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6027",
+      "text": "Phone validation errors are not being shown during onBlur"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701319361.0,
+      "title": "coronasafe/care_fe#6750",
+      "link": "https://github.com/coronasafe/care_fe/pull/6750#pullrequestreview-1756622124",
+      "text": "Convert the unit from grams to kg in inventory form."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701319337.0,
+      "title": "coronasafe/care_fe#6724",
+      "link": "https://github.com/coronasafe/care_fe/pull/6724#pullrequestreview-1756621864",
+      "text": "Show discharge reason for OP consultations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701319327.0,
+      "title": "coronasafe/care_fe#6675",
+      "link": "https://github.com/coronasafe/care_fe/pull/6675#pullrequestreview-1756621715",
+      "text": "showing errors on wrong numbers in PhoneNumberFormField"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701267992.0,
@@ -25613,16 +25669,15 @@
       "title": "add support to cache filter options",
       "stale_for": 0,
       "labels": [
-        "need Review",
-        "changes required",
-        "merge conflict",
-        "cypress passed"
+        "tested",
+        "cypress passed",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": [
         "waiting-for-review"
       ]
@@ -25630,19 +25685,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 355,
+      "stale_for": 356,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 112,
+      "stale_for": 113,
       "labels": [
         "changes required"
       ]
@@ -25650,25 +25705,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 712,
+      "stale_for": 713,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 718,
+      "stale_for": 719,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 719,
+      "stale_for": 720,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 914,
+      "stale_for": 915,
       "labels": []
     }
   ],

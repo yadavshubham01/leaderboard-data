@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700593240.0,
+  "last_updated": 1701319450.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701319450.0,
+      "title": "coronasafe/care#1733",
+      "link": "https://github.com/coronasafe/care/pull/1733#pullrequestreview-1756623185",
+      "text": "Fix edge case for middleware hostname override in asset.py"
+    },
     {
       "type": "pr_reviewed",
       "time": 1700593240.0,

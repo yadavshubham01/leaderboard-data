@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701237061.0,
+  "last_updated": 1701342770.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6756",
+      "time": 1701342770.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6756#issuecomment-1833553642",
+      "text": "I want to work on this issue. Please assign it to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1701336450.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1833391701",
+      "text": "@rithviknishad Please review the changes."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6750",
+      "time": 1701319392.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6750",
+      "text": "Convert the unit from grams to kg in inventory form."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6750",
@@ -415,20 +436,11 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6750",
-      "title": "Convert the unit from grams to kg in inventory form.",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6591",
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "test failed",
-        "merge conflict"
+        "needs testing"
       ]
     }
   ],

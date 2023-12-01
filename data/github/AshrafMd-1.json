@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701235006.0,
+  "last_updated": 1701367775.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701367775.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758156959",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1701359823.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760",
+      "text": "Add MEWS Component"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6665",
@@ -600,9 +614,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6760",
+      "title": "Add MEWS Component",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "P2"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6640",
       "title": "Use relative time for audit log details.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]

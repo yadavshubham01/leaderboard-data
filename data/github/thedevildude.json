@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700824235.0,
+  "last_updated": 1701320561.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701320561.0,
+      "title": "coronasafe/care_fe#6596",
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1756636137",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
@@ -245,6 +252,8 @@
       "title": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
       "stale_for": 0,
       "labels": [
+        "tested",
+        "good to merge",
         "changes required"
       ]
     }

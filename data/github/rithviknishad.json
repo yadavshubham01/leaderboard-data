@@ -1,6 +1,149 @@
 {
-  "last_updated": 1701266044.0,
+  "last_updated": 1701370406.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701370406.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758239765",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701368154.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758168342",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701366321.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758115712",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701366088.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758103963",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701366061.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758102698",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701365988.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1758098756",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701363555.0,
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1757952947",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6756",
+      "time": 1701354429.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6756#issuecomment-1833881843",
+      "text": "Just updating this issue, we have `window.location.reload()` in multiple places. These can also be solved.\r\n\r\n<img width=\"491\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/d297b6da-7c8b-4eaf-8a5c-7204e6126213\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1734",
+      "time": 1701346213.0,
+      "link": "https://github.com/coronasafe/care/pull/1734",
+      "text": "Truncate time from `discharge_date`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6757",
+      "time": 1701343182.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6757",
+      "text": "Adds support for capturing time in Discharge Date"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6756",
+      "time": 1701342535.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6756",
+      "text": "CARE reloads when a patient is discharged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701336726.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1757011369",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701336113.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1756989538",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701336113.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1756989538",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6724",
+      "time": 1701319381.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6724",
+      "text": "Show discharge reason for OP consultations"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6675",
+      "time": 1701319367.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6675",
+      "text": "showing errors on wrong numbers in PhoneNumberFormField",
+      "collaborated_with": [
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701318040.0,
+      "title": "coronasafe/care_fe#6596",
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1756605588",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701317783.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1833081398",
+      "text": "@konavivekramakrishna VENTILATOR rounds are white-labelled as Critical Care in the log update form. We can white-label it here too.\r\n\r\n<img width=\"585\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/e01150df-4966-4d82-8f49-056503600ad6\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701317547.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1833078789",
+      "text": "@konavivekramakrishna also the placeholder for the `<SelectFormField>` if nothing is selected should be \"Show all\" instead of \"Select\""
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701317506.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1833078359",
+      "text": "@nihal467 why is it not relatable in front-end UI? Automated rounds are Virtual Nursing Assistant daily round cards! We had a checkbox filter before too for that."
+    },
     {
       "type": "pr_reviewed",
       "time": 1701266044.0,
@@ -28354,21 +28497,40 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1734",
+      "title": "Truncate time from `discharge_date`",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review",
+        "P1"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6757",
+      "title": "Adds support for capturing time in Discharge Date",
+      "stale_for": 0,
+      "labels": [
+        "Backend",
+        "tested",
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "merge conflict"
       ]
@@ -28376,24 +28538,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "good to merge",
         "reviewed"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6724",
-      "title": "Show discharge reason for OP consultations",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Backend",
         "changes required"
@@ -28402,7 +28556,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -28410,7 +28564,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1726",
       "title": "Support filtering daily rounds by `taken_at` range",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -28419,7 +28573,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting-for-review"
       ]
@@ -28427,7 +28581,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end"
       ]
