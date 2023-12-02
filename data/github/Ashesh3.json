@@ -1,6 +1,41 @@
 {
-  "last_updated": 1701354780.0,
+  "last_updated": 1701452226.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6778",
+      "time": 1701452226.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6778",
+      "text": "Update HL7 and ventilator middleware override"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701451775.0,
+      "title": "coronasafe/care_fe#6777",
+      "link": "https://github.com/coronasafe/care_fe/pull/6777#pullrequestreview-1760275656",
+      "text": "thank everyone (including fork branches)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6778",
+      "time": 1701451517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6778",
+      "text": "Update HL7 and ventilator middleware override"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6764",
+      "time": 1701441107.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6764",
+      "text": "Update tooltip position in ConfigureHealthFacility"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6764",
+      "time": 1701435547.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6764",
+      "text": "Update tooltip position in ConfigureHealthFacility"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701354780.0,
@@ -14324,7 +14359,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1732",
       "title": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -14332,7 +14367,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -14340,13 +14375,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1665",
       "title": "Ensure Deterministic Ordering of Local Self Government and Ward Data",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": [
         "POC"
       ]
@@ -14354,7 +14389,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 240,
+      "stale_for": 241,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14363,13 +14398,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 253,
+      "stale_for": 254,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 63,
+      "stale_for": 64,
       "labels": [
         "blocked"
       ]

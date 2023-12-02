@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701233626.0,
+  "last_updated": 1701430964.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1735",
+      "time": 1701430964.0,
+      "link": "https://github.com/coronasafe/care/pull/1735",
+      "text": "District Filter to display State's name along with the district's name"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6603",
+      "time": 1701422088.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6603#issuecomment-1835740035",
+      "text": "@nihal467 can you close the issue? I think it's completed."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6674",
@@ -2905,9 +2919,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1735",
+      "title": "District Filter to display State's name along with the district's name",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "test failed",
         "waiting for back end"
@@ -2916,22 +2936,23 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6592",
       "title": "Added location type to location form",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required",
-        "waiting for back end"
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1708",
       "title": "Field to classify location as an ICU or Ward or Other",
-      "stale_for": 15,
+      "stale_for": 17,
       "labels": [
         "reviewed"
       ]
@@ -2941,14 +2962,14 @@
       "title": "Add titrated prescription dosage type",
       "stale_for": 1,
       "labels": [
-        "changes required",
+        "needs testing",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1692",
       "title": "Prescription: Titrated drug dose",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]

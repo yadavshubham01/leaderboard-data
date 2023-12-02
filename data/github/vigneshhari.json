@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701319450.0,
+  "last_updated": 1701407747.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701407747.0,
+      "title": "coronasafe/care#1726",
+      "link": "https://github.com/coronasafe/care/pull/1726#pullrequestreview-1759026137",
+      "text": "Support filtering daily rounds by `taken_at` range"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701319450.0,

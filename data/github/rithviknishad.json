@@ -1,6 +1,244 @@
 {
-  "last_updated": 1701370406.0,
+  "last_updated": 1701451522.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701451522.0,
+      "title": "coronasafe/care_fe#6640",
+      "link": "https://github.com/coronasafe/care_fe/pull/6640#pullrequestreview-1760269541",
+      "text": "Use relative time for audit log details."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6777",
+      "time": 1701450363.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6777",
+      "text": "thank everyone"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6775",
+      "time": 1701448824.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6775",
+      "text": "fixes #6774; vitals content overlapping bed dropdown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6776",
+      "time": 1701448257.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6776",
+      "text": "Clear selection tooltip shown even when mouse is hovered on the add button instead of clear selection button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6775",
+      "time": 1701447779.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6775",
+      "text": "fixes #6774; vitals content overlapping bed dropdown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6774",
+      "time": 1701447724.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6774",
+      "text": "Vitals content overlapping bed select dropdown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6769",
+      "time": 1701446099.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6769",
+      "text": "fixes #6766; Misaligned label in external results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1701445878.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773",
+      "text": "Asset Update: Selected location not being shown for some cases"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6772",
+      "time": 1701445666.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6772",
+      "text": "Location to be Non-Mandatory for External Assets"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6771",
+      "time": 1701445196.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6771",
+      "text": "Timeline style view for Bed Allocation History"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6770",
+      "time": 1701445021.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6770",
+      "text": "Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6769",
+      "time": 1701444831.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6769",
+      "text": "fixes #6766; Misaligned label in external results"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6766",
+      "time": 1701444422.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6766#issuecomment-1836305368",
+      "text": "Related to #6648"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6768",
+      "time": 1701443667.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6768",
+      "text": "Prescriptions Details Card is not responsive in Bulk Administer Medicines slideover"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6767",
+      "time": 1701443472.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6767",
+      "text": "Bed Name and Location Name not distinguishable in Bed Select"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6766",
+      "time": 1701443065.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6766",
+      "text": "Misaligned labels for \"Search by number\" field in External Results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1701442903.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765",
+      "text": "Page scroll resets to top when switching to medicines tab"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6603",
+      "time": 1701426779.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6603",
+      "text": "Facility Capacity Export updated date field is not showing date properly"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701426606.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1835849058",
+      "text": "How would the creation date of that bed be a problem? It could be a problem with that specific bed, but what exactly is the problem? If it's vacant, then it should be assignable with current time right?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701416465.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1759196661",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701416266.0,
+      "title": "coronasafe/care_fe#6596",
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1759192750",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701416047.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1759188521",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701415747.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1759182713",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701415268.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1759171921",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701410641.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1835519521",
+      "text": "TODO: diagonal move\r\n\r\n<img width=\"277\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/a7626917-fee5-4f78-ae3b-4db2d9642bf2\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701408984.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1835496072",
+      "text": "+1 for making this a generic reusable feature, so that the same can be done eventually for other routes.\r\n\r\nEg: `/facility/<invalid>/assets/id`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701408834.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761",
+      "text": "Support for self-healing Consultation URL and redirecting `/consultation/:id` to the actual route"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6757",
+      "time": 1701407866.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6757",
+      "text": "Adds support for capturing time in Discharge Date"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1726",
+      "time": 1701407753.0,
+      "link": "https://github.com/coronasafe/care/pull/1726",
+      "text": "Support filtering daily rounds by `taken_at` range"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1734",
+      "time": 1701407710.0,
+      "link": "https://github.com/coronasafe/care/pull/1734",
+      "text": "Truncate time from `discharge_date`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6758",
+      "time": 1701407323.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6758#issuecomment-1835469072",
+      "text": "Have you tried `npm i` or `bun install` instead of `yarn`?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701407116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1835466533",
+      "text": "> should I remove ICU and automated from filter?\r\n\r\nRemove ICU for now, Automated must be kept.\r\n\r\nWe don't seem to have a single ICU round record in the database.\r\n\r\n<img width=\"827\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/d8ec6840-8bf2-4f61-825c-2f9be5fd5c25\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701407050.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1759013836",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701407050.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1759013836",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701370406.0,
@@ -28497,48 +28735,35 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1734",
-      "title": "Truncate time from `discharge_date`",
+      "link": "https://github.com/coronasafe/care_fe/pull/6777",
+      "title": "thank everyone (including fork branches)",
       "stale_for": 0,
       "labels": [
-        "waiting-for-review",
-        "P1"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6757",
-      "title": "Adds support for capturing time in Discharge Date",
-      "stale_for": 0,
-      "labels": [
-        "Backend",
-        "tested",
-        "P1"
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 1,
-      "labels": [
-        "merge conflict"
-      ]
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28547,33 +28772,25 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "Backend",
-        "changes required"
+        "changes required",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1726",
-      "title": "Support filtering daily rounds by `taken_at` range",
-      "stale_for": 3,
-      "labels": [
-        "waiting-for-review",
-        "P2"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "waiting-for-review"
       ]
@@ -28581,13 +28798,29 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting for back end"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6774",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6775"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6766",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6769"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6757"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
+      "pr_link": "https://github.com/coronasafe/care/pull/1734"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6686",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6685"
@@ -28623,10 +28856,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1662",
       "pr_link": "https://github.com/coronasafe/care/pull/1678"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6397",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6398"
     }
   ]
 }

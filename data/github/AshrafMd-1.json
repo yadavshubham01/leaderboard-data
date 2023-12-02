@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701367775.0,
+  "last_updated": 1701451606.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6776",
+      "time": 1701451606.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6776#issuecomment-1836501553",
+      "text": "I want to work on this issue. Can you assign it to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6640",
+      "time": 1701451247.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6640#issuecomment-1836493475",
+      "text": "@rithviknishad can u check once"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701367775.0,

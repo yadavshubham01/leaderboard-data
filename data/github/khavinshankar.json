@@ -1,6 +1,104 @@
 {
-  "last_updated": 1701353226.0,
+  "last_updated": 1701452219.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701452219.0,
+      "title": "coronasafe/care_fe#6778",
+      "link": "https://github.com/coronasafe/care_fe/pull/6778#pullrequestreview-1760290298",
+      "text": "Update HL7 and ventilator middleware override"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6774",
+      "time": 1701448825.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6774",
+      "text": "Vitals content overlapping bed select dropdown"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701448807.0,
+      "title": "coronasafe/care_fe#6775",
+      "link": "https://github.com/coronasafe/care_fe/pull/6775#pullrequestreview-1760199246",
+      "text": "fixes #6774; vitals content overlapping bed dropdown"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6766",
+      "time": 1701446100.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6766",
+      "text": "Misaligned labels for \"Search by number\" field in External Results"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701446092.0,
+      "title": "coronasafe/care_fe#6769",
+      "link": "https://github.com/coronasafe/care_fe/pull/6769#pullrequestreview-1760109258",
+      "text": "fixes #6766; Misaligned label in external results"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/teleicu_middleware#116",
+      "time": 1701445617.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/116",
+      "text": "Server status page not working"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#116",
+      "time": 1701445618.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/116#issuecomment-1836335401",
+      "text": "Fixed in #117 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/teleicu_middleware#117",
+      "time": 1701443958.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/117",
+      "text": "fix error handler"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_middleware#117",
+      "time": 1701443870.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/117",
+      "text": "fix error handler"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/teleicu_middleware#116",
+      "time": 1701441497.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/116",
+      "text": "Server status page not working"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6763",
+      "time": 1701441108.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6763",
+      "text": "The Health Facility ID, tooltip is clipout in smaller screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701441098.0,
+      "title": "coronasafe/care_fe#6764",
+      "link": "https://github.com/coronasafe/care_fe/pull/6764#pullrequestreview-1759936549",
+      "text": "Update tooltip position in ConfigureHealthFacility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6749",
+      "time": 1701407867.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6749",
+      "text": "Discharge Date: Unable to select same day as patient admitted date if patient admitted and discharged on same day"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701407848.0,
+      "title": "coronasafe/care_fe#6757",
+      "link": "https://github.com/coronasafe/care_fe/pull/6757#pullrequestreview-1759031682",
+      "text": "Adds support for capturing time in Discharge Date"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6524",
@@ -25667,7 +25765,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "cypress passed",
@@ -25677,7 +25775,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 63,
+      "stale_for": 64,
       "labels": [
         "waiting-for-review"
       ]
@@ -25685,19 +25783,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 356,
+      "stale_for": 357,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 113,
+      "stale_for": 114,
       "labels": [
         "changes required"
       ]
@@ -25705,25 +25803,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 713,
+      "stale_for": 714,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 719,
+      "stale_for": 720,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 720,
+      "stale_for": 721,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 915,
+      "stale_for": 916,
       "labels": []
     }
   ],

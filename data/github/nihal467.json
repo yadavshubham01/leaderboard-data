@@ -1,6 +1,76 @@
 {
-  "last_updated": 1701354621.0,
+  "last_updated": 1701452112.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6778",
+      "time": 1701452112.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6778#issuecomment-1836514181",
+      "text": "LGTM\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6775",
+      "time": 1701448706.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6775#issuecomment-1836434208",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6769",
+      "time": 1701446051.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6769#issuecomment-1836347727",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6768",
+      "time": 1701444272.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6768#issuecomment-1836301610",
+      "text": "in windows : \r\n\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6768",
+      "time": 1701444271.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6768",
+      "text": "Prescriptions Details Card is not responsive in Bulk Administer Medicines slideover"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6732",
+      "time": 1701442722.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6732#issuecomment-1836262841",
+      "text": "As per the call, decided to populate using cypress"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701442363.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#issuecomment-1836250705",
+      "text": "labeled it as discussion for a final confirmation from @gigincg  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6764",
+      "time": 1701440674.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6764#issuecomment-1836203140",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701435207.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#issuecomment-1836072235",
+      "text": "@konavivekramakrishna After merging your this PR, anyone can perform a standard log update by leaving all fields under 'vital' blank and simply submitting it. This is where the problem arises, as it results in a blank log update.\r\n\r\nBased on my recent conversation with Aparna, we don't anticipate any issues from the field, as mentioned above. @konavivekramakrishna, you don't need to make any changes; the PR is good to merge.\r\n\r\nCC : @rithviknishad \r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6763",
+      "time": 1701434356.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6763",
+      "text": "The Health Facility ID, tooltip is clipout in smaller screen"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1734",

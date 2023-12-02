@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701342770.0,
+  "last_updated": 1701425967.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701425967.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1835833741",
+      "text": "The bed eafefo was created on \"2022-07-15T12:44:16.229074+05:30\". Can the problem be related to the creation date of that bed?  \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1701425844.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1835830720",
+      "text": "@rithviknishad \r\nI have a doubt regarding this issue. When I try to assign or switch a patient to another bed, the feature works perfectly fine. However, the error only occurs with the bed you provided (eafefo). I even attempted to create new patients and assign them to that bed (eafofo), but it still throws the same error. There doesn't seem to be any issue with the new beds created. Is it possible that the problem lies only with that specific bed, or am I missing something?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6756",
@@ -438,7 +452,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6591",
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

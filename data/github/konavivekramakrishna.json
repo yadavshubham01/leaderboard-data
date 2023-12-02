@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701233675.0,
+  "last_updated": 1701430449.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701430449.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#issuecomment-1835942467",
+      "text": "@nihal467 \r\n\r\nThen which field should be mandatory to prevent from submitting a blank normal log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701414078.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1759143858",
+      "text": "Modified the external results sample format"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701406962.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1835464374",
+      "text": "should I remove ICU and automated from filter?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701406787.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1835462105",
+      "text": " \r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/e4fb37f2-d275-4c5e-bbe1-68a0f10215f0)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/9d416d81-cee3-4202-862c-c03f54a6e92b)\r\n\r\n\r\nchanged to lowercase because in round type it is lowercase"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6704",
@@ -500,9 +528,11 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "hold",
+        "tested",
+        "discussion"
       ]
     },
     {
@@ -510,14 +540,13 @@
       "title": "Added a Date/time and round type filter for log updates",
       "stale_for": 0,
       "labels": [
-        "test failed",
-        "waiting for back end"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": []
     },
     {
@@ -525,8 +554,7 @@
       "title": "Modified the external results sample format",
       "stale_for": 0,
       "labels": [
-        "tested",
-        "changes required"
+        "tested"
       ]
     }
   ],

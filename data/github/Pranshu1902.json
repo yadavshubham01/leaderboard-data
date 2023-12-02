@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701347934.0,
+  "last_updated": 1701453817.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701453817.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1760327164",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701453596.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1760321963",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6758",
+      "time": 1701443984.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6758#issuecomment-1836294572",
+      "text": "> Have you tried `npm i` or `bun install` instead of `yarn`?\r\n\r\nIt worked with `npm i`. Thanks\r\nClosing this issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6758",
+      "time": 1701443983.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6758",
+      "text": "Eslint not working locally"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6759",
@@ -6629,7 +6657,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -6637,13 +6665,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": [
         "changes required"
       ]
@@ -6651,13 +6679,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1505",
       "title": "Don't allow negative values for Doctor Count for facility",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1157",
       "title": "Restrict Admin from unlinking users from other district",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "waiting-for-review"
       ]
