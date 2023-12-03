@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701453383.0,
+  "last_updated": 1701539200.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6767",
+      "time": 1701539200.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6767#issuecomment-1837213113",
+      "text": "@rithviknishad how should bed name and location name be separated. by `,` ,  `/` , location in `[ ]` or maybe add `in` between bed name and location name\r\n### examples\r\n![Screenshot from 2023-12-02 23-06-57](https://github.com/coronasafe/care_fe/assets/101321276/10c6f303-4c7b-46c3-8a0e-8159ff01fa20)\r\n![Screenshot from 2023-12-02 23-07-15](https://github.com/coronasafe/care_fe/assets/101321276/872912d0-f246-4794-970b-0d22db574068)\r\n![Screenshot from 2023-12-02 23-07-42](https://github.com/coronasafe/care_fe/assets/101321276/298201ba-039c-499b-b9fa-3de2c959c56c)\r\n![Screenshot from 2023-12-02 23-08-16](https://github.com/coronasafe/care_fe/assets/101321276/316690b2-167b-4487-aac0-520d9bca8261)\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6767",

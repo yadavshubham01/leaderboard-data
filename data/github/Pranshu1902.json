@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701453817.0,
+  "last_updated": 1701528458.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1736",
+      "time": 1701528458.0,
+      "link": "https://github.com/coronasafe/care/pull/1736",
+      "text": "show icu admission date in discharge summary pdf"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1701519185.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779",
+      "text": "Show icu admission date on consultations dashboard"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701453817.0,
@@ -6655,9 +6669,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1736",
+      "title": "show icu admission date in discharge summary pdf",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6779",
+      "title": "Show icu admission date on consultations dashboard",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -6665,13 +6693,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "changes required"
       ]
@@ -6679,13 +6707,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1505",
       "title": "Don't allow negative values for Doctor Count for facility",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1157",
       "title": "Restrict Admin from unlinking users from other district",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "waiting-for-review"
       ]

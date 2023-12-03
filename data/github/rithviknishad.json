@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701451522.0,
+  "last_updated": 1701523771.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6776",
+      "time": 1701523771.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6776#issuecomment-1837149382",
+      "text": "https://github.com/coronasafe/care_fe/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee\r\n\r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701451522.0,
@@ -28737,7 +28744,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review"
       ]
@@ -28745,25 +28752,25 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28772,7 +28779,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "Backend",
         "changes required",
@@ -28782,7 +28789,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -28790,7 +28797,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "waiting-for-review"
       ]
@@ -28798,7 +28805,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting for back end"
       ]

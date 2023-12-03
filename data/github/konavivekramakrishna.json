@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701430449.0,
+  "last_updated": 1701512090.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1701512090.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1837111175",
+      "text": "I would like to work on it can you please assign me"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6738",
@@ -528,7 +535,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "hold",
         "tested",
@@ -546,7 +553,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
