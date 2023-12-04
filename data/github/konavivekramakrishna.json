@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701512090.0,
+  "last_updated": 1701611095.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1701611095.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1837485125",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/81312126-a627-482e-b347-1a0087eccf33)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/dc6c3c77-5475-48bc-a630-0926cb0db3f4)\r\n \r\n\r\nI tried to hardcode and selected the default Location 2 ID but didn't understand why it is not showing location2 Even on selecting Location 2 it's not getting selected \r\n\r\n`c3b2a9c7-dcc4-4ec0-bb08-97ab3782d311`\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1701610782.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1837483812",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/81312126-a627-482e-b347-1a0087eccf33)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/dc6c3c77-5475-48bc-a630-0926cb0db3f4)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/a1949d12-10b0-4146-b53d-51a8e5da85fe)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/5f288f64-5276-44c9-8c55-a2033cea93bc)\r\n\r\n\r\nI tried to hardcode and selected the default Location 2 ID but didn't understand why it is not showing location2 Even on selecting Location 2 it's not getting selected \r\n\r\nThe ID's test asset and location2 are the same both have the same id is this the reason why it's not showing the location2 in the field?\r\n`c3b2a9c7-dcc4-4ec0-bb08-97ab3782d311`\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6773",
@@ -535,7 +549,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "hold",
         "tested",
@@ -545,7 +559,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6713",
       "title": "Added a Date/time and round type filter for log updates",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -553,13 +567,13 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6694",
       "title": "Modified the external results sample format",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested"
       ]

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701523716.0,
+  "last_updated": 1701606508.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6783",
+      "time": 1701606508.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6783",
+      "text": "Trim the text fields in the add user form before submitting"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6782",
+      "time": 1701603443.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6782",
+      "text": "Don't allow adding of linked skills for users in other districts other than Ernakulam"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6780",
+      "time": 1701595031.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6780",
+      "text": "Resolve invalid tooltip activation"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6776",
@@ -635,9 +656,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6780",
+      "title": "Resolve invalid tooltip activation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6760",
       "title": "Add MEWS Component",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "P2"
@@ -646,9 +673,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6640",
       "title": "Use relative time for audit log details.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     }
   ],

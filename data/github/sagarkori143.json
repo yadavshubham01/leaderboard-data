@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701523065.0,
+  "last_updated": 1701634251.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6784",
+      "time": 1701634251.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6784",
+      "text": "Modified Administer medicine card to make it responsive"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6768",
+      "time": 1701574461.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6768#issuecomment-1837328336",
+      "text": "I want to work on this issue. Please assign it to me."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6776",
@@ -9,6 +23,13 @@
       "text": "Hello @AshrafMd-1, I'm interested in working on this issue. If you're not currently handling it, could you please let me get assigned to this issue? Thank you!"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6784",
+      "title": "Modified Administer medicine card to make it responsive",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

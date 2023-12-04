@@ -1,6 +1,41 @@
 {
-  "last_updated": 1701523771.0,
+  "last_updated": 1701613270.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701613270.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1761249701",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701613053.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1761249050",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701612922.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1761248455",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1701612246.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1837490147",
+      "text": "Have you checked the network responses? Maybe it could be because the selected location was not able to be matched with any of the items in the response, probably because it was beyond the first page (since it's a paginated response).\r\n\r\nIf that's the case, have a look at how `useAsyncOptions` is used in other places for such cases (which would require `LocationSelect` to be refactored), or if you have other ways to merge the selected option with the response from the paginated list items."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701603456.0,
+      "title": "coronasafe/care#1738",
+      "link": "https://github.com/coronasafe/care/pull/1738#pullrequestreview-1761186914",
+      "text": "Allow district admin to delete users"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6776",
@@ -28744,7 +28779,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "need Review"
       ]
@@ -28752,25 +28787,25 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28779,7 +28814,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Backend",
         "changes required",
@@ -28789,7 +28824,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -28797,7 +28832,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting-for-review"
       ]
@@ -28805,7 +28840,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting for back end"
       ]
