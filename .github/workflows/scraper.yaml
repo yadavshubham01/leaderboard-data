@@ -8,6 +8,7 @@ on:
 jobs:
   run-scraper:
     uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@reusable-scraper-workflow
+    if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
       pull-requests: read
