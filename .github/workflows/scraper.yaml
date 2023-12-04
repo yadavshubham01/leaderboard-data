@@ -1,59 +1,18 @@
-name: Main
+name: Scrap Data
 
 on:
   schedule:
     - cron: "0 1 * * *" # 6:30am IST
   workflow_dispatch:
 
-permissions:
-  issues: read
-  pull-requests: read
-  contents: write
-
 jobs:
-  fetch-data:
-    name: Scrap data from GitHub and Slack
-    if: github.ref == 'refs/heads/main'
-    environment:
-      name: Open Healthcare Network
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: setup python
-        uses: actions/setup-python@v3
-        with:
-          python-version: "3.10"
-
-      - name: Install dependencies
-        run: pip install -r scraper/requirements.txt
-
-      - name: Scrap GitHub data
-        uses: nick-fields/retry@v2
-        with:
-          timeout_minutes: 10
-          max_attempts: 3
-          command: python scraper/src/github.py ${{ github.repository_owner }} data/github -l DEBUG
-          on_retry_command: git checkout .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Scrap EOD updates from Slack
-        if: ${{ env.SLACK_API_TOKEN }}
-        run: python scraper/src/slack.py --lookback_days=2
-        env:
-          SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
-          SLACK_CHANNEL: ${{ vars.SLACK_EOD_CHANNEL }}
-
-      - name: Generate markdown files for new contributors
-        run: node scripts/generateNewContributors.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "🌍 Update JSON - $(date -d '+5 hours +30 minutes' +'%d %b %Y | %I:%M %p')"
-          git push
+  run-scraper:
+    uses: coronasafe/leaderboard/.github/workflows/scraper.yaml@reusable-scraper-workflow
+    permissions:
+      issues: read
+      pull-requests: read
+      contents: write
+    secrets:
+      SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+    with:
+      slack-eod-channel: ${{ vars.SLACK_EOD_CHANNEL }}
