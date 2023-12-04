@@ -1,4 +1,4 @@
-name: Scrap Data
+name: Scrape Data
 
 on:
   schedule:
