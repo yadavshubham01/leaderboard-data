@@ -1459,5 +1459,102 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2023-12-04 00:00:00": [
+        {
+            "client_msg_id": "ef60b658-6b07-4227-be8c-83e7cffd6a8b",
+            "type": "message",
+            "text": "EOD 4/12/23\n\nHow did the day go?\n\u2022 Worked on <https://github.com/coronasafe/care_fe/issues/6773|6773> and made a draft pr: <https://github.com/coronasafe/care_fe/pull/6790|6790> \nWhat's Next?\n\u2022 Fix Errors in <https://github.com/coronasafe/care_fe/pull/6790|6790> ",
+            "user": "U05LU8CNP19",
+            "ts": "1701705368.990209",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BQ/C1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 4/12/23\n\nHow did the day go?\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6773",
+                                            "text": "6773"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and made a draft pr: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6790",
+                                            "text": "6790"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "What's Next?\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fix Errors in "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6790",
+                                            "text": "6790"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

@@ -1,6 +1,104 @@
 {
-  "last_updated": 1701613270.0,
+  "last_updated": 1701696334.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6705",
+      "time": 1701696334.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6705#issuecomment-1838641166",
+      "text": "Hey @thedevildude any updates on this?"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6772",
+      "time": 1701696266.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6772",
+      "text": "Location to be Non-Mandatory for External Assets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6772",
+      "time": 1701696261.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6772#issuecomment-1838639298",
+      "text": "Closing as continued in #6789"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6789",
+      "time": 1701696229.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6789",
+      "text": "Hide \"Asset Type\" (Assets to be always \"Internal\")"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#75",
+      "time": 1701674933.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/75",
+      "text": "fix scraper commit username, email and permissions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1741",
+      "time": 1701671287.0,
+      "link": "https://github.com/coronasafe/care/pull/1741",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1740",
+      "time": 1701669656.0,
+      "link": "https://github.com/coronasafe/care/issues/1740",
+      "text": "Asset serializer: Add serializer method field `resolved_middleware`."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6770",
+      "time": 1701669372.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6770#issuecomment-1837891013",
+      "text": "As discussed,\r\n\r\nSince events module is almost ready, we can support showing both \"events\" and \"daily rounds\".\r\n\r\n- [ ] User should be given an option to whether to see \"daily rounds\" or \"events\".\r\n- [ ] Both needs to be converted to timeline view\r\n- [ ] If events is being shown, it needs to be explicitly shown that \"this is a beta feature, results maybe incorrect\"."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1739",
+      "time": 1701667311.0,
+      "link": "https://github.com/coronasafe/care/issues/1739",
+      "text": "Convert `discharge_reason` to `IntegerField`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#4",
+      "time": 1701665053.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/4",
+      "text": "Use reusable scraper workflow from `coronasafe/leaderboard`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#146",
+      "time": 1701663870.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/146",
+      "text": "Adds reusable scrapper workflow"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6782",
+      "time": 1701662410.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6782#issuecomment-1837802501",
+      "text": "Closing as duplicate"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6782",
+      "time": 1701662410.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6782",
+      "text": "Don't allow adding of linked skills for users in other districts other than Ernakulam"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6633",
+      "time": 1701662392.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6633#issuecomment-1837802272",
+      "text": "Hey @GokulramGHV any updates on this?"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701613270.0,
@@ -28777,9 +28875,35 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/10bedicu/pull/75",
+      "title": "Update workflow to use github actions account to commit changes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1741",
+      "title": "Add `resolved_middleware` JSON field to Asset Serializer.",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/4",
+      "title": "Use reusable scraper workflow from `coronasafe/leaderboard`",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/146",
+      "title": "Adds reusable scrapper workflow",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "need Review"
       ]
@@ -28787,25 +28911,29 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6726",
       "title": "Enhancements to Location Live Feed",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "important",
+        "needs testing",
+        "Major Code Change"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28814,7 +28942,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Backend",
         "changes required",
@@ -28824,7 +28952,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -28832,7 +28960,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "waiting-for-review"
       ]
@@ -28840,7 +28968,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting for back end"
       ]
@@ -28894,10 +29022,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6442",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6396"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1662",
-      "pr_link": "https://github.com/coronasafe/care/pull/1678"
     }
   ]
 }

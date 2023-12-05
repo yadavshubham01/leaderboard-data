@@ -1,6 +1,20 @@
 {
-  "last_updated": 1700970220.0,
+  "last_updated": 1701683038.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6696",
+      "time": 1701683038.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1838177198",
+      "text": "I am continuing to make changes in other files also"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6696",
+      "time": 1701682972.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1838175365",
+      "text": "I have gone through the refrences and put all my effort to make appropiate changes, i hope it will pass."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6696",
@@ -57,7 +71,8 @@
       "title": "Replaced useDispatch with useQuerry on DailyRoundListDetails",
       "stale_for": 0,
       "labels": [
-        "merge conflict"
+        "merge conflict",
+        "stale"
       ]
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701430964.0,
+  "last_updated": 1701687946.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1742",
+      "time": 1701687946.0,
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "text": "Display users list based on user access limitation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6633",
+      "time": 1701663760.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6633#issuecomment-1837817993",
+      "text": "@rithviknishad I've started working on this, I'll make a PR soon"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1735",
@@ -2919,15 +2933,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "title": "Display users list based on user access limitation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": [
         "test failed",
         "waiting for back end"
@@ -2936,13 +2956,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6592",
       "title": "Added location type to location form",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "changes required",
         "waiting for back end",
@@ -2952,7 +2972,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1708",
       "title": "Field to classify location as an ICU or Ward or Other",
-      "stale_for": 17,
+      "stale_for": 20,
       "labels": [
         "reviewed"
       ]
@@ -2960,7 +2980,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "waiting for back end"
@@ -2969,7 +2989,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1692",
       "title": "Prescription: Titrated drug dose",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]

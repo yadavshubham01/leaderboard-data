@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701613358.0,
+  "last_updated": 1701701610.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701701610.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1762637075",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701671558.0,
+      "title": "coronasafe/care#1741",
+      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1761679686",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
     {
       "type": "pr_reviewed",
       "time": 1701613358.0,
@@ -14408,7 +14422,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1738",
       "title": "Allow district admin to delete users",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14416,7 +14430,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -14424,7 +14438,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14432,7 +14446,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1732",
       "title": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -14440,7 +14454,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "changes required"
       ]
@@ -14448,13 +14462,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1665",
       "title": "Ensure Deterministic Ordering of Local Self Government and Ward Data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "POC"
       ]
@@ -14462,7 +14476,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 243,
+      "stale_for": 244,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14471,13 +14485,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 256,
+      "stale_for": 257,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": [
         "blocked"
       ]

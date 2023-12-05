@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701320561.0,
+  "last_updated": 1701698032.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6705",
+      "time": 1701698032.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6705#issuecomment-1838688407",
+      "text": "@rithviknishad I should be able to make a PR by tomorrow for this."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6771",
+      "time": 1701690942.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1838482616",
+      "text": "Hi, can you assign it to me?"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701320561.0,
@@ -250,11 +264,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6596",
       "title": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "tested",
-        "good to merge",
-        "changes required"
+        "good to merge"
       ]
     }
   ],
