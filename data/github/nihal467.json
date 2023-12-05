@@ -100,6 +100,104 @@
       "text": "@AshrafMd-1 Modify the issue's content and heading to make it easily understandable. The issue is related to district admin access-related to linking skills to other users. Re-Structure the content and heading in a more specific manner."
     },
     {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6795",
+      "time": 1701722748.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6795",
+      "text": "New Cypress Test | Facility Triage Functionality | Facility Tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6792",
+      "time": 1701701795.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6792",
+      "text": "Enhance existing Cypress Test | Update existing facility | Facility Tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6788",
+      "time": 1701691820.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6788",
+      "text": "Update cypress badge in README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6788",
+      "time": 1701691697.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6788",
+      "text": "Update cypress badge in README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6785",
+      "time": 1701682528.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6785",
+      "text": "New Cypress Test | Create new Facility in multiple combination | Facility Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6676",
+      "time": 1701670443.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6676#issuecomment-1837906718",
+      "text": "@xakep8 It's a P2 priority issue that needs to be closed within the next 7 days. Could you please provide an update on this PR? If no update is received within 48 hours, the issue will be unassigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1701669903.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1837898662",
+      "text": "@Omkar76 as per issue, the checkbox need to be converted to a button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1701669834.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#issuecomment-1837897557",
+      "text": "- [ ] #6787 \"We need to address an expected bug that, once this PR is merged, so already created a new issue. After that PR is merged, we will proceed to merge this one."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6787",
+      "time": 1701669680.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6787",
+      "text": "Disable Submit button in normal log update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6786",
+      "time": 1701663095.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6786",
+      "text": "Updated login credentials in README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6786",
+      "time": 1701663003.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6786",
+      "text": "Updated login credentials in README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6785",
+      "time": 1701662393.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6785",
+      "text": "New Cypress Test | Create new Facility in multiple combination | Facility Tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6782",
+      "time": 1701662102.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6782#issuecomment-1837799230",
+      "text": "@AshrafMd-1 https://github.com/coronasafe/care_fe/issues/6633 , already a co-related issue is open, "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6782",
+      "time": 1701662038.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6782#issuecomment-1837798532",
+      "text": "@AshrafMd-1 Modify the issue's content and heading to make it easily understandable. The issue is related to district admin access-related to linking skills to other users. Re-Structure the content and heading in a more specific manner."
+    },
+    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6778",
       "time": 1701452112.0,
@@ -29319,20 +29417,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6795",
-      "title": "New Cypress Test | Facility Triage Functionality | Facility Tab",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6792",
-      "title": "Enhance existing Cypress Test | Update existing facility | Facility Tab",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

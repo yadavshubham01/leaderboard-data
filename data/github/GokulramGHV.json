@@ -17,6 +17,20 @@
     },
     {
       "type": "pr_opened",
+      "title": "coronasafe/care#1742",
+      "time": 1701687946.0,
+      "link": "https://github.com/coronasafe/care/pull/1742",
+      "text": "Display users list based on user access limitation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6633",
+      "time": 1701663760.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6633#issuecomment-1837817993",
+      "text": "@rithviknishad I've started working on this, I'll make a PR soon"
+    },
+    {
+      "type": "pr_opened",
       "title": "coronasafe/care#1735",
       "time": 1701430964.0,
       "link": "https://github.com/coronasafe/care/pull/1735",
@@ -2935,13 +2949,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -2956,7 +2970,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -2980,9 +2994,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "changes required",
         "waiting for back end"
       ]
     },

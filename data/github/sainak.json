@@ -24,6 +24,27 @@
     },
     {
       "type": "pr_reviewed",
+      "time": 1701692002.0,
+      "title": "coronasafe/care#1741",
+      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1762262951",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701690954.0,
+      "title": "coronasafe/care#1742",
+      "link": "https://github.com/coronasafe/care/pull/1742#pullrequestreview-1762230265",
+      "text": "Display users list based on user access limitation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701690954.0,
+      "title": "coronasafe/care#1742",
+      "link": "https://github.com/coronasafe/care/pull/1742#pullrequestreview-1762230265",
+      "text": "Display users list based on user access limitation"
+    },
+    {
+      "type": "pr_reviewed",
       "time": 1701602149.0,
       "title": "coronasafe/care#1737",
       "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1761183371",
@@ -7141,13 +7162,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1727",
       "title": "made patient notes consultation specific",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1716",
       "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -7159,7 +7180,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1707",
       "title": "add management command to load skills",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
@@ -7171,13 +7192,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1703",
       "title": "add env vars to configure cors headers",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "blocked",
         "changes required",
@@ -7188,7 +7209,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": [
         "In progress"
       ]
@@ -7196,7 +7217,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 76,
+      "stale_for": 77,
       "labels": []
     },
     {
@@ -7208,7 +7229,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": []
     }
   ],

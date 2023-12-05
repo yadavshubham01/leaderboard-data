@@ -17,6 +17,20 @@
     },
     {
       "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701705078.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1838932344",
+      "text": "I would like to work on it, can you please assign me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6790",
+      "time": 1701698038.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6790",
+      "text": "Fixes Selected location not being shown for some cases in Assets"
+    },
+    {
+      "type": "comment_created",
       "title": "coronasafe/care_fe#6773",
       "time": 1701611095.0,
       "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1837485125",
@@ -569,7 +583,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "hold",
         "tested",
@@ -579,7 +593,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6713",
       "title": "Added a Date/time and round type filter for log updates",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -587,13 +601,13 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6694",
       "title": "Modified the external results sample format",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "tested"
       ]
