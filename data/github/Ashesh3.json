@@ -17,20 +17,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1701701610.0,
-      "title": "coronasafe/care#1728",
-      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1762637075",
-      "text": "Rename `admission_date` to `encounter_date` and clean column"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701671558.0,
-      "title": "coronasafe/care#1741",
-      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1761679686",
-      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
-    },
-    {
-      "type": "pr_reviewed",
       "time": 1701613358.0,
       "title": "coronasafe/care#1737",
       "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1761249931",
@@ -14436,7 +14422,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1738",
       "title": "Allow district admin to delete users",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14444,7 +14430,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -14474,6 +14460,12 @@
       ]
     },
     {
+      "link": "https://github.com/coronasafe/care/pull/1665",
+      "title": "Ensure Deterministic Ordering of Local Self Government and Ward Data",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
       "stale_for": 60,
@@ -14499,7 +14491,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 68,
+      "stale_for": 67,
       "labels": [
         "blocked"
       ]

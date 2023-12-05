@@ -31,34 +31,6 @@
     },
     {
       "type": "pr_reviewed",
-      "time": 1701691812.0,
-      "title": "coronasafe/care_fe#6788",
-      "link": "https://github.com/coronasafe/care_fe/pull/6788#pullrequestreview-1762257785",
-      "text": "Update cypress badge in README.md"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701682520.0,
-      "title": "coronasafe/care_fe#6785",
-      "link": "https://github.com/coronasafe/care_fe/pull/6785#pullrequestreview-1761954860",
-      "text": "New Cypress Test | Create new Facility in multiple combination | Facility Tab"
-    },
-    {
-      "type": "issue_closed",
-      "title": "coronasafe/care_fe#6717",
-      "time": 1701663096.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6717",
-      "text": "Change the Readme User Details"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701663078.0,
-      "title": "coronasafe/care_fe#6786",
-      "link": "https://github.com/coronasafe/care_fe/pull/6786#pullrequestreview-1761560642",
-      "text": "Updated login credentials in README.md"
-    },
-    {
-      "type": "pr_reviewed",
       "time": 1701452219.0,
       "title": "coronasafe/care_fe#6778",
       "link": "https://github.com/coronasafe/care_fe/pull/6778#pullrequestreview-1760290298",
@@ -25821,7 +25793,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "tested",
         "cypress passed",
@@ -25839,19 +25811,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 9,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 361,
+      "stale_for": 360,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 118,
+      "stale_for": 117,
       "labels": [
         "changes required"
       ]

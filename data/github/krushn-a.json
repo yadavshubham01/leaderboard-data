@@ -18,20 +18,6 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6696",
-      "time": 1701683038.0,
-      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1838177198",
-      "text": "I am continuing to make changes in other files also"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#6696",
-      "time": 1701682972.0,
-      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1838175365",
-      "text": "I have gone through the refrences and put all my effort to make appropiate changes, i hope it will pass."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#6696",
       "time": 1700970220.0,
       "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1826480640",
       "text": "![Capture](https://github.com/coronasafe/care_fe/assets/111559776/5db2bd82-1aa7-4d21-9896-b82bd0730d16)\r\n\r\nAs directed i have inlined the useQuery and removed the useState . when i try to fetch the data and get `res.data` an error message shows up `Property 'data' does not exist on type 'Response'` I tried to fix this but couldn't able to do it. Could you please help me with it."
@@ -85,7 +71,8 @@
       "title": "Replaced useDispatch with useQuerry on DailyRoundListDetails",
       "stale_for": 0,
       "labels": [
-        "merge conflict"
+        "merge conflict",
+        "stale"
       ]
     }
   ],

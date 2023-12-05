@@ -10,13 +10,6 @@
     },
     {
       "type": "pr_opened",
-      "title": "coronasafe/care_fe#6793",
-      "time": 1701706822.0,
-      "link": "https://github.com/coronasafe/care_fe/pull/6793",
-      "text": "Disable submit button in round type normal if no value selected"
-    },
-    {
-      "type": "pr_opened",
       "title": "coronasafe/care#1736",
       "time": 1701528458.0,
       "link": "https://github.com/coronasafe/care/pull/1736",
@@ -6683,14 +6676,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1747",
-      "title": "Check if user uploading External results is from same district",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6793",
       "title": "Disable submit button in round type normal if no value selected",
       "stale_for": 0,
@@ -6715,7 +6700,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 5,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -6723,13 +6708,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 46,
+      "stale_for": 45,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 46,
+      "stale_for": 45,
       "labels": [
         "changes required"
       ]
@@ -6737,13 +6722,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1505",
       "title": "Don't allow negative values for Doctor Count for facility",
-      "stale_for": 41,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1157",
       "title": "Restrict Admin from unlinking users from other district",
-      "stale_for": 25,
+      "stale_for": 24,
       "labels": [
         "waiting-for-review"
       ]
