@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701606508.0,
+  "last_updated": 1701778070.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1701778070.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765#issuecomment-1840668497",
+      "text": "I want to work on this issue. Can you assign this to me?"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6783",
@@ -658,7 +665,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6780",
       "title": "Resolve invalid tooltip activation",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -666,7 +673,7 @@
       "title": "Add MEWS Component",
       "stale_for": 0,
       "labels": [
-        "needs testing",
+        "test failed",
         "P2"
       ]
     },
@@ -675,7 +682,7 @@
       "title": "Use relative time for audit log details.",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     }
   ],

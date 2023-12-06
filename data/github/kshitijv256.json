@@ -1,6 +1,23 @@
 {
-  "last_updated": 1701708392.0,
+  "last_updated": 1701762989.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "nihal467",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "khavinshankar",
+        "ayush-seth",
+        "sriharsh05",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6794",
@@ -766,7 +783,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6794",
       "title": "separated bedname and location name",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

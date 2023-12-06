@@ -1,6 +1,68 @@
 {
-  "last_updated": 1701701610.0,
+  "last_updated": 1701805292.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6803",
+      "time": 1701805292.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "text": "Use `resolved_middleware` for Middleware Management and Uptime Checks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6003",
+      "time": 1701798501.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6003#issuecomment-1841312774",
+      "text": "> @sainak any ETD for this PR status, as its been stale with no activity for 3 weeks ?\r\n\r\n^ @sainak \r\n\r\ncc: @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6006",
+      "time": 1701798467.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6006#issuecomment-1841311935",
+      "text": "@sainak are you still working on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701778209.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1764922678",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1665",
+      "time": 1701763959.0,
+      "link": "https://github.com/coronasafe/care/pull/1665",
+      "text": "Ensure Deterministic Ordering of Local Self Government and Ward Data"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad",
+        "kshitijv256",
+        "GokulramGHV",
+        "khavinshankar",
+        "ayush-seth",
+        "sriharsh05",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1745",
+      "time": 1701762988.0,
+      "link": "https://github.com/coronasafe/care/pull/1745",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1701701610.0,
@@ -14422,7 +14484,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1738",
       "title": "Allow district admin to delete users",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -14430,7 +14492,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -14438,7 +14500,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -14446,7 +14508,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1732",
       "title": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -14454,21 +14516,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1665",
-      "title": "Ensure Deterministic Ordering of Local Self Government and Ward Data",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": [
         "POC"
       ]
@@ -14476,7 +14532,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 244,
+      "stale_for": 245,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14485,13 +14541,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 257,
+      "stale_for": 258,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": [
         "blocked"
       ]

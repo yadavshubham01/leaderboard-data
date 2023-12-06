@@ -1,6 +1,30 @@
 {
-  "last_updated": 1701705078.0,
+  "last_updated": 1701794024.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701794024.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1841159215",
+      "text": "@rithviknishad \r\nI have a small question. Instead of adding a reusable function that redirects to a new URL, which I think adds complexity, especially with the proposed step:\r\n\r\n`Add a redirect route care.app/consultation/<consultation_id> that would redirect to the actual URL (/facility/:id/patient/:id/consultation/:id).`\r\n\r\nMy concern is that when an invalid URL is entered, data is already fetched. Then, when redirecting to \"consulation/:id,\" data is loaded again. If we need to perform a redirect, we require both facilityId and patientId. Upon redirecting to \"/facility/:id/patient/:id/consultation/:id,\" the correct URL loads the data again. I consider this approach to be increasing complexity.\r\n\r\nWhat if we modify the URL in place, for example, \"facility/<invalid_id>/patient/<invalid_id>/consultation/<valid_consultation_id>\"? If it's invalid, we can change it in place without any redirect to the correct details.\r\n\r\n\r\nI thinking for a reusable function to do it in place"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "nihal467",
+        "Ashesh3",
+        "rithviknishad",
+        "kshitijv256",
+        "GokulramGHV",
+        "khavinshankar",
+        "ayush-seth",
+        "sriharsh05"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6761",
@@ -569,7 +593,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "hold",
         "tested",
@@ -579,21 +603,21 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6713",
       "title": "Added a Date/time and round type filter for log updates",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6694",
       "title": "Modified the external results sample format",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "tested"
       ]

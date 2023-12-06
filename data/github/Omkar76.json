@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701151306.0,
+  "last_updated": 1701751065.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1701751065.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1839993091",
+      "text": "@nihal467 The suggestion to use button was for when we had made changes to display the values of previous log in this form. Idea was by clicking the button, form would get filled with previous log values.\r\n\r\nAfter you suggested to revert all changes and just add the description of what will happen I have added just that message \"Field values will be copied from previous log update\". The form no longer displays what values are being copied. The copying is going to happen entirely on backend. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6659",
@@ -270,6 +277,15 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6659",
+      "title": "Show fields when copying from previous log",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

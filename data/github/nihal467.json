@@ -1,6 +1,135 @@
 {
-  "last_updated": 1701722748.0,
+  "last_updated": 1701808052.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1701808052.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1841562689",
+      "text": "@AshrafMd-1 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/f2a31423-e3cb-4547-a4f6-283be906721e)\r\n\r\n- [ ] As per the issue, if I file a log update, and MEWS any of the fields are missing, it should specify why the MEWS data is not being calculated\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9fcba02f-0065-46a5-b17a-31c5bcfab196)\r\n\r\n- [ ] The tooltip is clipping out in the normal view\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6759",
+      "time": 1701805891.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6759#issuecomment-1841516490",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/e6a4acbd-eb62-42c2-bbef-d0ac827569fd)\r\n\r\n@Pranshu1902 in the responsive view, when it goes to the second row, move it to the left side and remove the space"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701805183.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1841500480",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c8133764-a3dd-4e1c-804a-effaf88ec82e)\r\n\r\n- [ ] the other camera aren't configured but its still saying loading , so i dont think camera is working filter is working properly\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/24efc4c6-2d4e-42aa-9c7b-b21257f98dfc)\r\n\r\n- [ ] this is only showing the bed name, not the preset name in the dropdown\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/3d2e137a-8f04-4868-b0d8-dd4a3e659a05)\r\n\r\n- [ ] hide camera without patient is malfunctioning as already patient existing bed are been hidden by this filter\r\n\r\nhttps://deploy-preview-6726--care-net.netlify.app/facility/9d2aa814-cc74-4172-bd16-dc80c0a14a80/live-monitoring?location=0c0fa831-6d1d-4f80-8661-3540f7907aed&page=1&limit=9&is_working=true&in_use_by_consultation=\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/ee01e2f9-e780-4e5b-b681-411e1655ee98)\r\n\r\n- [ ] the feed is keep on refreshing every 2 minute\r\n\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6802",
+      "time": 1701792940.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6802",
+      "text": "Test Issue for slack automation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6802",
+      "time": 1701792733.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6802",
+      "text": "Test Issue for slack automation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6801",
+      "time": 1701790748.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6801",
+      "text": "Publish Release Note to slack \"Announcement\" Channel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6677",
+      "time": 1701786494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6677#issuecomment-1840901318",
+      "text": "@xakep8 make the below changes\r\n\r\n- [ ] Modify the user access as state admin and above can only delete a facility\r\n- [ ] Only empty facilities with no patient data should be allowed to be deleted."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701782008.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#issuecomment-1840769619",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6677",
+      "time": 1701781669.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6677#issuecomment-1840760849",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/694767f3-137b-4eef-9b15-565d03330b5a)\r\n\r\nbug: Even as a Palakkad district admin I am not able to delete a facility\r\n\r\nthe following things need to be addressed in the PR :\r\n1. Modify the user access as state admin and above can only delete a facility\r\n2. Only empty facilities with no patient data should be allowed to be deleted.\r\n3. in case, if a facility has patient data, the expected behavior needs to be discussed in the EOD Call ( discussion )\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6661",
+      "time": 1701769618.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6661#issuecomment-1840398722",
+      "text": "@parthksingh1 what is the update on this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6640",
+      "time": 1701769537.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6640#issuecomment-1840396578",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1701767895.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1840344099",
+      "text": "@sriharsh05 fix the cypress failure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6565",
+      "time": 1701767410.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#issuecomment-1840321874",
+      "text": "@GokulramGHV fix the cypress failure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6512",
+      "time": 1701764728.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1840246776",
+      "text": "@aeswibon \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/3d8a426f-7c04-44f2-b00e-91a588339e04)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/8ad17a08-c547-4ad2-890e-1b17b17a0e47)\r\n\r\n- [ ] Replace the delete button and reuse the cross button we use to unlink a user skill \r\n- [ ] Already linked user shouldn't be shown in the dropdown to select again\r\n- [ ] whenever we add or remove user, the entire page is getting reloaded, it should only refresh the pop-up not the entire page"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "Ashesh3",
+        "rithviknishad",
+        "kshitijv256",
+        "GokulramGHV",
+        "khavinshankar",
+        "ayush-seth",
+        "sriharsh05",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6795",
+      "time": 1701756847.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6795",
+      "text": "New Cypress Test | Facility Triage Functionality | Facility Tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6792",
+      "time": 1701756814.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6792",
+      "text": "Enhance existing Cypress Test | Update existing facility | Facility Tab"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6795",
@@ -29319,20 +29448,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6795",
-      "title": "New Cypress Test | Facility Triage Functionality | Facility Tab",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6792",
-      "title": "Enhance existing Cypress Test | Update existing facility | Facility Tab",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

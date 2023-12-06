@@ -1,6 +1,61 @@
 {
-  "last_updated": 1701696334.0,
+  "last_updated": 1701787901.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1701787901.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1840947750",
+      "text": "The PR: https://github.com/coronasafe/care_fe/pull/6719 has 2 changes that are conflicting to this PR.\r\n\r\n1. `admission_date` is renamed to `encounter_date`\r\n2. Label \"Admission Date\" has been white-labelled to encounter specific labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#4",
+      "time": 1701780096.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/4",
+      "text": "Use reusable scraper workflow from `coronasafe/leaderboard`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#146",
+      "time": 1701779769.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/146",
+      "text": "Adds reusable scrapper workflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701778114.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1764919635",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "nihal467",
+        "Ashesh3",
+        "kshitijv256",
+        "GokulramGHV",
+        "khavinshankar",
+        "ayush-seth",
+        "sriharsh05",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1745",
+      "time": 1701762988.0,
+      "link": "https://github.com/coronasafe/care/pull/1745",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
@@ -28877,33 +28932,21 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1741",
       "title": "Add `resolved_middleware` JSON field to Asset Serializer.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/4",
-      "title": "Use reusable scraper workflow from `coronasafe/leaderboard`",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/146",
-      "title": "Adds reusable scrapper workflow",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "need Review"
       ]
@@ -28911,13 +28954,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     },
     {
@@ -28926,14 +28969,14 @@
       "stale_for": 0,
       "labels": [
         "important",
-        "needs testing",
+        "test failed",
         "Major Code Change"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28942,11 +28985,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "Backend",
-        "changes required",
-        "merge conflict"
+        "needs testing",
+        "Backend"
       ]
     },
     {
@@ -28960,7 +29002,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "waiting-for-review"
       ]
@@ -28968,7 +29010,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting for back end"
       ]

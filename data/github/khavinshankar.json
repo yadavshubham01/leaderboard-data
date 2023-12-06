@@ -1,6 +1,37 @@
 {
-  "last_updated": 1701691812.0,
+  "last_updated": 1701762989.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6796",
+      "time": 1701762989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6796",
+      "text": "Production Release | Dec Week 1",
+      "collaborated_with": [
+        "nihal467",
+        "Ashesh3",
+        "rithviknishad",
+        "kshitijv256",
+        "GokulramGHV",
+        "ayush-seth",
+        "sriharsh05",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701756839.0,
+      "title": "coronasafe/care_fe#6795",
+      "link": "https://github.com/coronasafe/care_fe/pull/6795#pullrequestreview-1764035139",
+      "text": "New Cypress Test | Facility Triage Functionality | Facility Tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701756806.0,
+      "title": "coronasafe/care_fe#6792",
+      "link": "https://github.com/coronasafe/care_fe/pull/6792#pullrequestreview-1764034667",
+      "text": "Enhance existing Cypress Test | Update existing facility | Facility Tab"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701691812.0,
@@ -25793,7 +25824,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "cypress passed",
@@ -25803,7 +25834,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": [
         "waiting-for-review"
       ]
@@ -25811,19 +25842,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 360,
+      "stale_for": 361,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 117,
+      "stale_for": 118,
       "labels": [
         "changes required"
       ]
@@ -25831,25 +25862,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 717,
+      "stale_for": 718,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 723,
+      "stale_for": 724,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 724,
+      "stale_for": 725,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 919,
+      "stale_for": 920,
       "labels": []
     }
   ],
