@@ -1,6 +1,24 @@
 {
-  "last_updated": 1701698032.0,
+  "last_updated": 1701849438.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701849438.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701849438.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6705",
@@ -260,18 +278,12 @@
       "text": "Added infinite scrolling for chat history #25"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6596",
-      "title": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
-      "stale_for": 3,
-      "labels": [
-        "tested",
-        "good to merge"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6305",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6405"

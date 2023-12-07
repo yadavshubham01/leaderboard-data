@@ -1,6 +1,38 @@
 {
-  "last_updated": 1701794024.0,
+  "last_updated": 1701887335.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701887335.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1843451345",
+      "text": "@rithviknishad "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701849346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701849346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "text": "Added a Date/time and round type filter for log updates",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6694",
+      "time": 1701834684.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6694",
+      "text": "Modified the external results sample format"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6761",
@@ -587,13 +619,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6790",
       "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "hold",
         "tested",
@@ -601,26 +633,10 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6713",
-      "title": "Added a Date/time and round type filter for log updates",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6694",
-      "title": "Modified the external results sample format",
-      "stale_for": 3,
-      "labels": [
-        "tested"
-      ]
     }
   ],
   "authored_issue_and_pr": []

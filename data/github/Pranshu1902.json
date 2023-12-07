@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701771222.0,
+  "last_updated": 1701872360.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1701872360.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1842979341",
+      "text": "@Arzzam you can start working on it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1701872324.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1842978389",
+      "text": "- Adjust the height of the shifting component so that the main page scrollbar on the right isn't needed. (Basically when we scroll the filters and heading on top should not go out of screen)\r\n- Add arrows on the left and right side of the component (vertically in the center) for scrolling left and right since the horizontal scrollbar isn't easily visible (Something like this as shown below)\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/c1405b96-4b1b-48af-a70d-2e5da5dd3363)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701863054.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1767348270",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6759",
+      "time": 1701858918.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6759#issuecomment-1842610086",
+      "text": "@nihal467 Removed left margin\r\nUpdated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/4f2795ea-0fb4-4729-aa48-ae1a9c130a85)\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1747",
@@ -6693,21 +6721,23 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6793",
       "title": "Disable submit button in round type normal if no value selected",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "work-in-progress"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1736",
       "title": "show icu admission date in discharge summary pdf",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -6718,19 +6748,19 @@
       "title": "fix responsiveness on patients page",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "changes required"
       ]
@@ -6738,13 +6768,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1505",
       "title": "Don't allow negative values for Doctor Count for facility",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1157",
       "title": "Restrict Admin from unlinking users from other district",
-      "stale_for": 25,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

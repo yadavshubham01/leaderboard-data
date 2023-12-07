@@ -1,6 +1,97 @@
 {
-  "last_updated": 1701762989.0,
+  "last_updated": 1701871598.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701871598.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1766933009",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701871598.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1766933009",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6652",
+      "time": 1701849440.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6652",
+      "text": "Multiple Same API Calls are been called in linked skills section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6530",
+      "time": 1701849439.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6530",
+      "text": "Replace useDispatch w. useQuery/request: Users (src/Components/Users/**)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701849427.0,
+      "title": "coronasafe/care_fe#6596",
+      "link": "https://github.com/coronasafe/care_fe/pull/6596#pullrequestreview-1766894137",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6638",
+      "time": 1701849398.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6638",
+      "text": "Use relative time / RecordMeta component for audit log details in shift details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701849369.0,
+      "title": "coronasafe/care_fe#6640",
+      "link": "https://github.com/coronasafe/care_fe/pull/6640#pullrequestreview-1766892270",
+      "text": "Use relative time for audit log details."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6690",
+      "time": 1701849347.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6690",
+      "text": "Adding a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701849324.0,
+      "title": "coronasafe/care_fe#6713",
+      "link": "https://github.com/coronasafe/care_fe/pull/6713#pullrequestreview-1766890832",
+      "text": "Added a Date/time and round type filter for log updates"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6767",
+      "time": 1701849278.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6767",
+      "text": "Bed Name and Location Name not distinguishable in Bed Select"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701849269.0,
+      "title": "coronasafe/care_fe#6794",
+      "link": "https://github.com/coronasafe/care_fe/pull/6794#pullrequestreview-1766889213",
+      "text": "separated bedname and location name"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6649",
+      "time": 1701834685.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6649",
+      "text": "Modify the existing external results sample format as it is not working"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701834670.0,
+      "title": "coronasafe/care_fe#6694",
+      "link": "https://github.com/coronasafe/care_fe/pull/6694#pullrequestreview-1766583129",
+      "text": "Modified the external results sample format"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6796",
@@ -25824,17 +25915,26 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6695",
       "title": "add support to cache filter options",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "tested",
+        "merge conflict",
         "cypress passed",
         "reviewed"
       ]
     },
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6487",
+      "title": "Abdm M3",
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 68,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -25842,19 +25942,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 361,
+      "stale_for": 362,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": [
         "changes required"
       ]
@@ -25862,25 +25962,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 718,
+      "stale_for": 719,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 724,
+      "stale_for": 725,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 725,
+      "stale_for": 726,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 920,
+      "stale_for": 921,
       "labels": []
     }
   ],

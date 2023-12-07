@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701778070.0,
+  "last_updated": 1701849397.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6640",
+      "time": 1701849397.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6640",
+      "text": "Use relative time for audit log details."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1701840569.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1842113469",
+      "text": "> As per the issue, if I file a log update, and any fields required for MEWS are missing, it should specify why the MEWS data is unavailable\r\n\r\n@nihal467 gigin mentioned that all five conditions must be present for mews update. But one of the conditions is consciousness which is only available in critical care so I made a condition where only if the recent log update is critical care then only the mews component is shown "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6765",
@@ -665,8 +679,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6780",
       "title": "Resolve invalid tooltip activation",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6760",
@@ -674,15 +690,8 @@
       "stale_for": 0,
       "labels": [
         "test failed",
-        "P2"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6640",
-      "title": "Use relative time for audit log details.",
-      "stale_for": 0,
-      "labels": [
-        "tested"
+        "P2",
+        "merge conflict"
       ]
     }
   ],

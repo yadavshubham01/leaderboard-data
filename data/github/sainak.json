@@ -1,6 +1,104 @@
 {
-  "last_updated": 1701692002.0,
+  "last_updated": 1701867770.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701867770.0,
+      "title": "coronasafe/care#1710",
+      "link": "https://github.com/coronasafe/care/pull/1710#pullrequestreview-1767500619",
+      "text": "offload migrations to beat service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701865507.0,
+      "title": "coronasafe/care#1157",
+      "link": "https://github.com/coronasafe/care/pull/1157#pullrequestreview-1767415857",
+      "text": "Restrict Admin from unlinking users from other district"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701865121.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1767375099",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701865121.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1767375099",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1735",
+      "time": 1701863675.0,
+      "link": "https://github.com/coronasafe/care/pull/1735#issuecomment-1842724699",
+      "text": "@nihal467 @GokulramGHV can you verify if this is not affecting other district fields?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701863415.0,
+      "title": "coronasafe/care#1736",
+      "link": "https://github.com/coronasafe/care/pull/1736#pullrequestreview-1767357710",
+      "text": "show icu admission date in discharge summary pdf"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701863223.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1767352847",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701863128.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1767350226",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701862488.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1767332044",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701862487.0,
+      "title": "coronasafe/care#1747",
+      "link": "https://github.com/coronasafe/care/pull/1747#pullrequestreview-1767332044",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701858268.0,
+      "title": "coronasafe/care#1748",
+      "link": "https://github.com/coronasafe/care/pull/1748#pullrequestreview-1767204410",
+      "text": "Add More Facilities and patients to dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1748",
+      "time": 1701856254.0,
+      "link": "https://github.com/coronasafe/care/pull/1748#issuecomment-1842540968",
+      "text": "<img width=\"309\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/46787056/086befba-35bb-48d0-ad83-f386784147a8\">\r\n\r\n\ud83d\ude05 i thought its deleted"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1748",
+      "time": 1701856125.0,
+      "link": "https://github.com/coronasafe/care/pull/1748#issuecomment-1842536902",
+      "text": "> Hey, I am not deleting any files \ud83d\ude05 Just added more facilities and patients to the existing dummy data. I think the change size `+1 \u22123,128` might have been confusing since the new data is all in a single line. This is to discourage someone manually working with the json file directly.\r\n\r\nOh so that's why the title \ud83d\ude05,\r\nformatting the json gave more clarity,\r\n\r\ncan you regenerate the fixtures by excluding, `facility.historicalpatientregistration` and `facility.historicalfacilitycapacity` they are not required and half of the file size\r\nand the `facility_users.json` seems redundant, so both the command and file can be removed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701854705.0,
+      "title": "coronasafe/care#1748",
+      "link": "https://github.com/coronasafe/care/pull/1748#pullrequestreview-1767079114",
+      "text": "Add More Facilities and patients to dummy data"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701692002.0,
@@ -7142,42 +7240,44 @@
       "link": "https://github.com/coronasafe/care/pull/1727",
       "title": "made patient notes consultation specific",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "waiting-for-review"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1716",
       "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 14,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1710",
       "title": "offload migrations to beat service",
-      "stale_for": 13,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1707",
       "title": "add management command to load skills",
-      "stale_for": 18,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1705",
       "title": "pin dependencies in pipenv",
-      "stale_for": 26,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1703",
       "title": "add env vars to configure cors headers",
-      "stale_for": 25,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": [
         "blocked",
         "changes required",
@@ -7188,7 +7288,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 83,
+      "stale_for": 85,
       "labels": [
         "In progress"
       ]
@@ -7196,19 +7296,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 76,
+      "stale_for": 78,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 137,
+      "stale_for": 139,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 62,
+      "stale_for": 64,
       "labels": []
     }
   ],

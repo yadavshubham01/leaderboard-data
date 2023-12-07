@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701084241.0,
+  "last_updated": 1701875002.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6804",
+      "time": 1701875002.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6804",
+      "text": "Redirection: when deleting asset, user is taken to universal asset page instead of facility asset page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6517",

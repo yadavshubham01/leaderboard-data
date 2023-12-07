@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701762989.0,
+  "last_updated": 1701849277.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6794",
+      "time": 1701849277.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6794",
+      "text": "separated bedname and location name"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6796",
@@ -779,13 +786,6 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6794",
-      "title": "separated bedname and location name",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

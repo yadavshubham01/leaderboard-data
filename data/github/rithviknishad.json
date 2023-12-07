@@ -1,6 +1,98 @@
 {
-  "last_updated": 1701787901.0,
+  "last_updated": 1701867900.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701867900.0,
+      "title": "coronasafe/care#1710",
+      "link": "https://github.com/coronasafe/care/pull/1710#pullrequestreview-1767504385",
+      "text": "offload migrations to beat service"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701867805.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1842839243",
+      "text": "@nihal467 the filters in question have been hidden for now. Let's ship this feature out and add the filters in another PR.\r\n\r\nOther issues have been fixed."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701867097.0,
+      "title": "coronasafe/care#1157",
+      "link": "https://github.com/coronasafe/care/pull/1157#pullrequestreview-1767473145",
+      "text": "Restrict Admin from unlinking users from other district"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701866959.0,
+      "title": "coronasafe/care#1705",
+      "link": "https://github.com/coronasafe/care/pull/1705#pullrequestreview-1767466782",
+      "text": "pin dependencies in pipenv"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701853365.0,
+      "title": "coronasafe/care#1748",
+      "link": "https://github.com/coronasafe/care/pull/1748#pullrequestreview-1767030381",
+      "text": "Add More Facilities and patients to dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701850928.0,
+      "title": "coronasafe/care_fe#6784",
+      "link": "https://github.com/coronasafe/care_fe/pull/6784#pullrequestreview-1766952780",
+      "text": "Modified Administer medicine card to make it responsive"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701850903.0,
+      "title": "coronasafe/care_fe#6784",
+      "link": "https://github.com/coronasafe/care_fe/pull/6784#pullrequestreview-1766952780",
+      "text": "Modified Administer medicine card to make it responsive"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701849438.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
+      "collaborated_with": [
+        "nihal467",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701849346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "text": "Added a Date/time and round type filter for log updates",
+      "collaborated_with": [
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701837071.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1842067766",
+      "text": "@nihal467 the is working filter is not whether about whether it is offline or host unreachable. It is about the asset update the working/non working select in the asset form."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1701836849.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1842065006",
+      "text": "What's the command you've used to compose this up? (Refer: https://github.com/coronasafe/care?tab=readme-ov-file#compose)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6684",
+      "time": 1701836751.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6684#issuecomment-1842063706",
+      "text": "Hey @ayush-seth any updates on this?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6779",
@@ -28932,13 +29024,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1741",
       "title": "Add `resolved_middleware` JSON field to Asset Serializer.",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -28946,7 +29038,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "need Review"
       ]
@@ -28954,13 +29046,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6734",
       "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -28969,14 +29061,14 @@
       "stale_for": 0,
       "labels": [
         "important",
-        "test failed",
+        "tested",
         "Major Code Change"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "good to merge",
         "reviewed"
@@ -28987,8 +29079,9 @@
       "title": "Rename \"Admission Date\" to encounter specific labels",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "Backend"
+        "Backend",
+        "tested",
+        "waiting for back end"
       ]
     },
     {
@@ -28996,13 +29089,14 @@
       "title": "Rename `admission_date` to `encounter_date` and clean column",
       "stale_for": 0,
       "labels": [
-        "waiting-for-review"
+        "waiting-for-review",
+        "P2"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 21,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -29010,9 +29104,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 9,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "waiting for back end",
+        "merge conflict"
       ]
     }
   ],

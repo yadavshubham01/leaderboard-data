@@ -1,6 +1,62 @@
 {
-  "last_updated": 1701805292.0,
+  "last_updated": 1701878493.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1701878493.0,
+      "title": "coronasafe/care#1707",
+      "link": "https://github.com/coronasafe/care/pull/1707#pullrequestreview-1767995108",
+      "text": "add management command to load skills"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701867511.0,
+      "title": "coronasafe/care#1716",
+      "link": "https://github.com/coronasafe/care/pull/1716#pullrequestreview-1767492108",
+      "text": "add DenominationValidator to validate dosage fields in Prescription model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701867323.0,
+      "title": "coronasafe/care#1710",
+      "link": "https://github.com/coronasafe/care/pull/1710#pullrequestreview-1767483921",
+      "text": "offload migrations to beat service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701867320.0,
+      "title": "coronasafe/care#1710",
+      "link": "https://github.com/coronasafe/care/pull/1710#pullrequestreview-1767483733",
+      "text": "offload migrations to beat service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701866910.0,
+      "title": "coronasafe/care#1705",
+      "link": "https://github.com/coronasafe/care/pull/1705#pullrequestreview-1767464366",
+      "text": "pin dependencies in pipenv"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1748",
+      "time": 1701857951.0,
+      "link": "https://github.com/coronasafe/care/pull/1748#issuecomment-1842585809",
+      "text": "Yep, done!\r\n\r\n> > Hey, I am not deleting any files \ud83d\ude05 Just added more facilities and patients to the existing dummy data. I think the change size `+1 \u22123,128` might have been confusing since the new data is all in a single line. This is to discourage someone manually working with the json file directly.\r\n> \r\n> Oh so that's why the title \ud83d\ude05, formatting the json gave more clarity,\r\n> \r\n> can you regenerate the fixtures by excluding, `facility.historicalpatientregistration` and `facility.historicalfacilitycapacity` they are not required and take half of the file size and the `facility_users.json` seems redundant, so both the command and file can be removed\r\n\r\nyep, done!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1748",
+      "time": 1701855029.0,
+      "link": "https://github.com/coronasafe/care/pull/1748#issuecomment-1842507937",
+      "text": "> Deleting this will throw an error in\r\n> \r\n> https://github.com/coronasafe/care/blob/033d0855cdb4a602327e1f4f19808a8d706db4ed/care/facility/management/commands/load_dummy_data.py#L29-L31\r\n> \r\n> as the first file is missing, the other two will fail due to constraint error.\r\n> \r\n> These files are useful for setting up the backend for initial testing, so we should keep these instead and only run\r\n> \r\n> https://github.com/coronasafe/care/blob/033d0855cdb4a602327e1f4f19808a8d706db4ed/care/facility/management/commands/load_dummy_data.py#L25-L28\r\n> \r\n> \r\n> for cypress\r\n\r\nHey, I am not deleting any files \ud83d\ude05 Just added more facilities and patients to the existing dummy data. I think the change size `+1 \u22123,128` might have been confusing since the new data is all in a single line.\r\n\r\n![image](https://github.com/coronasafe/care/assets/3626859/81bb0110-176e-4313-9a2e-c0a41b20195f)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1748",
+      "time": 1701852920.0,
+      "link": "https://github.com/coronasafe/care/pull/1748",
+      "text": "Add More Facilities and patients to dummy data"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6803",
@@ -14482,9 +14538,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1748",
+      "title": "Add More Facilities and patients to dummy data",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review",
+        "P2"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1738",
       "title": "Allow district admin to delete users",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -14492,7 +14557,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]
@@ -14500,7 +14565,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -14508,7 +14573,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1732",
       "title": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -14516,7 +14581,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "changes required"
       ]
@@ -14524,7 +14589,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "POC"
       ]
@@ -14532,7 +14597,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 245,
+      "stale_for": 246,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14541,13 +14606,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 258,
+      "stale_for": 259,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": [
         "blocked"
       ]

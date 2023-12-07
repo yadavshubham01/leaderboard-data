@@ -1,6 +1,105 @@
 {
-  "last_updated": 1701808052.0,
+  "last_updated": 1701886383.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701886383.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1843422565",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701883741.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1843346080",
+      "text": "@rithviknishad fix the above issue and all other things seem perfect"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6726",
+      "time": 1701883386.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6726#issuecomment-1843335220",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/92421eee-73d4-45e4-8e86-4d9cf7037b7c)\r\n\r\nthe buttons are not clickable \"configuration\" and retry"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6759",
+      "time": 1701881856.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6759#issuecomment-1843292013",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1728",
+      "time": 1701866026.0,
+      "link": "https://github.com/coronasafe/care/pull/1728#issuecomment-1842776715",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6719",
+      "time": 1701864354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6719#issuecomment-1842739985",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/b3cbe6b6-a313-45b7-a8ad-62453c1883e2)\r\n\r\n- [ ] the existing data, in admission time is getting replaced with current data and time, once the migration was complete"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1701855010.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1842507481",
+      "text": "@Omkar76 \r\n\r\n- [ ] Replace the checkbox with a button\r\n- [ ] When someone clicks on the button, show the same message you are showing now. \"Field values are copied from previous log update\""
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1701853309.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1842463893",
+      "text": "@AshrafMd-1 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/742e762d-d60c-4375-875c-d6ff8018fb41)\r\n\r\n- [ ] I haven't inputted any data, still, it is not the temperature in the missing tooltip\r\n- [ ] fix the tooltip clipping issue as well in the mobile view"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6791",
+      "time": 1701850257.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#issuecomment-1842376028",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6793",
+      "time": 1701849797.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#issuecomment-1842358340",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/3a18b07a-30d2-43c4-9dc9-6f9996646afb)\r\n\r\nthe above patient have previous record, i haven't copied any record, i didn't filled any fields from physical examination info till rhythm description, still the save button is active, \r\n\r\nit is expected to be disabled if no data was entered in any of the fields"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6596",
+      "time": 1701849438.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6596",
+      "text": "Replaced useDispatch w. useQuery/request: Users (src/Components/Users/**) [5 out of 5 components]",
+      "collaborated_with": [
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6713",
+      "time": 1701849346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6713",
+      "text": "Added a Date/time and round type filter for log updates",
+      "collaborated_with": [
+        "konavivekramakrishna",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6794",
+      "time": 1701847894.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6794#issuecomment-1842251074",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6760",
