@@ -80,83 +80,6 @@
     },
     {
       "type": "pr_merged",
-      "title": "coronasafe/care#1748",
-      "time": 1701972305.0,
-      "link": "https://github.com/coronasafe/care/pull/1748",
-      "text": "Add More Facilities and patients to dummy data"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#1732",
-      "time": 1701972269.0,
-      "link": "https://github.com/coronasafe/care/pull/1732",
-      "text": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#1738",
-      "time": 1701971156.0,
-      "link": "https://github.com/coronasafe/care/pull/1738",
-      "text": "Allow district admin to delete users"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/care#1750",
-      "time": 1701970719.0,
-      "link": "https://github.com/coronasafe/care/pull/1750",
-      "text": "Refactor asset status check logic"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701966676.0,
-      "title": "coronasafe/care#1749",
-      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1770581915",
-      "text": "Refactor Discharge Reason to Integer Format"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701966585.0,
-      "title": "coronasafe/care#1741",
-      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1770579041",
-      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#1750",
-      "time": 1701965542.0,
-      "link": "https://github.com/coronasafe/care/pull/1750",
-      "text": "Refactor asset status check logic"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701948244.0,
-      "title": "coronasafe/care#1749",
-      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769939252",
-      "text": "Refactor Discharge Reason to Integer Format"
-    },
-    {
-      "type": "pr_merged",
-      "title": "coronasafe/ayushma_fe#150",
-      "time": 1701947989.0,
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/150",
-      "text": "Fix issue with setting chat ID"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": 1701947883.0,
-      "title": "coronasafe/care#1749",
-      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769927135",
-      "text": "Refactor Discharge Reason to Integer Format"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/ayushma_fe#150",
-      "time": 1701947598.0,
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/150",
-      "text": "Fix issue with setting chat ID"
-    },
-    {
-      "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#149",
       "time": 1701944362.0,
       "link": "https://github.com/coronasafe/ayushma_fe/pull/149",
@@ -14745,9 +14668,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": [
-        "needs testing"
+        "waiting for back end"
       ]
     },
     {

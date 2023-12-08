@@ -13,16 +13,6 @@
     },
     {
       "type": "pr_collaborated",
-      "title": "coronasafe/care#1727",
-      "time": 1701972591.0,
-      "link": "https://github.com/coronasafe/care/pull/1727",
-      "text": "made patient notes consultation specific",
-      "collaborated_with": [
-        "sainak"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6739",
       "time": 1701145507.0,
       "link": "https://github.com/coronasafe/care_fe/pull/6739",
