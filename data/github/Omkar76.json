@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701751065.0,
+  "last_updated": 1701938652.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6806",
+      "time": 1701938652.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6806",
+      "text": "Allow occupancy indicator to resize when default font size changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6805",
+      "time": 1701935552.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6805#issuecomment-1844837174",
+      "text": "I have a fix for this. \r\n@rithviknishad can you please assign this to me so I can send PR. Thanks."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6805",
+      "time": 1701935419.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "text": "occupancy indicator in facility card does not resize itself when font size is changed in browser"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6659",
@@ -279,11 +300,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6806",
+      "title": "Allow occupancy indicator to resize when default font size changes.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     }
   ],

@@ -1,6 +1,118 @@
 {
-  "last_updated": 1701878493.0,
+  "last_updated": 1701972305.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1748",
+      "time": 1701972305.0,
+      "link": "https://github.com/coronasafe/care/pull/1748",
+      "text": "Add More Facilities and patients to dummy data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1732",
+      "time": 1701972269.0,
+      "link": "https://github.com/coronasafe/care/pull/1732",
+      "text": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1738",
+      "time": 1701971156.0,
+      "link": "https://github.com/coronasafe/care/pull/1738",
+      "text": "Allow district admin to delete users"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1750",
+      "time": 1701970719.0,
+      "link": "https://github.com/coronasafe/care/pull/1750",
+      "text": "Refactor asset status check logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701966676.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1770581915",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701966585.0,
+      "title": "coronasafe/care#1741",
+      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1770579041",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1750",
+      "time": 1701965542.0,
+      "link": "https://github.com/coronasafe/care/pull/1750",
+      "text": "Refactor asset status check logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701948244.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769939252",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#150",
+      "time": 1701947989.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/150",
+      "text": "Fix issue with setting chat ID"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701947883.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769927135",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#150",
+      "time": 1701947598.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/150",
+      "text": "Fix issue with setting chat ID"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#149",
+      "time": 1701944362.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/149",
+      "text": "Make pages responsive on mobile screens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1749",
+      "time": 1701941692.0,
+      "link": "https://github.com/coronasafe/care/pull/1749",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1701941682.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "text": "Refactor discharge_reason data type to Integer"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6755",
+      "time": 1701936914.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6755#issuecomment-1844865479",
+      "text": "> @Ashesh3 ![image](https://private-user-images.githubusercontent.com/57055998/286719778-5929f512-57c7-4be1-9686-bf3636d17879.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5MzAyMzUsIm5iZiI6MTcwMTkyOTkzNSwicGF0aCI6Ii81NzA1NTk5OC8yODY3MTk3NzgtNTkyOWY1MTItNTdjNy00YmUxLTk2ODYtYmYzNjM2ZDE3ODc5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDA2MTg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmNjkxNzkyZTdiNjc5N2ZjN2IzNmJmNzVjYjEwM2I0YWJhZDU0YzcxZjYwZmE1ZDBlNjRmODVmMGE1YTI5MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.G73DLWeGw0jIaqPSd5Y7xhYAZ0M2BfZY4TL5-kCYt90)\r\n> \r\n> [deploy-preview-6755--care-net.netlify.app/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/update](https://deploy-preview-6755--care-net.netlify.app/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/update)\r\n> \r\n> can you check this issue as well\r\n\r\nResolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6755",
+      "time": 1701936888.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6755#issuecomment-1844864975",
+      "text": "> p/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/update\r\n\r\nResolved"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701878493.0,
@@ -14538,26 +14650,25 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1748",
-      "title": "Add More Facilities and patients to dummy data",
+      "link": "https://github.com/coronasafe/care/pull/1749",
+      "title": "Refactor Discharge Reason to Integer Format",
       "stale_for": 0,
-      "labels": [
-        "waiting-for-review",
-        "P2"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1738",
-      "title": "Allow district admin to delete users",
-      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
     },
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "title": "Refactor discharge_reason data type to Integer",
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end"
       ]
@@ -14565,15 +14676,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 3,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1732",
-      "title": "Resolved Display Issues for Oxygen Cylinder Capacity in Facility Exports",
-      "stale_for": 7,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
@@ -14581,15 +14684,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": [
         "POC"
       ]
@@ -14597,7 +14700,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 246,
+      "stale_for": 247,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14606,13 +14709,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 259,
+      "stale_for": 260,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": [
         "blocked"
       ]

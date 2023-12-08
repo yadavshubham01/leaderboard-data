@@ -1,6 +1,112 @@
 {
-  "last_updated": 1701872360.0,
+  "last_updated": 1701974561.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1505",
+      "time": 1701974561.0,
+      "link": "https://github.com/coronasafe/care/pull/1505",
+      "text": "Don't allow negative values for Doctor Count for facility"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1505",
+      "time": 1701974561.0,
+      "link": "https://github.com/coronasafe/care/pull/1505",
+      "text": "Don't allow negative values for Doctor Count for facility",
+      "collaborated_with": [
+        "rithviknishad",
+        "vigneshhari",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1157",
+      "time": 1701974141.0,
+      "link": "https://github.com/coronasafe/care/pull/1157",
+      "text": "Restrict Admin from unlinking users from other district"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1157",
+      "time": 1701974141.0,
+      "link": "https://github.com/coronasafe/care/pull/1157",
+      "text": "Restrict Admin from unlinking users from other district",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1747",
+      "time": 1701972107.0,
+      "link": "https://github.com/coronasafe/care/pull/1747",
+      "text": "Check if user uploading External results is from same district"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1736",
+      "time": 1701971192.0,
+      "link": "https://github.com/coronasafe/care/pull/1736",
+      "text": "show icu admission date in discharge summary pdf"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701965954.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845639802",
+      "text": "Updated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/e5b613aa-7631-482d-b7d5-cc57696020d9)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965806.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770553326",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701965587.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845629878",
+      "text": "How do I add the user icon? The Timeline component is automatically taking the firstname and lastname to display"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701965494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845627421",
+      "text": "@rithviknishad should we add some padding?\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/9a6f3a94-985d-421f-b6aa-2e400ce5142c)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701963744.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845577532",
+      "text": "@rithviknishad @khavinshankar @nihal467 @gigincg any recommendations on the designs?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701963704.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6804",
+      "time": 1701946360.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6804#issuecomment-1845121929",
+      "text": "@aparnacoronasafe not able to re-create the issue\r\n\r\n[Screencast from 2023-12-07 16-20-34.webm](https://github.com/coronasafe/care_fe/assets/70687348/7f6d467a-33c4-4bd8-a4d2-b6c26b3523de)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6793",
+      "time": 1701945588.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#issuecomment-1845103157",
+      "text": "@nihal467 Bug resolved\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/0dd92bf2-5e72-4e5d-92f8-b20ddb99dfba)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",
@@ -6711,11 +6817,11 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1747",
-      "title": "Check if user uploading External results is from same district",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "title": " Timeline style view for Daily Rounds",
       "stale_for": 0,
       "labels": [
-        "waiting-for-review"
+        "needs testing"
       ]
     },
     {
@@ -6723,21 +6829,13 @@
       "title": "Disable submit button in round type normal if no value selected",
       "stale_for": 0,
       "labels": [
-        "work-in-progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1736",
-      "title": "show icu admission date in discharge summary pdf",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -6746,7 +6844,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -6754,29 +6852,15 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1505",
-      "title": "Don't allow negative values for Doctor Count for facility",
-      "stale_for": 42,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1157",
-      "title": "Restrict Admin from unlinking users from other district",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review"
       ]
     }
   ],

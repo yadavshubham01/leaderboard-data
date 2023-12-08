@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701849397.0,
+  "last_updated": 1701966694.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1701966694.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765#issuecomment-1845660126",
+      "text": "like this happens for all components when the loading screen is present or the data is small it suddenly changes the scroll position as the page height becomes small"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1701966535.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765#issuecomment-1845655713",
+      "text": "@rithviknishad for some reason this happens like randomly\r\nsometimes it happens and sometimes it doesn't \r\nI feel like this is due to the fact that before loading of data there is empty space due to which the whole page height becomes small making it to scroll top"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6640",
@@ -680,9 +694,7 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6780",
       "title": "Resolve invalid tooltip activation",
       "stale_for": 0,
-      "labels": [
-        "merge conflict"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6760",
@@ -690,8 +702,7 @@
       "stale_for": 0,
       "labels": [
         "test failed",
-        "P2",
-        "merge conflict"
+        "P2"
       ]
     }
   ],

@@ -1,6 +1,230 @@
 {
-  "last_updated": 1701867770.0,
+  "last_updated": 1701980029.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1686",
+      "time": 1701980029.0,
+      "link": "https://github.com/coronasafe/care/pull/1686#issuecomment-1846042725",
+      "text": "@dependabot rebase\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1752",
+      "time": 1701979840.0,
+      "link": "https://github.com/coronasafe/care/pull/1752",
+      "text": "merge migrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1752",
+      "time": 1701977195.0,
+      "link": "https://github.com/coronasafe/care/pull/1752",
+      "text": "merge migrations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1751",
+      "time": 1701976588.0,
+      "link": "https://github.com/coronasafe/care/pull/1751",
+      "text": "merge migrations"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1751",
+      "time": 1701976588.0,
+      "link": "https://github.com/coronasafe/care/pull/1751",
+      "text": "merge migrations",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1751",
+      "time": 1701974863.0,
+      "link": "https://github.com/coronasafe/care/pull/1751",
+      "text": "merge migrations"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1505",
+      "time": 1701974561.0,
+      "link": "https://github.com/coronasafe/care/pull/1505",
+      "text": "Don't allow negative values for Doctor Count for facility",
+      "collaborated_with": [
+        "rithviknishad",
+        "vigneshhari",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1157",
+      "time": 1701974141.0,
+      "link": "https://github.com/coronasafe/care/pull/1157",
+      "text": "Restrict Admin from unlinking users from other district",
+      "collaborated_with": [
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1677",
+      "time": 1701973567.0,
+      "link": "https://github.com/coronasafe/care/pull/1677#issuecomment-1845890176",
+      "text": "@vigneshhari bumping it due to security issues; [no breaking changes introduced](https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1677",
+      "time": 1701972894.0,
+      "link": "https://github.com/coronasafe/care/pull/1677#issuecomment-1845874482",
+      "text": "@dependabot rebase\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1677",
+      "time": 1701972858.0,
+      "link": "https://github.com/coronasafe/care/pull/1677#issuecomment-1845873614",
+      "text": "@dependabot reopen\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1677",
+      "time": 1701972798.0,
+      "link": "https://github.com/coronasafe/care/pull/1677#issuecomment-1845872330",
+      "text": "@dependabot recreate\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1727",
+      "time": 1701972591.0,
+      "link": "https://github.com/coronasafe/care/pull/1727",
+      "text": "made patient notes consultation specific"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1727",
+      "time": 1701972591.0,
+      "link": "https://github.com/coronasafe/care/pull/1727",
+      "text": "made patient notes consultation specific",
+      "collaborated_with": [
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1694",
+      "time": 1701972350.0,
+      "link": "https://github.com/coronasafe/care/pull/1694#issuecomment-1845861642",
+      "text": "@dependabot rebase\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1704",
+      "time": 1701971791.0,
+      "link": "https://github.com/coronasafe/care/pull/1704#issuecomment-1845846994",
+      "text": "> [#1704 (files)](https://github.com/coronasafe/care/pull/1704/files#diff-855ccb735aeda2b9a06ef57530782964236126df0b0ff032ddb451c6e9046945R65) AuthZ is already present\r\n\r\nThe change is for adding for write authz"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1703",
+      "time": 1701971653.0,
+      "link": "https://github.com/coronasafe/care/pull/1703",
+      "text": "add env vars to configure cors headers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1716",
+      "time": 1701971435.0,
+      "link": "https://github.com/coronasafe/care/pull/1716",
+      "text": "add DenominationValidator to validate dosage fields in Prescription model"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1705",
+      "time": 1701971310.0,
+      "link": "https://github.com/coronasafe/care/pull/1705",
+      "text": "pin dependencies in pipenv"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1707",
+      "time": 1701971262.0,
+      "link": "https://github.com/coronasafe/care/pull/1707",
+      "text": "add management command to load skills"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1710",
+      "time": 1701971102.0,
+      "link": "https://github.com/coronasafe/care/pull/1710",
+      "text": "offload migrations to beat service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701967744.0,
+      "title": "coronasafe/care#1750",
+      "link": "https://github.com/coronasafe/care/pull/1750#pullrequestreview-1770616741",
+      "text": "Refactor asset status check logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701964699.0,
+      "title": "coronasafe/care#1741",
+      "link": "https://github.com/coronasafe/care/pull/1741#pullrequestreview-1770514952",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701948473.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769946289",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701948119.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769934843",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701948017.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769931304",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1701946172.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1845117225",
+      "text": "@GokulramGHV when you are using TextChoices you don't need to access the value of the enum states, so you can use `PrescriptionDosageType.REGULAR` as a parameter directly"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701945963.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1769829139",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701945343.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769709227",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701945343.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769709227",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701867770.0,
@@ -7237,47 +7461,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1727",
-      "title": "made patient notes consultation specific",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1716",
-      "title": "add DenominationValidator to validate dosage fields in Prescription model",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1710",
-      "title": "offload migrations to beat service",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1707",
-      "title": "add management command to load skills",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1705",
-      "title": "pin dependencies in pipenv",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1703",
-      "title": "add env vars to configure cors headers",
-      "stale_for": 27,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "blocked",
         "changes required",
@@ -7288,7 +7474,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 85,
+      "stale_for": 86,
       "labels": [
         "In progress"
       ]
@@ -7296,19 +7482,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 78,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 139,
+      "stale_for": 140,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": []
     }
   ],

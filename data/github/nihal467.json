@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701886383.0,
+  "last_updated": 1701966124.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6809",
+      "time": 1701966124.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6809",
+      "text": "Hide Camera Feed button for patient with no bed assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6800",
+      "time": 1701938028.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6800#issuecomment-1844892312",
+      "text": "@xakep8 due to inactivity, you have been unassigned from linked issue and closing this draft PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6676",
+      "time": 1701937933.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6676#issuecomment-1844890225",
+      "text": "@xakep8 due to inactivity, I'm unassigning you from this issue, feel free to take up other open issues"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6695",
+      "time": 1701937598.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6695#issuecomment-1844880535",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6726",

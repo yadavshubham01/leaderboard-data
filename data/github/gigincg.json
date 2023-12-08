@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701764139.0,
+  "last_updated": 1701941289.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6605",
+      "time": 1701941289.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6605",
+      "text": "Preserve Applied Advance filter in facility page while switching"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701941220.0,
+      "title": "coronasafe/care_fe#6695",
+      "link": "https://github.com/coronasafe/care_fe/pull/6695#pullrequestreview-1769634548",
+      "text": "add support to cache filter options"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6798",
@@ -6564,7 +6578,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     }
   ],
