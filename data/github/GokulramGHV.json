@@ -9,6 +9,13 @@
       "text": "Field to classify location as an ICU or Ward or Other"
     },
     {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1708",
+      "time": 1701971872.0,
+      "link": "https://github.com/coronasafe/care/pull/1708",
+      "text": "Field to classify location as an ICU or Ward or Other"
+    },
+    {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6796",
       "time": 1701762989.0,
@@ -2959,7 +2966,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -2990,7 +2997,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6592",
       "title": "Added location type to location form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "waiting for back end"

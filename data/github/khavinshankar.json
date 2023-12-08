@@ -9,6 +9,13 @@
       "text": "@Pranshu1902 can you resolve the merge conflicts and wire up the respective backend for this, so that @nihal467 can test it"
     },
     {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1701951791.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1845249870",
+      "text": "@Pranshu1902 can you resolve the merge conflicts and wire up the respective backend for this, so that @nihal467 can test it"
+    },
+    {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6695",
       "time": 1701941288.0,
@@ -25951,7 +25958,7 @@
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 363,
+      "stale_for": 364,
       "labels": []
     },
     {

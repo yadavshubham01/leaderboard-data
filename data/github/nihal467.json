@@ -9,6 +9,13 @@
       "text": "Hide Camera Feed button for patient with no bed assigned"
     },
     {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6809",
+      "time": 1701966124.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6809",
+      "text": "Hide Camera Feed button for patient with no bed assigned"
+    },
+    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6800",
       "time": 1701938028.0,

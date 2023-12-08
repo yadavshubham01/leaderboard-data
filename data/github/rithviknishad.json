@@ -8,6 +8,172 @@
       "link": "https://github.com/coronasafe/care/pull/1505",
       "text": "Don't allow negative values for Doctor Count for facility",
       "collaborated_with": [
+        "Pranshu1902",
+        "sainak",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1741",
+      "time": 1701972448.0,
+      "link": "https://github.com/coronasafe/care/pull/1741",
+      "text": "Add `resolved_middleware` JSON field to Asset Serializer."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701967730.0,
+      "title": "coronasafe/care#1750",
+      "link": "https://github.com/coronasafe/care/pull/1750#pullrequestreview-1770616264",
+      "text": "Refactor asset status check logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965793.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770552887",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965748.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770551490",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701965589.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845629917",
+      "text": "Have a gray border maybe for the details part like the green border is there for the details part of automated rounds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1701965541.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1845628634",
+      "text": "Yes, also the user icon itself would be good here ig. What do you think?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965305.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770536991",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965019.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770522095",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701965019.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1770522095",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#5",
+      "time": 1701957102.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/5",
+      "text": "Remove scraper in favour of using leaderboard repo's scraper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#149",
+      "time": 1701957032.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/149",
+      "text": "FIx scraper workflow from using the wrong scraper"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1701951358.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1845238919",
+      "text": "I'm unable to replicate. \r\n\r\nI tried running `make build` and `make up` and it works fine.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1701950382.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1845216841",
+      "text": "@vasudevravula \r\n\r\n<img width=\"869\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/25143503/5e0a6592-ebd2-4f73-b107-e148558b225d\">\r\n\r\n(from the README btw)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1701950089.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1845210235",
+      "text": "Are you on windows?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6804",
+      "time": 1701947942.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6804#issuecomment-1845161033",
+      "text": "Closing as completed via https://github.com/coronasafe/care_fe/commit/f992917be084ee53a021a957abff49b3fe7abbc0"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6804",
+      "time": 1701947942.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6804",
+      "text": "Redirection: when deleting asset, user is taken to universal asset page instead of facility asset page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701947795.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1845157806",
+      "text": "However, a new route is also to be added: `/consultation/:id` which would redirect to the actual facility+patient contextual consultation URL.\r\n\r\nMultiple data fetching can be prevented because, the component does not change right? Only the route URL would change without the component tree having any changes right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1701947554.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761#issuecomment-1845152599",
+      "text": "Yes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701947437.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769905791",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701947436.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1769905791",
+      "text": "Refactor Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701947287.0,
+      "title": "coronasafe/care_fe#6806",
+      "link": "https://github.com/coronasafe/care_fe/pull/6806#pullrequestreview-1769898964",
+      "text": "Allow occupancy indicator to resize when default font size changes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1701947072.0,
+      "title": "coronasafe/care_fe#6793",
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#pullrequestreview-1769888505",
+      "text": "Disable submit button in round type normal if no value selected"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1505",
+      "time": 1701974561.0,
+      "link": "https://github.com/coronasafe/care/pull/1505",
+      "text": "Don't allow negative values for Doctor Count for facility",
+      "collaborated_with": [
         "vigneshhari",
         "Pranshu1902",
         "sainak"
@@ -29195,18 +29361,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/5",
-      "title": "Remove scraper in favour of using leaderboard repo's scraper",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/149",
-      "title": "FIx scraper workflow from using the wrong scraper",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
       "stale_for": 3,
@@ -29227,15 +29381,9 @@
       "labels": []
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6734",
-      "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "good to merge",
         "reviewed"
