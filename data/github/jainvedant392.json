@@ -1,6 +1,48 @@
 {
-  "last_updated": 1699252210.0,
+  "last_updated": 1702063498.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702063498.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847702555",
+      "text": "I can place the Loader inside the \"root\" div, which would afterwards be overwritten by the loaded React."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702063436.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847701512",
+      "text": "Ok I think I got what you are saying, so basically, I just have to configure a Loader in index.html, which would be same as the Loading component. Am I right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702057789.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847589131",
+      "text": "And to do the same, I might need to disable the effect of \"Suspense\", am I allowed to do so?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702057739.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847588256",
+      "text": "I had a doubt, since we have used \"Suspense\" from 'react' in App.tsx, which configures the loading screen, so why we have have to integrate it in the index.html."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702057650.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847586307",
+      "text": "But I have been working for this issue for some days and reading the code of the repo as well."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702057600.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847585373",
+      "text": "Hello @rithviknishad, extremely sorry for being inactive for so many days due to some unavoidable circumstances."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6544",

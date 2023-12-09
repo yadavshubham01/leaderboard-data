@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701887335.0,
+  "last_updated": 1702061905.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702061905.0,
+      "title": "coronasafe/care_fe#6829",
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#pullrequestreview-1772992913",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6829",
+      "time": 1702060195.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6829",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702057593.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811#issuecomment-1847585236",
+      "text": " I tried to replicate it but couldn't manage to get the expected message\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/7032c4cc-4ac9-4e81-83ca-6989b3afee87)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/c910e5ab-5bc0-4073-8c33-ac1d725b0f6e)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702056337.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811#issuecomment-1847560524",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/8ab65ef5-7cff-4920-aed6-d742c0b44b3f)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/e26da479-ffeb-4193-bedc-93050134b7fe)\r\n\r\nthe API response does not contain the patient name\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6761",
@@ -617,15 +645,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6829",
+      "title": "Fix patient name in transfer success notification",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6790",
       "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "hold",
         "tested",
@@ -635,7 +671,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": []
     }
   ],

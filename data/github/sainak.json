@@ -1,6 +1,62 @@
 {
-  "last_updated": 1701980029.0,
+  "last_updated": 1702058085.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1759",
+      "time": 1702058085.0,
+      "link": "https://github.com/coronasafe/care/pull/1759",
+      "text": "Fix ssl issues on middleware urls"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1758",
+      "time": 1702042467.0,
+      "link": "https://github.com/coronasafe/care/pull/1758",
+      "text": "cleanup dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1694",
+      "time": 1702021768.0,
+      "link": "https://github.com/coronasafe/care/pull/1694#issuecomment-1846714097",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1755",
+      "time": 1702021273.0,
+      "link": "https://github.com/coronasafe/care/pull/1755",
+      "text": "remove prescription suppliers components"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6815",
+      "time": 1702020645.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6815",
+      "text": "Report correct error message for internal server error"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1754",
+      "time": 1702019804.0,
+      "link": "https://github.com/coronasafe/care/issues/1754",
+      "text": "Respond with an appropriate error message when the email provider is not configured"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702016884.0,
+      "title": "coronasafe/leaderboard-data#5",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/5#pullrequestreview-1771609702",
+      "text": "Remove scraper in favour of using leaderboard repo's scraper"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702016880.0,
+      "title": "coronasafe/leaderboard#149",
+      "link": "https://github.com/coronasafe/leaderboard/pull/149#pullrequestreview-1771609633",
+      "text": "Fix scraper workflow from using the wrong scraper"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1686",
@@ -7461,9 +7517,29 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1759",
+      "title": "Fix ssl issues on middleware urls",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1758",
+      "title": "cleanup dummy data",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1755",
+      "title": "remove prescription suppliers components",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "blocked",
         "changes required",
@@ -7474,7 +7550,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 86,
+      "stale_for": 87,
       "labels": [
         "In progress"
       ]
@@ -7482,19 +7558,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 140,
+      "stale_for": 141,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": []
     }
   ],

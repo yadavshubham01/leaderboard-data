@@ -1,6 +1,48 @@
 {
-  "last_updated": 1701974561.0,
+  "last_updated": 1702044920.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1757",
+      "time": 1702044920.0,
+      "link": "https://github.com/coronasafe/care/pull/1757#issuecomment-1847235803",
+      "text": "@khavinshankar can you review the mock middleware call in the tests"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702037640.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1772220501",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1702034380.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1846989457",
+      "text": "> @Pranshu1902 can you resolve the merge conflicts and wire up the respective backend for this, so that @nihal467 can test it\r\n\r\nDone\r\n@nihal467 the backend PR is merged into a single PR #1757"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1702028213.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1846859460",
+      "text": "> [coronasafe/care#1518](https://github.com/coronasafe/care/pull/1518) [coronasafe/care#1467](https://github.com/coronasafe/care/pull/1467) [coronasafe/care#1453](https://github.com/coronasafe/care/pull/1453)\r\n> \r\n> @khavinshankar can you fix this backend and create a single PR for testing\r\n\r\nCombined Single PR for backend: [#1757](https://github.com/coronasafe/care/pull/1757)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1757",
+      "time": 1702028176.0,
+      "link": "https://github.com/coronasafe/care/pull/1757#issuecomment-1846858689",
+      "text": "Front-end PR: [#6223](https://github.com/coronasafe/care_fe/pull/6223)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1757",
+      "time": 1702027962.0,
+      "link": "https://github.com/coronasafe/care/pull/1757",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1505",
@@ -6817,6 +6859,14 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1757",
+      "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6808",
       "title": " Timeline style view for Daily Rounds",
       "stale_for": 0,
@@ -6827,7 +6877,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6793",
       "title": "Disable submit button in round type normal if no value selected",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -6835,7 +6885,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -6844,7 +6894,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -6852,13 +6902,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": [
         "changes required"
       ]

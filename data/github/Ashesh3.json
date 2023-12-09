@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701972305.0,
+  "last_updated": 1702072669.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702072669.0,
+      "title": "coronasafe/care#1759",
+      "link": "https://github.com/coronasafe/care/pull/1759#pullrequestreview-1773224272",
+      "text": "Fix ssl issues on middleware urls"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702072653.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1773224037",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6826",
+      "time": 1702045130.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6826",
+      "text": "Update API path for asset service records"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1748",
@@ -14650,9 +14671,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6826",
+      "title": "Update API path for asset service records",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1749",
       "title": "Refactor Discharge Reason to Integer Format",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14660,7 +14689,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -14668,15 +14697,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "needs testing",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -14684,7 +14714,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -14692,7 +14722,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 63,
+      "stale_for": 64,
       "labels": [
         "POC"
       ]
@@ -14700,7 +14730,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 247,
+      "stale_for": 248,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14709,13 +14739,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 260,
+      "stale_for": 261,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": [
         "blocked"
       ]

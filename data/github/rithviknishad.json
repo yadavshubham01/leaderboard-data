@@ -1,6 +1,307 @@
 {
-  "last_updated": 1701974561.0,
+  "last_updated": 1702062189.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702062189.0,
+      "title": "coronasafe/care_fe#6829",
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#pullrequestreview-1772998822",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702061727.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1847670483",
+      "text": "Have you tried removing suspense? Didn't it break?\r\nWe have lazy-loaded components inside suspense.\r\n\r\nAlso is there a relation between suspense and this issue? This issue is about having a loading element in the index.html before react takes over / rewrites out that element."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702061513.0,
+      "title": "coronasafe/care_fe#6829",
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#pullrequestreview-1772984965",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702061513.0,
+      "title": "coronasafe/care_fe#6829",
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#pullrequestreview-1772984965",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702058470.0,
+      "title": "coronasafe/care#1759",
+      "link": "https://github.com/coronasafe/care/pull/1759#pullrequestreview-1772907483",
+      "text": "Fix ssl issues on middleware urls"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702057835.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811#issuecomment-1847589978",
+      "text": "No, this is shifting, not this.\r\n\r\nYou'll have to do the following to to \"Patient Transfer\"\r\n\r\n- Click Add Patient\r\n- Type phone number of an existing patient's phone number (can be discharged or active patient)\r\n- This will prompt you asking whether the patient is one of in the list.\r\n- Next it'll ask you to select a patient from that and verify the date of birth.\r\n- Once successful, you'll be able to transfer the patient and land to consultation page."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6828",
+      "time": 1702057198.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6828",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702056698.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811#issuecomment-1847567825",
+      "text": "Why do you need the patient name from the transfer API?\r\n\r\nThe front end is already aware of the patient object before even the transfer API is called. Users can see the patient's name in the transfer modal right?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702048307.0,
+      "title": "coronasafe/care_fe#6827",
+      "link": "https://github.com/coronasafe/care_fe/pull/6827#pullrequestreview-1772594144",
+      "text": "Fix tooltip in users"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702048043.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1772585522",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702045748.0,
+      "title": "coronasafe/care_fe#6825",
+      "link": "https://github.com/coronasafe/care_fe/pull/6825#pullrequestreview-1772497492",
+      "text": "Resolve page scroll resets in consultations tabs."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1702043567.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1847196536",
+      "text": "First task related to: https://github.com/coronasafe/care_fe/issues/6817"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702042903.0,
+      "title": "coronasafe/care#1758",
+      "link": "https://github.com/coronasafe/care/pull/1758#pullrequestreview-1772364474",
+      "text": "cleanup dummy data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6823",
+      "time": 1702041299.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6823",
+      "text": "Invalidate filters cache upon login attempt"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1702040178.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765#issuecomment-1847119677",
+      "text": "Maybe two workarounds together would help fix this:\r\n\r\n1. when we click on a tab, we should scroll such that the tab goes to the top of the screen instead of just preserving the current scroll position.\r\n2. Show `<Loading />` component or any component that takes `h-screen` height until the actual content is loaded. if the content is shorter than h-screen we could fill it with whitespace for remaining vertical space? (Or in other words, place the content in a div that is `min-h-screen`)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6823",
+      "time": 1702039163.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6823",
+      "text": "Invalidate filters cache upon login attempt"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6822",
+      "time": 1702038081.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6822",
+      "text": "Invalidate filters cache upon sign in"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6821",
+      "time": 1702038047.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6821",
+      "text": "Asset uptime and operate asset is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#153",
+      "time": 1702035840.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/153",
+      "text": "Highlight and sort first new contributors that have made their first contribution in the past 1 week"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#141",
+      "time": 1702035488.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/141#issuecomment-1847032040",
+      "text": "Completed: https://github.com/coronasafe/leaderboard-data"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#141",
+      "time": 1702035472.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/141",
+      "text": "Move data to a separate repo"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#152",
+      "time": 1702035446.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/152",
+      "text": "Improvements to leaderboard dev. experience"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702034661.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1772153227",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702023228.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1771753212",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702023228.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1771753212",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6819",
+      "time": 1702022546.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6819",
+      "text": "Show \"Asset Down\" in asset list if asset's last uptime status is down"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6818",
+      "time": 1702022189.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6818",
+      "text": "Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6817",
+      "time": 1702021666.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6817",
+      "text": "Add keyboard shortcut \"Shift + Enter\" to send doctor notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1756",
+      "time": 1702021569.0,
+      "link": "https://github.com/coronasafe/care/issues/1756#issuecomment-1846710449",
+      "text": "https://github.com/coronasafe/care_fe/actions/runs/7138528082/job/19440233049?pr=6813"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1756",
+      "time": 1702021546.0,
+      "link": "https://github.com/coronasafe/care/issues/1756",
+      "text": "Issue with dummy data / fixtures"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702021348.0,
+      "title": "coronasafe/care#1755",
+      "link": "https://github.com/coronasafe/care/pull/1755#pullrequestreview-1771712052",
+      "text": "remove prescription suppliers components"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6816",
+      "time": 1702020901.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6816",
+      "text": "Filters cache not working when switching accounts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6814",
+      "time": 1702020167.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6814",
+      "text": "Show patients that are of not same district beside the patient item itself."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6813",
+      "time": 1702019804.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6813",
+      "text": "fixes #6810; format date and time for discharge date"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6812",
+      "time": 1702019579.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6812",
+      "text": "Add consultation button is disabled in mobile view but not in desktop view"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702019516.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811",
+      "text": "Patient transferred notification shows UUID instead of patient name"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6810",
+      "time": 1702019009.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6810",
+      "text": "Discharge Info card does not show time"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#151",
+      "time": 1702018136.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/151",
+      "text": "Sparse checkout scripts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#151",
+      "time": 1702018130.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/151",
+      "text": "Sparse checkout scripts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#5",
+      "time": 1702017089.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/5",
+      "text": "Remove scraper in favour of using leaderboard repo's scraper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#149",
+      "time": 1702017058.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/149",
+      "text": "Fix scraper workflow from using the wrong scraper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#150",
+      "time": 1702014613.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/150",
+      "text": "Limit activity level from exceeding the upper limit for calendar data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#150",
+      "time": 1702014485.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/150",
+      "text": "Limit activity level from exceeding the upper limit for calendar data"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1505",
@@ -29195,47 +29496,45 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/5",
-      "title": "Remove scraper in favour of using leaderboard repo's scraper",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828",
+      "title": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/149",
-      "title": "FIx scraper workflow from using the wrong scraper",
+      "link": "https://github.com/coronasafe/care_fe/pull/6813",
+      "title": "fixes #6810; format date and time for discharge date",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
-      "title": "Add events and GitHub Markdown rendering",
-      "stale_for": 8,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6734",
-      "title": "Cypress: Load fixtures from SQL dump",
-      "stale_for": 2,
+      "title": "Add \"Whats Happening\" section",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "good to merge",
         "reviewed"
@@ -29244,7 +29543,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Backend",
         "tested",
@@ -29263,7 +29562,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -29271,7 +29570,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -29279,6 +29578,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1740",
       "pr_link": "https://github.com/coronasafe/care/pull/1741"
@@ -29326,10 +29629,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6529",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6528"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1671",
-      "pr_link": "https://github.com/coronasafe/care/pull/1678"
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
-  "last_updated": 1701966694.0,
+  "last_updated": 1702048220.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6827",
+      "time": 1702048220.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6827#issuecomment-1847347166",
+      "text": "@rithviknishad can u check once"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6827",
+      "time": 1702048141.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6827",
+      "text": "Fix tooltip in users"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6780",
+      "time": 1702047243.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6780#issuecomment-1847323047",
+      "text": "somehow this pr is giving issues so I will close this and open a new one "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6825",
+      "time": 1702045506.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6825#issuecomment-1847270255",
+      "text": "@rithviknishad once can u check "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6825",
+      "time": 1702044909.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6825",
+      "text": "Resolve page scroll resets in consultations tabs."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6665",
+      "time": 1702042771.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6665#issuecomment-1847180363",
+      "text": "@rithviknishad  can you unassign me this issue as I am unable to find an optimal solution for the problem\r\n\r\nThe process is to refetch the current user query when the user logins correctly\r\n\r\nMy attempts to this were:\r\n\r\n- Passed the refetch option as props, but it resulted in the code becoming quite messy.\r\n- Used the current URL as a condition for refetch  but doing so caused many requests each time the url changes"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6765",
@@ -691,10 +733,20 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6780",
-      "title": "Resolve invalid tooltip activation",
+      "link": "https://github.com/coronasafe/care_fe/pull/6827",
+      "title": "Fix tooltip in users",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6825",
+      "title": "Resolve page scroll resets in consultations tabs.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6760",
