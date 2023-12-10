@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702058085.0,
+  "last_updated": 1702141235.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702141235.0,
+      "title": "coronasafe/care#1762",
+      "link": "https://github.com/coronasafe/care/pull/1762#pullrequestreview-1773772301",
+      "text": "fix: Import External Result is failing for valid data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702123713.0,
+      "title": "coronasafe/care#1762",
+      "link": "https://github.com/coronasafe/care/pull/1762#pullrequestreview-1773687426",
+      "text": "fix: Import External Result is failing for valid data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702122001.0,
+      "title": "coronasafe/care#1760",
+      "link": "https://github.com/coronasafe/care/pull/1760#pullrequestreview-1773682891",
+      "text": "Add Telemedicine as a rounds type option"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1759",
@@ -7519,7 +7540,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1759",
       "title": "Fix ssl issues on middleware urls",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "P1"
       ]
@@ -7527,19 +7548,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1758",
       "title": "cleanup dummy data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1755",
       "title": "remove prescription suppliers components",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "blocked",
         "changes required",
@@ -7550,7 +7571,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 87,
+      "stale_for": 88,
       "labels": [
         "In progress"
       ]
@@ -7558,19 +7579,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 141,
+      "stale_for": 142,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": []
     }
   ],

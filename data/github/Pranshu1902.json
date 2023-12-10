@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702044920.0,
+  "last_updated": 1702139550.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1762",
+      "time": 1702139550.0,
+      "link": "https://github.com/coronasafe/care/pull/1762#issuecomment-1848496355",
+      "text": "> Needs tests\r\n\r\n@sainak done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6832",
+      "time": 1702123788.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6832",
+      "text": "show error for invalid records"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1762",
+      "time": 1702123431.0,
+      "link": "https://github.com/coronasafe/care/pull/1762",
+      "text": "fix: Import External Result is failing for valid data"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1761",
+      "time": 1702123350.0,
+      "link": "https://github.com/coronasafe/care/issues/1761",
+      "text": "Import External Result is failing for valid data as well"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1757",
@@ -6859,9 +6887,25 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6832",
+      "title": "Show error for invalid records of import external results page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1762",
+      "title": "fix: Import External Result is failing for valid data",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -6877,15 +6921,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6793",
       "title": "Disable submit button in round type normal if no value selected",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "needs testing",
+        "discussion"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -6894,7 +6939,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6759",
       "title": "fix responsiveness on patients page",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -6902,13 +6947,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "changes required"
       ]

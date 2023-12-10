@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702061905.0,
+  "last_updated": 1702086704.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6830",
+      "time": 1702086704.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6830",
+      "text": "Change DOB(date) Format in Patient Details Page"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702061905.0,
@@ -647,7 +654,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6829",
       "title": "Fix patient name in transfer success notification",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -655,13 +662,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6790",
       "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6738",
       "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "hold",
         "tested",
@@ -671,7 +678,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     }
   ],

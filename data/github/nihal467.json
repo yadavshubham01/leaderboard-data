@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702040897.0,
+  "last_updated": 1702110212.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702110212.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1848324218",
+      "text": "@AshrafMd-1 what is the update on the fix for the bug pointed out?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6793",
+      "time": 1702110001.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#issuecomment-1848323017",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/2af6116c-93f1-4fee-95af-5563b2676002)\r\n\r\n@Pranshu1902 @rithviknishad marking it for discussion as now in critical care, the above fields a mandatory thing to fill any of the field, need to get a final confirmation from @gigincg "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6823",

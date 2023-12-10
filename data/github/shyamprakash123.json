@@ -1,6 +1,34 @@
 {
-  "last_updated": 1701700372.0,
+  "last_updated": 1702137836.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1702137836.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835",
+      "text": "Hide \"Asset Type\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6834",
+      "time": 1702136609.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6834",
+      "text": "HideAssetType"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6833",
+      "time": 1702134677.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6833",
+      "text": "Changed Created At to Measured At in log update card."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702134026.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1773710210",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6789",
@@ -573,10 +601,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6835",
+      "title": "Hide \"Asset Type\"",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6833",
+      "title": "Changed Created At to Measured At in log update card.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "tested",
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": []

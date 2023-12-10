@@ -1,6 +1,69 @@
 {
-  "last_updated": 1702062189.0,
+  "last_updated": 1702138723.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702138723.0,
+      "title": "coronasafe/care_fe#6835",
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#pullrequestreview-1773720423",
+      "text": "Hide \"Asset Type\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702138592.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1773720208",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702137084.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1773716776",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702136790.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1773716202",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702126663.0,
+      "title": "coronasafe/care#1760",
+      "link": "https://github.com/coronasafe/care/pull/1760#pullrequestreview-1773692691",
+      "text": "Add Telemedicine as a rounds type option"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702124333.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1773688623",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702122108.0,
+      "title": "coronasafe/care#1760",
+      "link": "https://github.com/coronasafe/care/pull/1760#pullrequestreview-1773683129",
+      "text": "Add Telemedicine as a rounds type option"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702122097.0,
+      "title": "coronasafe/care#1760",
+      "link": "https://github.com/coronasafe/care/pull/1760#pullrequestreview-1773683129",
+      "text": "Add Telemedicine as a rounds type option"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702094946.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1848218730",
+      "text": "Yes, that's what the previous PR attempted."
+    },
     {
       "type": "pr_reviewed",
       "time": 1702062189.0,
@@ -29498,7 +29561,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6828",
       "title": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -29506,7 +29569,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6813",
       "title": "fixes #6810; format date and time for discharge date",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -29514,13 +29577,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "need Review"
       ]
@@ -29528,13 +29591,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/145",
       "title": "Add \"Whats Happening\" section",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "good to merge",
         "reviewed"
@@ -29543,7 +29606,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "Backend",
         "tested",
@@ -29553,7 +29616,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -29562,7 +29625,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -29570,7 +29633,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end",
         "merge conflict"

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702048220.0,
+  "last_updated": 1702133931.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702133931.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1848432045",
+      "text": "@rithviknishad, can u check once"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702127281.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1848405032",
+      "text": "> @AshrafMd-1 what is the update on the fix for the bug pointed out?\r\n\r\nSo in the previous EOD call, there were some changes\r\n- [x] Make the mews component visible to all patients which have a log update\r\n- [x] Use the recent or the lastest log update for mews\r\n- [ ] Add consciousness level to normal log update\r\n\r\nSo I was just finishing the last task\r\nI will push the pr in a few hours "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6827",
@@ -735,7 +749,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6827",
       "title": "Fix tooltip in users",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -743,7 +757,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6825",
       "title": "Resolve page scroll resets in consultations tabs.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

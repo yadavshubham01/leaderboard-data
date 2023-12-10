@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702063498.0,
+  "last_updated": 1702146367.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6836",
+      "time": 1702146367.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6836",
+      "text": "Add loading screen in index.html"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702101565.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991#issuecomment-1848253487",
+      "text": "Ok, thanks a lot."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5991",
@@ -65,6 +79,13 @@
       "text": "Hello @rithviknishad, I would really love to contribute to and solve this issue, as I am familiar with the tech-stack and the required frontend to solve this issue. So could you please assign me this issue?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6836",
+      "title": "Add loading screen in index.html",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
