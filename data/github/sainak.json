@@ -23,6 +23,27 @@
       "text": "As we checked more middleware instances, we discovered that this only happening with https://dev_middleware.coronasafe.live/"
     },
     {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6815",
+      "time": 1702226997.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6815#issuecomment-1849017984",
+      "text": "@jainvedant392 I would suggest setting up the backend instance locally and modifying any existing route to throw an error, that should help you test different cases of 5xx being raised by the backend but, the structure of the error response would be the same as 4xx errors."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6815",
+      "time": 1702226427.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6815#issuecomment-1849015699",
+      "text": "hey @jainvedant392, yes this issue is open for contributors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1759",
+      "time": 1702208327.0,
+      "link": "https://github.com/coronasafe/care/pull/1759#issuecomment-1848939915",
+      "text": "As we checked more middleware instances, we discovered that this only happening with https://dev_middleware.coronasafe.live/"
+    },
+    {
       "type": "pr_reviewed",
       "time": 1702141235.0,
       "title": "coronasafe/care#1762",
@@ -7561,7 +7582,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1758",
       "title": "cleanup dummy data",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
