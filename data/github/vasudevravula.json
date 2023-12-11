@@ -25,27 +25,6 @@
     {
       "type": "comment_created",
       "title": "coronasafe/care#1721",
-      "time": 1702182290.0,
-      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1848854529",
-      "text": "@rithviknishad created this PR, can you please take a look [1763](https://github.com/coronasafe/care/pull/1763)\r\n"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care#1763",
-      "time": 1702182220.0,
-      "link": "https://github.com/coronasafe/care/pull/1763",
-      "text": "Add min_quntity to facilityinventorysummary and add migration"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#1721",
-      "time": 1702171445.0,
-      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1848811790",
-      "text": "@rithviknishad I got this working, I had to change the localstack and fidelius images to arm images"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care#1721",
       "time": 1701950857.0,
       "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1845227703",
       "text": "@rithviknishad yeah, I did this and before posting here"

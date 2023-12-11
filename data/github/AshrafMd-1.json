@@ -37,41 +37,6 @@
       "text": "Need to click on update button twice when updating bed in Bed Management."
     },
     {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#6839",
-      "time": 1702198218.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6839",
-      "text": "Shift level of consciousness from critical care log update to normal log update"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#6838",
-      "time": 1702197823.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6838#issuecomment-1848897318",
-      "text": "@rithviknishad can u assign this to me."
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#6838",
-      "time": 1702197805.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6838",
-      "text": "Tooltip not in correct styling in consultation dashboard."
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#6837",
-      "time": 1702197251.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6837#issuecomment-1848895396",
-      "text": "@rithviknishad can u assign this to me"
-    },
-    {
-      "type": "issue_opened",
-      "title": "coronasafe/care_fe#6837",
-      "time": 1702197223.0,
-      "link": "https://github.com/coronasafe/care_fe/issues/6837",
-      "text": "Need to click on update button twice when updating bed in Bed Management."
-    },
-    {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6760",
       "time": 1702133931.0,
@@ -835,7 +800,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6760",
       "title": "Add MEWS Component",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed",
         "P2"
