@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702137836.0,
+  "last_updated": 1702181378.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6809",
+      "time": 1702181378.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6809#issuecomment-1848852149",
+      "text": "I want to work on this, can you assign me?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6835",
@@ -603,7 +610,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6835",
       "title": "Hide \"Asset Type\"",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -611,13 +618,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6833",
       "title": "Changed Created At to Measured At in log update card.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "changes required"

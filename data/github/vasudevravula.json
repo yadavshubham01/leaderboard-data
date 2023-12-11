@@ -1,6 +1,27 @@
 {
-  "last_updated": 1701950857.0,
+  "last_updated": 1702182290.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1702182290.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1848854529",
+      "text": "@rithviknishad created this PR, can you please take a look [1763](https://github.com/coronasafe/care/pull/1763)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1763",
+      "time": 1702182220.0,
+      "link": "https://github.com/coronasafe/care/pull/1763",
+      "text": "Add min_quntity to facilityinventorysummary and add migration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1721",
+      "time": 1702171445.0,
+      "link": "https://github.com/coronasafe/care/issues/1721#issuecomment-1848811790",
+      "text": "@rithviknishad I got this working, I had to change the localstack and fidelius images to arm images"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1721",
@@ -44,6 +65,13 @@
       "text": "Hi @nihal467 @rithviknishad \r\nLooked into this a bit, we need to do a getMinInventory call that is being done when the Minimum Quantity Required button is clicked to add this new column.\r\n\r\nAlso, there are two min_quantity fields in the payload, that is not so intutitve, one I assume is a default value and the other is the value set\r\n![image](https://github.com/coronasafe/care_fe/assets/34686116/696c6ea8-eac5-402a-abb4-e74bf71ed39c)\r\n\r\n\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1763",
+      "title": "Add min_quntity to facilityinventorysummary and add migration",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

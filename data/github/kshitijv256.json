@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702022058.0,
+  "last_updated": 1702218007.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6840",
+      "time": 1702218007.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6840",
+      "text": "Added same logic for disabling in both mobile and desktop view"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6812",
@@ -793,6 +800,15 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6840",
+      "title": "Added same logic for disabling in both mobile and desktop view",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702042178.0,
+  "last_updated": 1702218084.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1702218084.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848978960",
+      "text": "Yes, that makes sense, then maybe we could just store the number of lines changed for each merged prs,\r\nsomething like\r\n```js\r\n{ \r\n    lines: {\r\n       added: number;\r\n       removed: number;\r\n       modified: number;\r\n    }\r\n}\r\n```\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1702217308.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848975903",
+      "text": "@rithviknishad I think we can accomplish this using\r\n`https://api.github.com/repos/{owner}/{repo}/compare/{base}...{head}` API\r\n\r\nI just wanted to know the use case.\r\nWouldn't adding the file changes to JSON make them heavy over time?"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6824",
@@ -25950,7 +25964,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "merge conflict"
       ]
@@ -25958,7 +25972,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
@@ -25966,19 +25980,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 365,
+      "stale_for": 366,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 121,
+      "stale_for": 123,
       "labels": [
         "changes required"
       ]
@@ -25986,25 +26000,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 721,
+      "stale_for": 723,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 727,
+      "stale_for": 729,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 728,
+      "stale_for": 730,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 923,
+      "stale_for": 925,
       "labels": []
     }
   ],

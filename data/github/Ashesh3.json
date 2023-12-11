@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702135851.0,
+  "last_updated": 1702210953.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1759",
+      "time": 1702210953.0,
+      "link": "https://github.com/coronasafe/care/pull/1759#issuecomment-1848949837",
+      "text": "It appears that the root of our SSL verification issue is indeed related to the use of underscores in domain names. \r\n\r\nI conducted some tests and found the following:\r\n- `test_abc.domain.com` - fails SSL verification\r\n- `abc.domain.com` - passes SSL verification\r\n\r\nThese tests were carried out on my Cloudflare domain around 5:45. \r\n\r\nFurther, I referred to the DigiCert knowledge base, which confirms that underscores are not allowed in Fully Qualified Domain Names (FQDNs). Here's the link for reference: [DigiCert Knowledge Base](https://www.digicert.com/kb/ssl-support/underscores-not-allowed-in-fqdns.htm).\r\n\r\nAdditionally, I checked the CA/Browser Forum's Ballot SC12 regarding the sunset of underscores in DNS names. The ballot has passed, clearly indicating a shift in standards concerning domain naming practices. You can find more details here: [CAB Forum - Ballot SC12](https://cabforum.org/2018/11/12/ballot-sc-12-sunset-of-underscores-in-dnsnames/).\r\n\r\nBased on these findings, it's evident that the issue lies in the use of underscores in the domain name, which is not compliant with SSL hostname matching standards. Therefore, this pull request will be closed as the problem does not stem from our code."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#152",
@@ -14736,7 +14743,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1760",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14744,7 +14751,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6831",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -14752,7 +14759,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6826",
       "title": "Update API path for asset service records",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -14760,7 +14767,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1749",
       "title": "Refactor Discharge Reason to Integer Format",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -14768,7 +14775,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]
@@ -14776,7 +14783,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6781",
       "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "merge conflict"
@@ -14785,7 +14792,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -14793,7 +14800,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6755",
       "title": "Fix investigation builder crash",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -14801,7 +14808,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": [
         "POC"
       ]
@@ -14809,7 +14816,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 249,
+      "stale_for": 250,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14818,13 +14825,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 262,
+      "stale_for": 263,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": [
         "blocked"
       ]
