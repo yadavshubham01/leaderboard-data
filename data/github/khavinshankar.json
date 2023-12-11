@@ -16,20 +16,6 @@
       "text": "@rithviknishad I think we can accomplish this using\r\n`https://api.github.com/repos/{owner}/{repo}/compare/{base}...{head}` API\r\n\r\nI just wanted to know the use case.\r\nWouldn't adding the file changes to JSON make them heavy over time?"
     },
     {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#144",
-      "time": 1702218084.0,
-      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848978960",
-      "text": "Yes, that makes sense, then maybe we could just store the number of lines changed for each merged prs,\r\nsomething like\r\n```js\r\n{ \r\n    lines: {\r\n       added: number;\r\n       removed: number;\r\n       modified: number;\r\n    }\r\n}\r\n```\r\n"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/leaderboard#144",
-      "time": 1702217308.0,
-      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848975903",
-      "text": "@rithviknishad I think we can accomplish this using\r\n`https://api.github.com/repos/{owner}/{repo}/compare/{base}...{head}` API\r\n\r\nI just wanted to know the use case.\r\nWouldn't adding the file changes to JSON make them heavy over time?"
-    },
-    {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6824",
       "time": 1702042178.0,
@@ -26000,7 +25986,7 @@
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 367,
+      "stale_for": 366,
       "labels": []
     },
     {
