@@ -38,6 +38,41 @@
     },
     {
       "type": "pr_reviewed",
+      "time": 1702218390.0,
+      "title": "coronasafe/care_fe#6840",
+      "link": "https://github.com/coronasafe/care_fe/pull/6840#pullrequestreview-1774044041",
+      "text": "Added same logic for disabling in both mobile and desktop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702218386.0,
+      "title": "coronasafe/care_fe#6840",
+      "link": "https://github.com/coronasafe/care_fe/pull/6840#pullrequestreview-1774044030",
+      "text": "Added same logic for disabling in both mobile and desktop view"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1702217873.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848978165",
+      "text": "The idea that I had in mine is that, we could at some point compute the total lines changed contributed by a user."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1702217853.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848978081",
+      "text": "Or maybe we could just leave it because that information is conveyed through the open graph image.\r\n<img width=\"1324\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/422b45ab-5e74-47af-8714-5554b8187a2e\">\r\n\r\nThe idea that I had in mine is that, we could at some point compute the total lines changed contributed by a user."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#144",
+      "time": 1702217485.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/144#issuecomment-1848976639",
+      "text": "Yes, we'll need to implement pagination for the contributor activity page before that then. Otherwise, we'll easily get rate-limited if we open active contributors profile."
+    },
+    {
+      "type": "pr_reviewed",
       "time": 1702138723.0,
       "title": "coronasafe/care_fe#6835",
       "link": "https://github.com/coronasafe/care_fe/pull/6835#pullrequestreview-1773720423",
@@ -29632,7 +29667,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "good to merge",
         "reviewed"
