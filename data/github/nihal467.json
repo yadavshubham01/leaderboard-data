@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702110212.0,
+  "last_updated": 1702297264.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6845",
+      "time": 1702297264.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6845#issuecomment-1849970426",
+      "text": "@sainak \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/a5696e5c-5041-47c7-a038-523c7b66b040)\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/21c912cf-d2fe-468f-8e91-16bf6000391b)\r\n\r\n- [ ] the external results locations are not properly loaded and the ICD11 is along not been loaded properly"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6843",
+      "time": 1702282840.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6843",
+      "text": "UI for Location Management Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6592",
+      "time": 1702282629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6592#issuecomment-1849528652",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6760",
@@ -29597,10 +29618,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6786"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

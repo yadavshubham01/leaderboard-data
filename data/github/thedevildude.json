@@ -1,6 +1,22 @@
 {
-  "last_updated": 1701849438.0,
+  "last_updated": 1702307178.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2",
+      "collaborated_with": [
+        "kshitijv256",
+        "GokulramGHV",
+        "AshrafMd-1",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6596",
@@ -279,14 +295,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6305",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6405"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

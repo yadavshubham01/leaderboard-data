@@ -1,6 +1,101 @@
 {
-  "last_updated": 1701941289.0,
+  "last_updated": 1702307178.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2",
+      "collaborated_with": [
+        "kshitijv256",
+        "GokulramGHV",
+        "AshrafMd-1",
+        "thedevildude",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Pranshu1902",
+        "Bhavik-ag",
+        "Ashesh3",
+        "GokulramGHV",
+        "sainak",
+        "rithviknishad",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307129.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702304775.0,
+      "title": "coronasafe/care#1766",
+      "link": "https://github.com/coronasafe/care/pull/1766#pullrequestreview-1775262588",
+      "text": "rename skills with incorrect spelling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1765",
+      "time": 1702302764.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1761",
+      "time": 1702286602.0,
+      "link": "https://github.com/coronasafe/care/issues/1761",
+      "text": "Import External Result is failing for valid data as well"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702286593.0,
+      "title": "coronasafe/care#1762",
+      "link": "https://github.com/coronasafe/care/pull/1762#pullrequestreview-1774652171",
+      "text": "fix: Import External Result is failing for valid data"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1756",
+      "time": 1702286446.0,
+      "link": "https://github.com/coronasafe/care/issues/1756",
+      "text": "Issue with dummy data / fixtures"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702286437.0,
+      "title": "coronasafe/care#1758",
+      "link": "https://github.com/coronasafe/care/pull/1758#pullrequestreview-1774647236",
+      "text": "cleanup dummy data"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6605",
@@ -6574,13 +6669,6 @@
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6670",
-      "title": "Add Medispeak for Preview on Care",
-      "stale_for": 7,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

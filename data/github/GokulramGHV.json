@@ -1,6 +1,52 @@
 {
-  "last_updated": 1701971872.0,
+  "last_updated": 1702307178.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2",
+      "collaborated_with": [
+        "kshitijv256",
+        "AshrafMd-1",
+        "thedevildude",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Pranshu1902",
+        "Bhavik-ag",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "vigneshhari",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6843",
+      "time": 1702284471.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6843#issuecomment-1849571933",
+      "text": "@rithviknishad can I take this up?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6592",
+      "time": 1702282809.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6592",
+      "text": "Added location type to location form"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1708",
@@ -2955,90 +3001,6 @@
       "text": "Renamed the page heading  from 'Covid Suspect Details' to 'Patient Details'"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1742",
-      "title": "Display users list based on user access limitation",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1735",
-      "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 1,
-      "labels": [
-        "waiting for confirmation"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6656",
-      "title": "Remove default ordering value",
-      "stale_for": 9,
-      "labels": [
-        "test failed",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1718",
-      "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 1,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6592",
-      "title": "Added location type to location form",
-      "stale_for": 0,
-      "labels": [
-        "changes required",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6565",
-      "title": "Add titrated prescription dosage type",
-      "stale_for": 2,
-      "labels": [
-        "changes required",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1692",
-      "title": "Prescription: Titrated drug dose",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review",
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1208",
-      "pr_link": "https://github.com/coronasafe/care/pull/1209"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4534",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4535"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4375",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4796"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3705",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3707"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2486",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2488"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2403",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2474"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

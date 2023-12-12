@@ -1,6 +1,50 @@
 {
-  "last_updated": 1701984849.0,
+  "last_updated": 1702312070.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6693",
+      "time": 1702312070.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6693",
+      "text": "Sort daily rounds by Measured At instead of Created at"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702312063.0,
+      "title": "coronasafe/care#1764",
+      "link": "https://github.com/coronasafe/care/pull/1764#pullrequestreview-1775601207",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702311897.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1775594356",
+      "text": "[SCHEMA] Migrate Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Pranshu1902",
+        "Bhavik-ag",
+        "Ashesh3",
+        "GokulramGHV",
+        "sainak",
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702287890.0,
+      "title": "coronasafe/care#1762",
+      "link": "https://github.com/coronasafe/care/pull/1762#pullrequestreview-1774701740",
+      "text": "fix: Import External Result is failing for valid data"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1704",

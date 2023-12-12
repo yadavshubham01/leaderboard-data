@@ -1,6 +1,78 @@
 {
-  "last_updated": 1702226997.0,
+  "last_updated": 1702313526.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1694",
+      "time": 1702313526.0,
+      "link": "https://github.com/coronasafe/care/pull/1694#issuecomment-1850473719",
+      "text": "@dependabot rebase\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702311800.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1775588661",
+      "text": "[SCHEMA] Migrate Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Pranshu1902",
+        "Bhavik-ag",
+        "Ashesh3",
+        "GokulramGHV",
+        "rithviknishad",
+        "vigneshhari",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1766",
+      "time": 1702304782.0,
+      "link": "https://github.com/coronasafe/care/pull/1766",
+      "text": "rename skills with incorrect spelling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1766",
+      "time": 1702304668.0,
+      "link": "https://github.com/coronasafe/care/pull/1766",
+      "text": "rename skills with incorrect spelling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702291096.0,
+      "title": "coronasafe/care#1764",
+      "link": "https://github.com/coronasafe/care/pull/1764#pullrequestreview-1774814894",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6845",
+      "time": 1702290306.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6845",
+      "text": "use celery beat to check for pending migrations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1758",
+      "time": 1702286445.0,
+      "link": "https://github.com/coronasafe/care/pull/1758",
+      "text": "cleanup dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702274954.0,
+      "title": "coronasafe/leaderboard#156",
+      "link": "https://github.com/coronasafe/leaderboard/pull/156#pullrequestreview-1774337072",
+      "text": "use GIT ACCESS TOKEN for scraper workflow"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6815",
@@ -7559,21 +7631,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1758",
-      "title": "cleanup dummy data",
-      "stale_for": 2,
+      "link": "https://github.com/coronasafe/care_fe/pull/6845",
+      "title": "use celery beat to check for pending migrations",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1755",
       "title": "remove prescription suppliers components",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "blocked",
         "changes required",
@@ -7584,7 +7656,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 89,
+      "stale_for": 90,
       "labels": [
         "In progress"
       ]
@@ -7592,19 +7664,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 143,
+      "stale_for": 144,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": []
     }
   ],

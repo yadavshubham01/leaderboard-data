@@ -1,6 +1,22 @@
 {
-  "last_updated": 1702086704.0,
+  "last_updated": 1702307178.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2",
+      "collaborated_with": [
+        "kshitijv256",
+        "GokulramGHV",
+        "AshrafMd-1",
+        "thedevildude",
+        "khavinshankar",
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6830",
@@ -650,37 +666,6 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6829",
-      "title": "Fix patient name in transfer success notification",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6790",
-      "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6738",
-      "title": "Removed required attribute from Respiratory Rate",
-      "stale_for": 1,
-      "labels": [
-        "hold",
-        "tested",
-        "waiting for related PR"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
-      "title": "Update sample_format_external_result",
-      "stale_for": 13,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

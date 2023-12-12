@@ -1,6 +1,223 @@
 {
-  "last_updated": 1702218390.0,
+  "last_updated": 1702312412.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6801",
+      "time": 1702312411.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6801",
+      "text": "Publish Release Note to slack \"Announcement\" Channel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6801",
+      "time": 1702312412.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6801#issuecomment-1850438376",
+      "text": "Closing as webhook created"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702308648.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1775437480",
+      "text": "[SCHEMA] Migrate Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702308573.0,
+      "title": "coronasafe/care#1749",
+      "link": "https://github.com/coronasafe/care/pull/1749#pullrequestreview-1775434658",
+      "text": "[SCHEMA] Migrate Discharge Reason to Integer Format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702308455.0,
+      "title": "coronasafe/care_fe#6848",
+      "link": "https://github.com/coronasafe/care_fe/pull/6848#pullrequestreview-1775430428",
+      "text": "Remove trailing spaces in textbox while adding new user."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6849",
+      "time": 1702307178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6849",
+      "text": "Production Release | Dec Week 2",
+      "collaborated_with": [
+        "kshitijv256",
+        "GokulramGHV",
+        "AshrafMd-1",
+        "thedevildude",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Pranshu1902",
+        "Bhavik-ag",
+        "Ashesh3",
+        "GokulramGHV",
+        "sainak",
+        "vigneshhari",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702304853.0,
+      "title": "coronasafe/care#1763",
+      "link": "https://github.com/coronasafe/care/pull/1763#pullrequestreview-1775265614",
+      "text": "Add min_quntity to facilityinventorysummary and add migration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702304769.0,
+      "title": "coronasafe/care#1766",
+      "link": "https://github.com/coronasafe/care/pull/1766#pullrequestreview-1775262353",
+      "text": "rename skills with incorrect spelling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702300507.0,
+      "title": "coronasafe/care#1764",
+      "link": "https://github.com/coronasafe/care/pull/1764#pullrequestreview-1775116068",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702298005.0,
+      "title": "coronasafe/care#1764",
+      "link": "https://github.com/coronasafe/care/pull/1764#pullrequestreview-1775039673",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6847",
+      "time": 1702297378.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6847",
+      "text": "Sort Wards list based on numeric order instead of character code order"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6846",
+      "time": 1702297263.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6846",
+      "text": "quick/temp fix: sleep for migrations to complete"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#158",
+      "time": 1702288720.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/158",
+      "text": "Add Vercel Preview deploy; uses data repo as data source"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702284224.0,
+      "title": "coronasafe/care_fe#6836",
+      "link": "https://github.com/coronasafe/care_fe/pull/6836#pullrequestreview-1774549167",
+      "text": "Add loading screen in index.html"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702284014.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1774538600",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702282154.0,
+      "title": "coronasafe/care_fe#6841",
+      "link": "https://github.com/coronasafe/care_fe/pull/6841#pullrequestreview-1774479313",
+      "text": "Fixed update button in bed management."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702282154.0,
+      "title": "coronasafe/care_fe#6841",
+      "link": "https://github.com/coronasafe/care_fe/pull/6841#pullrequestreview-1774479313",
+      "text": "Fixed update button in bed management."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702281523.0,
+      "title": "coronasafe/care_fe#6842",
+      "link": "https://github.com/coronasafe/care_fe/pull/6842#pullrequestreview-1774462852",
+      "text": "Fix tooltip styling in the patient's dashboard."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#157",
+      "time": 1702278210.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/157",
+      "text": "OG Image for PR close event not shown"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702277068.0,
+      "title": "coronasafe/leaderboard#155",
+      "link": "https://github.com/coronasafe/leaderboard/pull/155#pullrequestreview-1774363668",
+      "text": "added turnaround time for merged pull requests"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702277068.0,
+      "title": "coronasafe/leaderboard#155",
+      "link": "https://github.com/coronasafe/leaderboard/pull/155#pullrequestreview-1774363668",
+      "text": "added turnaround time for merged pull requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#145",
+      "time": 1702275967.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/145",
+      "text": "Add \"Whats Happening\" section"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#145",
+      "time": 1702275967.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/145",
+      "text": "Add \"Whats Happening\" section",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702275446.0,
+      "title": "coronasafe/leaderboard#154",
+      "link": "https://github.com/coronasafe/leaderboard/pull/154#pullrequestreview-1774344327",
+      "text": "added prettier extensions and fixed related eslint errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#156",
+      "time": 1702274967.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/156",
+      "text": "use GIT ACCESS TOKEN for scraper workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#156",
+      "time": 1702274864.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/156",
+      "text": "use GIT ACCESS TOKEN for scraper workflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702272824.0,
+      "title": "coronasafe/care#1762",
+      "link": "https://github.com/coronasafe/care/pull/1762#pullrequestreview-1774308839",
+      "text": "fix: Import External Result is failing for valid data"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702218390.0,
@@ -29592,90 +29809,12 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6828",
-      "title": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
-      "stale_for": 2,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6813",
-      "title": "fixes #6810; format date and time for discharge date",
-      "stale_for": 2,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/10bedicu/pull/75",
-      "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6777",
-      "title": "thank everyone (including fork branches)",
-      "stale_for": 9,
-      "labels": [
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/145",
-      "title": "Add \"Whats Happening\" section",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6725",
-      "title": "Remove Copilot for PR tags",
-      "stale_for": 5,
-      "labels": [
-        "good to merge",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6719",
-      "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 4,
-      "labels": [
-        "Backend",
-        "tested",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1728",
-      "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 2,
-      "labels": [
-        "waiting-for-review",
-        "P2"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1704",
-      "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 3,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6464",
-      "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 4,
-      "labels": [
-        "waiting for back end",
-        "merge conflict"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
@@ -29711,22 +29850,6 @@
     {
       "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/112",
       "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/113"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6544",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6528"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6529",
-      "pr_link": "https://github.com/coronasafe/care/pull/1696"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6529",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6541"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6529",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6528"
     }
   ]
 }

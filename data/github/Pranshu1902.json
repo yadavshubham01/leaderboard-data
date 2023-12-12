@@ -1,6 +1,57 @@
 {
-  "last_updated": 1702139550.0,
+  "last_updated": 1702312069.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1764",
+      "time": 1702312069.0,
+      "link": "https://github.com/coronasafe/care/pull/1764",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1765",
+      "time": 1702307135.0,
+      "link": "https://github.com/coronasafe/care/pull/1765",
+      "text": "Production Release Dec Week 2",
+      "collaborated_with": [
+        "Bhavik-ag",
+        "Ashesh3",
+        "GokulramGHV",
+        "sainak",
+        "rithviknishad",
+        "vigneshhari",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1702290677.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1849768834",
+      "text": "Also fixes #6693 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1764",
+      "time": 1702290657.0,
+      "link": "https://github.com/coronasafe/care/pull/1764",
+      "text": "Order DailyRounds by measured at date"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6833",
+      "time": 1702289669.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6833#issuecomment-1849739009",
+      "text": "@shyamprakash123 closing this issue since it is replaced in #6808 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1762",
+      "time": 1702286601.0,
+      "link": "https://github.com/coronasafe/care/pull/1762",
+      "text": "fix: Import External Result is failing for valid data"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1762",
@@ -6885,192 +6936,6 @@
       "text": "Issue#2046"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6832",
-      "title": "Show error for invalid records of import external results page",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1762",
-      "title": "fix: Import External Result is failing for valid data",
-      "stale_for": 0,
-      "labels": [
-        "P1"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1757",
-      "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 1,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6808",
-      "title": " Timeline style view for Daily Rounds",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6793",
-      "title": "Disable submit button in round type normal if no value selected",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "discussion"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6779",
-      "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 4,
-      "labels": [
-        "needs testing",
-        "waiting for related PR"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6759",
-      "title": "fix responsiveness on patients page",
-      "stale_for": 3,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/10bedicu/pull/72",
-      "title": "Fix front-end issue for footer and cards",
-      "stale_for": 50,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1530",
-      "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 50,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/140",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/141"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/363",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/364"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/363",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/139"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/137",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/138"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/135",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/136"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/132",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/133"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/129",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/130"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/125",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/126"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6355",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6356"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6351",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6352"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/336",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/337"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/123",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/124"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/121",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/122"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/117",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/118"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/115",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/116"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/110",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/111"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/128",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/129"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1581",
-      "pr_link": "https://github.com/coronasafe/care/pull/1588"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6214",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6215"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6209",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6210"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6203",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6204"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6190",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6253"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6165",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6166"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6162",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6163"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6156",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6157"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6156",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6163"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6145",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6147"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6114",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6115"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

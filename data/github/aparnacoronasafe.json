@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701875002.0,
+  "last_updated": 1702296140.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6676",
+      "time": 1702296140.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6676#issuecomment-1849940843",
+      "text": "@Ashesh3 lets close this by next release. Please mark as P1"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6804",
