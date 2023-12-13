@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701862770.0,
+  "last_updated": 1702392827.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1702392827.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854",
+      "text": "Solved the responsiveness issue of Administer medicine Slide-Over"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6784",
@@ -37,6 +44,15 @@
       "text": "Hello @AshrafMd-1, I'm interested in working on this issue. If you're not currently handling it, could you please let me get assigned to this issue? Thank you!"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6854",
+      "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

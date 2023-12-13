@@ -1,6 +1,300 @@
 {
-  "last_updated": 1702312412.0,
+  "last_updated": 1702413746.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702413746.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1852781643",
+      "text": "yes, to be precise: `src/Utils/request/handleResponse.ts`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#147",
+      "time": 1702408020.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/147#issuecomment-1852644305",
+      "text": "Will be followed in #166"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#166",
+      "time": 1702408000.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/166",
+      "text": "Upgrade to nextjs 14"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#148",
+      "time": 1702407905.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/148#issuecomment-1852641725",
+      "text": "@depandabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#37",
+      "time": 1702407831.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/37#issuecomment-1852639736",
+      "text": "Closing as too many conflicts + stale + base branch's HEAD has changed. Will take up as a separate PR."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#162",
+      "time": 1702407705.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/162#issuecomment-1852637096",
+      "text": "@Pranshu1902 also rebase with latest main. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#165",
+      "time": 1702407012.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/165",
+      "text": "Add Vercel Preview deploy; uses data repo as data source"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#152",
+      "time": 1702407013.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/152",
+      "text": "Improvements to leaderboard dev. experience"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702406493.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1778218572",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#165",
+      "time": 1702406247.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/165",
+      "text": "Add Vercel Preview deploy; uses data repo as data source"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#164",
+      "time": 1702405596.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/164",
+      "text": "Remove data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702402352.0,
+      "title": "coronasafe/care_fe#6793",
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#pullrequestreview-1778083565",
+      "text": "Disable submit button in round type normal if no value selected"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#164",
+      "time": 1702401929.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/164",
+      "text": "Remove data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702401172.0,
+      "title": "coronasafe/care_fe#6853",
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#pullrequestreview-1778047071",
+      "text": "Redesign location card UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702401082.0,
+      "title": "coronasafe/care_fe#6825",
+      "link": "https://github.com/coronasafe/care_fe/pull/6825#pullrequestreview-1778043359",
+      "text": "Resolve page scroll resets in consultations tabs."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6787",
+      "time": 1702400691.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6787#issuecomment-1852449531",
+      "text": "@Pranshu1902 escalating as P2 as #6738 is waiting for this and it'd be nice to ship that out soon"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6793",
+      "time": 1702391888.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#issuecomment-1852162109",
+      "text": "@nihal467 @Pranshu1902 as discussed we need to keep it as an exception for \"Critical Care\" log updates.\r\n\r\nHowever, for critical care log updates the validation should be present in the critical care updates page."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1702388897.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163",
+      "text": "Add git icons for events and contributor activity in event title"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702388370.0,
+      "title": "coronasafe/care_fe#6853",
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#pullrequestreview-1777495187",
+      "text": "Redesign location card UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702388273.0,
+      "title": "coronasafe/care_fe#6853",
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#pullrequestreview-1777491778",
+      "text": "Redesign location card UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1702385377.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1851974174",
+      "text": "I don't feel this looks good. Maybe we can show two buttons instead of 1 \"Save\" button that does:\r\n\r\n1. Creates a fresh log update\r\n2. Copies previous values and creates a log update\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702385012.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1777379090",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702385012.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1777379090",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702384803.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1777377045",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#135",
+      "time": 1702384682.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/135#issuecomment-1851956796",
+      "text": "Closing as completed via 3b6cb50e385027c4084ad11631f74fe8098f63bc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#135",
+      "time": 1702384681.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/135",
+      "text": "Make the darkest Learning Activity a bit ligher"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702384626.0,
+      "title": "coronasafe/leaderboard#162",
+      "link": "https://github.com/coronasafe/leaderboard/pull/162#pullrequestreview-1777371882",
+      "text": "Add metrics on contributors page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#140",
+      "time": 1702382501.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/140#issuecomment-1851902927",
+      "text": "Closing as completed in https://github.com/coronasafe/leaderboard/commit/3b6cb50e385027c4084ad11631f74fe8098f63bc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#140",
+      "time": 1702382501.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/140",
+      "text": "Profile Image's are not always square"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6852",
+      "time": 1702382151.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6852",
+      "text": "Add utility: `compareByKey`, sort wards in filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702379463.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1777226313",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702379259.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1777220390",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702374619.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1777069273",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702374609.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1777069273",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#161",
+      "time": 1702362934.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/161",
+      "text": "Stop scraper workflow that runs on this repo in favour of data repo"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#159",
+      "time": 1702361600.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/159#issuecomment-1851364991",
+      "text": "Succeeded\r\n\r\nhttps://github.com/coronasafe/leaderboard-data/actions/runs/7175818373/job/19544352582\r\n\r\n<img width=\"1367\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/ed1f418c-b69c-4671-8265-5e363956fc0c\">\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#159",
+      "time": 1702361300.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/159",
+      "text": "API Rate Limits Exceeded even with `GITHUB_TOKEN` during scan of commit co-authors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#160",
+      "time": 1702361299.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/160",
+      "text": "Use cache to prevent API rate limit on user scan"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#160",
+      "time": 1702361156.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/160#issuecomment-1851358427",
+      "text": "<img width=\"1105\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/39e4daec-996a-4d0b-b232-f2fdcfe20178\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#160",
+      "time": 1702361024.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/160",
+      "text": "Use cache to prevent API rate limit on user scan"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#159",
+      "time": 1702358836.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/159#issuecomment-1851325631",
+      "text": "+ skip scan of bot accounts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#159",
+      "time": 1702358593.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/159",
+      "text": "API Rate Limits Exceeded even with `GITHUB_TOKEN` during scan of users"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6801",
@@ -29809,7 +30103,91 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6852",
+      "title": "Sort wards by ward number in filters + adds utility method: `compareBy`",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6828",
+      "title": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
+      "stale_for": 4,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6813",
+      "title": "fixes #6810; format date and time for discharge date",
+      "stale_for": 0,
+      "labels": [
+        "tested"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/10bedicu/pull/75",
+      "title": "Update workflow to use github actions account to commit changes",
+      "stale_for": 8,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6777",
+      "title": "thank everyone (including fork branches)",
+      "stale_for": 11,
+      "labels": [
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6725",
+      "title": "Remove Copilot for PR tags",
+      "stale_for": 7,
+      "labels": [
+        "good to merge",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6719",
+      "title": "Rename \"Admission Date\" to encounter specific labels",
+      "stale_for": 6,
+      "labels": [
+        "Backend",
+        "tested",
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1728",
+      "title": "Rename `admission_date` to `encounter_date` and clean column",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review",
+        "P2"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "title": "Adds authz for Prescription & Medicine Administrations",
+      "stale_for": 5,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6464",
+      "title": "Adds user type: Nurse and Nurse (readonly)",
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
@@ -29818,6 +30196,10 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
     },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1740",

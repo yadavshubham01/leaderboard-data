@@ -1,6 +1,13 @@
 {
-  "last_updated": 1701938652.0,
+  "last_updated": 1702381872.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6659",
+      "time": 1702381872.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6659#issuecomment-1851888134",
+      "text": "@nihal46\r\n> once i select it, i can unselect the option, by clicking on the button\r\n\r\nDo you mean the button should toggle the `clone_last` variable? \r\n\r\nIn that case I think it would have been better to keep it as checkbox, as done in my previous commit. (https://github.com/coronasafe/care_fe/pull/6659/commits/ad57c3c50bcbd9fd95d843a6f99e137e7f2364ba)\r\n\r\nButton is going to be confusing for users. The button has text \"Copy values from previous log\". If we use this to toggle, we need to change the button text also. What should the text be when button is used to toggle `clone_last` to false? \r\n\r\nPS: Still thinking checkbox is correct control here. In case we still want to move forward with button - let me know what button text should be in both states. Thanks.\r\n\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6806",
@@ -304,7 +311,7 @@
       "title": "Allow occupancy indicator to resize when default font size changes.",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
@@ -312,7 +319,7 @@
       "title": "Show fields when copying from previous log",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     }
   ],
