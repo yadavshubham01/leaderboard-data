@@ -1,6 +1,14 @@
 {
-  "last_updated": 1702381872.0,
+  "last_updated": 1702445280.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6806",
+      "time": 1702445280.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6806",
+      "text": "Allow occupancy indicator to resize when default font size changes.",
+      "turnaround_time": 75610
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6659",
@@ -307,21 +315,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6806",
-      "title": "Allow occupancy indicator to resize when default font size changes.",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed"
       ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
+    }
+  ]
 }

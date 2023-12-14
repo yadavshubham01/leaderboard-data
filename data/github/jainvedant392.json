@@ -1,6 +1,56 @@
 {
-  "last_updated": 1702410208.0,
+  "last_updated": 1702498380.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702498380.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1780412711",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702495470.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1854573729",
+      "text": "Could you brief me a little?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702494326.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1854548821",
+      "text": "Actually I was thinking the same to discuss this with you, as I am feeling to know some more on this issue briefly."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702493893.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1854539275",
+      "text": "Hey @rithviknishad, I am willing to contribute to this issue, is it open to contribute?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6836",
+      "time": 1702476184.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6836",
+      "text": "Add loading screen in index.html",
+      "turnaround_time": 18490
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702442274.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1853257089",
+      "text": "made the changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702440124.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1853231237",
+      "text": "Sure, I'll make the requested changes."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6856",
@@ -139,12 +189,6 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6856",
       "title": "Show correct error message for interval server errors",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6836",
-      "title": "Add loading screen in index.html",
       "stale_for": 0,
       "labels": [
         "needs testing"

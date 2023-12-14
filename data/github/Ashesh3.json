@@ -1,6 +1,58 @@
 {
-  "last_updated": 1702373133.0,
+  "last_updated": 1702477090.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6826",
+      "time": 1702477090.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6826",
+      "text": "Update API path for asset service records",
+      "turnaround_time": 86360
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6831",
+      "time": 1702473951.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6831#issuecomment-1853915315",
+      "text": "> @Ashesh3\r\n> \r\n> * [ ]  when i submit the normal log update , i have been redirected to the critical care component\r\n\r\nFixed now!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6863",
+      "time": 1702468942.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6863",
+      "text": "Update action versions"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6821",
+      "time": 1702468237.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6821#issuecomment-1853773897",
+      "text": "Issue was an `_` in the middleware hostname. For more info refer: https://github.com/coronasafe/care/pull/1759#issuecomment-1848949837"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6821",
+      "time": 1702468236.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6821",
+      "text": "Asset uptime and operate asset is not working"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6781",
+      "time": 1702445358.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6781",
+      "text": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
+      "turnaround_time": 4019
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6755",
+      "time": 1702445217.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6755",
+      "text": "Fix investigation builder crash",
+      "turnaround_time": 61252
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1773",
@@ -14820,9 +14872,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6863",
+      "title": "Update GitHub action versions",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14838,55 +14896,34 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6831",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6826",
-      "title": "Update API path for asset service records",
-      "stale_for": 4,
-      "labels": [
-        "needs testing"
+        "tested",
+        "P1",
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6781",
-      "title": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "waiting-for-review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6755",
-      "title": "Fix investigation builder crash",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": [
         "POC"
       ]
@@ -14894,7 +14931,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 252,
+      "stale_for": 253,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14903,13 +14940,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 265,
+      "stale_for": 266,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 75,
+      "stale_for": 76,
       "labels": [
         "blocked"
       ]

@@ -1,6 +1,259 @@
 {
-  "last_updated": 1702361274.0,
+  "last_updated": 1702480140.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6718",
+      "time": 1702480140.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6718",
+      "text": "Respiratory rate- non-mandatory"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702480129.0,
+      "title": "coronasafe/care_fe#6738",
+      "link": "https://github.com/coronasafe/care_fe/pull/6738#pullrequestreview-1779862590",
+      "text": "Removed required attribute from Respiratory Rate"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6765",
+      "time": 1702477130.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6765",
+      "text": "Page scroll resets to top when switching to medicines tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702477117.0,
+      "title": "coronasafe/care_fe#6825",
+      "link": "https://github.com/coronasafe/care_fe/pull/6825#pullrequestreview-1779746846",
+      "text": "Resolve page scroll resets in consultations tabs."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702477083.0,
+      "title": "coronasafe/care_fe#6826",
+      "link": "https://github.com/coronasafe/care_fe/pull/6826#pullrequestreview-1779745593",
+      "text": "Update API path for asset service records"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6776",
+      "time": 1702476623.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6776",
+      "text": "Clear selection tooltip shown even when mouse is hovered on the add button instead of clear selection button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702476610.0,
+      "title": "coronasafe/care_fe#6827",
+      "link": "https://github.com/coronasafe/care_fe/pull/6827#pullrequestreview-1779728418",
+      "text": "Fix tooltip in users"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6665",
+      "time": 1702476495.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6665",
+      "text": "Care app reloads upon login"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702476483.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1779723784",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6811",
+      "time": 1702476422.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6811",
+      "text": "Patient transferred notification shows UUID instead of patient name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702476413.0,
+      "title": "coronasafe/care_fe#6829",
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#pullrequestreview-1779721313",
+      "text": "Fix patient name in transfer success notification"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6814",
+      "time": 1702476391.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6814",
+      "text": "Show patients that are of not same district beside the patient item itself."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702476378.0,
+      "title": "coronasafe/care_fe#6832",
+      "link": "https://github.com/coronasafe/care_fe/pull/6832#pullrequestreview-1779720068",
+      "text": "Show error for invalid records of import external results page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#5991",
+      "time": 1702476185.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5991",
+      "text": "Have a static loading screen in `index.html`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702476171.0,
+      "title": "coronasafe/care_fe#6836",
+      "link": "https://github.com/coronasafe/care_fe/pull/6836#pullrequestreview-1779712332",
+      "text": "Add loading screen in index.html"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702471492.0,
+      "title": "coronasafe/leaderboard#173",
+      "link": "https://github.com/coronasafe/leaderboard/pull/173#pullrequestreview-1779559872",
+      "text": "Revive Sparkles in BadgeIcon"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702471427.0,
+      "title": "coronasafe/leaderboard#174",
+      "link": "https://github.com/coronasafe/leaderboard/pull/174#pullrequestreview-1779557906",
+      "text": "fixes opengraph image not shown for PR close events"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702471393.0,
+      "title": "coronasafe/leaderboard#176",
+      "link": "https://github.com/coronasafe/leaderboard/pull/176#pullrequestreview-1779556978",
+      "text": "fixes prettier not prettying things"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702468204.0,
+      "title": "coronasafe/care#1774",
+      "link": "https://github.com/coronasafe/care/pull/1774#pullrequestreview-1779465816",
+      "text": "add more fixtures"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6433",
+      "time": 1702459388.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6433",
+      "text": "MEWS"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702459379.0,
+      "title": "coronasafe/care_fe#6760",
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#pullrequestreview-1779190889",
+      "text": "Add MEWS Component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6787",
+      "time": 1702459275.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6787",
+      "text": "Disable Submit button in normal log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702459260.0,
+      "title": "coronasafe/care_fe#6793",
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#pullrequestreview-1779186892",
+      "text": "Disable submit button in round type normal if no value selected"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#167",
+      "time": 1702446050.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/167",
+      "text": "added turnaround time for merged prs",
+      "turnaround_time": 2589
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6716",
+      "time": 1702445359.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6716",
+      "text": "User Deletion Privilege should be given to district admin and above"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445299.0,
+      "title": "coronasafe/care_fe#6781",
+      "link": "https://github.com/coronasafe/care_fe/pull/6781#pullrequestreview-1778865765",
+      "text": "Refactor user delete permissions to allow StateAdmin and DistrictAdmin"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6805",
+      "time": 1702445281.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "text": "occupancy indicator in facility card does not resize itself when font size is changed in browser"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6810",
+      "time": 1702445264.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6810",
+      "text": "Discharge Info card does not show time"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445258.0,
+      "title": "coronasafe/care_fe#6813",
+      "link": "https://github.com/coronasafe/care_fe/pull/6813#pullrequestreview-1778865200",
+      "text": "fixes #6810; format date and time for discharge date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445244.0,
+      "title": "coronasafe/care_fe#6806",
+      "link": "https://github.com/coronasafe/care_fe/pull/6806#pullrequestreview-1778865007",
+      "text": "Allow occupancy indicator to resize when default font size changes."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6722",
+      "time": 1702445231.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6722",
+      "text": "Improper responsiveness in Patient Card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445207.0,
+      "title": "coronasafe/care_fe#6759",
+      "link": "https://github.com/coronasafe/care_fe/pull/6759#pullrequestreview-1778864519",
+      "text": "fix responsiveness on patients page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445197.0,
+      "title": "coronasafe/care_fe#6755",
+      "link": "https://github.com/coronasafe/care_fe/pull/6755#pullrequestreview-1778864381",
+      "text": "Fix investigation builder crash"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#167",
+      "time": 1702444824.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/167#issuecomment-1853285978",
+      "text": "@rithviknishad \r\n\r\nCurrently, there is no way to identify the issue number if the issue is linked (connected) using UI, so lets handle that part while moving to Graphql.\r\n\r\nThis is the event created for connection using UI\r\n<img width=\"872\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/29787772/31120282-445b-4e9e-9a38-a375c13b9ec6\">\r\n\r\nIf we want to do this now using rest API, we need to iterate through all the open issues and get the cross-referenced event which seems unnecessarily expensive.\r\n\r\nPS: This is an issue only when the issue is connected with PR in PR's UI and not vice versa."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#155",
+      "time": 1702443494.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/155#issuecomment-1853270414",
+      "text": "Closed this pr in favour of #155 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#167",
+      "time": 1702443462.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/167",
+      "text": "added turnaround time for merged prs"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702361274.0,
@@ -26072,23 +26325,19 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/155",
-      "title": "added turnaround time for merged pull requests",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "merge conflict"
+        "work-in-progress",
+        "merge conflict",
+        "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -26096,19 +26345,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 368,
+      "stale_for": 369,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 125,
+      "stale_for": 126,
       "labels": [
         "changes required"
       ]
@@ -26116,25 +26365,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 725,
+      "stale_for": 726,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 731,
+      "stale_for": 732,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 732,
+      "stale_for": 733,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 927,
+      "stale_for": 928,
       "labels": []
     }
   ],

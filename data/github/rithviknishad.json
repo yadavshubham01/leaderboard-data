@@ -1,6 +1,295 @@
 {
-  "last_updated": 1702413746.0,
+  "last_updated": 1702494202.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702494202.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1854546158",
+      "text": "Hey @jainvedant392 \nCould you mention how you are planning to solve this?\n\nAs this might require changes to backend too to support it."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6828",
+      "time": 1702476494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6828",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
+      "turnaround_time": 85060
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#173",
+      "time": 1702471559.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/173",
+      "text": "Revive Sparkles in BadgeIcon",
+      "turnaround_time": 6534
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#174",
+      "time": 1702471548.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/174",
+      "text": "fixes opengraph image not shown for PR close events",
+      "turnaround_time": 19290
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#157",
+      "time": 1702471549.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/157",
+      "text": "OG Image for PR close event not shown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#176",
+      "time": 1702471536.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/176",
+      "text": "fixes prettier not prettying things",
+      "turnaround_time": 278
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#176",
+      "time": 1702471259.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/176",
+      "text": "fixes prettier not prettying things"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#175",
+      "time": 1702470408.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/175",
+      "text": "Migrate `Tooltip` jsx component to use CSS based tooltip to reduce client side javascript"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#174",
+      "time": 1702469794.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/174",
+      "text": "fixes opengraph image not shown for PR close events"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702468820.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779482620",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702468573.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779475888",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702468085.0,
+      "title": "coronasafe/care_fe#6845",
+      "link": "https://github.com/coronasafe/care_fe/pull/6845#pullrequestreview-1779461239",
+      "text": "use celery beat to check for pending migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702468064.0,
+      "title": "coronasafe/care#1774",
+      "link": "https://github.com/coronasafe/care/pull/1774#pullrequestreview-1779460639",
+      "text": "add more fixtures"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6862",
+      "time": 1702465960.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6862",
+      "text": "test run cypress"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6861",
+      "time": 1702465618.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6861",
+      "text": "run: test cypress"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#173",
+      "time": 1702465026.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/173",
+      "text": "Revive Sparkles in BadgeIcon"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702459387.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760",
+      "text": "Add MEWS Component",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#166",
+      "time": 1702456177.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/166",
+      "text": "Upgrade to nextjs 14"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#172",
+      "time": 1702456176.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/172",
+      "text": "Upgrade to nextjs 14",
+      "turnaround_time": 48176
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#172",
+      "time": 1702455831.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/172",
+      "text": "Upgrade to nextjs 14"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702454964.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1779054432",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702454964.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1779054432",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1702454492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#issuecomment-1853432748",
+      "text": "Rest LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702454466.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779040840",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702454420.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779035896",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702454420.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779035896",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702453905.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171",
+      "text": "Truncate / exclude contributors that has 0 points in the weekly leaderboard page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#170",
+      "time": 1702453631.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/170",
+      "text": "Show timeline / gantt chart to visualise PR activity (issue assigned > PR opened > PR merged/closed)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702446732.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1778885745",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702446732.0,
+      "title": "coronasafe/care_fe#6828",
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#pullrequestreview-1778885745",
+      "text": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#169",
+      "time": 1702446267.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/169",
+      "text": "Display Avg. turn around time for weekly leaderboard + Support sorting leaderboard by Turn Around Time"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#168",
+      "time": 1702446107.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/168",
+      "text": "Identify issues linked to PRs from PR UI (graphql)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#143",
+      "time": 1702446051.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/143",
+      "text": "Capture turn around time for PRs that are merged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445950.0,
+      "title": "coronasafe/leaderboard#167",
+      "link": "https://github.com/coronasafe/leaderboard/pull/167#pullrequestreview-1778874232",
+      "text": "added turnaround time for merged prs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445646.0,
+      "title": "coronasafe/leaderboard#167",
+      "link": "https://github.com/coronasafe/leaderboard/pull/167#pullrequestreview-1778870247",
+      "text": "added turnaround time for merged prs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445609.0,
+      "title": "coronasafe/leaderboard#167",
+      "link": "https://github.com/coronasafe/leaderboard/pull/167#pullrequestreview-1778869779",
+      "text": "added turnaround time for merged prs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6813",
+      "time": 1702445264.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6813",
+      "text": "fixes #6810; format date and time for discharge date",
+      "turnaround_time": 80655
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702445006.0,
+      "title": "coronasafe/leaderboard#167",
+      "link": "https://github.com/coronasafe/leaderboard/pull/167#pullrequestreview-1778861927",
+      "text": "added turnaround time for merged prs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702444038.0,
+      "title": "coronasafe/care#1763",
+      "link": "https://github.com/coronasafe/care/pull/1763#pullrequestreview-1778846519",
+      "text": "Add min_quntity to facilityinventorysummary and add migration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702443074.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1778835259",
+      "text": "Show correct error message for interval server errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6856",
@@ -30107,37 +30396,21 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6852",
       "title": "Sort wards by ward number in filters + adds utility method: `compareBy`",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6828",
-      "title": "Prevent CARE from reloading during sign in/out \ud83c\udfc3\u200d\u2642\ufe0f",
-      "stale_for": 4,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6813",
-      "title": "fixes #6810; format date and time for discharge date",
-      "stale_for": 0,
-      "labels": [
-        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "need Review"
       ]
@@ -30145,7 +30418,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "good to merge",
         "reviewed"
@@ -30154,7 +30427,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "Backend",
         "tested",
@@ -30164,7 +30437,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30173,7 +30446,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -30181,7 +30454,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -30190,8 +30463,16 @@
   ],
   "authored_issue_and_pr": [
     {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
+    },
+    {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/157",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/174"
     },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
@@ -30200,6 +30481,10 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6810",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6813"
     },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1740",
@@ -30226,12 +30511,8 @@
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6685"
     },
     {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6561",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6726"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/112",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/113"
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6665",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6828"
     }
   ]
 }

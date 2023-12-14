@@ -1,6 +1,42 @@
 {
-  "last_updated": 1702384673.0,
+  "last_updated": 1702495084.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702495084.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1778872763",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702495084.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1778872763",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1774",
+      "time": 1702475244.0,
+      "link": "https://github.com/coronasafe/care/pull/1774",
+      "text": "add more fixtures",
+      "turnaround_time": 9886
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1774",
+      "time": 1702465358.0,
+      "link": "https://github.com/coronasafe/care/pull/1774",
+      "text": "add more fixtures"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702455917.0,
+      "title": "coronasafe/leaderboard#172",
+      "link": "https://github.com/coronasafe/leaderboard/pull/172#pullrequestreview-1779080429",
+      "text": "Upgrade to nextjs 14"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6818",
@@ -7647,19 +7683,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6845",
       "title": "use celery beat to check for pending migrations",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1755",
       "title": "remove prescription suppliers components",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "blocked",
         "changes required",
@@ -7670,7 +7706,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 91,
+      "stale_for": 92,
       "labels": [
         "In progress"
       ]
@@ -7678,19 +7714,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 145,
+      "stale_for": 146,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": []
     }
   ],

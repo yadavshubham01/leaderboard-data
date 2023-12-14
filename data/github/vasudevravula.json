@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702301843.0,
+  "last_updated": 1702443535.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1763",
+      "time": 1702443535.0,
+      "link": "https://github.com/coronasafe/care/pull/1763#issuecomment-1853270873",
+      "text": "@rithviknishad can you check now? Thank you"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1763",
@@ -72,6 +79,13 @@
       "text": "Hi @nihal467 @rithviknishad \r\nLooked into this a bit, we need to do a getMinInventory call that is being done when the Minimum Quantity Required button is clicked to add this new column.\r\n\r\nAlso, there are two min_quantity fields in the payload, that is not so intutitve, one I assume is a default value and the other is the value set\r\n![image](https://github.com/coronasafe/care_fe/assets/34686116/696c6ea8-eac5-402a-abb4-e74bf71ed39c)\r\n\r\n\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1763",
+      "title": "Add min_quntity to facilityinventorysummary and add migration",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

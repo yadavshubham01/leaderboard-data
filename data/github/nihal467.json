@@ -1,6 +1,104 @@
 {
-  "last_updated": 1702379501.0,
+  "last_updated": 1702488312.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1760",
+      "time": 1702488312.0,
+      "link": "https://github.com/coronasafe/care/pull/1760#issuecomment-1854409976",
+      "text": "@vigneshhari can you review this priority PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1760",
+      "time": 1702488245.0,
+      "link": "https://github.com/coronasafe/care/pull/1760#issuecomment-1854408342",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6831",
+      "time": 1702488234.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6831#issuecomment-1854408084",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6836",
+      "time": 1702473166.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6836#issuecomment-1853894989",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1702473041.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1853891883",
+      "text": "@shyamprakash123 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5035bb59-6b21-4de6-8659-be41a9a39b08)\r\n\r\n- [ ] modify the cypress test in asset file, when you are hiding the asset type, make necessary change in the file as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6832",
+      "time": 1702472774.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6832#issuecomment-1853884348",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6831",
+      "time": 1702472388.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6831#issuecomment-1853874137",
+      "text": "@Ashesh3 \r\n\r\n- [ ] when i submit the normal log update , i have been redirected to the critical care component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6829",
+      "time": 1702468852.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6829#issuecomment-1853788146",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1702468614.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1853782707",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5cae18c2-15c3-4caa-91f5-1e9a49fbe903)\r\n\r\n- [ ] the tooltip is overlapping"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6828",
+      "time": 1702468148.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6828#issuecomment-1853771927",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6827",
+      "time": 1702468029.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6827#issuecomment-1853769252",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6825",
+      "time": 1702467947.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6825#issuecomment-1853767331",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6793",
+      "time": 1702459079.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6793#issuecomment-1853539902",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702457972.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760#issuecomment-1853512016",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1760",

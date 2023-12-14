@@ -1,6 +1,71 @@
 {
-  "last_updated": 1702307178.0,
+  "last_updated": 1702480139.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6738",
+      "time": 1702480139.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6738",
+      "text": "Removed required attribute from Respiratory Rate",
+      "turnaround_time": 59355
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6829",
+      "time": 1702476421.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6829",
+      "text": "Fix patient name in transfer success notification",
+      "turnaround_time": 69704
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702469695.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779507024",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1702467286.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1853752383",
+      "text": "@rithviknishad \r\n\r\ncan you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1702466365.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1853730783",
+      "text": "@rithviknishad can you please assign me"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702465199.0,
+      "title": "coronasafe/care_fe#6857",
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#pullrequestreview-1779376920",
+      "text": "Support for self-healing Consultation URL"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1702453389.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858",
+      "text": "Care Date Time Component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1702452622.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#issuecomment-1853397773",
+      "text": "@rithviknishad \r\n\r\ncould you please review it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1702452195.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857",
+      "text": "Support for self-healing Consultation URL"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6849",
@@ -666,6 +731,29 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6857",
+      "title": "Support for self-healing Consultation URL",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6790",
+      "title": "Fixes Selected location not being shown for some cases in Assets",
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
+      "title": "Update sample_format_external_result",
+      "stale_for": 17,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

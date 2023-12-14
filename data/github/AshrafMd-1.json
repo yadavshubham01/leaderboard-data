@@ -1,6 +1,40 @@
 {
-  "last_updated": 1702394330.0,
+  "last_updated": 1702477129.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6825",
+      "time": 1702477129.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6825",
+      "text": "Resolve page scroll resets in consultations tabs.",
+      "turnaround_time": 6451
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6827",
+      "time": 1702476622.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6827",
+      "text": "Fix tooltip in users",
+      "turnaround_time": 39541
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702459387.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760",
+      "text": "Add MEWS Component",
+      "turnaround_time": 67487
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6760",
+      "time": 1702459387.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6760",
+      "text": "Add MEWS Component",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6825",
@@ -835,7 +869,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6848",
       "title": "Remove trailing spaces in textbox while adding new user.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -843,7 +877,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6842",
       "title": "Fix tooltip styling in the patient's dashboard.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -851,34 +885,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6841",
       "title": "Fixed update button in bed management.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6827",
-      "title": "Fix tooltip in users",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6825",
-      "title": "Resolve page scroll resets in consultations tabs.",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6760",
-      "title": "Add MEWS Component",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "P1"
       ]
     }
   ],
