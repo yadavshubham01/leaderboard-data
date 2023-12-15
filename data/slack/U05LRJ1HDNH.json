@@ -3661,5 +3661,142 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2023-12-14 00:00:00": [
+        {
+            "client_msg_id": "a3bdc1a2-788c-4038-abf9-7b1c26a0285c",
+            "type": "message",
+            "text": "*EOD 10/12/2023 - 14/12/2023*\n\n*How did the day go?*\n\u2022 Worked on issues <https://github.com/coronasafe/care_fe/issues/6783|#6783> <https://github.com/coronasafe/care_fe/issues/6837|#6837> <https://github.com/coronasafe/care_fe/issues/6838|#6838> and have got merged\n\u2022 <https://github.com/coronasafe/care_fe/issues/6783|#6783> - Trimmed the text fields in the add user form before submitting\n\u2022 <https://github.com/coronasafe/care_fe/issues/6837|#6837> - Resolved issue where the update button needs to be clicked twice when updating bed in Bed Management.\n\u2022 <https://github.com/coronasafe/care_fe/issues/6838|#6838> -  Fixed bed tooltip in patient dashboard",
+            "user": "U05LRJ1HDNH",
+            "ts": "1702567064.671719",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "p0IUy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 10/12/2023 - 14/12/2023",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issues "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#6783",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#6837",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6838",
+                                            "text": "#6838",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " and have got merged"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#6783",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Trimmed the text fields in the add user form before submitting"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#6837",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Resolved issue where the update button needs to be clicked twice when updating bed in Bed Management."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6838",
+                                            "text": "#6838",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " -  Fixed bed tooltip in patient dashboard"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

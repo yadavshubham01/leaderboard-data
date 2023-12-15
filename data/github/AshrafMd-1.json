@@ -1,6 +1,61 @@
 {
-  "last_updated": 1702477129.0,
+  "last_updated": 1702554225.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6842",
+      "time": 1702554225.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6842",
+      "text": "Fix tooltip styling in the patient's dashboard.",
+      "turnaround_time": 10754
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6842",
+      "time": 1702554225.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6842",
+      "text": "Fix tooltip styling in the patient's dashboard.",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6841",
+      "time": 1702554205.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6841",
+      "text": "Fixed update button in bed management.",
+      "turnaround_time": 11289
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6841",
+      "time": 1702554205.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6841",
+      "text": "Fixed update button in bed management.",
+      "collaborated_with": [
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6848",
+      "time": 1702554145.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6848",
+      "text": "Remove trailing spaces in textbox while adding new user.",
+      "turnaround_time": 13453
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6848",
+      "time": 1702554145.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6848",
+      "text": "Remove trailing spaces in textbox while adding new user.",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6825",
@@ -865,33 +920,20 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6848",
-      "title": "Remove trailing spaces in textbox while adding new user.",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6842",
-      "title": "Fix tooltip styling in the patient's dashboard.",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6841",
-      "title": "Fixed update button in bed management.",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6842"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6837",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6841"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6783",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6848"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"

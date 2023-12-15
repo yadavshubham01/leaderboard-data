@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702386231.0,
+  "last_updated": 1702551479.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1702551479.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#issuecomment-1855631476",
+      "text": "@nihal467 There are a few changes to be done, I'll complete and push the changes and then I'll let you know"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6853",
@@ -3018,13 +3025,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting for confirmation"
       ]
@@ -3032,7 +3039,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 14,
+      "stale_for": 16,
       "labels": [
         "test failed",
         "waiting for back end"
@@ -3041,7 +3048,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 6,
+      "stale_for": 8,
       "labels": [
         "changes required"
       ]
@@ -3049,7 +3056,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "changes required",
         "waiting for back end"

@@ -1,6 +1,48 @@
 {
-  "last_updated": 1702498380.0,
+  "last_updated": 1702571519.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702571519.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1856167506",
+      "text": "Sure, I'll make the requested changes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702571498.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1782209551",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702537293.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855256531",
+      "text": "Yes yes I got that. So can I get this issue assigned?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702533342.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855189032",
+      "text": "Am I correct in getting this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702533324.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855188798",
+      "text": "And to solve this, we can create a get request in the backend, which will return the list of those patients only who have this badge."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702533268.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855188014",
+      "text": "OK, so we will have a badge for \"Review Missed\" if the patient is not reviewed in the specified time. And the issue is to filter out the \"not reviewed\" patients from patient list by creating it's category in the filter."
+    },
     {
       "type": "pr_reviewed",
       "time": 1702498380.0,
@@ -191,7 +233,7 @@
       "title": "Show correct error message for interval server errors",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "changes required"
       ]
     }
   ],

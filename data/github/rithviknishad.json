@@ -1,6 +1,246 @@
 {
-  "last_updated": 1702494202.0,
+  "last_updated": 1702569153.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#153",
+      "time": 1702569153.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/153",
+      "text": "upgrade to nextjs 14"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#183",
+      "time": 1702564355.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/183",
+      "text": "Remove Journey Map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#185",
+      "time": 1702564354.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/185",
+      "text": "Remove journey map",
+      "turnaround_time": 22124
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#184",
+      "time": 1702563854.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/184",
+      "text": "Add Feed Page (SSR)",
+      "turnaround_time": 3186
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1702563402.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1855933596",
+      "text": "Select for administration section can come below the prescriptions detail card whenever there is not enough screen space."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#181",
+      "time": 1702563068.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/181",
+      "text": "Convert SSR routes to ISR / SSG routes by generating static params during build time"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#182",
+      "time": 1702563067.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/182",
+      "text": "Pre-render contributor profile pages",
+      "turnaround_time": 28661
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#179",
+      "time": 1702563040.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/179",
+      "text": "Combine similar push events"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#180",
+      "time": 1702563039.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/180",
+      "text": "Combines similar push events",
+      "turnaround_time": 31382
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#185",
+      "time": 1702562049.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/185",
+      "text": "Remove journey map"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#184",
+      "time": 1702561244.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/184#issuecomment-1855874770",
+      "text": "<img width=\"1822\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/a745f530-22d4-48e3-8e06-0d7dfc1a5def\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#184",
+      "time": 1702560668.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/184",
+      "text": "Add Feed Page (SSR)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702555371.0,
+      "title": "coronasafe/care_fe#6854",
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#pullrequestreview-1781666775",
+      "text": "Solved the responsiveness issue of Administer medicine Slide-Over"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702555338.0,
+      "title": "coronasafe/care_fe#6854",
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#pullrequestreview-1781666775",
+      "text": "Solved the responsiveness issue of Administer medicine Slide-Over"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6841",
+      "time": 1702554205.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6841",
+      "text": "Fixed update button in bed management.",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6852",
+      "time": 1702554121.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6852",
+      "text": "Sort wards by ward number in filters + adds utility method: `compareBy`",
+      "turnaround_time": 83944
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6852",
+      "time": 1702554121.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6852",
+      "text": "Sort wards by ward number in filters + adds utility method: `compareBy`",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702548551.0,
+      "title": "coronasafe/care_fe#6856",
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#pullrequestreview-1781471936",
+      "text": "Show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702547374.0,
+      "title": "coronasafe/care_fe#6854",
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#pullrequestreview-1781434659",
+      "text": "Solved the responsiveness issue of Administer medicine Slide-Over"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702544428.0,
+      "title": "coronasafe/care_fe#6860",
+      "link": "https://github.com/coronasafe/care_fe/pull/6860#pullrequestreview-1781342269",
+      "text": "Disable critical care submit if only basic editor is filled"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#183",
+      "time": 1702542231.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/183",
+      "text": "Remove Journey Map"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6845",
+      "time": 1702541876.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6845",
+      "text": "use celery beat to check for pending migrations",
+      "collaborated_with": [
+        "sainak",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702536966.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855251188",
+      "text": "Yes, more specifically, you'll need to add a filter to the existing list patients' GET API endpoint."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#182",
+      "time": 1702536310.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/182#issuecomment-1855239850",
+      "text": "\r\n\r\n<img width=\"1382\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/161e2397-235f-401d-98ea-c03d38c218ea\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#182",
+      "time": 1702535914.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/182",
+      "text": "Generate static params for contributor profile page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#181",
+      "time": 1702534406.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/181",
+      "text": "Convert SSR routes to ISR / SSG routes by generating static params during build time"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#180",
+      "time": 1702533928.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/180",
+      "text": "fixes 179; Combines similar push events"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#179",
+      "time": 1702531658.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/179",
+      "text": "Combine similar push events"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#178",
+      "time": 1702531067.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/178",
+      "text": "Commit messages overflowing in \"Whats Happening\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#177",
+      "time": 1702530942.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/177",
+      "text": "GitHub events in certain situations shows below 5 entries"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#177",
+      "time": 1702530871.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/177",
+      "text": "GitHub events in certain situations shows below 5 entries"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702529752.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1855128708",
+      "text": "So if you go to the consultation dashboard, and file a log update, you can specify when the net review should be.\r\n\r\n<img width=\"1003\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/12d1881b-dd50-408a-b361-2748cb21cb1f\">\r\n\r\nIf no review is performed by that specified time, you'll get to see that \"Review missed\" badge.\r\n\r\n<img width=\"1533\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/cf22bad7-9e52-4752-87af-8703fb6ee26a\">\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6745",
@@ -30394,23 +30634,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6852",
-      "title": "Sort wards by ward number in filters + adds utility method: `compareBy`",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/153",
+      "title": "upgrade to nextjs 14",
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "need Review"
       ]
@@ -30418,7 +30656,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "good to merge",
         "reviewed"
@@ -30427,7 +30665,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "Backend",
         "tested",
@@ -30437,7 +30675,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30446,7 +30684,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -30454,7 +30692,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -30463,12 +30701,28 @@
   ],
   "authored_issue_and_pr": [
     {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/183",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/185"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/181",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/182"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/179",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/180"
+    },
+    {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
     },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6847",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6852"
     },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/157",
@@ -30505,14 +30759,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
       "pr_link": "https://github.com/coronasafe/care/pull/1734"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6686",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6685"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6665",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6828"
     }
   ]
 }

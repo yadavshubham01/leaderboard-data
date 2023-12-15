@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702477090.0,
+  "last_updated": 1702570294.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#153",
+      "time": 1702570294.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/153#issuecomment-1856133363",
+      "text": "@rithviknishad LGTM but preview deploy failed\r\n\r\n```\r\n<html>\r\n<body>\r\n<!--StartFragment-->\r\nFailed to compile.\r\n--\r\n21:24:41.519 | \u00a0\r\n21:24:41.519 | ./chatbot/src/main.tsx:33:13\r\n21:24:41.519 | Type error: Argument of type 'Element' is not assignable to parameter of type 'ReactNode'.\r\n21:24:41.519 | \u00a0\r\n21:24:41.519 | 31 \\|         const root = createRoot(rootElement);\r\n21:24:41.519 | 32 \\|         root.render(\r\n21:24:41.519 | > 33 \\|             <React.StrictMode>\r\n21:24:41.519 | \\|             ^\r\n21:24:41.519 | 34 \\|                 <Chatbot\r\n21:24:41.519 | 35 \\|                     position={this.position}\r\n21:24:41.519 | 36 \\|                     projectID={this.projectID}\r\n21:24:41.643 | error Command failed with exit code 1.\r\n\r\n<!--EndFragment-->\r\n</body>\r\n</html>\r\n```"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702570256.0,
+      "title": "coronasafe/ayushma_fe#153",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/153#pullrequestreview-1782168719",
+      "text": "upgrade to nextjs 14"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6826",
@@ -14880,7 +14894,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -14888,7 +14902,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1760",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -14900,14 +14914,13 @@
       "labels": [
         "tested",
         "P1",
-        "waiting for back end",
-        "merge conflict"
+        "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -14915,7 +14928,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "waiting-for-review"
       ]
@@ -14923,7 +14936,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": [
         "POC"
       ]
@@ -14931,7 +14944,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 253,
+      "stale_for": 254,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14940,13 +14953,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 266,
+      "stale_for": 267,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 76,
+      "stale_for": 77,
       "labels": [
         "blocked"
       ]

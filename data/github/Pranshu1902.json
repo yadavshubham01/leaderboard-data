@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702476390.0,
+  "last_updated": 1702555651.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1702555651.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1855731413",
+      "text": "@nihal467 Updated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/063ab01d-e177-4261-ac18-7c31d3791561)\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6832",
@@ -7008,7 +7015,7 @@
       "title": "Disable critical care submit if only basic editor is filled",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     },
     {
@@ -7022,13 +7029,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/162",
       "title": "Add metrics on contributors page",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -7038,13 +7045,13 @@
       "title": " Timeline style view for Daily Rounds",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -7053,13 +7060,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 54,
+      "stale_for": 55,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 54,
+      "stale_for": 55,
       "labels": [
         "changes required"
       ]

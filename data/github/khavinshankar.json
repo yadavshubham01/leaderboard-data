@@ -1,6 +1,119 @@
 {
-  "last_updated": 1702480140.0,
+  "last_updated": 1702564710.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6867",
+      "time": 1702564710.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6867",
+      "text": "fix resend otp in abdm aadhar signup",
+      "turnaround_time": 8804
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702563817.0,
+      "title": "coronasafe/leaderboard#184",
+      "link": "https://github.com/coronasafe/leaderboard/pull/184#pullrequestreview-1781927248",
+      "text": "Add Feed Page (SSR)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6867",
+      "time": 1702555906.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6867",
+      "text": "fix resend otp in abdm aadhar signup"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6812",
+      "time": 1702554351.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6812",
+      "text": "Add consultation button is disabled in mobile view but not in desktop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702554342.0,
+      "title": "coronasafe/care_fe#6840",
+      "link": "https://github.com/coronasafe/care_fe/pull/6840#pullrequestreview-1781638374",
+      "text": "Added same logic for disabling in both mobile and desktop view"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6838",
+      "time": 1702554226.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6838",
+      "text": "Tooltip not in correct styling in consultation dashboard."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6837",
+      "time": 1702554206.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6837",
+      "text": "Need to click on update button twice when updating bed in Bed Management."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702554170.0,
+      "title": "coronasafe/care_fe#6841",
+      "link": "https://github.com/coronasafe/care_fe/pull/6841#pullrequestreview-1781633948",
+      "text": "Fixed update button in bed management."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702554158.0,
+      "title": "coronasafe/care_fe#6842",
+      "link": "https://github.com/coronasafe/care_fe/pull/6842#pullrequestreview-1781633609",
+      "text": "Fix tooltip styling in the patient's dashboard."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6783",
+      "time": 1702554146.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6783",
+      "text": "Trim the text fields in the add user form before submitting"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702554135.0,
+      "title": "coronasafe/care_fe#6848",
+      "link": "https://github.com/coronasafe/care_fe/pull/6848#pullrequestreview-1781632983",
+      "text": "Remove trailing spaces in textbox while adding new user."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6847",
+      "time": 1702554122.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6847",
+      "text": "Sort Wards list based on numeric order instead of character code order"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702554107.0,
+      "title": "coronasafe/care_fe#6852",
+      "link": "https://github.com/coronasafe/care_fe/pull/6852#pullrequestreview-1781632205",
+      "text": "Sort wards by ward number in filters + adds utility method: `compareBy`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702545356.0,
+      "title": "coronasafe/care_fe#6864",
+      "link": "https://github.com/coronasafe/care_fe/pull/6864#pullrequestreview-1781370834",
+      "text": "Fixed Flaky Cypress Test in user tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702544508.0,
+      "title": "coronasafe/leaderboard#182",
+      "link": "https://github.com/coronasafe/leaderboard/pull/182#pullrequestreview-1781344757",
+      "text": "Pre-render contributor profile pages"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702541857.0,
+      "title": "coronasafe/care_fe#6845",
+      "link": "https://github.com/coronasafe/care_fe/pull/6845#pullrequestreview-1781268296",
+      "text": "use celery beat to check for pending migrations"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6718",
@@ -26327,7 +26440,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -26337,7 +26450,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -26345,19 +26458,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 369,
+      "stale_for": 370,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "changes required"
       ]
@@ -26365,25 +26478,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 726,
+      "stale_for": 727,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 732,
+      "stale_for": 733,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 733,
+      "stale_for": 734,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 928,
+      "stale_for": 929,
       "labels": []
     }
   ],

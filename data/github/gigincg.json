@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702475226.0,
+  "last_updated": 1702564702.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702564702.0,
+      "title": "coronasafe/care_fe#6867",
+      "link": "https://github.com/coronasafe/care_fe/pull/6867#pullrequestreview-1781960184",
+      "text": "fix resend otp in abdm aadhar signup"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702475226.0,
@@ -6680,7 +6687,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "In Progress"
       ]

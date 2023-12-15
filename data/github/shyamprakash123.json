@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702181378.0,
+  "last_updated": 1702571748.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6868",
+      "time": 1702571748.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6868",
+      "text": "Hide Camera Feed button for patient with no bed assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1702568777.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1856089842",
+      "text": "@nihal467 \r\n\r\n**Cypress Tests are now fixed.**\r\n\r\n![Screenshot 2023-12-14 210939](https://github.com/coronasafe/care_fe/assets/106866225/72d785dd-d32d-42ee-a7ff-f106ffcea9e5)\r\n![Screenshot 2023-12-14 211001](https://github.com/coronasafe/care_fe/assets/106866225/003dd4db-9c64-468e-9beb-3738bdab29aa)\r\n![Screenshot 2023-12-14 211014](https://github.com/coronasafe/care_fe/assets/106866225/841f60d7-17a2-4a71-91ff-2bd19d3c5631)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702564203.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1781941248",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6809",
@@ -608,26 +629,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6835",
-      "title": "Hide \"Asset Type\"",
-      "stale_for": 1,
-      "labels": [
-        "needs testing"
-      ]
+      "link": "https://github.com/coronasafe/care_fe/pull/6868",
+      "title": "Hide Camera Feed button for patient with no bed assigned.",
+      "stale_for": 0,
+      "labels": []
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6833",
-      "title": "Changed Created At to Measured At in log update card.",
-      "stale_for": 1,
-      "labels": []
+      "link": "https://github.com/coronasafe/care_fe/pull/6835",
+      "title": "Hide \"Asset Type\"",
+      "stale_for": 0,
+      "labels": [
+        "test failed",
+        "changes required"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "tested",
-        "changes required"
+        "question",
+        "tested"
       ]
     }
   ],

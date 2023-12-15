@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702305362.0,
+  "last_updated": 1702568394.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/stay_be#179",
+      "time": 1702568394.0,
+      "link": "https://github.com/coronasafe/stay_be/pull/179",
+      "text": "[Snyk] Security upgrade @nestjs/common from 6.11.11 to 9.0.0"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/infographics-frontend#50",
@@ -2263,6 +2270,196 @@
       "text": "[Snyk] Security upgrade nuxt from 1.4.2 to 2.3.0"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/stay_be/pull/179",
+      "title": "[Snyk] Security upgrade @nestjs/common from 6.11.11 to 9.0.0",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/infographics-frontend/pull/50",
+      "title": "[Snyk] Security upgrade nuxt from 2.12.0 to 2.15.2",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/telemedicine-backend/pull/38",
+      "title": "[Snyk] Security upgrade knex from 0.20.12 to 0.21.13",
+      "stale_for": 8,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/dhaya/pull/42",
+      "title": "[Snyk] Security upgrade firebase-admin from 8.12.1 to 11.1.0",
+      "stale_for": 8,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/coronaRM/pull/118",
+      "title": "[Snyk] Security upgrade @rails/webpacker from 4.2.2 to 5.2.2",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/infographics-frontend/pull/49",
+      "title": "[Snyk] Security upgrade nuxt from 2.12.0 to 3.0.0",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/stats/pull/140",
+      "title": "[Snyk] Security upgrade tailwindcss from 1.1.4 to 2.2.0",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/telemedicine-backend/pull/37",
+      "title": "[Snyk] Fix for 1 vulnerabilities",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/dhaya/pull/41",
+      "title": "[Snyk] Security upgrade firebase-admin from 8.12.1 to 10.3.0",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/afterfloodinfographics/pull/54",
+      "title": "[Snyk] Fix for 20 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/migrantmanagement/pull/119",
+      "title": "[Snyk] Security upgrade @rails/webpacker from 4.2.2 to 5.2.2",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/stats/pull/139",
+      "title": "[Snyk] Fix for 13 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/coronaRM/pull/117",
+      "title": "[Snyk] Security upgrade @rails/webpacker from 4.2.2 to 5.2.2",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/knowledge/pull/114",
+      "title": "[Snyk] Fix for 13 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/telemedicine-backend/pull/36",
+      "title": "[Snyk] Fix for 4 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/telemed/pull/133",
+      "title": "[Snyk] Fix for 13 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/stay_be/pull/178",
+      "title": "[Snyk] Security upgrade typeorm from 0.2.24 to 0.2.39",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/infographics-frontend/pull/48",
+      "title": "[Snyk] Fix for 13 vulnerabilities",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/trucks/pull/121",
+      "title": "[Snyk] Security upgrade @rails/webpacker from 4.2.2 to 5.2.2",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/dhaya/pull/40",
+      "title": "[Snyk] Security upgrade tailwindcss from 1.4.5 to 2.0.0",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/digital_authorization/pull/16",
+      "title": "[Snyk] Security upgrade com.docusign:docusign-esign-java from 3.3.0 to 3.19.0",
+      "stale_for": 20,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/trucks/pull/120",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/afterfloodinfographics/pull/53",
+      "title": "[Snyk] Security upgrade nuxt from 1.4.2 to 2.3.0",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/stay_be/pull/177",
+      "title": "[Snyk] Security upgrade swagger-ui-express from 4.1.4 to 4.2.0",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/stats/pull/138",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/coronacell/pull/118",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/coronaport/pull/127",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/coronapoint/pull/119",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/chat/pull/32",
+      "title": "[Snyk] Security upgrade twilio-ruby from 5.32.0 to 5.33.0",
+      "stale_for": 29,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/knowledge/pull/113",
+      "title": "[Snyk] Fix for 5 vulnerabilities",
+      "stale_for": 29,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/729",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/762"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/418",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/419"
+    }
+  ]
 }

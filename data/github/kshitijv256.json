@@ -1,6 +1,24 @@
 {
-  "last_updated": 1702307178.0,
+  "last_updated": 1702554351.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6840",
+      "time": 1702554351.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6840",
+      "text": "Added same logic for disabling in both mobile and desktop view",
+      "turnaround_time": 13862
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6840",
+      "time": 1702554351.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6840",
+      "text": "Added same logic for disabling in both mobile and desktop view",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6849",

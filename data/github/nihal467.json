@@ -1,6 +1,153 @@
 {
-  "last_updated": 1702488312.0,
+  "last_updated": 1702562683.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6867",
+      "time": 1702562683.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6867#issuecomment-1855913421",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6840",
+      "time": 1702554351.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6840",
+      "text": "Added same logic for disabling in both mobile and desktop view",
+      "collaborated_with": [
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6842",
+      "time": 1702554225.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6842",
+      "text": "Fix tooltip styling in the patient's dashboard.",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6841",
+      "time": 1702554205.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6841",
+      "text": "Fixed update button in bed management.",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6848",
+      "time": 1702554145.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6848",
+      "text": "Remove trailing spaces in textbox while adding new user.",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6852",
+      "time": 1702554121.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6852",
+      "text": "Sort wards by ward number in filters + adds utility method: `compareBy`",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6848",
+      "time": 1702549791.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6848#issuecomment-1855586593",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1702549075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#issuecomment-1855567089",
+      "text": "@GokulramGHV is it good for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6852",
+      "time": 1702548608.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6852#issuecomment-1855554096",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1702548157.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860#issuecomment-1855542087",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/8583a3e9-9b3c-44c7-9f1c-3c7595be3568)\r\n\r\nthe copy previous value to critical care is not working"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1702547879.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1855534653",
+      "text": "@sagarkori143 \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/ac270011-79ea-4f34-ae3e-0bfdb0981ce2)\r\n\r\nthe route field is not properly responsive"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702547460.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1855523956",
+      "text": "@sainak can you comment on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6842",
+      "time": 1702547051.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6842#issuecomment-1855512915",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6841",
+      "time": 1702546948.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6841#issuecomment-1855510101",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6840",
+      "time": 1702546798.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6840#issuecomment-1855506092",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6864",
+      "time": 1702545363.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6864",
+      "text": "Fixed Flaky Cypress Test in user tab",
+      "turnaround_time": 456
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6864",
+      "time": 1702544908.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6864",
+      "text": "Fixed Flaky Cypress Test in user tab"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6845",
+      "time": 1702541876.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6845",
+      "text": "use celery beat to check for pending migrations",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1760",
