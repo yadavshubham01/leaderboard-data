@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702555651.0,
+  "last_updated": 1702656429.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#162",
+      "time": 1702656429.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/162#issuecomment-1858119191",
+      "text": "Updated view @rithviknishad \r\n![image](https://github.com/coronasafe/leaderboard/assets/70687348/83cd099b-e966-4cda-860b-ef00fb270597)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1702642199.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860#issuecomment-1857785097",
+      "text": "@nihal467 copy from previous records seems to be working fine for me\r\nProbably check whether the patient you are testing on has a previous record of `Critical Care`\r\nI tried on patient `Gigin`\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/4d2ac913-7605-4fd4-b266-0252f848afd2)\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/899f706f-62db-4329-9bf2-055599ba6218)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1702641760.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1857776297",
+      "text": "Hey @Arzzam any updates on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6851",
+      "time": 1702641647.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#issuecomment-1857773904",
+      "text": "Fixes #6705 "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6808",
@@ -7015,7 +7043,7 @@
       "title": "Disable critical care submit if only basic editor is filled",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "needs testing"
       ]
     },
     {
@@ -7023,19 +7051,19 @@
       "title": "Add Consultation Specific route for Doctor Notes",
       "stale_for": 0,
       "labels": [
-        "work-in-progress"
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/162",
       "title": "Add metrics on contributors page",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
@@ -7043,7 +7071,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6808",
       "title": " Timeline style view for Daily Rounds",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -7051,7 +7079,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -7060,13 +7088,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": [
         "changes required"
       ]

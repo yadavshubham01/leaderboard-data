@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702563300.0,
+  "last_updated": 1702661196.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702661196.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858231038",
+      "text": "NO.. here is nothing like data/data-repo\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702660844.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858224032",
+      "text": "Still getting the same error on webpage and this on terminal:\r\n![image](https://github.com/coronasafe/leaderboard/assets/129517558/0bb49189-4776-4ea0-8242-010aed4b89f8)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702660416.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858215271",
+      "text": "@rithviknishad I'm having trouble in setting up the development environment. Getting this error after running npm run dev command.\r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/129517558/4ce61fe2-3334-4033-ab73-81e671fcae09)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702631631.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1857535833",
+      "text": "@rithviknishad Can you please assign it to me?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6854",
@@ -76,7 +104,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed"
       ]

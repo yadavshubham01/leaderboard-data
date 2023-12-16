@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702562683.0,
+  "last_updated": 1702643335.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6872",
+      "time": 1702643335.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6872#issuecomment-1857807445",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6869",
+      "time": 1702622980.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6869#issuecomment-1857365469",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6867",

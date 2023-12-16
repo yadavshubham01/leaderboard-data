@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702445280.0,
+  "last_updated": 1702635157.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6871",
+      "time": 1702635157.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6871",
+      "text": "Make consultation page more responsive"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6806",
@@ -315,11 +322,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6871",
+      "title": "Make consultation page more responsive",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "test failed"
+        "test failed",
+        "merge conflict"
       ]
     }
   ],

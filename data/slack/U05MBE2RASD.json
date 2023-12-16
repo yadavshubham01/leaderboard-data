@@ -1270,5 +1270,55 @@
                 }
             ]
         }
+    ],
+    "2023-12-15 00:00:00": [
+        {
+            "client_msg_id": "8061d9d9-73a6-425d-85ab-fb738de1b74b",
+            "type": "message",
+            "text": "EOD 15/12/2023\n\u2022 Sent a PR for making consultation page more responsive <https://github.com/coronasafe/care_fe/pull/6871|#6871>",
+            "user": "U05MBE2RASD",
+            "ts": "1702637290.733669",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "V+Pkw",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 15/12/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sent a PR for making consultation page more responsive "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6871",
+                                            "text": "#6871",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

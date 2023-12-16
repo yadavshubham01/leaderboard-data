@@ -1,6 +1,113 @@
 {
-  "last_updated": 1702569153.0,
+  "last_updated": 1702661121.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702661121.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858229539",
+      "text": "<img width=\"478\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/887ba210-cfcb-49a2-94ab-a6f211d6d688\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702661092.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858228930",
+      "text": "did the fixtures get pulled? are there files inside `data-repo` folder?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702660477.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858216542",
+      "text": "run `./load-fixtures.sh` before npm run dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702653250.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1784330929",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702653250.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1784330929",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6872",
+      "time": 1702643416.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6872",
+      "text": "daily rounds, clone last default to null",
+      "turnaround_time": 4460
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1775",
+      "time": 1702643153.0,
+      "link": "https://github.com/coronasafe/care/issues/1775",
+      "text": "Update validation for Daily Round form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6872",
+      "time": 1702638956.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6872",
+      "text": "daily rounds, clone last default to null"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6856",
+      "time": 1702631046.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6856#issuecomment-1857522934",
+      "text": "sure!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6869",
+      "time": 1702623094.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6869",
+      "text": "Hide \"Something went wrong\" notification when username conflict",
+      "turnaround_time": 507
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6869",
+      "time": 1702622587.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6869",
+      "text": "Hide \"Something went wrong\" notification when username conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6816",
+      "time": 1702622256.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6816#issuecomment-1857355934",
+      "text": "Closing as completed via 896f51bb3907a9e3103e3d77f4cb399353eda026"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6816",
+      "time": 1702622256.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6816",
+      "text": "Filters cache not working when switching accounts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702610883.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1783068428",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702610883.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1783068428",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#153",
@@ -30636,19 +30743,19 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/153",
       "title": "upgrade to nextjs 14",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "need Review"
       ]
@@ -30656,7 +30763,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "good to merge",
         "reviewed"
@@ -30665,7 +30772,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "Backend",
         "tested",
@@ -30675,7 +30782,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30684,7 +30791,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -30692,7 +30799,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end",
         "merge conflict"
