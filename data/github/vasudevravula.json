@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702443535.0,
+  "last_updated": 1702701315.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1763",
+      "time": 1702701315.0,
+      "link": "https://github.com/coronasafe/care/pull/1763#issuecomment-1858716347",
+      "text": "@rithviknishad Thanks for the detailed explanation of the issue. I'm checking to make the changes, can you please assign the API and UI issues to me when you get a chance?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1763",

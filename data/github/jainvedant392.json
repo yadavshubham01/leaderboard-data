@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702664297.0,
+  "last_updated": 1702723073.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702723073.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785161859",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702720278.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785157386",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702707926.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785137631",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702707832.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785137478",
+      "text": "feat: show correct error message for interval server errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6856",
@@ -260,7 +288,9 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6873",
       "title": "feat: show correct error message for interval server errors",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     }
   ],
   "authored_issue_and_pr": []

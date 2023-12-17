@@ -1,6 +1,48 @@
 {
-  "last_updated": 1702661121.0,
+  "last_updated": 1702724327.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702724327.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785163804",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702716675.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785151244",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702702642.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858720402",
+      "text": "Have a look at the `load-fixtures.sh` file. It simply creates a directory and clones the data repo inside it.\r\n\r\n(I'm not 100% sure if it works on windows)\r\n\r\nCan you try in WSL / Linux?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1702702458.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1858719854",
+      "text": "AFAIK the pincode API was down yesterday. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702689152.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785093718",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702689151.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1785093718",
+      "text": "feat: show correct error message for interval server errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#171",
@@ -30743,19 +30785,19 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/153",
       "title": "upgrade to nextjs 14",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "need Review"
       ]
@@ -30763,7 +30805,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "good to merge",
         "reviewed"
@@ -30772,7 +30814,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "Backend",
         "tested",
@@ -30782,7 +30824,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30791,7 +30833,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -30799,7 +30841,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end",
         "merge conflict"

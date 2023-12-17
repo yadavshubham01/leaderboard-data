@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701879152.0,
+  "last_updated": 1702731610.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1702731610.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1858813094",
+      "text": "Yes it will affect, so that have to change the overflow behaviour for the main page and need to apply it to all the specific pages."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1702726713.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1858796850",
+      "text": "As I see, the board it implemented in different flow, As I \r\n\r\n<img width=\"1440\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/92790024/b4ca5371-9881-492a-a257-b9503647357a\">\r\n\r\nIf we wonna set this on top header to be in fixed position, we have to change the rendering methods or we can change by having separate scroll for every columns. \r\n<img width=\"1440\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/92790024/f1b1ef44-40ba-468f-9459-d81a9175295c\">\r\n\r\n<img width=\"1440\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/92790024/728c08f6-7cb3-4bec-9cd5-e80865910843\">\r\n\r\nWe can do it like this and prevent the overflow down to the page and need to change the app router overflow y scroll to max height to the screen and have to change all children pages to have scroll behaviour to prevent whole body scrolling while overflow. so that we won't have the extra scroll when there is no elements are overflow in the main page.\r\n\r\nIf we have separate scroll for each column, we can have table headers on the top, it will only scroll only the below content.\r\n\r\nProvide your suggestion to continue my progress.\r\n\r\nThank you. Give me your suggestions and feedback."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701762989.0,
+  "last_updated": 1702693155.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1702693155.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1858683519",
+      "text": "@rithviknishad \r\nThe autofill for the Pincode is not working. The API request for it is not providing the correct response. It's also not functioning properly in the deployment at https://care.ohc.network/facility/create."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1702690563.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1858668731",
+      "text": "@rithviknishad \r\nPlease review the changes."
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6796",
@@ -471,7 +485,8 @@
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "merge conflict"
       ]
     }
   ],

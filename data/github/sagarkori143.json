@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702661196.0,
+  "last_updated": 1702738725.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702738725.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858837713",
+      "text": "@rithviknishad What else can I do now? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1702736405.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1858829909",
+      "text": "@nihal467 Is it OK if I do overflow hidden for these boxes content as I have seen the same thing on some other pages too.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/3a6b3481-1a5d-459a-ba3c-4ec82cc59e75)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1702713609.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1858754688",
+      "text": "Sorry, I currently don't have WSL/Linux set up."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#171",
@@ -104,7 +125,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "test failed"
       ]

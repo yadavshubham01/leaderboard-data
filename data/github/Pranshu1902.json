@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702656429.0,
+  "last_updated": 1702727992.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1702727992.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1858800739",
+      "text": "@Arzzam a quick way would be to restrict the height of the component so that the whole page doesn't scroll as you showed in the last screenshot. Also, the arrows need to be placed inside the component and not on the sides, keep it like a floating button. \r\n\r\nI don't think you need to modify it in the app router coz it will affect all pages\r\ncc @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#162",
@@ -7041,7 +7048,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6860",
       "title": "Disable critical care submit if only basic editor is filled",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -7051,7 +7058,7 @@
       "title": "Add Consultation Specific route for Doctor Notes",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "work-in-progress"
       ]
     },
     {
@@ -7063,7 +7070,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -7071,7 +7078,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6808",
       "title": " Timeline style view for Daily Rounds",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -7079,7 +7086,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -7088,13 +7095,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": [
         "changes required"
       ]
