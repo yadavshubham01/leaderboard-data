@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702723073.0,
+  "last_updated": 1702798101.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702798101.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1859060946",
+      "text": "Hello @rithviknishad, could you please answer a doubt of mine? Whenever I run the project locally, the first page which appears is the login page. But since I don't have any account, so how can I navigate to other pages of the site for working on them. Are there any credentials through which I can login to the site."
+    },
     {
       "type": "pr_reviewed",
       "time": 1702723073.0,
@@ -287,7 +294,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6873",
       "title": "feat: show correct error message for interval server errors",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
