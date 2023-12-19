@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702312070.0,
+  "last_updated": 1702885688.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1760",
+      "time": 1702885688.0,
+      "link": "https://github.com/coronasafe/care/pull/1760#issuecomment-1859710219",
+      "text": "Something feels off about the migration, why is it showing that a migration was edited , cc @sainak "
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6693",

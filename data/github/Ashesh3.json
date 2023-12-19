@@ -1,6 +1,57 @@
 {
-  "last_updated": 1702570294.0,
+  "last_updated": 1702906026.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#146",
+      "time": 1702906026.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/146",
+      "text": "Upgrade to latest Next js version"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702904912.0,
+      "title": "coronasafe/ayushma_fe#157",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/157#pullrequestreview-1786862229",
+      "text": "Upgrade to NextJS 14"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#156",
+      "time": 1702904119.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/156",
+      "text": "Fix audio recorder functionality on Apple devices",
+      "turnaround_time": 1759
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#156",
+      "time": 1702902361.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/156",
+      "text": "Fix audio recorder functionality on Apple devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#154",
+      "time": 1702897521.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/154",
+      "text": "Add Sentry configuration files",
+      "turnaround_time": 10975
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1760",
+      "time": 1702890320.0,
+      "link": "https://github.com/coronasafe/care/pull/1760#issuecomment-1859849285",
+      "text": "> Something feels off about the migration, why is it showing that a migration was edited , cc @sainak\r\n\r\nWhile resolving a merge conflict with the migration, I might have moved one of the previous migrations after this PR's migration \ud83d\ude05 . I've fixed that, should be fine now. could you review?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#154",
+      "time": 1702886546.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/154",
+      "text": "Add Sentry configuration files"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#153",
@@ -14888,13 +14939,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6863",
       "title": "Update GitHub action versions",
-      "stale_for": 0,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -14902,7 +14953,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1760",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -14910,17 +14961,18 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6831",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "tested",
         "P1",
-        "waiting for back end"
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "waiting for back end"
       ]
@@ -14928,7 +14980,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 11,
+      "stale_for": 15,
       "labels": [
         "waiting-for-review"
       ]
@@ -14936,7 +14988,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 70,
+      "stale_for": 74,
       "labels": [
         "POC"
       ]
@@ -14944,7 +14996,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 254,
+      "stale_for": 258,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -14953,13 +15005,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 267,
+      "stale_for": 271,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 77,
+      "stale_for": 81,
       "labels": [
         "blocked"
       ]

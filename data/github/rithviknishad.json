@@ -1,6 +1,63 @@
 {
-  "last_updated": 1702724327.0,
+  "last_updated": 1702913971.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1702913971.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1787179856",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702913971.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1787179856",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#157",
+      "time": 1702906026.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/157",
+      "text": "Upgrade to NextJS 14",
+      "turnaround_time": 1638
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#153",
+      "time": 1702904774.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/153#issuecomment-1860451178",
+      "text": "Closing in favour of #157"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#157",
+      "time": 1702904387.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/157",
+      "text": "Upgrade to NextJS 14"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#136",
+      "time": 1702872916.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/136",
+      "text": "Show leaderboard metrics in contributor profile too"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702872893.0,
+      "title": "coronasafe/leaderboard#162",
+      "link": "https://github.com/coronasafe/leaderboard/pull/162#pullrequestreview-1785821018",
+      "text": "Add metrics on contributors page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1702872465.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1859518467",
+      "text": "Have you read the README?\r\n\r\nhttps://github.com/coronasafe/care_fe/?tab=readme-ov-file#-staging-api-credentials"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702724327.0,
@@ -30783,21 +30840,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/153",
-      "title": "upgrade to nextjs 14",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/10bedicu/pull/75",
       "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6777",
       "title": "thank everyone (including fork branches)",
-      "stale_for": 15,
+      "stale_for": 17,
       "labels": [
         "need Review"
       ]
@@ -30805,7 +30856,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6725",
       "title": "Remove Copilot for PR tags",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "good to merge",
         "reviewed"
@@ -30814,7 +30865,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "Backend",
         "tested",
@@ -30824,7 +30875,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30833,7 +30884,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": [
         "waiting-for-review"
       ]
@@ -30841,7 +30892,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "waiting for back end",
         "merge conflict"
