@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702885688.0,
+  "last_updated": 1703002183.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703002183.0,
+      "title": "coronasafe/care#1760",
+      "link": "https://github.com/coronasafe/care/pull/1760#pullrequestreview-1789233163",
+      "text": "Add Telemedicine as a rounds type option"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1760",

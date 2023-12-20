@@ -1,6 +1,93 @@
 {
-  "last_updated": 1702913971.0,
+  "last_updated": 1702991695.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6725",
+      "time": 1702991695.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6725",
+      "text": "Remove Copilot for PR tags",
+      "turnaround_time": 11513
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6777",
+      "time": 1702991668.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6777",
+      "text": "thank everyone (including fork branches)",
+      "turnaround_time": 72506
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#6",
+      "time": 1702989124.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/6",
+      "text": "Leaderboard submodule"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#75",
+      "time": 1702988811.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/75#issuecomment-1862668562",
+      "text": "Closing as not required."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#186",
+      "time": 1702988617.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/186",
+      "text": "Markdown content is not being rendered"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#187",
+      "time": 1702988616.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/187",
+      "text": "Fix Markdown not being rendered",
+      "turnaround_time": 210
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#187",
+      "time": 1702988509.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/187",
+      "text": "Fix Markdown not being rendered"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#186",
+      "time": 1702988407.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/186",
+      "text": "Markdown content is not being rendered"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702987009.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1788717682",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702986618.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1788706455",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702986618.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1788706455",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702979596.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1788497828",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702913971.0,
@@ -30840,32 +30927,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/10bedicu/pull/75",
-      "title": "Update workflow to use github actions account to commit changes",
-      "stale_for": 14,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6777",
-      "title": "thank everyone (including fork branches)",
-      "stale_for": 17,
-      "labels": [
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6725",
-      "title": "Remove Copilot for PR tags",
-      "stale_for": 5,
-      "labels": [
-        "good to merge",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "Backend",
         "tested",
@@ -30875,7 +30939,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1728",
       "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -30884,7 +30948,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "waiting-for-review"
       ]
@@ -30892,7 +30956,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -30900,6 +30964,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/186",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/187"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/183",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/185"

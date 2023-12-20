@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702738725.0,
+  "last_updated": 1703003407.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6877",
+      "time": 1703003407.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6877#issuecomment-1863095461",
+      "text": "Can you please assign this issue to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1703003002.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1863082365",
+      "text": "@nihal467 A friendly reminder. Please let me know if I can move ahead with this solution and commit the changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703002883.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1863078901",
+      "text": "@rithviknishad It's a friendly reminder. Please suggest me a way so that I could set up the local development environment and start working on issues."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703002783.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1863076086",
+      "text": "@rithviknishad  Friendly reminder."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#171",

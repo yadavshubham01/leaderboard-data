@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702554225.0,
+  "last_updated": 1703010498.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6878",
+      "time": 1703010498.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6878#issuecomment-1863280952",
+      "text": "@rithviknishad can u check once "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6878",
+      "time": 1703010327.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6878",
+      "text": "Removed Date of Positive & Negative in Treatment Summary"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1702999396.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1862974220",
+      "text": "Can you assign this to me?"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6842",
@@ -920,7 +941,14 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6878",
+      "title": "Removed Date of Positive & Negative in Treatment Summary",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",

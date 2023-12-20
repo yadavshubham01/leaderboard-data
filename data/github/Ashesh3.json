@@ -1,6 +1,28 @@
 {
-  "last_updated": 1702906026.0,
+  "last_updated": 1703002192.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1760",
+      "time": 1703002192.0,
+      "link": "https://github.com/coronasafe/care/pull/1760",
+      "text": "Add Telemedicine as a rounds type option",
+      "turnaround_time": 16252
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1702985935.0,
+      "title": "coronasafe/care_fe#6875",
+      "link": "https://github.com/coronasafe/care_fe/pull/6875#pullrequestreview-1788689381",
+      "text": "Use resolved_middleware for overrides"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6875",
+      "time": 1702985782.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6875",
+      "text": "Use resolved_middleware for overrides"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma_fe#146",
@@ -14937,23 +14959,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6875",
+      "title": "Use resolved_middleware for overrides",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6863",
       "title": "Update GitHub action versions",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 6,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1760",
-      "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 0,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -14961,7 +14981,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6831",
       "title": "Add Telemedicine as a rounds type option",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "tested",
         "P1",
@@ -14972,7 +14992,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting for back end"
       ]
@@ -14980,7 +15000,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting-for-review"
       ]
@@ -14988,7 +15008,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 74,
+      "stale_for": 75,
       "labels": [
         "POC"
       ]
@@ -14996,7 +15016,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 258,
+      "stale_for": 259,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15005,13 +15025,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 271,
+      "stale_for": 272,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 81,
+      "stale_for": 82,
       "labels": [
         "blocked"
       ]

@@ -1,6 +1,48 @@
 {
-  "last_updated": 1702643335.0,
+  "last_updated": 1702972283.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1702972283.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1862275552",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/58e93f2c-7f74-431b-871a-f1664d585402)\r\n\r\nwhen we apply the log update filters, the loading state looks weird,"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1702971995.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1862270625",
+      "text": "@shyamprakash123 fix the failing cypress test, you should be fixing cypress with running care in the local frontend and backend by loading dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6696",
+      "time": 1702970389.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6696#issuecomment-1862242467",
+      "text": "@krushn-a what is the status on this PR\r\n\r\ncc: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1702970173.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1862239000",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/b4d7c4b0-3338-4b56-89f5-a903c7218299)\r\n\r\n- [ ] The above is the SS of the comment I made in the initial testing of this PR, Are all the issues addressed and fixed in the PR?\r\n- [ ] Attached a demo video of the PR,  so to make sure all the functionality are working well, before the QA process starts"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1702967119.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860#issuecomment-1862194034",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6868",
+      "time": 1702966748.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6868#issuecomment-1862189130",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6872",

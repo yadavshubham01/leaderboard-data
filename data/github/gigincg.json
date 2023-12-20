@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702564702.0,
+  "last_updated": 1702999488.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1702999488.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1862976825",
+      "text": "@kshitijv256 Assigned it to @AshrafMd-1 since it's an very urgent issue. \r\n\r\nWill be filing a few more issues this week. \r\n\r\ncc: @nihal467 Please prioritize this issue. It is vital that we ship it this week.\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1702997019.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876",
+      "text": "Remove Date of Positive & Date of Negative in Treatment Summary"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702564702.0,
@@ -6687,7 +6701,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 2,
+      "stale_for": 7,
       "labels": [
         "In Progress"
       ]
