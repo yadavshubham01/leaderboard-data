@@ -1,6 +1,35 @@
 {
-  "last_updated": 1702883782.0,
+  "last_updated": 1703088237.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703088237.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#issuecomment-1864743724",
+      "text": "Thanks for merging!!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703084248.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873",
+      "text": "feat: show correct error message for interval server errors",
+      "turnaround_time": 80189
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703070082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#issuecomment-1864276784",
+      "text": "OK sure."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703057566.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#issuecomment-1863983929",
+      "text": "Hello @rithviknishad, friendly reminder for testing the pull request. Thanks."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6745",
@@ -304,15 +333,6 @@
       "text": "Hello @rithviknishad, I would really love to contribute to and solve this issue, as I am familiar with the tech-stack and the required frontend to solve this issue. So could you please assign me this issue?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6873",
-      "title": "feat: show correct error message for interval server errors",
-      "stale_for": 2,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

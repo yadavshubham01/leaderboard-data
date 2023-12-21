@@ -1,6 +1,146 @@
 {
-  "last_updated": 1702991660.0,
+  "last_updated": 1703084671.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6705",
+      "time": 1703084671.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6705",
+      "text": "Replace useDispatch with useQuery in Doctor Notes related components"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6818",
+      "time": 1703084671.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6818",
+      "text": "Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084636.0,
+      "title": "coronasafe/care_fe#6851",
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#pullrequestreview-1791086371",
+      "text": "Add Consultation Specific route for Doctor Notes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6843",
+      "time": 1703084357.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6843",
+      "text": "UI for Location Management Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084336.0,
+      "title": "coronasafe/care_fe#6853",
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#pullrequestreview-1791071317",
+      "text": "Redesign location card UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6798",
+      "time": 1703084316.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6798",
+      "text": "Update GitHub Actions for Node.js 16 Compatibility and Deprecated Commands"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084301.0,
+      "title": "coronasafe/care_fe#6863",
+      "link": "https://github.com/coronasafe/care_fe/pull/6863#pullrequestreview-1791070067",
+      "text": "Update GitHub action versions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6815",
+      "time": 1703084248.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6815",
+      "text": "Report correct error message for internal server error"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084241.0,
+      "title": "coronasafe/care_fe#6873",
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#pullrequestreview-1791068017",
+      "text": "feat: show correct error message for interval server errors"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1703084190.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876",
+      "text": "Remove Date of Positive & Date of Negative in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084181.0,
+      "title": "coronasafe/care_fe#6878",
+      "link": "https://github.com/coronasafe/care_fe/pull/6878#pullrequestreview-1791065626",
+      "text": "Removed Date of Positive & Negative in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703084113.0,
+      "title": "coronasafe/care_fe#6884",
+      "link": "https://github.com/coronasafe/care_fe/pull/6884#pullrequestreview-1791062557",
+      "text": "Fix pincode API"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6676",
+      "time": 1703081958.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6676",
+      "text": "Log Update: Round types: Telemedicine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703081938.0,
+      "title": "coronasafe/care_fe#6831",
+      "link": "https://github.com/coronasafe/care_fe/pull/6831#pullrequestreview-1790990350",
+      "text": "Add Telemedicine as a rounds type option"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6883",
+      "time": 1703081680.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6883",
+      "text": "Create a event timeline"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703073691.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1790754847",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703073491.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1790746624",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703073491.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1790746624",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6855",
+      "time": 1703060925.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6855",
+      "text": "User shouldn't be able to submit an empty Record Update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703060916.0,
+      "title": "coronasafe/care_fe#6860",
+      "link": "https://github.com/coronasafe/care_fe/pull/6860#pullrequestreview-1790399827",
+      "text": "Disable critical care submit if only basic editor is filled"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702991660.0,
@@ -26485,7 +26625,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -26493,19 +26633,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 375,
+      "stale_for": 376,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 132,
+      "stale_for": 133,
       "labels": [
         "changes required"
       ]
@@ -26513,25 +26653,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 732,
+      "stale_for": 733,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 738,
+      "stale_for": 739,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 739,
+      "stale_for": 740,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 934,
+      "stale_for": 935,
       "labels": []
     }
   ],

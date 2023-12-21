@@ -1,6 +1,38 @@
 {
-  "last_updated": 1702551479.0,
+  "last_updated": 1703084356.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1703084356.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853",
+      "text": "Redesign location card UI",
+      "turnaround_time": 22265
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1703084356.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853",
+      "text": "Redesign location card UI",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1703082350.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#issuecomment-1864564631",
+      "text": "@nihal467 As per the discussion with @gigincg, we can work on the other changes in the card such as colours for labels and  displaying bed count by addressing them in separate issues.\r\nThis PR is ready to be tested."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1703082189.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1864560236",
+      "text": "@nihal467 Can you check now?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6853",
@@ -3017,21 +3049,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6853",
-      "title": "Redesign location card UI",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 7,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 0,
+      "stale_for": 6,
       "labels": [
         "waiting for confirmation"
       ]
@@ -3039,7 +3065,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 16,
+      "stale_for": 22,
       "labels": [
         "test failed",
         "waiting for back end"
@@ -3048,7 +3074,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 8,
+      "stale_for": 14,
       "labels": [
         "changes required"
       ]
@@ -3056,7 +3082,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "changes required",
         "waiting for back end"

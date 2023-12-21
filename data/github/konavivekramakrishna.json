@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703003166.0,
+  "last_updated": 1703098865.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1778",
+      "time": 1703098865.0,
+      "link": "https://github.com/coronasafe/care/issues/1778",
+      "text": "Status Code Error "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1703075551.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#issuecomment-1864397999",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/cb406444-8399-496b-9d38-0f20339c2bb4)\r\n\r\n\r\n@rithviknishad \r\n\r\nis this expected behavior or should I create an issue in backend\r\nthe status code should 404 instead it is 500"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6877",
@@ -742,15 +756,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6857",
       "title": "Support for self-healing Consultation URL",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6790",
       "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "stale"
       ]
@@ -758,7 +773,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     }
   ],

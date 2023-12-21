@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702635157.0,
+  "last_updated": 1703060147.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6880",
+      "time": 1703060147.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6880#issuecomment-1864043028",
+      "text": "Video upload is failing. I'll update description with video recording later."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6880",
+      "time": 1703060083.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6880",
+      "text": "Fix mispositioned active link indicator"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6879",
+      "time": 1703049519.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6879#issuecomment-1863869108",
+      "text": "@rithviknishad, can you please assign this to me. I've tried a fix for this that seems to work well."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6879",
+      "time": 1703049380.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "text": "Sidebar link indicator is misplaced if font size is other than default one."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6871",
@@ -322,15 +350,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6880",
+      "title": "Fix mispositioned active link indicator",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "discussion"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6871",
       "title": "Make consultation page more responsive",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required",
+        "discussion"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 0,
+      "stale_for": 5,
       "labels": [
         "test failed",
         "merge conflict"

@@ -1,6 +1,115 @@
 {
-  "last_updated": 1702991695.0,
+  "last_updated": 1703089571.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1728",
+      "time": 1703089571.0,
+      "link": "https://github.com/coronasafe/care/pull/1728",
+      "text": "Rename `admission_date` to `encounter_date` and clean column",
+      "turnaround_time": 30540
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1728",
+      "time": 1703089571.0,
+      "link": "https://github.com/coronasafe/care/pull/1728",
+      "text": "Rename `admission_date` to `encounter_date` and clean column",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703082057.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1790994319",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1703081026.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#issuecomment-1864529334",
+      "text": "you can create an issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6857",
+      "time": 1703081002.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6857#issuecomment-1864528697",
+      "text": "yup"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703074530.0,
+      "title": "coronasafe/care_fe#6878",
+      "link": "https://github.com/coronasafe/care_fe/pull/6878#pullrequestreview-1790775681",
+      "text": "Removed Date of Positive & Negative in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703073377.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1790746105",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703073060.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1790738122",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703064080.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#issuecomment-1864126868",
+      "text": "@nihal467 will be testing the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703047530.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1863837451",
+      "text": "You could also try running the commands inside the `load-fixtures.sh` file manually/individually and figure out what exactly is not working."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703047391.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1863836096",
+      "text": "@sagarkori143 unable to replicate the issue. WSL / Linux is preferred for development. Could you try setting up one and try again?\r\n\r\nAttached screenshot where I tried doing `ls` before and after performing `./load-fixtures.sh`\r\n\r\n<img width=\"1566\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/414e4451-26c7-4a47-9784-efcb6c5053ee\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1703046907.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1863831300",
+      "text": "I don't think it's okay to hide information (especially in a reusable component where that is the only component that shows the detailed view of the prescription).\r\n\r\nWas there any issues in achieving the following?\r\n\r\n> Select for administration section can come below the prescriptions detail card whenever there is not enough screen space.\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703046682.0,
+      "title": "coronasafe/care_fe#6868",
+      "link": "https://github.com/coronasafe/care_fe/pull/6868#pullrequestreview-1790142844",
+      "text": "Hide Camera Feed button for patient with no bed assigned."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703046682.0,
+      "title": "coronasafe/care_fe#6868",
+      "link": "https://github.com/coronasafe/care_fe/pull/6868#pullrequestreview-1790142844",
+      "text": "Hide Camera Feed button for patient with no bed assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1703046493.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1863827373",
+      "text": "@gigincg should we also remove the field from being captured in patient registration?\r\n\r\ncc: @AshrafMd-1 \r\n\r\n<img width=\"2672\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/03272f30-1947-43cb-9b91-840a441645b2\">\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6725",
@@ -30929,7 +31038,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6719",
       "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "Backend",
         "tested",
@@ -30937,18 +31046,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1728",
-      "title": "Rename `admission_date` to `encounter_date` and clean column",
-      "stale_for": 7,
-      "labels": [
-        "waiting-for-review",
-        "P2"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "waiting-for-review"
       ]
@@ -30956,7 +31056,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -31027,6 +31127,10 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
       "pr_link": "https://github.com/coronasafe/care/pull/1734"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6727",
+      "pr_link": "https://github.com/coronasafe/care/pull/1728"
     }
   ]
 }

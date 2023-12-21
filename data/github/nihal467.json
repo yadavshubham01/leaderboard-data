@@ -1,6 +1,127 @@
 {
-  "last_updated": 1702972283.0,
+  "last_updated": 1703085468.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703085468.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1864652550",
+      "text": "@sriharsh05 can you clear the merge conflict"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1703084356.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853",
+      "text": "Redesign location card UI",
+      "collaborated_with": [
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6863",
+      "time": 1703084315.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6863",
+      "text": "Update GitHub action versions",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6878",
+      "time": 1703084013.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6878#issuecomment-1864610594",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6880",
+      "time": 1703083901.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6880#issuecomment-1864607614",
+      "text": "@Omkar76 marking it for discussion, the link width is increased, which seems a little bit weird to me, for taking others opinion"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6884",
+      "time": 1703083711.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6884#issuecomment-1864602628",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6853",
+      "time": 1703083296.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6853#issuecomment-1864590838",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6863",
+      "time": 1703083242.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6863#issuecomment-1864589274",
+      "text": "@khavinshankar can you review it, from my side the cypress is looking good"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703082948.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1791023523",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6873",
+      "time": 1703082920.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6873#issuecomment-1864580194",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6871",
+      "time": 1703082354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6871#issuecomment-1864564747",
+      "text": "@Omkar76 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/cc0d97f9-5b48-4d2d-b25e-bbebeb63df98)\r\n\r\n- [ ] This responsive view doesn't look good, can you have a better approach, marking it for discussion to have an opinion from others as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6851",
+      "time": 1703082198.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6851#issuecomment-1864560476",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703082090.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1864557580",
+      "text": "@Pranshu1902 clear the merge conflict for testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1703081300.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1864536651",
+      "text": "@GokulramGHV rebase it to the latest bro because I am unable to load dummy data."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6512",
+      "time": 1703072942.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1864340689",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1703060924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860",
+      "text": "Disable critical care submit if only basic editor is filled",
+      "collaborated_with": [
+        "Pranshu1902"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6808",

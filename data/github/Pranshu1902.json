@@ -1,6 +1,32 @@
 {
-  "last_updated": 1702986853.0,
+  "last_updated": 1703084670.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6851",
+      "time": 1703084670.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6851",
+      "text": "Add Consultation Specific route for Doctor Notes",
+      "turnaround_time": 60074
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1703060924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860",
+      "text": "Disable critical care submit if only basic editor is filled",
+      "turnaround_time": 53314
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6860",
+      "time": 1703060924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6860",
+      "text": "Disable critical care submit if only basic editor is filled",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1702986853.0,
@@ -7096,25 +7122,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6860",
-      "title": "Disable critical care submit if only basic editor is filled",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6851",
-      "title": "Add Consultation Specific route for Doctor Notes",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -7124,13 +7134,14 @@
       "title": " Timeline style view for Daily Rounds",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "changes required",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -7139,19 +7150,23 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": [
         "changes required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6860"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1761",
       "pr_link": "https://github.com/coronasafe/care/pull/1762"

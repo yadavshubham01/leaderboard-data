@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702999488.0,
+  "last_updated": 1703096632.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6886",
+      "time": 1703096632.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6886",
+      "text": "Fix Loading State in Update Log List"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6885",
+      "time": 1703096376.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6885",
+      "text": "Add IP Number in Treatment Summary"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6876",
+      "time": 1703074477.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6876#issuecomment-1864374570",
+      "text": "@rithviknishad Let the fields be there. Just needs to be removed from Treatment Summary"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6876",
@@ -6701,7 +6722,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "In Progress"
       ]

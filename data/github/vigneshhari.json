@@ -1,6 +1,51 @@
 {
-  "last_updated": 1703002183.0,
+  "last_updated": 1703089802.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1551",
+      "time": 1703089802.0,
+      "link": "https://github.com/coronasafe/care/issues/1551",
+      "text": "Remove prescriptionSupplier APIs"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1755",
+      "time": 1703089801.0,
+      "link": "https://github.com/coronasafe/care/pull/1755",
+      "text": "remove prescription suppliers components",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703089783.0,
+      "title": "coronasafe/care#1755",
+      "link": "https://github.com/coronasafe/care/pull/1755#pullrequestreview-1791269937",
+      "text": "remove prescription suppliers components"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1680",
+      "time": 1703089697.0,
+      "link": "https://github.com/coronasafe/care/pull/1680#issuecomment-1864780283",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6727",
+      "time": 1703089572.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6727",
+      "text": "Admission Date's time is missing from discharge summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703089560.0,
+      "title": "coronasafe/care#1728",
+      "link": "https://github.com/coronasafe/care/pull/1728#pullrequestreview-1791263288",
+      "text": "Rename `admission_date` to `encounter_date` and clean column"
+    },
     {
       "type": "pr_reviewed",
       "time": 1703002183.0,

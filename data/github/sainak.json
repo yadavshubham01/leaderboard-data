@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702666757.0,
+  "last_updated": 1703089801.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1755",
+      "time": 1703089801.0,
+      "link": "https://github.com/coronasafe/care/pull/1755",
+      "text": "remove prescription suppliers components",
+      "turnaround_time": 79876
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1755",
+      "time": 1703089801.0,
+      "link": "https://github.com/coronasafe/care/pull/1755",
+      "text": "remove prescription suppliers components",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1728",
+      "time": 1703089571.0,
+      "link": "https://github.com/coronasafe/care/pull/1728",
+      "text": "Rename `admission_date` to `encounter_date` and clean column",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1702666757.0,
@@ -7714,15 +7742,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1755",
-      "title": "remove prescription suppliers components",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 19,
+      "stale_for": 24,
       "labels": [
         "blocked",
         "changes required",
@@ -7733,7 +7755,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 94,
+      "stale_for": 99,
       "labels": [
         "In progress"
       ]
@@ -7741,19 +7763,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 8,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 148,
+      "stale_for": 153,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 73,
+      "stale_for": 78,
       "labels": []
     }
   ],
