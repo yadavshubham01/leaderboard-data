@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703003407.0,
+  "last_updated": 1703151332.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#189",
+      "time": 1703151332.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/189#issuecomment-1865941862",
+      "text": "@rithviknishad Is it about the labels like \"in last 7 days\" or \"pull requests\" ?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6877",
@@ -153,7 +160,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed"
       ]

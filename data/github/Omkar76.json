@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703060147.0,
+  "last_updated": 1703177663.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6871",
+      "time": 1703177663.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6871#issuecomment-1866641242",
+      "text": "Some mockups as per todays discussion.\r\n\r\nOriginal on Ipad Air\r\n![air og](https://github.com/coronasafe/care_fe/assets/56870381/03cdb09c-ef58-453d-9a36-fa81f6c7f82e)\r\n\r\njustifying the items to left and right ends\r\n![justifying the items to left and right ends](https://github.com/coronasafe/care_fe/assets/56870381/e5e5b81e-cd76-4a65-8da3-fb6506e00f95)\r\n\r\nReduce padding arounds mews and columize the patient details. Maybe we can leave the chips (age, gender) be a row.\r\n\r\n![reduce padding around mews and columize the patient details](https://github.com/coronasafe/care_fe/assets/56870381/f6cb5877-3a48-4f49-95fd-1b57e5202e80)\r\n\r\nUsing 3 columns. I like this little better. can maybe center the those buttons (edit, log, show more)\r\n \r\n![3 column way](https://github.com/coronasafe/care_fe/assets/56870381/a2435775-3809-46b7-a174-0fe441484498)\r\n\r\n3 columns buttons. and button width full row. Possibly limit the width of buttons after certain brekpoint?\r\n![3 columns button full row](https://github.com/coronasafe/care_fe/assets/56870381/6a7bf78c-f772-43f3-8da9-c59fc3485ebc)\r\n\r\nLet me know if there is any other variation I can try. Thanks.\r\n\r\ncc: @nihal467"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6880",
@@ -352,7 +359,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6880",
       "title": "Fix mispositioned active link indicator",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "discussion"
@@ -370,7 +377,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "test failed",
         "merge conflict"

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703085468.0,
+  "last_updated": 1703159330.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1703159330.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891",
+      "text": "Cache only the advance filters across the platform"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6591",

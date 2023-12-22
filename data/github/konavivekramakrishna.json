@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703098865.0,
+  "last_updated": 1703176795.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6893",
+      "time": 1703176795.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6893",
+      "text": "Support for self-healing Consultation URL "
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1778",
@@ -754,26 +761,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6857",
-      "title": "Support for self-healing Consultation URL",
+      "link": "https://github.com/coronasafe/care_fe/pull/6893",
+      "title": "Support for self-healing Consultation URL ",
       "stale_for": 0,
       "labels": [
-        "changes required",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6790",
-      "title": "Fixes Selected location not being shown for some cases in Assets",
-      "stale_for": 7,
-      "labels": [
-        "stale"
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     }
   ],

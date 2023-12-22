@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703090917.0,
+  "last_updated": 1703183837.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6892",
+      "time": 1703183837.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#issuecomment-1866772020",
+      "text": "@rithviknishad \nPlease review the changes."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6892",
+      "time": 1703167357.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6892",
+      "text": "Replace all window.location.reload() with data refetch."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6591",
@@ -488,12 +502,19 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6892",
+      "title": "Replace all window.location.reload() with data refetch.",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6591",
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "changes required",
-        "merge conflict"
+        "needs testing"
       ]
     }
   ],

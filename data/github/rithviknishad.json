@@ -1,6 +1,113 @@
 {
-  "last_updated": 1703089571.0,
+  "last_updated": 1703180413.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703180413.0,
+      "title": "coronasafe/care_fe#6893",
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#pullrequestreview-1793415521",
+      "text": "Support for self-healing Consultation URL "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703180413.0,
+      "title": "coronasafe/care_fe#6893",
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#pullrequestreview-1793415521",
+      "text": "Support for self-healing Consultation URL "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703169969.0,
+      "title": "coronasafe/care_fe#6892",
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#pullrequestreview-1793104666",
+      "text": "Replace all window.location.reload() with data refetch."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703169969.0,
+      "title": "coronasafe/care_fe#6892",
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#pullrequestreview-1793104666",
+      "text": "Replace all window.location.reload() with data refetch."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#189",
+      "time": 1703153366.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/189#issuecomment-1865988590",
+      "text": "My bad, forgot to mention that. It's about \r\n\r\n<number> in last 7 days"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#189",
+      "time": 1703151145.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/189",
+      "text": "Last week highlights in contributor profile is not visible properly in light theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1703144085.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "text": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6888",
+      "time": 1703143868.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6888",
+      "text": "\ud83d\udee0\ufe0f Replace `useDispatch` w. `useQuery`/`request`: Common (`src/Components/Common/**`)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703141898.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188",
+      "text": "Format \"PR Collaborated\" event's title"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6887",
+      "time": 1703136926.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6887",
+      "text": "\ud83e\uddf9 Remove unused redux actions, fireRequest for file utility method, hooks and components",
+      "turnaround_time": 190
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6719",
+      "time": 1703136745.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6719",
+      "text": "Rename \"Admission Date\" to encounter specific labels",
+      "turnaround_time": 82771
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6887",
+      "time": 1703136737.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6887",
+      "text": "Remove unused redux actions, fireRequest for file utility method, hooks and components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703135457.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1792206100",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6608",
+      "time": 1703132337.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6608#issuecomment-1865453998",
+      "text": "@xakep8 unassigning as the related PR has not been followed up"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6886",
+      "time": 1703132279.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6886#issuecomment-1865453463",
+      "text": "Fix present in https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1862275552"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1728",
@@ -31036,19 +31143,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6719",
-      "title": "Rename \"Admission Date\" to encounter specific labels",
-      "stale_for": 14,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
+      "stale_for": 0,
       "labels": [
-        "Backend",
-        "tested",
-        "waiting for back end"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -31056,7 +31161,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting for back end",
         "merge conflict"
