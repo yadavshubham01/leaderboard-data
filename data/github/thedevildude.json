@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702307178.0,
+  "last_updated": 1703246862.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6771",
+      "time": 1703246862.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1867611566",
+      "text": "@rithviknishad I've started working on the issue. Couldn't work on it due to Semester exams. Can you remove the stale label?"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6849",
@@ -295,5 +302,14 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6305",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6405"
+    }
+  ]
 }

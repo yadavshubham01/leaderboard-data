@@ -1,6 +1,35 @@
 {
-  "last_updated": 1703180413.0,
+  "last_updated": 1703249299.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#190",
+      "time": 1703249299.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/190",
+      "text": "Fixes hydration warnings and issue with pre-rendering activity calendar",
+      "turnaround_time": 405
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#190",
+      "time": 1703248894.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/190",
+      "text": "Fixes hydration warnings and issue with pre-rendering activity calendar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703239785.0,
+      "title": "coronasafe/care_fe#6893",
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#pullrequestreview-1794263884",
+      "text": "Support for self-healing Consultation URL "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703214871.0,
+      "title": "coronasafe/care_fe#6892",
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#pullrequestreview-1793908934",
+      "text": "Replace all window.location.reload() with data refetch."
+    },
     {
       "type": "pr_reviewed",
       "time": 1703180413.0,
@@ -31145,7 +31174,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -31153,7 +31182,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting-for-review"
       ]
@@ -31161,7 +31190,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "waiting for back end",
         "merge conflict"

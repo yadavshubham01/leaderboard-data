@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703088237.0,
+  "last_updated": 1703273496.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703273496.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1868013679",
+      "text": "Hey @rithviknishad, when we click the \"Advanced Filters\" button on the \"Patients\" page, we have 4 categories in the SlideOver - Patient Details based, Date based, Geography based and COVID Details based. So I wanted to ask under which category should I put the \"Review Missed\" filter option?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6873",

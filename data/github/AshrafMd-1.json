@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703097897.0,
+  "last_updated": 1703268875.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6885",
+      "time": 1703268875.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6885#issuecomment-1867955225",
+      "text": "@gigincg is this format okay\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/f5893927-0ac2-42db-86c6-916fef450999)\r\n\r\ncc @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6886",
