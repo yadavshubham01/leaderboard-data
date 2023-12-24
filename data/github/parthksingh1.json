@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700419731.0,
+  "last_updated": 1703343639.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6661",
+      "time": 1703343639.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6661#issuecomment-1868311034",
+      "text": "yes working on it was confused with the design that what to implement .\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6661",
@@ -36,7 +43,8 @@
       "title": "(Fix)-Address scrolling issue in CommentSection",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed",
+        "stale"
       ]
     }
   ],

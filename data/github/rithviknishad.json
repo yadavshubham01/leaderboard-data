@@ -1,6 +1,35 @@
 {
-  "last_updated": 1703249299.0,
+  "last_updated": 1703335477.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6897",
+      "time": 1703335477.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6897",
+      "text": "Adds support for units for `max_dosage`",
+      "turnaround_time": 2557
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6897",
+      "time": 1703332957.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6897",
+      "text": "Adds support for units for `max_dosage`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6896",
+      "time": 1703332921.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6896",
+      "text": "Unable to create PRN Prescription due to max_dosage validation to have units."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703300639.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1868183797",
+      "text": "Patient Details based"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#190",
@@ -31174,7 +31203,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -31182,7 +31211,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting-for-review"
       ]
@@ -31190,7 +31219,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "waiting for back end",
         "merge conflict"

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703176795.0,
+  "last_updated": 1703354493.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6899",
+      "time": 1703354493.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6899",
+      "text": "Back button is not Working"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6893",
@@ -763,15 +770,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6893",
       "title": "Support for self-healing Consultation URL ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 25,
+      "stale_for": 27,
       "labels": []
     }
   ],

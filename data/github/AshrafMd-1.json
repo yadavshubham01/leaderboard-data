@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703268875.0,
+  "last_updated": 1703342695.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703342695.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898",
+      "text": "Add OP number to treatment summary."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6885",
@@ -970,7 +977,16 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6898",
+      "title": "Add OP number to treatment summary.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",

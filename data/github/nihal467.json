@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703250427.0,
+  "last_updated": 1703335048.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6897",
+      "time": 1703335048.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6897#issuecomment-1868286004",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6895",
+      "time": 1703332723.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6895",
+      "text": "Patient transfer function in the registration form is malfunctioning"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6894",
