@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703177663.0,
+  "last_updated": 1703431499.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6880",
+      "time": 1703431499.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6880#issuecomment-1868541351",
+      "text": "As discussed, changes have been made so as to not affect height of indicator at default fonts. I've added video to show the same. height of indicator is relative to link. It takes 26% of height of link and is vertically centered."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6871",
@@ -359,7 +366,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6880",
       "title": "Fix mispositioned active link indicator",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "discussion"
@@ -368,7 +375,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6871",
       "title": "Make consultation page more responsive",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "changes required",
         "discussion"
@@ -377,10 +384,11 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 6,
+      "stale_for": 1,
       "labels": [
         "test failed",
-        "merge conflict"
+        "merge conflict",
+        "stale"
       ]
     }
   ],

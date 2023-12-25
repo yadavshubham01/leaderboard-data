@@ -1320,5 +1320,53 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2023-12-24 00:00:00": [
+        {
+            "client_msg_id": "a0757e8e-46c4-4fc6-8204-d22801d157a8",
+            "type": "message",
+            "text": "EOD 24/12/2023\n\u2022 Revised PR for fixing mispositioned link indicator <https://github.com/coronasafe/care_fe/pull/6880>",
+            "user": "U05MBE2RASD",
+            "ts": "1703431747.520189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "481jA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 24/12/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Revised PR for fixing mispositioned link indicator "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6880"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

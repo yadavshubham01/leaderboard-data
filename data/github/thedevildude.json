@@ -1,6 +1,27 @@
 {
-  "last_updated": 1703246862.0,
+  "last_updated": 1703436196.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#158",
+      "time": 1703436196.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/158#issuecomment-1868555718",
+      "text": "@skks1212 Can you please assign it to me?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#158",
+      "time": 1703416716.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/158",
+      "text": "Routing Error | Chats in ChatSidebar leads to 404 page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6901",
+      "time": 1703410522.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6901",
+      "text": "Added Timeline UI for Bed Activity"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6771",
@@ -301,7 +322,14 @@
       "text": "Added infinite scrolling for chat history #25"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6901",
+      "title": "Added Timeline UI for Bed Activity",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702571748.0,
+  "last_updated": 1703421363.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703421363.0,
+      "title": "coronasafe/care_fe#6868",
+      "link": "https://github.com/coronasafe/care_fe/pull/6868#pullrequestreview-1795567284",
+      "text": "Hide Camera Feed button for patient with no bed assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1703420981.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1868505749",
+      "text": "@nihal467 I reverted the cypress test variables, can you re-test this?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6868",
@@ -632,7 +646,10 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6868",
       "title": "Hide Camera Feed button for patient with no bed assigned.",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "tested",
+        "changes required"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6835",
@@ -646,7 +663,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 0,
+      "stale_for": 10,
       "labels": [
         "question",
         "tested"

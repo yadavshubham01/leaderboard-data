@@ -1,6 +1,41 @@
 {
-  "last_updated": 1703342695.0,
+  "last_updated": 1703431561.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6902",
+      "time": 1703431561.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6902#issuecomment-1868541572",
+      "text": "@rithviknishad can u assign me this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6902",
+      "time": 1703431542.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6902",
+      "text": "Scroll bar appearing for headers in patient details."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6886",
+      "time": 1703397730.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6886#issuecomment-1868440405",
+      "text": "@rithviknishad then should i unassign myself as the fix is already present "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703397693.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900#issuecomment-1868440290",
+      "text": "I want to work on this issue can u assign me this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6899",
+      "time": 1703397684.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6899#issuecomment-1868440275",
+      "text": "I want to work on this issue can u assign me this?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6898",
@@ -981,7 +1016,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6898",
       "title": "Add OP number to treatment summary.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]

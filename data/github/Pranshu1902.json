@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703084670.0,
+  "last_updated": 1703450517.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703450517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1868590422",
+      "text": "@nihal467 done\r\nUpdated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/dc4abfe3-b83c-45d0-85ed-231e794fd4e2)\r\n\r\nLoader:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/38005658-b181-43dd-8a18-d237c66b2903)\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6851",
@@ -7124,7 +7131,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 9,
+      "stale_for": 13,
       "labels": [
         "waiting-for-review"
       ]
@@ -7134,14 +7141,13 @@
       "title": " Timeline style view for Daily Rounds",
       "stale_for": 0,
       "labels": [
-        "changes required",
-        "merge conflict"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 15,
+      "stale_for": 19,
       "labels": [
         "needs testing",
         "waiting for related PR"
@@ -7150,13 +7156,13 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1530",
       "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 61,
+      "stale_for": 65,
       "labels": [
         "changes required"
       ]

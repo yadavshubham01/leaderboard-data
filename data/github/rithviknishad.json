@@ -1,6 +1,34 @@
 {
-  "last_updated": 1703335477.0,
+  "last_updated": 1703384278.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5354",
+      "time": 1703384278.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5354#issuecomment-1868415572",
+      "text": "Completed via #5879"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#5354",
+      "time": 1703384278.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5354",
+      "text": "Log Availability of Devices Connected to the System"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703383811.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900",
+      "text": "Redirect not working upon login"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6899",
+      "time": 1703383173.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6899#issuecomment-1868412964",
+      "text": "Same issue is present for Facilities List page too.\r\n\r\nLooks like the pagination query parameters are being applied after being mounted causing it to have an additional navigation in the history.\r\n\r\nPressing back takes to the previous URL, but pagination filter gets reapplied, and hence stuck in a loop."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6897",
@@ -31203,7 +31231,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -31211,7 +31239,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "waiting-for-review"
       ]
@@ -31219,7 +31247,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "waiting for back end",
         "merge conflict"
