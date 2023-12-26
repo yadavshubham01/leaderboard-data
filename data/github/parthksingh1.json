@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703343639.0,
+  "last_updated": 1703527737.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6661",
+      "time": 1703527737.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6661#issuecomment-1869073233",
+      "text": "@nihal467 please can you give me some suggestions what should UI be looking, I tried implementing many but nothing looked great , if you have any suggestions please let me know\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6661",
@@ -43,8 +50,7 @@
       "title": "(Fix)-Address scrolling issue in CommentSection",
       "stale_for": 0,
       "labels": [
-        "test failed",
-        "stale"
+        "test failed"
       ]
     }
   ],

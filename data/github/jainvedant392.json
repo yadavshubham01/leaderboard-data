@@ -1,6 +1,27 @@
 {
-  "last_updated": 1703321583.0,
+  "last_updated": 1703529439.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703529439.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1869080687",
+      "text": "Like other fields as gender, age, telemedicine, etc."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703529392.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1869080482",
+      "text": "So my idea was to create a \"is_review_missed\" field in the patient object, and assigning th values to it using the same criteria, and then adding the filter based on this particular field."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703529301.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1869080109",
+      "text": "Hello @rithviknishad , in the code block of showing the chip of \"Review Missed\", the chip has been conditionally rendered using some criteria and properties of the patient object from the \"patientList\" in ManagePatients.tsx"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6745",

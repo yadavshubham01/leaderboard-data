@@ -1,6 +1,27 @@
 {
-  "last_updated": 1703431561.0,
+  "last_updated": 1703503837.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6910",
+      "time": 1703503837.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6910#issuecomment-1868940518",
+      "text": "@rithviknishad once can u check"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6910",
+      "time": 1703503481.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6910",
+      "text": "Remove scroll bar when header text overflows in patient details. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6906",
+      "time": 1703497942.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6906#issuecomment-1868897099",
+      "text": "I want to work on this issue can u assign me this?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6902",
@@ -1014,9 +1035,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6910",
+      "title": "Remove scroll bar when header text overflows in patient details. ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6898",
       "title": "Add OP number to treatment summary.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]

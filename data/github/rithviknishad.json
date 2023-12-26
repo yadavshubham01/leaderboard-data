@@ -1,6 +1,122 @@
 {
-  "last_updated": 1703384278.0,
+  "last_updated": 1703511278.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703511278.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868988181",
+      "text": "So that means, the only code change required to fix this would be:\r\n\r\n<img width=\"717\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/d4413059-dff5-48cf-a699-f0db7c51121d\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703511140.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868987263",
+      "text": "You could do the following:\r\n\r\n1. If a redirect query param is present, use that. (Same as original implementation).\r\n2. If redirect query param is not present, simply call the `signIn` method from `useAuth` when the login button is clicked without doing a navigate. (Since it's very likely that the we need to land in the current route itself, just that we need to cause a re-render the AuthProvider component."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#191",
+      "time": 1703510011.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/191",
+      "text": "Adds support for pagination in contributors' activity timeline"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703509795.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868979112",
+      "text": "Very likely because of the hardcoded UUID itself. Such an entity does not exist in cypress environments database."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703507968.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1795877186",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703507968.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1795877186",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703504299.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900#issuecomment-1868943417",
+      "text": "The second approach sounds good!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6908",
+      "time": 1703500908.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6908",
+      "text": "Fixes Filters Cache restore logic",
+      "turnaround_time": 2094
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6908",
+      "time": 1703500908.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6908",
+      "text": "Fixes Filters Cache restore logic",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703500654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "text": "Migrate Bed Management to `useQuery`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6908",
+      "time": 1703498815.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6908",
+      "text": "Fixes Filters Cache restore logic"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1703489979.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1868824760",
+      "text": "@shramanpaul could you link the PR to this issue? I'm unable to find out your PR for review."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703489848.0,
+      "title": "coronasafe/care_fe#6868",
+      "link": "https://github.com/coronasafe/care_fe/pull/6868#pullrequestreview-1795760150",
+      "text": "Hide Camera Feed button for patient with no bed assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1703489802.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1868823356",
+      "text": "The cypress test still seems to be failing, could you look into it?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703489751.0,
+      "title": "coronasafe/care_fe#6835",
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#pullrequestreview-1795759473",
+      "text": "Hide \"Asset Type\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703489689.0,
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1795759052",
+      "text": "Added Timeline UI for Bed Activity"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5354",
@@ -31229,9 +31345,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/191",
+      "title": "Adds support for pagination in contributors' activity timeline",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "title": "Migrate Bed Management to `useQuery` and move pagination state to query params",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -31239,7 +31369,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "waiting-for-review"
       ]
@@ -31247,7 +31377,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "waiting for back end",
         "merge conflict"

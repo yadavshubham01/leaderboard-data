@@ -1,6 +1,34 @@
 {
-  "last_updated": 1702201710.0,
+  "last_updated": 1703534218.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1703534218.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1869101244",
+      "text": "what should i do next @rithviknishad for the successful merging of this PR ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1703534138.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1869100918",
+      "text": "@rithviknishad I have again created the PR but by now there are merge conflicts i have also attached the video in the PR when it was working"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6913",
+      "time": 1703533936.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6913",
+      "text": "Doctor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1703530034.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1869083264",
+      "text": "ok @rithviknishad  "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6824",
@@ -16,6 +44,15 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6913",
+      "title": "Doctor",
+      "stale_for": 0,
+      "labels": [
+        "Deploy-Failed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

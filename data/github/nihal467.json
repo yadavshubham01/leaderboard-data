@@ -1,6 +1,59 @@
 {
-  "last_updated": 1703335048.0,
+  "last_updated": 1703520208.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6912",
+      "time": 1703520208.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6912",
+      "text": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6907",
+      "time": 1703500933.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6907",
+      "text": "New Cypress Test | Facility Location and Bed Management | Facility Module",
+      "turnaround_time": 2946
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6908",
+      "time": 1703500908.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6908",
+      "text": "Fixes Filters Cache restore logic",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6908",
+      "time": 1703498838.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6908#issuecomment-1868905061",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6907",
+      "time": 1703497988.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6907",
+      "text": "New Cypress Test | Facility Location and Bed Management | Facility Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6906",
+      "time": 1703497575.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6906",
+      "text": "Query Parameter in facility bed pagination is not shown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6903",
+      "time": 1703492200.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6903",
+      "text": "Same bed name validation is not working while multiple bed creation"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6897",
@@ -30165,7 +30218,14 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6912",
+      "title": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

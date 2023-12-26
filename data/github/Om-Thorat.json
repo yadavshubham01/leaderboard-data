@@ -1,0 +1,79 @@
+{
+  "last_updated": 1703513800.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703513800.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1869003456",
+      "text": "> You could do the following:\r\n> \r\n>     1. If a redirect query param is present, use that. (Same as original implementation).\r\n> \r\n>     2. If redirect query param is not present, simply call the `signIn` method from `useAuth` when the login button is clicked without doing a navigate. (Since it's very likely that the we need to land in the current route itself, just that we need to cause a re-render the AuthProvider component.\r\n\r\n\r\nas required clicking on the button signs out and redirects to the page which then loads a login screen since the user is signed out, In the other case that a query param isn't present the url will just be `/session-expired` which should redirect to ` /`?  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703512970.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868998334",
+      "text": "> So that means, the only code change required to fix this would be:\r\n\r\nThe new redirector function doesn't check for a redirect param anymore so, There'll be that to fix as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703510014.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868980508",
+      "text": "> Now that you've removed the support for `redirect` param completely, the \"Session Expired\" workflow wouldn't work this way right, since that still relies on the `redirect` param on the login page route?\r\n\r\nHmm, How do we plan on dealing with that? Should we just redirect them to the same page and bring up the login screen?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703509252.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868975268",
+      "text": "not sure why run failed since it passed on local, looking into it.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/76207818/b05218d1-6380-441a-a043-354ced5b9671)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703508671.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1795880208",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703506666.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703504683.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900#issuecomment-1868945881",
+      "text": "Great! I'll get to it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703502910.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900#issuecomment-1868934714",
+      "text": "@rithviknishad  This is a code design decision seems like the component expects an extra ?redirect= param at the end of string to redirect to, This isn't needed since the login page is shown on the same url that the user intends to go to. One way would be to redirect to the login page with a redirect param or another easier way might be to just use current url and just redirect to that after login."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6900",
+      "time": 1703502158.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6900#issuecomment-1868929531",
+      "text": "@rithviknishad Can you assign this to me?\r\n\r\n```tsx\r\nconst getRedirectURL = () => {\r\n  return new URLSearchParams(window.location.search).get(\"redirect\");\r\n};\r\n```\r\n\r\nThe problem is probably the getRedirectURL function which always returns null"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6911",
+      "title": "Fixes redirect on login (#6900)",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}
