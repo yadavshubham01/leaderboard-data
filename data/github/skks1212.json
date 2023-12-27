@@ -1,6 +1,55 @@
 {
-  "last_updated": 1702133234.0,
+  "last_updated": 1703600567.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#147",
+      "time": 1703600567.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/147#issuecomment-1869578770",
+      "text": "Adding to the above issue, increase the width of the modal"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#128",
+      "time": 1703600347.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/128#issuecomment-1869576628",
+      "text": "@Pranshu1902 yes, this is expected behavior. Sorry for the late reply "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#128",
+      "time": 1703600346.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/128",
+      "text": "Chatsidebar is blank on profile page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#160",
+      "time": 1703600303.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/160",
+      "text": "Issue with tests page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#158",
+      "time": 1703600273.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/158",
+      "text": "Routing Error | Chats in ChatSidebar leads to 404 page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703600266.0,
+      "title": "coronasafe/ayushma_fe#159",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/159#pullrequestreview-1796395156",
+      "text": "Added missing \"/\" in chatSidebar"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#160",
+      "time": 1703599120.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/160",
+      "text": "Issue with tests page"
+    },
     {
       "type": "pr_reviewed",
       "time": 1702133234.0,

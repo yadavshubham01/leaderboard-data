@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703096632.0,
+  "last_updated": 1703614221.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1783",
+      "time": 1703614221.0,
+      "link": "https://github.com/coronasafe/care/pull/1783#issuecomment-1869698407",
+      "text": "@sainak Running the validator case insensitive sounds like a better move"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6886",
@@ -6722,7 +6729,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 8,
+      "stale_for": 14,
       "labels": [
         "In Progress"
       ]

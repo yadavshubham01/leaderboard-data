@@ -1,6 +1,34 @@
 {
-  "last_updated": 1703151332.0,
+  "last_updated": 1703598158.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703598158.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869555729",
+      "text": "@nihal467  Also few more doubts:\r\nAfter copying the data from last log update:\r\na) If user click on any input field but don't change the value.\r\nb) When user change the input field value but the undo all changes.\r\n\r\nThe data is now verified in both the cases and should not contain any warning right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703597549.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869550068",
+      "text": "Okay @nihal467 \r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/544b0b71-ee10-45af-9e9d-4e84f2f603a0)\r\n\r\nAfter copying values from the last log :\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/745a46ad-e1ec-422d-8dc6-4774863e9c69)\r\n\r\n\r\nIf I am on the right track, I want to know exactly where should I place the warning indicator? Inside the value field or next to the label text.  \r\nWhat exactly the warning indicator should look like:\r\n1) A svg logo with a tool-tip on hovering OR\r\n2) A clear warning text written OR\r\n3) svg logo and warning text\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703594971.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869524980",
+      "text": "@nihal467  Could you please help me reproducing the page shown in above image."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703570686.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869283413",
+      "text": "I'm interested to work on this issue. Can you assign this to me? "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#189",
@@ -160,7 +188,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "test failed"
       ]

@@ -1,6 +1,105 @@
 {
-  "last_updated": 1703250526.0,
+  "last_updated": 1703623348.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#3618",
+      "time": 1703623348.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/3618#issuecomment-1869763171",
+      "text": "@aparnacoronasafe could you confirm if this is still required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5906",
+      "time": 1703623256.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5906#issuecomment-1869762617",
+      "text": "@khavinshankar could you confirm if this issue is still relevant?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6621",
+      "time": 1703623007.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6621#issuecomment-1869761107",
+      "text": "> I would like to work on this issue\r\n\r\nHey, do you still want to take this up?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6608",
+      "time": 1703622929.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6608#issuecomment-1869760622",
+      "text": "> @nihal467 I want to work on this, can I know who don't have access to `Delete Facility`?\r\n\r\nHey, do you still want to take up this issue?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1703621218.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925",
+      "text": "Redesign Bed Capacity Cards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1785",
+      "time": 1703616642.0,
+      "link": "https://github.com/coronasafe/care/pull/1785",
+      "text": "Add video_connect_link field to User model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6924",
+      "time": 1703616396.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6924",
+      "text": "Add video connect link to user profile"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1703597583.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1869550402",
+      "text": "> <img alt=\"image\" width=\"960\" src=\"https://private-user-images.githubusercontent.com/57055998/292874526-03f9eaff-5a97-468e-aa5a-32d78329a7a2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM1OTc3OTMsIm5iZiI6MTcwMzU5NzQ5MywicGF0aCI6Ii81NzA1NTk5OC8yOTI4NzQ1MjYtMDNmOWVhZmYtNWE5Ny00NjhlLWFhNWEtMzJkNzgzMjlhN2EyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI2VDEzMzEzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwNzFiN2NlMWEzNzdjMTZhNDFkOTViYmRkNjAzMzk3Y2Q1YmJmZWE4MTMyOTllNDQ4YzJjMjQ1NzcxYTkyZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CNs6T16xFrNtNoeswZkhWVuFD-YIGE0B3ySwAv0aWKM\">\r\n> @GokulramGHV iam unable to load the dummy data to your PR, tried with a new fresh database as well, something is wrong\r\n> \r\n> CC: @sainak\r\n\r\n`django.core.exceptions.FieldDoesNotExist: Prescription has no field named 'dosage'`\r\nSeems like the `dosage` was renamed to `base_dosage`. Update dummy data fixture `facility.json` accordingly."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1703583663.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "text": "Add edit option for doctor notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6918",
+      "time": 1703582841.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6918",
+      "text": "Revert #6872"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703580581.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1796185064",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703575900.0,
+      "title": "coronasafe/care#1735",
+      "link": "https://github.com/coronasafe/care/pull/1735#pullrequestreview-1796131107",
+      "text": "District Filter to display State's name along with the district's name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6916",
+      "time": 1703571326.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6916",
+      "text": "Revert \"Disable critical care submit if only basic editor is filled\"",
+      "turnaround_time": 2469
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6916",
+      "time": 1703568858.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6916",
+      "text": "Revert \"Disable critical care submit if only basic editor is filled\""
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6894",
@@ -15029,15 +15128,55 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6925",
+      "title": "Redesign Bed Capacity Cards",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1785",
+      "title": "Add video_connect_link field to User model",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6924",
+      "title": "Add video connect link to user profile",
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "title": "Add edit option for doctor notes",
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6918",
+      "title": "Revert #6872",
+      "stale_for": 0,
+      "labels": [
+        "blocked"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6875",
       "title": "Use resolved_middleware for overrides",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 10,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -15045,9 +15184,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "changes required",
         "waiting for back end",
         "merge conflict"
       ]
@@ -15055,7 +15194,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -15063,7 +15202,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 78,
+      "stale_for": 82,
       "labels": [
         "POC"
       ]
@@ -15071,7 +15210,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 262,
+      "stale_for": 266,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15080,13 +15219,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 275,
+      "stale_for": 279,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]

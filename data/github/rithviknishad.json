@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703511278.0,
+  "last_updated": 1703567135.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6914",
+      "time": 1703567135.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6914",
+      "text": "Rename encounter date field labels"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",
@@ -31345,15 +31352,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6914",
+      "title": "Rename encounter date field labels",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6909",
       "title": "Migrate Bed Management to `useQuery` and move pagination state to query params",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -31361,7 +31376,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing"
       ]
@@ -31369,7 +31384,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting-for-review"
       ]
@@ -31377,7 +31392,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting for back end",
         "merge conflict"

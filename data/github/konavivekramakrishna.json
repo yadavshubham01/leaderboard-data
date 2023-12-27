@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703354493.0,
+  "last_updated": 1703591937.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6922",
+      "time": 1703591937.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6922",
+      "text": "Fixes additional scoll in shifting and resource tab"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6899",
@@ -770,7 +777,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6893",
       "title": "Support for self-healing Consultation URL ",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -778,7 +785,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 27,
+      "stale_for": 30,
       "labels": []
     }
   ],

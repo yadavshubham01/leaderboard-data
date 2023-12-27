@@ -1,6 +1,21 @@
 {
-  "last_updated": 1703475215.0,
+  "last_updated": 1703600913.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#147",
+      "time": 1703600913.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/147#issuecomment-1869581769",
+      "text": "@Ashesh3 Can you assign me the issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#159",
+      "time": 1703600272.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/159",
+      "text": "Added missing \"/\" in chatSidebar",
+      "turnaround_time": 38658
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#159",
@@ -331,21 +346,19 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/159",
-      "title": "Added missing \"/\" in chatSidebar",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/159"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"

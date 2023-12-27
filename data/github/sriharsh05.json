@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703183837.0,
+  "last_updated": 1703601360.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703601360.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1869585964",
+      "text": "@rithviknishad \r\nPlease review the changes."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6895",
+      "time": 1703570371.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6895#issuecomment-1869280714",
+      "text": "I want to work on this issue. Please assign this to me.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6892",
@@ -506,7 +520,7 @@
       "title": "Replace all window.location.reload() with data refetch.",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
@@ -514,7 +528,7 @@
       "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     }
   ],

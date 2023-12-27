@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702296140.0,
+  "last_updated": 1703585765.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6921",
+      "time": 1703585765.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6921",
+      "text": "Advanced filter: Patient with no consultation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6920",
+      "time": 1703585234.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6920",
+      "text": "Clean up left nav menu"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6676",

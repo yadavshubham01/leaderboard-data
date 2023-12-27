@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703513800.0,
+  "last_updated": 1703582925.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703582925.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1869402860",
+      "text": "@rithviknishad This new function works with both the redirect param and the direct urls , When an invalid redirect param is provided with a valid base url, The app chooses to discard the param and simply navigate to the valid base url Instead. The session expired redirects to the redirect param if available.\r\n\r\nIt seems like there should be a test for the redirect param as well?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703577660.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1869346102",
+      "text": "Sorry for the oversight before added a check to ensure that the redirect param redirects to a site that has the same origin as the current site, Not using this could have let malformed urls to be able to redirect to any sites they please ,potentially malicious."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",

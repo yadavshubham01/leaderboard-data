@@ -1,6 +1,83 @@
 {
-  "last_updated": 1703520208.0,
+  "last_updated": 1703599384.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6835",
+      "time": 1703599384.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6835#issuecomment-1869567056",
+      "text": "@shyamprakash123 fix the cypress issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703599174.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#issuecomment-1869564882",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/f3098e9f-975b-465a-a19c-27fbda8ec127)\r\n\r\n- the above screenshot is the deploy preview\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/335663c3-af4d-4224-959f-dcb4035f4d88)\r\n\r\n- the above screenshot is the current staging\r\n\r\n- [ ] @sriharsh05 As you can see, in the deploy preview the facility homepage is not loaded properly, fix the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1703598236.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807#issuecomment-1869556489",
+      "text": "@Ashesh3 clear the merge conflict and follow up on the backend PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6565",
+      "time": 1703597861.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#issuecomment-1869552906",
+      "text": "@GokulramGHV the backend PR is having issues, fix it ASAP"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1703597195.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1869546678",
+      "text": "<img width=\"960\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/57055998/03f9eaff-5a97-468e-aa5a-32d78329a7a2\">\r\n\r\n@GokulramGHV iam unable to load the dummy data to your PR, tried with a new fresh database as well, something is wrong"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703595353.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869528510",
+      "text": "@sagarkori143 follow the below steps\r\n\r\n1. Login to the platform\r\n2. Select a live patient from the patient tab\r\n3. Then click on the log update button that appears on the right side of the patient consultation page\r\n4. in the log update page, create a critical care round type log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703595245.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1869527533",
+      "text": "1. Login to the platform\r\n2. Select a live patient from the patient tab"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6512",
+      "time": 1703593954.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1869513424",
+      "text": "@aeswibon clear the merge conflict"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703570476.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917",
+      "text": "Improvement auto-fill experience for patient critical care log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6916",
+      "time": 1703569978.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6916#issuecomment-1869277737",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1782",
+      "time": 1703567906.0,
+      "link": "https://github.com/coronasafe/care/issues/1782",
+      "text": "Same bed name validation is not working while multiple bed creation"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6912",
@@ -30222,7 +30299,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6912",
       "title": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

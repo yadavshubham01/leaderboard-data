@@ -1,6 +1,62 @@
 {
-  "last_updated": 1703503837.0,
+  "last_updated": 1703620390.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703620390.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1869743043",
+      "text": "@sagarkori143 did it get fixed ??\r\n\r\nalso @rithviknishad  maybe we need to add the `load-fixtures.sh` inside the readme\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703620125.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188#issuecomment-1869741261",
+      "text": "I want to work on this issue. Can you assign me this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703619352.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188#issuecomment-1869735992",
+      "text": "so what kind of look looks good ?\r\n\r\n---\r\n\r\n1. \r\n![image](https://github.com/coronasafe/leaderboard/assets/98876115/61b08aaa-9878-4f36-b423-bd3abccc2b7f)\r\n\r\n---\r\n\r\n2.\r\n![image](https://github.com/coronasafe/leaderboard/assets/98876115/26b88597-4319-4261-8649-b6d7b3bdb39d)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1703615114.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1869705122",
+      "text": "@nihal467 small doubt \r\n\r\n---\r\nClear the cache as in `local storage`\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/484a0322-34e7-41cf-9d5a-a9085abb7844)\r\n\r\n\r\n---\r\nor the auto-fill one \r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/94e61290-cbbf-477c-a365-9211e51c4129) \r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6923",
+      "time": 1703614547.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6923#issuecomment-1869700968",
+      "text": "I want to work on this issue can you assign me this issue?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6923",
+      "time": 1703614400.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6923",
+      "text": "None option can be selected along with other options simultaneously in patient details"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6920",
+      "time": 1703585528.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6920#issuecomment-1869431504",
+      "text": "I want to work on this issue. Can you assign this to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1703576429.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1869334064",
+      "text": "I want to work on this issue can you assign me this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6910",

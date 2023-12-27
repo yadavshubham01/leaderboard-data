@@ -1,6 +1,34 @@
 {
-  "last_updated": 1703089801.0,
+  "last_updated": 1703585547.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1784",
+      "time": 1703585547.0,
+      "link": "https://github.com/coronasafe/care/pull/1784",
+      "text": "add events module"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1783",
+      "time": 1703585399.0,
+      "link": "https://github.com/coronasafe/care/pull/1783#issuecomment-1869430175",
+      "text": "the frontend displays the name in title case irrespective of the value, but the backend is validating the values as case-sensitive,\r\nso to check for case-insensitive names should we \r\nchange the existing values to lowercase or \r\njust run the validator as case-insensitive?\r\n\r\ncc @gigincg "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1783",
+      "time": 1703575014.0,
+      "link": "https://github.com/coronasafe/care/pull/1783",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703572150.0,
+      "title": "coronasafe/care#1735",
+      "link": "https://github.com/coronasafe/care/pull/1735#pullrequestreview-1796093189",
+      "text": "District Filter to display State's name along with the district's name"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1755",
@@ -7742,9 +7770,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1784",
+      "title": "add events module",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1783",
+      "title": "Make bed names unique for location",
+      "stale_for": 0,
+      "labels": [
+        "discussion"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 24,
+      "stale_for": 30,
       "labels": [
         "blocked",
         "changes required",
@@ -7755,7 +7797,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 99,
+      "stale_for": 105,
       "labels": [
         "In progress"
       ]
@@ -7763,19 +7805,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 13,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 153,
+      "stale_for": 159,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 78,
+      "stale_for": 84,
       "labels": []
     }
   ],
