@@ -1,6 +1,14 @@
 {
-  "last_updated": 1703421363.0,
+  "last_updated": 1703648068.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6868",
+      "time": 1703648068.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6868",
+      "text": "Hide Camera Feed button for patient with no bed assigned.",
+      "turnaround_time": 39521
+    },
     {
       "type": "pr_reviewed",
       "time": 1703421363.0,
@@ -643,27 +651,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6868",
-      "title": "Hide Camera Feed button for patient with no bed assigned.",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "changes required"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6835",
       "title": "Hide \"Asset Type\"",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "test failed",
-        "changes required"
+        "changes required",
+        "cypress failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 10,
+      "stale_for": 13,
       "labels": [
         "question",
         "tested"

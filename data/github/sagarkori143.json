@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703598158.0,
+  "last_updated": 1703672184.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703672184.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1870157881",
+      "text": "@nihal467 Please help regarding these doubts."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703647534.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1869912879",
+      "text": "@AshrafMd-1 I genuinely want to work on this issue but I'm having problem in setting up the local dev environment. Could you help me with fixtures.sh problem?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6917",
@@ -188,7 +202,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "test failed"
       ]

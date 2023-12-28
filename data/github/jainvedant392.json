@@ -1,6 +1,40 @@
 {
-  "last_updated": 1703529439.0,
+  "last_updated": 1703674779.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703674779.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1870193555",
+      "text": "> Just clarifying the wording, you will be adding the filter in the patients viewset right? And not an additional field in the patient/consultation model right?\r\n\r\nActually what I was trying to do was finding a way to add a filter for review missed in the same way as the \"Review Missed\" chip is shown on a patient's card."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703659905.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1870005390",
+      "text": "There are filelds like review_interval and review_time in the PatientModel, so if I create a review_done field in the PatientModel, then according to you, how can I handle the filters with the help of it ?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6745",

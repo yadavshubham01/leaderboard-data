@@ -1,6 +1,159 @@
 {
-  "last_updated": 1703599384.0,
+  "last_updated": 1703690154.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703690154.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870396957",
+      "text": "@AshrafMd-1 can you push the fix before Tomorrow EOD, we need to close it this week"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1703690043.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#issuecomment-1870395510",
+      "text": "@Ashesh3 we should be thinking about a replacement for the refresh button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6914",
+      "time": 1703689362.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6914#issuecomment-1870385633",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6893",
+      "time": 1703689177.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#issuecomment-1870382993",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703688875.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909#issuecomment-1870378779",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6892",
+      "time": 1703688294.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#issuecomment-1870370713",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1703687624.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889#issuecomment-1870360932",
+      "text": "@rithviknishad fix the cypress test"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6875",
+      "time": 1703687539.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6875#issuecomment-1870359718",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703685699.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1870333597",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6656",
+      "time": 1703683118.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6656#issuecomment-1870300286",
+      "text": "@GokulramGHV can you fix the issue ASAP"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1718",
+      "time": 1703683084.0,
+      "link": "https://github.com/coronasafe/care/pull/1718#issuecomment-1870299887",
+      "text": "@GokulramGHV fix the issue ASAP"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703683025.0,
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1797180010",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1692",
+      "time": 1703682949.0,
+      "link": "https://github.com/coronasafe/care/pull/1692#issuecomment-1870298092",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6565",
+      "time": 1703682916.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#issuecomment-1870297697",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1703677214.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930",
+      "text": "Add an option to unlink a bed from live patient in patient consultation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1703676895.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1870224019",
+      "text": "@Pranshu1902 as per the latest discussion on yesterdays EOD call, make the following changes \r\n\r\n- [ ] don't show the any date or time ( admission, icu, discharge ) in the info card \r\n- [ ] show the admission and icu, time and date in the same banner shown below when the patient is live\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/0f1b2927-e200-48b5-8c92-c5e6082041a6)\r\n\r\nnote: the banner in the screenshot is shown only when the patient is discharge, so we are trying to implement the same when the patient is live"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6871",
+      "time": 1703676638.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6871#issuecomment-1870217604",
+      "text": "kept on hold until the discussion in the slack care_general channel is concluded regarding the same\r\n\r\nhttps://rebuildearth.slack.com/archives/C01035FT0P5/p1703676547220219"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6880",
+      "time": 1703661687.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6880#issuecomment-1870022924",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703661444.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870020343",
+      "text": "@AshrafMd-1 \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9fc31579-527b-4cdc-bc94-b01514a9c406)\r\n\r\n- above is the staging print preview of the current staging\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/2c130c4d-79fb-4867-8ea9-9ea17c7b24fd)\r\n\r\n- above is the current PR deployment print preview\r\n\r\nmake the below changes in the PR:\r\n\r\n- [ ] make the print preview proper width proportion, in your deploy preview, the left side and right side width usage in print preview is not uniform\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/d3ca95cb-6bff-4a63-9038-1fe797ebd9dd)\r\n\r\n- [ ] add the IP no column next to the age"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6835",
@@ -30295,14 +30448,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6912",
-      "title": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

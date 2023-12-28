@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703089802.0,
+  "last_updated": 1703657468.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "sainak",
+        "Ashesh3",
+        "rithviknishad",
+        "Pranshu1902"
+      ]
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1551",

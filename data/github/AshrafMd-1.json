@@ -1,6 +1,68 @@
 {
-  "last_updated": 1703620390.0,
+  "last_updated": 1703697901.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703697901.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870493535",
+      "text": "@nihal467 once can u check."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#192",
+      "time": 1703691525.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/192",
+      "text": "Fix the look of PR Collaboration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703690206.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870397717",
+      "text": "Done "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703654084.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188#issuecomment-1869955651",
+      "text": "@rithviknishad \r\nis the title and look okay ?\r\n![image](https://github.com/coronasafe/leaderboard/assets/98876115/68193d44-bd56-48f5-b3e8-92e41ed5dd4f)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703650370.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1869931185",
+      "text": "First clone the leaderboard repo and delete the data and contributions folder \n![Screenshot_20231227-093842_GitHub.jpg](https://github.com/coronasafe/leaderboard/assets/98876115/aeb07bcc-cfa4-442d-aa81-a282b98bf87e)\n\nThen download the leaderboard-data repo as zip \n\n![Screenshot_20231227-093805_GitHub.jpg](https://github.com/coronasafe/leaderboard/assets/98876115/b8666627-64b8-42f9-b489-12df8796ef8d)\n\n\n\nAnd move the contributions and data folder from the leaderboard-Data to leaderboard folder \n![Screenshot_20231227-093815_GitHub.jpg](https://github.com/coronasafe/leaderboard/assets/98876115/30168167-5844-44b6-b7a3-24ba01d0c858)\n\n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703649794.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1869927187",
+      "text": "@sagarkori143 so basically go to leaderboard-data repo and then download the repo as zip \n\nUnzip the file and there u will find data and contributions folder \n\nDelete these folders in the leaderboard repo and then move the data and contributions folder from leaderboard-data to main repo \n\nCc @rithviknishad \n\nAlso I don't know of it's the recent data but the whole program works "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#171",
@@ -1091,6 +1153,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/192",
+      "title": "Fix the look of PR Collaboration",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6910",
       "title": "Remove scroll bar when header text overflows in patient details. ",
       "stale_for": 0,
@@ -1101,7 +1169,9 @@
       "title": "Add OP number to treatment summary.",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed",
+        "changes required",
+        "P2"
       ]
     }
   ],

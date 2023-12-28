@@ -1,6 +1,159 @@
 {
-  "last_updated": 1703585547.0,
+  "last_updated": 1703698088.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703698088.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1797389910",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1788",
+      "time": 1703683287.0,
+      "link": "https://github.com/coronasafe/care/pull/1788",
+      "text": "Use Redisearch for ICD11 and Medibase"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703668722.0,
+      "title": "coronasafe/care#1773",
+      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796940225",
+      "text": "Data Migration to Support New Discharge Reason Field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703667319.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796917759",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703667295.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796917352",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703667061.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796910361",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703667061.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796910361",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703666765.0,
+      "title": "coronasafe/care#1773",
+      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796906553",
+      "text": "Data Migration to Support New Discharge Reason Field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703666765.0,
+      "title": "coronasafe/care#1773",
+      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796906553",
+      "text": "Data Migration to Support New Discharge Reason Field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703666337.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796900761",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703666337.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1796900761",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1735",
+      "time": 1703665863.0,
+      "link": "https://github.com/coronasafe/care/pull/1735#issuecomment-1870070716",
+      "text": "@GokulramGHV can you check why the test is failing?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1221",
+      "time": 1703665710.0,
+      "link": "https://github.com/coronasafe/care/pull/1221#issuecomment-1870068939",
+      "text": "@Ashesh3 migrations need to be updated"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703665600.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1796892616",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1785",
+      "time": 1703665392.0,
+      "link": "https://github.com/coronasafe/care/pull/1785#issuecomment-1870065015",
+      "text": "Need a way to notify the call reciever"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1773",
+      "time": 1703665295.0,
+      "link": "https://github.com/coronasafe/care/pull/1773#issuecomment-1870063760",
+      "text": "Need a way to notify the call receiver"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "Ashesh3",
+        "rithviknishad",
+        "vigneshhari",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703648445.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1796728852",
+      "text": "Make bed names unique for location"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1784",
@@ -7770,9 +7923,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1788",
+      "title": "Replace littletable with redis-om",
+      "stale_for": 0,
+      "labels": [
+        "In progress"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -7780,13 +7941,13 @@
       "title": "Make bed names unique for location",
       "stale_for": 0,
       "labels": [
-        "discussion"
+        "waiting-for-review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": [
         "blocked",
         "changes required",
@@ -7797,7 +7958,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 105,
+      "stale_for": 106,
       "labels": [
         "In progress"
       ]
@@ -7805,19 +7966,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": []
     }
   ],

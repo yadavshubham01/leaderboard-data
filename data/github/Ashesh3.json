@@ -1,6 +1,124 @@
 {
-  "last_updated": 1703623348.0,
+  "last_updated": 1703694674.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6931",
+      "time": 1703694674.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6931#issuecomment-1870456920",
+      "text": "Try this:\r\n\r\nhttps://care.coronasafe.in/facility/f8f05c04-5c97-415c-814d-419ecf692d0e/patient/efab1a72-3a97-4732-b740-c23ac1d71912/consultation/49664bdb-eb58-4841-9446-4baa3baa842b\r\n\r\nUse `District Admin` account as per the README file:\r\n\r\n```\r\n- username: dev-districtadmin\r\n  password: Coronasafe@123\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6931",
+      "time": 1703694324.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6931#issuecomment-1870452706",
+      "text": "@shramanpaul just for the log updates, not there.\r\n\r\nCheck out here:\r\nhttps://care.coronasafe.in/facility/fa4942c3-dce3-477e-81b2-7c95cd18b5da/patient/b26e30ab-7557-42d5-a5fb-14f23c086964/consultation/fae6f90b-c8d9-4593-83ff-1918f7a9bafd\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/3b7487b8-fb3c-4587-9cd2-ae84f7ec3510)\r\n\r\nJust indicate when a filter is active."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1703693724.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1870445023",
+      "text": "@konavivekramakrishna I've created a quick fiddle with the logic you are expecting, check it out if that helps.\r\n\r\nhttps://codesandbox.io/p/sandbox/react-scroll-time-j7ln3y"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1703675748.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1870205452",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/3626859/8aeae7ac-9ebb-4a84-9a41-e1d10bbe43a4)\r\n\r\n- The background for unverified section should be of the warning class \r\n- Show `unverified` badge next to the name of the section\r\n- If the user visits the section, then clicks the update details button at the bottom, that should mark the section as verified, i.e removing the unverified badge. \r\n- The unverified badge and color should only appear for sections having copied data from the previous logs, and not for all the sections."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1703669410.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#issuecomment-1870117993",
+      "text": "> Could we also change this to use `useQuery` while we have anyways refactored the BedTypeCard component?\r\n\r\nYep, that'll be good. I've made the changes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703667457.0,
+      "title": "coronasafe/care#1773",
+      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1796919822",
+      "text": "Data Migration to Support New Discharge Reason Field"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1221",
+      "time": 1703667000.0,
+      "link": "https://github.com/coronasafe/care/pull/1221#issuecomment-1870084928",
+      "text": "oh migrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1221",
+      "time": 1703666280.0,
+      "link": "https://github.com/coronasafe/care/pull/1221#issuecomment-1870075778",
+      "text": "> @Ashesh3 migrations need to be updated\r\n\r\nDone, thanks."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703665366.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1796889179",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1773",
+      "time": 1703664684.0,
+      "link": "https://github.com/coronasafe/care/pull/1773#issuecomment-1870056604",
+      "text": "@rithviknishad @sainak @vigneshhari could you review this PR once?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703664525.0,
+      "title": "coronasafe/care_fe#6928",
+      "link": "https://github.com/coronasafe/care_fe/pull/6928#pullrequestreview-1796876624",
+      "text": "fix deploy workflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703662012.0,
+      "title": "coronasafe/care_fe#6924",
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#pullrequestreview-1796843634",
+      "text": "Add video connect link to user profile"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "sainak",
+        "rithviknishad",
+        "vigneshhari",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#3618",
@@ -15132,14 +15250,17 @@
       "title": "Redesign Bed Capacity Cards",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "changes required",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "discussion"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
@@ -15154,29 +15275,22 @@
       "title": "Add edit option for doctor notes",
       "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6918",
       "title": "Revert #6872",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "blocked"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6875",
-      "title": "Use resolved_middleware for overrides",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 14,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -15186,7 +15300,6 @@
       "title": "Refactor discharge_reason data type to Integer",
       "stale_for": 0,
       "labels": [
-        "changes required",
         "waiting for back end",
         "merge conflict"
       ]
@@ -15194,7 +15307,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -15202,7 +15315,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 82,
+      "stale_for": 83,
       "labels": [
         "POC"
       ]
@@ -15210,7 +15323,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 266,
+      "stale_for": 267,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15219,19 +15332,23 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 279,
+      "stale_for": 280,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
@@ -15299,10 +15416,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/3794",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/3813"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3641",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3667"
     }
   ]
 }

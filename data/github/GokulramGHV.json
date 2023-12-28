@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703600762.0,
+  "last_updated": 1703702392.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6656",
+      "time": 1703702392.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6656#issuecomment-1870542332",
+      "text": "@nihal467 I'll fix it by today"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1692",
@@ -3077,17 +3084,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6915",
-      "title": "Add keyboard shortcut for adding notes",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -3101,7 +3100,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 28,
+      "stale_for": 0,
       "labels": [
         "test failed",
         "waiting for back end"
@@ -3110,7 +3109,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]
@@ -3120,7 +3119,7 @@
       "title": "Add titrated prescription dosage type",
       "stale_for": 0,
       "labels": [
-        "test failed",
+        "tested",
         "waiting for back end"
       ]
     },

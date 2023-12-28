@@ -1,6 +1,65 @@
 {
-  "last_updated": 1703614221.0,
+  "last_updated": 1703668134.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6929",
+      "time": 1703668134.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6929",
+      "text": "Production Release | Hotfix",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6929",
+      "time": 1703668134.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6929",
+      "text": "Production Release | Hotfix",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6929",
+      "time": 1703668122.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6929",
+      "text": "Production Release | Hotfix"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "sainak",
+        "Ashesh3",
+        "rithviknishad",
+        "vigneshhari",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1783",
@@ -6729,7 +6788,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "In Progress"
       ]

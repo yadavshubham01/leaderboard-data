@@ -1,6 +1,26 @@
 {
-  "last_updated": 1703431499.0,
+  "last_updated": 1703657456.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6880",
@@ -364,27 +384,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6880",
-      "title": "Fix mispositioned active link indicator",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "discussion"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6871",
       "title": "Make consultation page more responsive",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "changes required",
-        "discussion"
+        "hold",
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "test failed",
         "merge conflict",
@@ -393,6 +404,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"

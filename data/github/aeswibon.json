@@ -1,6 +1,20 @@
 {
-  "last_updated": 1701090229.0,
+  "last_updated": 1703666414.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1589",
+      "time": 1703666414.0,
+      "link": "https://github.com/coronasafe/care/pull/1589#issuecomment-1870077434",
+      "text": "The PR is good for testing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703664729.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1796879673",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
     {
       "type": "pr_reviewed",
       "time": 1701090229.0,
@@ -22,13 +36,15 @@
       "title": "fix(location): duty doctors and staff for each location in a facility",
       "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "tested",
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 0,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -38,14 +54,13 @@
       "title": "Adds Nurse user type and promote existing staffs to nurse",
       "stale_for": 0,
       "labels": [
-        "waiting-for-review",
-        "done"
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 10,
+      "stale_for": 40,
       "labels": []
     }
   ],

@@ -1,6 +1,82 @@
 {
-  "last_updated": 1703450517.0,
+  "last_updated": 1703688039.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1703688039.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1870367122",
+      "text": "@nihal467 updated view:\r\nLive patient:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/a49d5bdd-ab65-4f94-8f40-f1e18e3e8c9d)\r\n\r\nDischarged patient:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/e706d0cd-a617-4cf6-91ba-bcf2bb31b225)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703686311.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#issuecomment-1870342776",
+      "text": "Also Fixes #6886 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1529",
+      "time": 1703672592.0,
+      "link": "https://github.com/coronasafe/care/issues/1529#issuecomment-1870163259",
+      "text": "Similar to #1782 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1529",
+      "time": 1703672591.0,
+      "link": "https://github.com/coronasafe/care/issues/1529",
+      "text": "Multiple beds can be created with the same name"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1530",
+      "time": 1703672588.0,
+      "link": "https://github.com/coronasafe/care/pull/1530#issuecomment-1870163209",
+      "text": "Resolved in #1783 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1703665135.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1870061818",
+      "text": "Video recording of setting the boundary and previewing it.\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/70687348/d74d7f09-9daf-41bc-8aea-561e3a65c90d\r\n\r\nThe major reason it failed is because we have a slow network and the camera's view is behind the current time. To check ensure that the time displayed on the top of the camera feed is the same as the current time.\r\n\r\n- The notification issue was already resolved by Janab, I verified it\r\n- After setting each boundary the camera is not moving to the default left/right/up/down value and not the default center or something"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "sainak",
+        "Ashesh3",
+        "rithviknishad",
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6808",
@@ -7131,41 +7207,24 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 13,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6808",
-      "title": " Timeline style view for Daily Rounds",
+      "link": "https://github.com/coronasafe/care_fe/pull/6779",
+      "title": "Show icu admission date on consultations dashboard",
       "stale_for": 0,
       "labels": [
         "needs testing"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6779",
-      "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 19,
-      "labels": [
-        "needs testing",
-        "waiting for related PR"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 6,
+      "stale_for": 9,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1530",
-      "title": "Check bed name before making new multiple beds with same name",
-      "stale_for": 65,
-      "labels": [
-        "changes required"
-      ]
     }
   ],
   "authored_issue_and_pr": [
@@ -7280,10 +7339,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6156",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6163"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6145",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6147"
     }
   ]
 }

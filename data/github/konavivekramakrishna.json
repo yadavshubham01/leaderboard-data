@@ -1,6 +1,33 @@
 {
-  "last_updated": 1703591937.0,
+  "last_updated": 1703691087.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1703691087.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1870410061",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/f1c7b468-a676-4cbb-bd48-9d724c33ba80)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/68fbe0c8-35a9-4508-8260-78cc7bba78c1)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/4a2f32d3-17db-464a-b3e6-c5f5535d691b)\r\n\r\n@Ashesh3 @rithviknishad \r\n\r\ncan you please look into this\r\n\r\nI am exploring whether we can implement an infinite scroll for hours and minutes. Currently, when a user reaches the end, i.e., 23 hours or 59 minutes, the scroll stops. However, in the browser's default date-time input, the scroll is continuous."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "rithviknishad",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6922",
@@ -775,17 +802,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6893",
-      "title": "Support for self-healing Consultation URL ",
-      "stale_for": 4,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": []
     }
   ],

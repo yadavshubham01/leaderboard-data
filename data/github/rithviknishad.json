@@ -1,6 +1,173 @@
 {
-  "last_updated": 1703567135.0,
+  "last_updated": 1703694666.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703694666.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1797345491",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703664760.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188#issuecomment-1870057461",
+      "text": "Yup! "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1786",
+      "time": 1703657468.0,
+      "link": "https://github.com/coronasafe/care/pull/1786",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "sainak",
+        "Ashesh3",
+        "vigneshhari",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6926",
+      "time": 1703657456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6926",
+      "text": "Production Release: December Week 4",
+      "collaborated_with": [
+        "gigincg",
+        "jainvedant392",
+        "Ashesh3",
+        "sainak",
+        "khavinshankar",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "nihal467",
+        "kshitijv256",
+        "Omkar76",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703648718.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188#issuecomment-1869920654",
+      "text": "> so what kind of look looks good ?\r\n> \r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/98876115/292912331-61b08aaa-9878-4f36-b423-bd3abccc2b7f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2NDg5NDMsIm5iZiI6MTcwMzY0ODY0MywicGF0aCI6Ii85ODg3NjExNS8yOTI5MTIzMzEtNjFiMDhhYWEtOTg3OC00ZjM2LWI0MjMtYmQzYWJjY2MyYjdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI3VDAzNDQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhZTIwMzZkOWE1MDI5YzMxMGRmYTJhZDM0NmRiZDJlYzIzMTI2Y2M2NGQzMTk2MjRhOTc5YTFkNzI5MGE3Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pX-PbCoVTAdoyFD1c3TFPRmrYPkERNgI0GPPrGNKJxE)\r\n> \r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/98876115/292912467-26b88597-4319-4261-8649-b6d7b3bdb39d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM2NDg5NDMsIm5iZiI6MTcwMzY0ODY0MywicGF0aCI6Ii85ODg3NjExNS8yOTI5MTI0NjctMjZiODg1OTctNDMxOS00MjYxLTg2NDktYjZkN2IzYmRiMzlkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI3VDAzNDQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM1NTdjNGEwMzJhOWFjNTNlYTU3ZWZjYjNhNjJmMTlkY2UyOGJkMDBiZmY2NzhiZmZkZDRhMWYyZTRhNGMwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YDbZUvabOhmsUWDVmprNOTc5ZKl0tA9wrfYYHSp0kCo)\r\n\r\nInstead how about this:\r\n\r\nTitle: Collaborated on a PR\r\nDescription: OpenGraph image of the PR\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703648636.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1869920187",
+      "text": "@AshrafMd-1 what's the other way?\r\n\r\nAlso @sagarkori143 were you able to figure out which part of the `load-fixtures.sh` was not working exactly?\r\n\r\n@AshrafMd-1 let's update the README after clarifying this issue? "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703648447.0,
+      "title": "coronasafe/care#1735",
+      "link": "https://github.com/coronasafe/care/pull/1735#pullrequestreview-1796728861",
+      "text": "District Filter to display State's name along with the district's name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703648344.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1796728334",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6913",
+      "time": 1703648052.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#issuecomment-1869916354",
+      "text": "It'd also be nice to change the PR title to be something more appropriate to the changes you've made."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703648015.0,
+      "title": "coronasafe/care_fe#6915",
+      "link": "https://github.com/coronasafe/care_fe/pull/6915#pullrequestreview-1796726534",
+      "text": "Add keyboard shortcut for adding notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703648004.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796726476",
+      "text": "Doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647856.0,
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1796725601",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647599.0,
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1796724106",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1703647470.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824#issuecomment-1869912480",
+      "text": "Reviewed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647329.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796722513",
+      "text": "Doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647329.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796722513",
+      "text": "Doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647216.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796721302",
+      "text": "Doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647216.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796721302",
+      "text": "Doctor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703647098.0,
+      "title": "coronasafe/care_fe#6913",
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#pullrequestreview-1796721183",
+      "text": "Doctor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703646871.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1869908493",
+      "text": "Just clarifying the wording, you will be adding the filter in the patients viewset right? And not an additional field in the patient/consultation model right?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1703646456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1869905653",
+      "text": "@Om-Thorat \r\n\r\nhttps://github.com/coronasafe/care_fe/pull/6911#issuecomment-1868988181\r\n\r\nDidn't this one line change alone solve the problem? Was there some other issues?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6914",
@@ -31352,39 +31519,31 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6914",
-      "title": "Rename encounter date field labels",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6909",
       "title": "Migrate Bed Management to `useQuery` and move pagination state to query params",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "waiting-for-review"
       ]
@@ -31392,7 +31551,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -31455,18 +31614,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6766",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6769"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6757"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6749",
-      "pr_link": "https://github.com/coronasafe/care/pull/1734"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6727",
-      "pr_link": "https://github.com/coronasafe/care/pull/1728"
     }
   ]
 }
