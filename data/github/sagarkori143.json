@@ -1,6 +1,27 @@
 {
-  "last_updated": 1703672184.0,
+  "last_updated": 1703786892.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#193",
+      "time": 1703786892.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/193",
+      "text": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703763613.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1871086334",
+      "text": "@rithviknishad Please let me know about this. I want to make it by tonight. Thanks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703742335.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1870844878",
+      "text": "@AshrafMd-1 @rithviknishad  Thanks for helping me in setting up the local dev environment.\r\nI have made changes to truncate the contributors list. But If were are filtering out on the basis of zero points then still there are a lot of people in the list because they have atleast 10 points they got for commenting. Either we should exclude on basis of points>15 else if eod_update, issue_opened, pr -(collaborated merged, opened, reviewed ) everything is zero. Pls give review regarding this and I will be raising the PR soon..."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6917",
@@ -200,11 +221,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/193",
+      "title": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
-        "test failed"
+        "test failed",
+        "stale"
       ]
     }
   ],

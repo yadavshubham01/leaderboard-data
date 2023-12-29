@@ -1,6 +1,202 @@
 {
-  "last_updated": 1703688038.0,
+  "last_updated": 1703763454.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6839",
+      "time": 1703763454.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6839",
+      "text": "Shift level of consciousness from critical care log update to normal log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703763447.0,
+      "title": "coronasafe/care_fe#6935",
+      "link": "https://github.com/coronasafe/care_fe/pull/6935#pullrequestreview-1797965188",
+      "text": "Add consciousness level options for normal daily round type"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6885",
+      "time": 1703763288.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6885",
+      "text": "Add IP Number in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703763280.0,
+      "title": "coronasafe/care_fe#6898",
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#pullrequestreview-1797962682",
+      "text": "Add OP number to treatment summary."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6934",
+      "time": 1703752582.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6934",
+      "text": "Fix latitude and longitude handling in FacilityCreate component",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703752556.0,
+      "title": "coronasafe/care_fe#6934",
+      "link": "https://github.com/coronasafe/care_fe/pull/6934#pullrequestreview-1797810012",
+      "text": "Fix latitude and longitude handling in FacilityCreate component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6906",
+      "time": 1703752274.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6906",
+      "text": "Query Parameter in facility bed pagination is not shown"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703752273.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params",
+      "collaborated_with": [
+        "nihal467",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703752264.0,
+      "title": "coronasafe/care_fe#6909",
+      "link": "https://github.com/coronasafe/care_fe/pull/6909#pullrequestreview-1797806157",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6879",
+      "time": 1703726931.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "text": "Sidebar link indicator is misplaced if font size is other than default one."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703726922.0,
+      "title": "coronasafe/care_fe#6880",
+      "link": "https://github.com/coronasafe/care_fe/pull/6880#pullrequestreview-1797594690",
+      "text": "Fix mispositioned active link indicator"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703726763.0,
+      "title": "coronasafe/care_fe#6909",
+      "link": "https://github.com/coronasafe/care_fe/pull/6909#pullrequestreview-1797593885",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6523",
+      "time": 1703726707.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6523",
+      "text": "Asset Middleware Address is malfunctioning"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6803",
+      "time": 1703726707.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "text": "Use `resolved_middleware` for Middleware Management and Uptime Checks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703726696.0,
+      "title": "coronasafe/care_fe#6875",
+      "link": "https://github.com/coronasafe/care_fe/pull/6875#pullrequestreview-1797593534",
+      "text": "Use resolved_middleware for overrides"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6391",
+      "time": 1703726651.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6391",
+      "text": "\ud83d\udee0\ufe0f Replace `useDispatch` w. `useQuery`/`request`: Facility (Part 2, E-H) (`src/Components/Facility/[E-H]*.tsx`)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703726636.0,
+      "title": "coronasafe/care_fe#6591",
+      "link": "https://github.com/coronasafe/care_fe/pull/6591#pullrequestreview-1797593235",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6756",
+      "time": 1703725846.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6756",
+      "text": "CARE reloads when a patient is discharged"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6770",
+      "time": 1703725707.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6770",
+      "text": "Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725659.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1797588358",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725634.0,
+      "title": "coronasafe/care_fe#6892",
+      "link": "https://github.com/coronasafe/care_fe/pull/6892#pullrequestreview-1797588238",
+      "text": "Replace all window.location.reload() with data refetch."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725616.0,
+      "title": "coronasafe/care_fe#6912",
+      "link": "https://github.com/coronasafe/care_fe/pull/6912#pullrequestreview-1797588139",
+      "text": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6761",
+      "time": 1703725601.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6761",
+      "text": "Support for self-healing Consultation URL and redirecting `/consultation/:id` to the actual route"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725593.0,
+      "title": "coronasafe/care_fe#6893",
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#pullrequestreview-1797588015",
+      "text": "Support for self-healing Consultation URL "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725548.0,
+      "title": "coronasafe/care_fe#6914",
+      "link": "https://github.com/coronasafe/care_fe/pull/6914#pullrequestreview-1797587794",
+      "text": "Rename encounter date field labels"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6817",
+      "time": 1703725533.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6817",
+      "text": "Add keyboard shortcut \"Cmd + Enter\" / \"Shift + Enter\" to send doctor notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703725526.0,
+      "title": "coronasafe/care_fe#6915",
+      "link": "https://github.com/coronasafe/care_fe/pull/6915#pullrequestreview-1797587660",
+      "text": "Add keyboard shortcut for adding notes"
+    },
     {
       "type": "pr_reviewed",
       "time": 1703688038.0,
@@ -26795,7 +26991,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -26805,7 +27001,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "waiting-for-review"
       ]
@@ -26813,19 +27009,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 383,
+      "stale_for": 384,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 140,
+      "stale_for": 141,
       "labels": [
         "changes required"
       ]
@@ -26833,25 +27029,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 740,
+      "stale_for": 741,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 746,
+      "stale_for": 747,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 747,
+      "stale_for": 748,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 942,
+      "stale_for": 943,
       "labels": []
     }
   ],

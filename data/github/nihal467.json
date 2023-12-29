@@ -1,6 +1,96 @@
 {
-  "last_updated": 1703690154.0,
+  "last_updated": 1703795559.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6936",
+      "time": 1703795559.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6936",
+      "text": "Multiple cards are shown for facility with no location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6935",
+      "time": 1703763357.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6935#issuecomment-1871083231",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703763218.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1871081548",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1703756088.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1870987442",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/5631ef38-6dd3-4d39-bd22-d1343439c378)\r\n\r\n- [ ] when the ICU admission details comes in, the whole UI looks weird\r\n- [ ] keep the whole thing in one row\r\n- [ ] keep the ICU admission on as same font as the admission on"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6839",
+      "time": 1703753908.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6839#issuecomment-1870957224",
+      "text": "@Ashesh3 we don't need to separate it as neurological monitoring with the heading : Finalised after a call with aparna"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6934",
+      "time": 1703752481.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6934#issuecomment-1870940206",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703752356.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870938740",
+      "text": "@AshrafMd-1 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/0c9dea08-4776-48e6-af6a-167c69145f52)\r\n\r\nthe bug still exist, the borders are not uniform, keep it as it is in current staging"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703752273.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703726650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
+      "collaborated_with": [
+        "sriharsh05"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6912",
+      "time": 1703725825.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6912",
+      "text": "New Cypress Test | Facility Pagination, Navigation and Duplicate Bed Error | Facility Module (#6907)",
+      "turnaround_time": 32817
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703725707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "text": " Timeline style view for Daily Rounds",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad",
+        "Pranshu1902"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6898",

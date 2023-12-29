@@ -1,6 +1,28 @@
 {
-  "last_updated": 1703702392.0,
+  "last_updated": 1703792738.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1718",
+      "time": 1703792738.0,
+      "link": "https://github.com/coronasafe/care/pull/1718#issuecomment-1871446561",
+      "text": "@nihal467 Can you check  if it works for the readmissions? I've updated the sorting order."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1718",
+      "time": 1703792637.0,
+      "link": "https://github.com/coronasafe/care/pull/1718#issuecomment-1871445655",
+      "text": "> Here is the conditions when we show the \"No consultation filed\" badge:\r\n> \r\n> ```\r\n> (!patient.last_consultation || patient.last_consultation?.facility !== patient.facility ||\r\n> (patient.last_consultation?.discharge_date && patient.is_active))\r\n> ```\r\n\r\n@Ashesh3 Thanks!"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6915",
+      "time": 1703725534.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6915",
+      "text": "Add keyboard shortcut for adding notes",
+      "turnaround_time": 71647
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6656",
@@ -3086,13 +3108,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -3117,7 +3139,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "waiting for back end"
@@ -3126,7 +3148,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1692",
       "title": "Prescription: Titrated drug dose",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]

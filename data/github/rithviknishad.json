@@ -1,6 +1,59 @@
 {
-  "last_updated": 1703694666.0,
+  "last_updated": 1703777988.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1703777988.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#issuecomment-1871284086",
+      "text": "let's say you've typed a message and not posted for consultation A of patient A.\n\nyou've opened consultation B of patient B, and this would end up restoring the draft of consultation A, right?\n\nthe local storage key/value is not uniquely identifying which consultation it belongs to"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1703777735.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171#issuecomment-1871280719",
+      "text": "i understood, I've tried this a few days back. so instead of truncating based on points, we could truncate if all of the highlight specific metrics of that week is 0 (such as PRs opened, issues opened, etc...), instead of points \n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703752273.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params",
+      "turnaround_time": 80661
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6909",
+      "time": 1703752273.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6909",
+      "text": "Migrate Bed Management to `useQuery` and move pagination state to query params",
+      "collaborated_with": [
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703725707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "text": " Timeline style view for Daily Rounds",
+      "collaborated_with": [
+        "sainak",
+        "nihal467",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6914",
+      "time": 1703725555.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6914",
+      "text": "Rename encounter date field labels",
+      "turnaround_time": 72021
+    },
     {
       "type": "pr_reviewed",
       "time": 1703694666.0,
@@ -31521,21 +31574,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6909",
-      "title": "Migrate Bed Management to `useQuery` and move pagination state to query params",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -31543,7 +31588,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "waiting-for-review"
       ]
@@ -31551,7 +31596,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting for back end",
         "merge conflict"

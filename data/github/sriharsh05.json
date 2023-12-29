@@ -1,6 +1,32 @@
 {
-  "last_updated": 1703601360.0,
+  "last_updated": 1703726650.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703726650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
+      "turnaround_time": 72687
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6591",
+      "time": 1703726650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6591",
+      "text": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6892",
+      "time": 1703725845.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6892",
+      "text": "Replace all window.location.reload() with data refetch.",
+      "turnaround_time": 50162
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6591",
@@ -514,23 +540,6 @@
       "text": "I want to work on this issue."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6892",
-      "title": "Replace all window.location.reload() with data refetch.",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6591",
-      "title": "Replaced useDipatch with useQuery/request in FacilityCreate and HospitalList files",
-      "stale_for": 0,
-      "labels": [
-        "test failed"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

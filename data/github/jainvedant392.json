@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703674779.0,
+  "last_updated": 1703751159.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703751159.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1870925377",
+      "text": "Also currently, there is no patient having the review missed chip, is there was any, it would be easier for me to check the filter once it's made.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6745",

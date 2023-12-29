@@ -1,6 +1,61 @@
 {
-  "last_updated": 1703688039.0,
+  "last_updated": 1703765944.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1703765944.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1871114458",
+      "text": "@Arzzam any updates? Try to raise a draft PR so that we can also keep track of the progress"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1703763901.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1871089641",
+      "text": "Fixed camera boundary cypress tests and updated it to use dummy data for testing\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/69a51a99-ce9d-4d51-b02c-b89dce5a3bf3)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1703757322.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1871008908",
+      "text": "@nihal467 Updated view:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/1169340d-ffcd-4902-a422-3db3af4cad31)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6886",
+      "time": 1703754671.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6886#issuecomment-1870967059",
+      "text": "Closed as completed in #6808 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6886",
+      "time": 1703754632.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6886",
+      "text": "Fix Loading State in Update Log List"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703725707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "text": " Timeline style view for Daily Rounds",
+      "turnaround_time": 48872
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6808",
+      "time": 1703725707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6808",
+      "text": " Timeline style view for Daily Rounds",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6779",
@@ -7207,7 +7262,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -7223,7 +7278,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     }
   ],

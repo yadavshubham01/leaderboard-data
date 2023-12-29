@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703694800.0,
+  "last_updated": 1703782908.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1703782908.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#issuecomment-1871346542",
+      "text": "Thank you for the clarification. I have made the draft specific to consultation \r\n\r\nhttps://github.com/coronasafe/care_fe/assets/110323017/69bd27b5-ba3d-449f-85b2-3933fa783312\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1703770953.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#issuecomment-1871189923",
+      "text": "> the draft is not specific to a consultation\r\n\r\nThank you for your feedback! Could you please provide more details or guidance on what you mean by 'the draft is not specific to a consultation'?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6931",
@@ -96,7 +110,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6913",
       "title": "Doctor",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "Deploy-Failed",

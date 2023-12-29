@@ -1,6 +1,28 @@
 {
-  "last_updated": 1703697901.0,
+  "last_updated": 1703763288.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703763288.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898",
+      "text": "Add OP number to treatment summary.",
+      "turnaround_time": 59559
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703761428.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1871060864",
+      "text": "@nihal467 I tried multiple ways and this is the only way it worked by adding an extra column \r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/bd64e976-f94a-4573-abb3-e3c8eb44391d)\r\nAlready pushed the update \r\ncan u check if its okay ."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6898",
+      "time": 1703744282.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6898#issuecomment-1870860711",
+      "text": "@rithviknishad can u change the label"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6898",
@@ -1155,7 +1177,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/192",
       "title": "Fix the look of PR Collaboration",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -1163,16 +1185,6 @@
       "title": "Remove scroll bar when header text overflows in patient details. ",
       "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6898",
-      "title": "Add OP number to treatment summary.",
-      "stale_for": 0,
-      "labels": [
-        "test failed",
-        "changes required",
-        "P2"
-      ]
     }
   ],
   "authored_issue_and_pr": [
