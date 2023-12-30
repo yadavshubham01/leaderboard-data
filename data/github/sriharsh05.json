@@ -1,6 +1,41 @@
 {
-  "last_updated": 1703726650.0,
+  "last_updated": 1703855357.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1703855357.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1872073733",
+      "text": "I want to work on this issue. Please assign this to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6939",
+      "time": 1703853156.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6939#issuecomment-1872033577",
+      "text": "I want to work on this issue. Please assign this to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6939",
+      "time": 1703851994.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6939#issuecomment-1872006377",
+      "text": "I want to work on this issue. Please assign this to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1703850829.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748#issuecomment-1871990914",
+      "text": "@Pranshu1902 \nThe error message is thrown when you change beds with in same minute.\nTo reproduce:\nSwitch a patient within 2 fixed beds alternatively. \n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6938",
+      "time": 1703848399.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6938#issuecomment-1871960597",
+      "text": "I want to work on this issue. Please assign it to me.\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6591",

@@ -1,6 +1,66 @@
 {
-  "last_updated": 1703763454.0,
+  "last_updated": 1703873869.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1703873869.0,
+      "title": "coronasafe/care_fe#6949",
+      "link": "https://github.com/coronasafe/care_fe/pull/6949#pullrequestreview-1799152445",
+      "text": "fix resp. rate from being 0 instead of null when unset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703872251.0,
+      "title": "coronasafe/care_fe#6947",
+      "link": "https://github.com/coronasafe/care_fe/pull/6947#pullrequestreview-1799140585",
+      "text": "Update consciousness level constants"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703872223.0,
+      "title": "coronasafe/care_fe#6948",
+      "link": "https://github.com/coronasafe/care_fe/pull/6948#pullrequestreview-1799140386",
+      "text": "fixes not found errors in investigation and other type errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1793",
+      "time": 1703858559.0,
+      "link": "https://github.com/coronasafe/care/pull/1793",
+      "text": "Updated the bridge service registration endpoint",
+      "turnaround_time": 2896
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1793",
+      "time": 1703858559.0,
+      "link": "https://github.com/coronasafe/care/pull/1793",
+      "text": "Updated the bridge service registration endpoint",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1793",
+      "time": 1703855663.0,
+      "link": "https://github.com/coronasafe/care/pull/1793",
+      "text": "Updated the bridge service registration endpoint"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6936",
+      "time": 1703852826.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6936",
+      "text": "Multiple cards are shown for facility with no location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703852816.0,
+      "title": "coronasafe/care_fe#6937",
+      "link": "https://github.com/coronasafe/care_fe/pull/6937#pullrequestreview-1798890602",
+      "text": "Fix empty state in LocationManagement and BedManagement"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6839",
@@ -26991,7 +27051,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27001,7 +27061,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "waiting-for-review"
       ]
@@ -27009,19 +27069,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 384,
+      "stale_for": 385,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 141,
+      "stale_for": 142,
       "labels": [
         "changes required"
       ]
@@ -27029,25 +27089,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 741,
+      "stale_for": 742,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 747,
+      "stale_for": 748,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 748,
+      "stale_for": 749,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 943,
+      "stale_for": 944,
       "labels": []
     }
   ],

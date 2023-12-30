@@ -1,6 +1,71 @@
 {
-  "last_updated": 1703777988.0,
+  "last_updated": 1703873876.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6949",
+      "time": 1703873876.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6949",
+      "text": "fix resp. rate from being 0 instead of null when unset",
+      "turnaround_time": 913
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6949",
+      "time": 1703872964.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6949",
+      "text": "fix resp. rate from being 0 instead of null when unset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6948",
+      "time": 1703872229.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6948",
+      "text": "fixes not found errors in investigation and other type errors",
+      "turnaround_time": 1662
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6948",
+      "time": 1703870568.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6948",
+      "text": "fixes not found errors in investigation and other type errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6893",
+      "time": 1703869616.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6893#issuecomment-1872224086",
+      "text": "lint checks has failed cc: @Ashesh3 \r\n\r\n<img width=\"1064\" alt=\"Screenshot 2023-12-29 at 22 36 18\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/97cee92d-1752-4891-abc3-f51b4d66b0a0\">\r\n\r\n\r\n<img width=\"820\" alt=\"Screenshot 2023-12-29 at 22 36 33\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/b54e88e5-be03-429e-8c14-ed5b8952788a\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703857796.0,
+      "title": "coronasafe/care#1793",
+      "link": "https://github.com/coronasafe/care/pull/1793#pullrequestreview-1799007677",
+      "text": "Updated the bridge service registration endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703829043.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1798614640",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703829035.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1798614640",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703829022.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1798614553",
+      "text": "added the draft feature in the doctor's notes"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6932",
@@ -31574,13 +31639,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -31588,7 +31653,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "waiting-for-review"
       ]
@@ -31596,7 +31661,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "waiting for back end",
         "merge conflict"

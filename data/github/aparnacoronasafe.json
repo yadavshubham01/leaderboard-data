@@ -1,6 +1,62 @@
 {
-  "last_updated": 1703688068.0,
+  "last_updated": 1703855147.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1703855147.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945",
+      "text": "Occupation of patient to be tracked"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1703854912.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944",
+      "text": "Expanding Comorbidities: Medical History"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6943",
+      "time": 1703854877.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6943",
+      "text": "Patient registration form: Collect \"Post partum\""
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6942",
+      "time": 1703853993.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6942",
+      "text": "Symptoms : Expand list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6941",
+      "time": 1703852768.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6941",
+      "text": "Group call: Doctor Connect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6940",
+      "time": 1703852399.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6940",
+      "text": "Multiple scrolls- unnecessary: doctor connect "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6939",
+      "time": 1703851668.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6939",
+      "text": "Route of medicine- Add inhalation/ryles tube"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4678",
+      "time": 1703851259.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4678#issuecomment-1871996286",
+      "text": "I have edited the issue to suggest a solution. \r\n\r\n@gigincg please review"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6931",

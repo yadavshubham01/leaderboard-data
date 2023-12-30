@@ -1,6 +1,50 @@
 {
-  "last_updated": 1703763453.0,
+  "last_updated": 1703872258.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6947",
+      "time": 1703872258.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6947",
+      "text": "Update consciousness level constants",
+      "turnaround_time": 3580
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6947",
+      "time": 1703868679.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6947",
+      "text": "Update consciousness level constants"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703856258.0,
+      "title": "coronasafe/care#1793",
+      "link": "https://github.com/coronasafe/care/pull/1793#pullrequestreview-1798992925",
+      "text": "Updated the bridge service registration endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6937",
+      "time": 1703852825.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6937",
+      "text": "Fix empty state in LocationManagement and BedManagement",
+      "turnaround_time": 57197
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1703827893.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1871741040",
+      "text": "@AshrafMd-1 Cache, in the sense if you search a query and then search for the same query again, it won't perform the search again. It checks if the search field has changed or not before performing a search. The issue is about removing this behavior from search inputs and keep it (as it already is) for advanced filters.\r\n\r\nDemo:\r\nGo here:\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/07915154-fa05-4251-a36f-f7dee99b3341)\r\nPress enter, then keep pressing enter to search. you will notice that it won't perform any searches since the query isn't changing, but we expect it to refetch the results from the query even if the search term is the same."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6937",
+      "time": 1703826833.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6937",
+      "text": "Fix empty state in LocationManagement"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6935",
@@ -15331,7 +15375,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6933",
       "title": "Add consultation_filed filter to Patients list",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -15339,7 +15383,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1789",
       "title": "Add consultation_filed filter in PatientFilterSet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -15347,7 +15391,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6925",
       "title": "Redesign Bed Capacity Cards",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "discussion",
@@ -15357,7 +15401,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "discussion"
       ]
@@ -15365,7 +15409,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -15373,7 +15417,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15382,15 +15426,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6918",
       "title": "Revert #6872",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "blocked"
+        "blocked",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -15398,7 +15443,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15407,7 +15452,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -15415,7 +15460,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": [
         "POC"
       ]
@@ -15423,7 +15468,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 268,
+      "stale_for": 269,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15432,13 +15477,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 281,
+      "stale_for": 282,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703600913.0,
+  "last_updated": 1703843930.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": 1703843930.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-1871894183",
+      "text": "> We are currently showing time in two places which is redundant.\r\n> \r\n> Also can we improve the wording to something like this instead (just suggesting, feel free to add your creativity)\r\n> \r\n> ```\r\n> - Transferred to <b>{bed_name} in {location_name}</b>   (relative time)\r\n> - Transferred to <b>{bed_name} in {location_name}</b>   (relative time)\r\n> - Occupied <b>{bed_name} in {location_name}</b>         (relative time)\r\n> ```\r\n\r\nI'll be working on some mockups and share them on channel"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#147",
@@ -348,10 +355,8 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 1,
-      "labels": [
-        "changes required"
-      ]
+      "stale_for": 0,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [

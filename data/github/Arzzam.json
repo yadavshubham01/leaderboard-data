@@ -1,6 +1,20 @@
 {
-  "last_updated": 1702731610.0,
+  "last_updated": 1703861403.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1703861403.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1872144648",
+      "text": "\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/92790024/7f4f16dd-856c-4b18-ae6e-653c381e8366\r\n\r\n\r\nAs I told you the extra scroll will be there as the router has to be fixed. I guess the arrows are not required now. If it is required we can proceed with that.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1703854173.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1872057822",
+      "text": "Sorry for the delay, I will finish it and raise PR in this week.\r\nThank you"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",

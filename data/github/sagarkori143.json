@@ -1,6 +1,34 @@
 {
-  "last_updated": 1703786892.0,
+  "last_updated": 1703857228.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1703857228.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1872097436",
+      "text": "Should this field also be marked as mandatory?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1703856902.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1872093641",
+      "text": "I would like to take this one!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#194",
+      "time": 1703823939.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/194#issuecomment-1871719163",
+      "text": "I have done nothing with the data and contributors file (actually there were files and not folders with these names ). I did that in another branch and tested my changes and now I have made the required changes in a new branch without doing any ./load-fixtures.sh operation. Is it okay to move ahead without those files "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#194",
+      "time": 1703823686.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/194",
+      "text": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#193",
@@ -221,7 +249,7 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/193",
+      "link": "https://github.com/coronasafe/leaderboard/pull/194",
       "title": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week.",
       "stale_for": 0,
       "labels": []
@@ -229,7 +257,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed",
         "stale"

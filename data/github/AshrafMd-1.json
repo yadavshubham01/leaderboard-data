@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703763288.0,
+  "last_updated": 1703859034.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6946",
+      "time": 1703859034.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6946",
+      "text": "Fixed None option in medical history selection input"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1703828749.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1871745809",
+      "text": "@Ashesh3 okay \r\nThx for clarifying. "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6898",
@@ -1175,9 +1189,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6946",
+      "title": "Fixed None option in medical history selection input",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/192",
       "title": "Fix the look of PR Collaboration",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
