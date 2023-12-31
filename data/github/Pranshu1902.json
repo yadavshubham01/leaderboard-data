@@ -1,6 +1,41 @@
 {
-  "last_updated": 1703850949.0,
+  "last_updated": 1703939228.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1703939228.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1872518780",
+      "text": "@Arzzam I checked the code, so you would have to remove `p-3` from the class from here \r\nhttps://github.com/coronasafe/care_fe/blob/develop/src/Routers/AppRouter.tsx#L139 \r\nto remove the extra scroll. See if you can get a work around this otherwise, go ahead and modify the `AppRouter.tsx`. Besides that,  do add the arrows, it's a required feature."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6953",
+      "time": 1703937480.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6953",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1703936645.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1872511624",
+      "text": "Backend PR: [#1794](https://github.com/coronasafe/care/pull/1794)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1794",
+      "time": 1703936606.0,
+      "link": "https://github.com/coronasafe/care/pull/1794",
+      "text": "`listAssetAvailability` queryset to send all related assets record status"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1703936473.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952",
+      "text": "Show Asset Downtime on assets lists page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6748",
@@ -7288,9 +7323,31 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6953",
+      "title": "Hide delete facility option for users who dont have access",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1794",
+      "title": "`listAssetAvailability` queryset to send all related assets record status",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6952",
+      "title": "Show Asset Downtime on assets lists page",
+      "stale_for": 0,
+      "labels": [
+        "work-in-progress"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -7298,7 +7355,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -7306,7 +7363,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     }
   ],

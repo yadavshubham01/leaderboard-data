@@ -1,6 +1,34 @@
 {
-  "last_updated": 1703873851.0,
+  "last_updated": 1703957175.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6955",
+      "time": 1703957175.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6955#issuecomment-1872569660",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1795",
+      "time": 1703949670.0,
+      "link": "https://github.com/coronasafe/care/pull/1795#issuecomment-1872547489",
+      "text": "@vigneshhari can you review it :)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6951",
+      "time": 1703931009.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6951#issuecomment-1872497784",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1703915577.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930#issuecomment-1872460837",
+      "text": "@rithviknishad thats the ideal case but aparna requested for this feature"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6949",

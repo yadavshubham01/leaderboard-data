@@ -1,6 +1,27 @@
 {
-  "last_updated": 1702646630.0,
+  "last_updated": 1703913380.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1703913380.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#issuecomment-1872455203",
+      "text": "@rithviknishad \r\nOkay i have made the suggested changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1703911821.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950",
+      "text": "date format changed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6830",
+      "time": 1703910531.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6830#issuecomment-1872449198",
+      "text": "@rithviknishad yess"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6830",
@@ -16,6 +37,13 @@
       "text": "Hello there,\r\nI have gone through the project and it seems really interesting and matches my skillset and experience too, Looking forward to submitting the proposal for this one!"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6950",
+      "title": "date format changed",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

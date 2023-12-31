@@ -1,6 +1,14 @@
 {
-  "last_updated": 1703859034.0,
+  "last_updated": 1703912799.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#192",
+      "time": 1703912799.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/192",
+      "text": "Fix the look of PR Collaboration",
+      "turnaround_time": 4875
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6946",
@@ -1192,18 +1200,14 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6946",
       "title": "Fixed None option in medical history selection input",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/192",
-      "title": "Fix the look of PR Collaboration",
-      "stale_for": 2,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6910",
       "title": "Remove scroll bar when header text overflows in patient details. ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

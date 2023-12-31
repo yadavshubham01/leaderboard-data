@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703857228.0,
+  "last_updated": 1703938650.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1703938650.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1872517201",
+      "text": "Also @rithviknishad  @aparnacoronasafe  @nihal467 \r\nI have created the required Occupation field and I inspected results in console and ensured that the occupation data is going through handleSubmit process but this data is not being saved into the database because when I again go to edit patient details the occupation field there is empty. Here is what I have done:\r\n1) Defined OCCUPATION_TYPES in Constants.tsx\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/e694b1e6-528b-4d09-bc6f-6bcc98f7883b)\r\n\r\n\r\n\r\n2) Defined occupation modal as strings in models.tsx\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/e053774b-416c-4c22-827d-49b0593e0f30)\r\n\r\n\r\n3) Added occupation input field in patientRegister.tsx\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/c55c546e-d59a-45bb-a587-952a9aecab82)\r\n\r\n\r\n4) Added to Abha linking \r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/9e303b75-bbe0-4cba-b9f5-120663eccfc8)\r\n\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/d09f5e3a-e4e2-40a4-a8df-76b818c3942d)\r\n\r\n\r\n5) Added to data schema in handleSubmit:\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/db9da4d1-2069-4b0d-96c8-5c9852063b88)\r\n\r\n\r\n6) Defined in fetchExtResultData in patientReg.tsx itself:\r\n![image](https://github.com/coronasafe/care_fe/assets/129517558/252e8c47-f59c-4c4a-bb3a-4ebe089f98df)\r\n\r\n\r\nPlease have a look and let me know where I'm missing out which is resulting in data not being saved to database."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#194",
+      "time": 1703911761.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/194#issuecomment-1872451732",
+      "text": "Okay let me just check on it once again but I thought that the deployment has failed just like it happened to me while running the localhost:\r\n![Screenshot 2023-12-29 100128](https://github.com/coronasafe/leaderboard/assets/129517558/a39605e0-608e-4f15-a19e-bfeb9f111974)\r\n\r\nI'm looking for changes again.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6945",
@@ -257,7 +271,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "test failed",
         "stale"

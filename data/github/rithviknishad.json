@@ -1,6 +1,214 @@
 {
-  "last_updated": 1703873876.0,
+  "last_updated": 1703956290.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6954",
+      "time": 1703956290.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6954",
+      "text": "fix daily rounds vital fields not clearing",
+      "turnaround_time": 9716
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6954",
+      "time": 1703956290.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6954",
+      "text": "fix daily rounds vital fields not clearing",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703948735.0,
+      "title": "coronasafe/care#1795",
+      "link": "https://github.com/coronasafe/care/pull/1795#pullrequestreview-1799565050",
+      "text": "Copy consciousness_level when cloning last daily round"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703948602.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1799564881",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6954",
+      "time": 1703946575.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6954",
+      "text": "fix daily rounds vital fields not clearing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6951",
+      "time": 1703931097.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6951",
+      "text": "Daily Rounds: Fix previous log update not being detected",
+      "turnaround_time": 125
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6951",
+      "time": 1703930972.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6951",
+      "text": "Daily Rounds: Fix previous log update not being detected"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703926826.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1799283856",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703926826.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1799283856",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703926674.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1872486624",
+      "text": "> There are filelds like review_interval and review_time in the PatientModel, so if I create a review_done field in the PatientModel, then according to you, how can I handle the filters with the help of it ?\r\n\r\nYou need not add a field in the model. You could simply annotate with an expression (same expr. as in FE) and filter by that annotation's value."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703913556.0,
+      "title": "coronasafe/care#1737",
+      "link": "https://github.com/coronasafe/care/pull/1737#pullrequestreview-1799352327",
+      "text": "Enhanced Error Handling in AssetViewSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703913494.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1799350536",
+      "text": "date format changed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703913135.0,
+      "title": "coronasafe/care#1773",
+      "link": "https://github.com/coronasafe/care/pull/1773#pullrequestreview-1799340204",
+      "text": "Data Migration to Support New Discharge Reason Field"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1703912967.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930#issuecomment-1872454239",
+      "text": "@nihal467 would there be a situation where a bed is unlinked from an admitted patient? Won't they always be switched to another bed or discharged instead?"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#188",
+      "time": 1703912799.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/188",
+      "text": "Format \"PR Collaborated\" event's title"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912793.0,
+      "title": "coronasafe/leaderboard#192",
+      "link": "https://github.com/coronasafe/leaderboard/pull/192#pullrequestreview-1799330334",
+      "text": "Fix the look of PR Collaboration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912539.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1799322863",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912539.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1799322863",
+      "text": "added the draft feature in the doctor's notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6913",
+      "time": 1703912484.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6913#issuecomment-1872453073",
+      "text": "Closing as alt. #6932"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912392.0,
+      "title": "coronasafe/care_fe#6512",
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#pullrequestreview-1799318781",
+      "text": "fix(location): duty doctors and staff for each location in a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912121.0,
+      "title": "coronasafe/care#1789",
+      "link": "https://github.com/coronasafe/care/pull/1789#pullrequestreview-1799310931",
+      "text": "Add consultation_filed filter in PatientFilterSet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912082.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1799308114",
+      "text": "date format changed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912069.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1799308114",
+      "text": "date format changed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703912069.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1799308114",
+      "text": "date format changed"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#195",
+      "time": 1703911870.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/195",
+      "text": "Configure pre commit hook to disallow commits that has lint errors"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6745",
+      "time": 1703911785.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6745#issuecomment-1872451784",
+      "text": "Consultation: https://care.ohc.network/facility/fa4942c3-dce3-477e-81b2-7c95cd18b5da/patient/b26e30ab-7557-42d5-a5fb-14f23c086964/consultation/fae6f90b-c8d9-4593-83ff-1918f7a9bafd\r\n\r\n<img width=\"1234\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/c0536aba-4ee3-4701-9171-273ece66674b\">\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6748",
+      "time": 1703911576.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6748",
+      "text": "Assign Bed throws error \"Cannot create conflicting entry\" even though no bed was allocated previously"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#194",
+      "time": 1703911042.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/194#issuecomment-1872450262",
+      "text": "@sagarkori143 are you sure the deployment has failed because of these files?\r\n\r\nEven if you had successfully ran `load-fixtures.sh`, it wouldn't affect because those files under `data-repo` directory (contributors and data) are git ignored.\r\n\r\nThe deployment failed because the code wasn't pretty \r\n<img width=\"1230\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/b719e894-c42a-4162-b032-03b3466c315d\">\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6830",
+      "time": 1703910454.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6830#issuecomment-1872448978",
+      "text": "@ReaxonTV unassigned as no activity for 3 weeks.\r\n\r\n@AdityyaX do you still want to take this issue?"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6949",
@@ -31639,13 +31847,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "changes required"
       ]
@@ -31653,7 +31861,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "waiting-for-review"
       ]
@@ -31661,7 +31869,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "waiting for back end",
         "merge conflict"

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703782908.0,
+  "last_updated": 1703924434.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1703924434.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#issuecomment-1872481452",
+      "text": "Ok @rithviknishad I will be making the changes to the PR today"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6932",
@@ -105,16 +112,8 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6932",
       "title": "added the draft feature in the doctor's notes",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6913",
-      "title": "Doctor",
-      "stale_for": 1,
       "labels": [
-        "changes required",
-        "Deploy-Failed",
-        "merge conflict"
+        "needs testing"
       ]
     }
   ],

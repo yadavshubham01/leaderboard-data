@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703725601.0,
+  "last_updated": 1703924237.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1703924237.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1872480959",
+      "text": "@Ashesh3 @rithviknishad \r\nCould you please check the following link on a mobile device and suggest any improvements for scrolling\r\n\r\n\r\nhttps://codesandbox.io/p/sandbox/react-scroll-time-forked-nxnxjn\r\nhttps://nxnxjn.csb.app/\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1703914586.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1872459025",
+      "text": "@Ashesh3 \r\n\r\nI implemented it, when checking it in mobile the scroll is not working the minutes are constant\r\nI checked the same with the link you provided in mobile, same issue, unable to scroll\r\n\r\n\ud83e\udd72"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6893",
@@ -812,7 +826,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 32,
+      "stale_for": 34,
       "labels": []
     }
   ],

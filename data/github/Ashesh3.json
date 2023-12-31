@@ -1,6 +1,53 @@
 {
-  "last_updated": 1703872258.0,
+  "last_updated": 1703957245.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6955",
+      "time": 1703957245.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6955",
+      "text": "Fix conditional logic in PatientInfoCard",
+      "turnaround_time": 107
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6955",
+      "time": 1703957139.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6955",
+      "text": "Fix conditional logic in PatientInfoCard"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6954",
+      "time": 1703956290.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6954",
+      "text": "fix daily rounds vital fields not clearing",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1795",
+      "time": 1703949987.0,
+      "link": "https://github.com/coronasafe/care/pull/1795",
+      "text": "Copy consciousness_level when cloning last daily round",
+      "turnaround_time": 1302
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1795",
+      "time": 1703948685.0,
+      "link": "https://github.com/coronasafe/care/pull/1795",
+      "text": "Copy consciousness_level when cloning last daily round"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6858",
+      "time": 1703929124.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6858#issuecomment-1872493066",
+      "text": "> @Ashesh3 @rithviknishad Could you please check the following link on a mobile device and suggest any improvements for scrolling\r\n> \r\n> [codesandbox.io/p/sandbox/react-scroll-time-forked-nxnxjn](https://codesandbox.io/p/sandbox/react-scroll-time-forked-nxnxjn) [nxnxjn.csb.app](https://nxnxjn.csb.app/)\r\n\r\nLet's not over engineer it. Do not make it infinite scroll, just make it a static list. User can scroll up or down to select the time. "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6947",
@@ -15375,7 +15422,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6933",
       "title": "Add consultation_filed filter to Patients list",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -15383,7 +15430,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1789",
       "title": "Add consultation_filed filter in PatientFilterSet",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -15391,7 +15438,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6925",
       "title": "Redesign Bed Capacity Cards",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required",
         "discussion",
@@ -15401,7 +15448,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "discussion"
       ]
@@ -15409,7 +15456,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]
@@ -15417,7 +15464,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15426,7 +15473,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6918",
       "title": "Revert #6872",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "blocked",
         "merge conflict"
@@ -15435,7 +15482,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -15443,7 +15490,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15452,7 +15499,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -15460,7 +15507,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 85,
+      "stale_for": 86,
       "labels": [
         "POC"
       ]
@@ -15468,7 +15515,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 269,
+      "stale_for": 270,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15477,13 +15524,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 282,
+      "stale_for": 283,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
