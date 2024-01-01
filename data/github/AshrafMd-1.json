@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703912799.0,
+  "last_updated": 1704021375.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#195",
+      "time": 1704021375.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/195#issuecomment-1872923646",
+      "text": "Done,\r\nI want to work on this issue Can u assign this to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#195",
+      "time": 1703999555.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/195#issuecomment-1872672968",
+      "text": "By using husky ?"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#192",
@@ -1199,7 +1213,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6946",
       "title": "Fixed None option in medical history selection input",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -1207,7 +1221,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6910",
       "title": "Remove scroll bar when header text overflows in patient details. ",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703861403.0,
+  "last_updated": 1704033263.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704033263.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1872963486",
+      "text": "Hi @Pranshu1902,\r\nI have a doubt that when I dynamically add the top and left in the tailwind classNames, It is not working. \r\n\r\nHere I have attached a video that will shows about it, Is there any reason it is not working, I have added class like these in other projects but it worked. I guess it is not worked in oru project thats why I am curious about it.\r\nI have finished everything. I just want to position these buttons dynamically when the screen size changes that why I added like this but it won't work. \r\nThanks for your help.\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/92790024/19136622-6473-4d26-b0c4-5043065005cd\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",

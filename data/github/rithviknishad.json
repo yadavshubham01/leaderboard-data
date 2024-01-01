@@ -1,6 +1,55 @@
 {
-  "last_updated": 1703956290.0,
+  "last_updated": 1704000442.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#195",
+      "time": 1704000442.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/195#issuecomment-1872675410",
+      "text": "Works. Have a look are how it works in https://github.com/coronasafe/care_fe. The same could be used."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1704000321.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1872674986",
+      "text": "@aparnacoronasafe should the \"any other\" option be a free-flow text accepting any input from the user? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1704000258.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1872674764",
+      "text": "The backend does not have a field called \"occupation\" in the patient serializer.\r\n\r\nKindly go through the README and have a look at the Care API Docs https://careapi.ohc.network/swagger/\r\n\r\nThe occupation field is available inside the `meta` field of the patient serializer.\r\n\r\nAlso, this will require backend changes to be made to support the new options.\r\n\r\n<img width=\"897\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/b257dbdf-48df-4187-835a-712a3122fe51\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703999784.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1799610492",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703999784.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1799610492",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1703999646.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1872673146",
+      "text": "Also, some other icon would be better. A setting cog icon does not suit for indicating downtime."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1703999596.0,
+      "title": "coronasafe/care_fe#6952",
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#pullrequestreview-1799610356",
+      "text": "Show Asset Downtime on assets lists page"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6954",
@@ -31847,13 +31896,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "changes required"
       ]
@@ -31861,7 +31910,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": [
         "waiting-for-review"
       ]
@@ -31869,7 +31918,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting for back end",
         "merge conflict"

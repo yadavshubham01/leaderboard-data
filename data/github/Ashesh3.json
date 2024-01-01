@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703957245.0,
+  "last_updated": 1704002539.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1704002539.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1872680117",
+      "text": "> I don't think this is the right way to do it. The asset list page now fetches paginated assets in one call, and paginated availability records in another call.\r\n> \r\n> This does not ensure that you have the availability records of all the assets of the current assets in view.\r\n> \r\n> I think the solution is to add a serializer-level field in the asset list API's serializer that says whether it is down or not.\r\n> \r\n> cc: @Ashesh3\r\n\r\nI agree with you here.\r\n\r\n> I think the solution is to add a serializer-level field in the asset list API's serializer that says whether it is down or not.\r\n\r\n^ this is the ideal solution"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6955",
@@ -15422,7 +15429,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6933",
       "title": "Add consultation_filed filter to Patients list",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]
@@ -15430,7 +15437,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1789",
       "title": "Add consultation_filed filter in PatientFilterSet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -15438,7 +15445,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6925",
       "title": "Redesign Bed Capacity Cards",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "changes required",
         "discussion",
@@ -15448,7 +15455,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "discussion"
       ]
@@ -15456,7 +15463,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end"
       ]
@@ -15464,7 +15471,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15473,7 +15480,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6918",
       "title": "Revert #6872",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "blocked",
         "merge conflict"
@@ -15482,7 +15489,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -15490,7 +15497,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15499,7 +15506,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -15507,7 +15514,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 86,
+      "stale_for": 87,
       "labels": [
         "POC"
       ]
@@ -15515,7 +15522,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 270,
+      "stale_for": 271,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15524,13 +15531,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 283,
+      "stale_for": 284,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
