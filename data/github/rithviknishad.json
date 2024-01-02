@@ -1,6 +1,76 @@
 {
-  "last_updated": 1704000442.0,
+  "last_updated": 1704128523.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704128523.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873401241",
+      "text": "You can add that along with this PR if you'd like to"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704128396.0,
+      "title": "coronasafe/care_fe#6958",
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#pullrequestreview-1799839675",
+      "text": "Add more symptoms and move OTHERS to bottom"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704111848.0,
+      "title": "coronasafe/care_fe#6910",
+      "link": "https://github.com/coronasafe/care_fe/pull/6910#pullrequestreview-1799792642",
+      "text": "Remove scroll bar when header text overflows in patient details. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704110675.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1799788762",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704110658.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1799788762",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704110570.0,
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1799788400",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704101191.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873243715",
+      "text": "You've install husky, but the lock file hasn't been checked in"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704101138.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873243367",
+      "text": "> @rithviknishad can u check once why there is an error\r\n\r\n<img width=\"1301\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/539c0807-8705-48f2-a59a-0c4e7c73cee5\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704096726.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1873216678",
+      "text": "Dynamic class names won't work. Refer https://tailwindcss.com/docs/content-configuration#dynamic-class-names\r\n\r\nYou could use CSS. But why does the arrow need to have dynamic absolute positioning?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704083038.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1873145970",
+      "text": "Could you share the JSX code used to achieve that?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#195",
@@ -31896,13 +31966,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "changes required"
       ]
@@ -31910,7 +31980,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         "waiting-for-review"
       ]
@@ -31918,7 +31988,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 19,
+      "stale_for": 0,
       "labels": [
         "waiting for back end",
         "merge conflict"

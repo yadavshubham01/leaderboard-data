@@ -1,6 +1,55 @@
 {
-  "last_updated": 1703924237.0,
+  "last_updated": 1704149073.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6684",
+      "time": 1704149073.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6684#issuecomment-1873510876",
+      "text": "small doubt, we should show day of Admission in these 2 views right\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/fa5014ba-174d-4018-bca0-011c539e074f)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/4b86fc51-66ca-4b58-b550-b1befa9a2090)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1704148398.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1873507424",
+      "text": "+1 fix the top i.e header part (buttons are stretched a lot to occupy the entire row, where it can occupy two or three buttons as per the screen size)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/7eded129-7222-4974-88df-3bd0fa5ae455)\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1704148171.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961",
+      "text": "Alignment of search field in tablet view "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1704147134.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#issuecomment-1873501048",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/de856840-72b7-4830-a846-8cbfd1c3cf94)\r\n\r\n\r\nCollapsing the sidebar because long addresses cause overlapping with the buttons."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1704146931.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6959",
+      "time": 1704140128.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6959#issuecomment-1873464469",
+      "text": "I am currently working on:\r\n- Formatting typed input for date and time.\r\n- Fixing the issue where scrolling does not automatically bring the selected hour, minute, or current hour and minute into view. For reference: https://codesandbox.io/p/sandbox/test-scroll-8j2rl6\r\n- Improving the overall styling.\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6959",
+      "time": 1704139685.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6959",
+      "text": "draft pr"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6858",
@@ -824,9 +873,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6960",
+      "title": "Fixes responsiveness in Facilty Home",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6959",
+      "title": "Date Time Component Draft PR",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 34,
+      "stale_for": 36,
       "labels": []
     }
   ],

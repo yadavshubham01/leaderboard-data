@@ -3798,5 +3798,215 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-01 00:00:00": [
+        {
+            "client_msg_id": "978518c3-2e69-4127-9788-beb8b9ccef83",
+            "type": "message",
+            "text": "*EOD 01/01/2024*\n\n*How did the day go?*\n\u2022 Working on issues in coronasafe/carefe <https://github.com/coronasafe/care_fe/issues/6923|#6923> <http://Clean%20up%20left%20nav%20menu|#6920> <https://github.com/coronasafe/care_fe/issues/6902|#6902> \n\u2022 <https://github.com/coronasafe/care_fe/issues/6783|#6923> - Fixed issue where u can select none option along with other options \n\u2022 <https://github.com/coronasafe/care_fe/issues/6837|#6920> - Working on cleaning the nav bar by keeping the most unused options hidden \n\u2022 <https://github.com/coronasafe/care_fe/issues/6838|#6902 > - Fixed scroll bar appearance when the headers overflow in the patient details tab\n\u2022 Working on issues in coronasafe/leaderboard  <https://github.com/coronasafe/leaderboard/issues/195|#195> \n\u2022 <https://github.com/coronasafe/leaderboard/issues/195|#195> - Working on adding pre-commit hook",
+            "user": "U05LRJ1HDNH",
+            "ts": "1704093760.432589",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Wi1vT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 01/01/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issues in coronasafe/carefe "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6923",
+                                            "text": "#6923",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://Clean%20up%20left%20nav%20menu",
+                                            "text": "#6920",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6902",
+                                            "text": "#6902",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#6923",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Fixed issue where u can select none option along with other options "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#6920",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Working on cleaning the nav bar by keeping the most unused options hidden "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6838",
+                                            "text": "#6902 ",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Fixed scroll bar appearance when the headers overflow in the patient details tab"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Working on issues in "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "coronasafe",
+                                            "style": {
+                                                "unlink": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "/"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "leaderboard",
+                                            "style": {
+                                                "unlink": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/leaderboard/issues/195",
+                                            "text": "#195",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/leaderboard/issues/195",
+                                            "text": "#195",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Working on adding pre-commit hook"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

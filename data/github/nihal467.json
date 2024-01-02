@@ -1,6 +1,97 @@
 {
-  "last_updated": 1703957175.0,
+  "last_updated": 1704113821.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1704113821.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#issuecomment-1873317394",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6946",
+      "time": 1704113438.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6946#issuecomment-1873315238",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6933",
+      "time": 1704112923.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6933#issuecomment-1873312230",
+      "text": "we already have a PR : https://github.com/coronasafe/care_fe/issues/6635 , which will by default keep the no consultation patient card on the top, so is the PR and issue still relevant"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6924",
+      "time": 1704112834.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#issuecomment-1873311638",
+      "text": "@Ashesh3 the backend is marked for discussion "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6918",
+      "time": 1704112045.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6918#issuecomment-1873306905",
+      "text": "issue resolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6910",
+      "time": 1704111957.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6910#issuecomment-1873306280",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6910",
+      "time": 1704111933.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6910#issuecomment-1873306159",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/c9444e9b-8724-4d41-80a3-a8f72807c9a2)\r\n\r\n@rithviknishad can you review it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6779",
+      "time": 1704111420.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#issuecomment-1873303147",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1704110824.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1873299416",
+      "text": "@Pranshu1902 add a functionality video of the feature covering all the things included in this PR\r\n\r\n- [ ] how the camera boundary is configured on asset page\r\n- [ ] how the camera boundary functions on the patient consultation page, and when the user tries to move the camera outside the boundary, how the error is handled\r\n- [ ] how the multiple user data are reflected in the patient consultation page and the request toggle access functionality works, when second user request the access\r\n- [ ] how the privacy mode works and verify the functionality of users trying to access access camera when it is on and off"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6661",
+      "time": 1704110484.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6661#issuecomment-1873296984",
+      "text": "@parthksingh1 can you post the mock design you worked on, so we can give some suggestion"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6656",
+      "time": 1704110421.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6656#issuecomment-1873296606",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1718",
+      "time": 1704110416.0,
+      "link": "https://github.com/coronasafe/care/pull/1718#issuecomment-1873296567",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704107992.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1873283285",
+      "text": "@aeswibon clear the merge conflict"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6955",

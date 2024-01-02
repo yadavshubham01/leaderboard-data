@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704021375.0,
+  "last_updated": 1704118103.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704118103.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873343016",
+      "text": "@rithviknishad done \r\nalso there are some missing information in readme\r\n\r\n- There is no information on `load.fixtures`\r\n- Also this thing about pnpm install which needs to be separately installed in node and then run to update dependencies.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704097810.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873223210",
+      "text": "@rithviknishad  can u check once why there is an error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704097733.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#196",
+      "time": 1704096552.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/196#issuecomment-1873215646",
+      "text": "will post a new PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#196",
+      "time": 1704095975.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/196",
+      "text": "Add pre commit hook"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#195",
@@ -1211,18 +1246,26 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/197",
+      "title": "Add pre commit hook",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6946",
       "title": "Fixed None option in medical history selection input",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6910",
       "title": "Remove scroll bar when header text overflows in patient details. ",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "tested"
+      ]
     }
   ],
   "authored_issue_and_pr": [

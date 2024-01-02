@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704033263.0,
+  "last_updated": 1704106618.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704106618.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1873275325",
+      "text": "Yeah sure, I will add some circular effect for the buttons.\r\nHow can I fix the scroll bar. Can I proceed with a App router change?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704101323.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1873244482",
+      "text": "Hi @rithviknishad @Pranshu1902,\r\nPlease take a moment to review my pull request at https://github.com/coronasafe/care_fe/pull/6956.\r\n\r\nThanks for your time and feedback!\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704100534.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "text": "Enhance UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704098093.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1873224907",
+      "text": "Oh Thanks. \r\nThe arrow needs to be in the [reference](https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1842978389).\r\nIt needs to be inside these components. so, I thouht setting the icons absolute and positioning will be great and when we give static values, that can cause different positions for different size of screens. I will update it.\r\nThanks for your help @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1704096422.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636#issuecomment-1873214848",
+      "text": "HI @rithviknishad \r\n\r\nHere, I have attach the screenshot of the code.\r\n\r\n<img width=\"1440\" alt=\"Screenshot 2024-01-01 at 1 34 56\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/92790024/5adbbe4f-3cbf-4fc0-a885-44a630bd6a10\">\r\n\r\n<img width=\"1440\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/92790024/0fd73b1d-4d0b-4d6a-bc8c-7faaa93f33da\">\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",
@@ -51,6 +86,15 @@
       "text": "I would like to work on this issue. Can you assign it to me? \r\nKindly give and explain the mock up design.\r\nThank you"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "title": "Enhance UI of Shifting Board",
+      "stale_for": 0,
+      "labels": [
+        "work-in-progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

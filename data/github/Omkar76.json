@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703859539.0,
+  "last_updated": 1704123443.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6958",
+      "time": 1704123443.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6958",
+      "text": "Add more symptoms and move OTHERS to bottom"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1796",
+      "time": 1704123007.0,
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "text": "Add more symptoms"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6942",
@@ -406,22 +420,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6958",
+      "title": "Add more symptoms and move OTHERS to bottom",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "title": "Add more symptoms",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6871",
       "title": "Make consultation page more responsive",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "hold",
         "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6659",
-      "title": "Show fields when copying from previous log",
-      "stale_for": 6,
-      "labels": [
-        "test failed",
-        "merge conflict",
-        "stale"
       ]
     }
   ],

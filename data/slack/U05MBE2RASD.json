@@ -1368,5 +1368,57 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-01 00:00:00": [
+        {
+            "client_msg_id": "32adb4d7-fa9e-49e3-9e64-7d42b4692d3a",
+            "type": "message",
+            "text": "EOD 1/1/24\n\u2022 Sent prs to add more symptoms in consultation form. <https://github.com/coronasafe/care_fe/issues/6942>\n",
+            "user": "U05MBE2RASD",
+            "ts": "1704123720.567309",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KvFQB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 1/1/24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sent prs to add more symptoms in consultation form. "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6942"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

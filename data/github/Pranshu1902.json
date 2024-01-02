@@ -1,6 +1,27 @@
 {
-  "last_updated": 1703939228.0,
+  "last_updated": 1704130144.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6953",
+      "time": 1704130144.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#issuecomment-1873410832",
+      "text": "Fixed cypress and lint tests :heavy_check_mark: "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704107282.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1873279199",
+      "text": "@rithviknishad can you confirm for the method to remove the extra scroll bar on extreme right of the page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704104366.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1873261930",
+      "text": "@Arzzam there is still a scroll bar on the right side of the page (shown in blue in the image below)\r\n![Screenshot from 2024-01-01 15-45-56](https://github.com/coronasafe/care_fe/assets/70687348/0a5a68c1-89ac-40fc-9610-9feb650623f7)\r\n\r\nAnd could you add a transparent circular effect around the arrow? Kind of like the export button on the same page\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/78517488-de40-487a-b404-cd6c463b862f)\r\nReference:\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/16a044d0-0b78-4880-a1df-783b14d21558)\r\n\r\ncc @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6636",
@@ -7333,13 +7354,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1794",
       "title": "`listAssetAvailability` queryset to send all related assets record status",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6952",
       "title": "Show Asset Downtime on assets lists page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "work-in-progress"
       ]
@@ -7347,7 +7368,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -7355,15 +7376,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6779",
       "title": "Show icu admission date on consultations dashboard",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": []
     }
   ],
