@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703938650.0,
+  "last_updated": 1704176530.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6962",
+      "time": 1704176530.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6962#issuecomment-1873655830",
+      "text": "@nihal467 \r\nThere is already an open issue #6824 where Enter button is being implemented to be used for submit purpose."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6945",
@@ -265,13 +272,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/194",
       "title": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week.",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "test failed",
         "stale"

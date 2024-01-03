@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704123443.0,
+  "last_updated": 1704193435.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6958",
+      "time": 1704193435.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#issuecomment-1873885571",
+      "text": "Updated to use AutoCompleteMultiSelectFormField.\r\n\r\nWill send another PR to accept `optionDescription` prop in this component as discussed with Rithvik on slack.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/3de8cd7f-c11f-4341-aa89-129be2a942bd)\r\n\r\n\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6958",
@@ -423,18 +430,20 @@
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1796",
       "title": "Add more symptoms",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6871",
       "title": "Make consultation page more responsive",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "hold",
         "changes required"

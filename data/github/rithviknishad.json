@@ -1,6 +1,118 @@
 {
-  "last_updated": 1704128523.0,
+  "last_updated": 1704221740.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704221740.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800869439",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1704217952.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1874352166",
+      "text": "We are hardocding a blacklist keys as an array as of now (for page limit offset). \r\n\r\nWe could pass additional blacklist field keys as an array to the caching code. So that in patient list page, we can also include phone number and ip/op number fields too easily."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704217742.0,
+      "title": "coronasafe/care_fe#6963",
+      "link": "https://github.com/coronasafe/care_fe/pull/6963#pullrequestreview-1800788467",
+      "text": "Rearranged left nav menu"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704217742.0,
+      "title": "coronasafe/care_fe#6963",
+      "link": "https://github.com/coronasafe/care_fe/pull/6963#pullrequestreview-1800788467",
+      "text": "Rearranged left nav menu"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704217294.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800781161",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704217294.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800781161",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#139",
+      "time": 1704217033.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/139#issuecomment-1874335563",
+      "text": "@konavivekramakrishna my bad for forgetting to close this issue. We had discussed that this is not a requirement that'd add noticeable value.\r\n\r\nFeel free to take up other issues."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#139",
+      "time": 1704217033.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/139",
+      "text": "Feature: Image generation route to show skills badges"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704216737.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1800772666",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6896",
+      "time": 1704210604.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6896",
+      "text": "Unable to create PRN Prescription due to max_dosage validation to have units."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6896",
+      "time": 1704210604.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6896#issuecomment-1874200406",
+      "text": "Closing as completed.\r\nMigration to clean existing data is not required. cc: @aparnacoronasafe"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6962",
+      "time": 1704202681.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6962#issuecomment-1874036919",
+      "text": "@sagarkori143 the related PR #6915 has already been merged"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6966",
+      "time": 1704202603.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6966#issuecomment-1874035492",
+      "text": "Closing as duplicate of #6962 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6966",
+      "time": 1704202602.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6966",
+      "text": "Add support for multi line texts in doctor notes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6966",
+      "time": 1704202573.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6966",
+      "text": "Add support for multi line texts in doctor notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704189690.0,
+      "title": "coronasafe/care_fe#6958",
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#pullrequestreview-1800187276",
+      "text": "Add more symptoms and move OTHERS to bottom"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#197",
@@ -31966,13 +32078,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]
@@ -31980,7 +32092,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "waiting-for-review"
       ]
@@ -31990,12 +32102,15 @@
       "title": "Adds user type: Nurse and Nurse (readonly)",
       "stale_for": 0,
       "labels": [
-        "waiting for back end",
-        "merge conflict"
+        "waiting for back end"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/186",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/187"

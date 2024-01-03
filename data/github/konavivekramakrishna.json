@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704149073.0,
+  "last_updated": 1704176091.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1704176091.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#issuecomment-1873652626",
+      "text": "@rithviknishad \r\n\r\nin timeline if there are multiple review for same pr it should remain same, just we have to fix the count right?![image](https://github.com/coronasafe/leaderboard/assets/101407963/a665207e-42e1-49cf-b12d-983a6ab49871)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#139",
+      "time": 1704154149.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/139#issuecomment-1873536518",
+      "text": "I would like to work on it can you please assign me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1704153840.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198",
+      "text": "fix review count"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6684",
@@ -873,21 +894,29 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6960",
-      "title": "Fixes responsiveness in Facilty Home",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198",
+      "title": "fix review count",
       "stale_for": 0,
       "labels": []
     },
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6960",
+      "title": "Fixes responsiveness in Facilty Home",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6959",
       "title": "Date Time Component Draft PR",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": []
     }
   ],

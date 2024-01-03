@@ -1,6 +1,55 @@
 {
-  "last_updated": 1704118103.0,
+  "last_updated": 1704222127.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704222127.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800876518",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704219297.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800824827",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704219253.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800824056",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704219180.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1800822757",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1704188006.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891#issuecomment-1873788851",
+      "text": "@rithviknishad can u assign this to me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6963",
+      "time": 1704187772.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6963",
+      "text": "Rearranged left nav menu"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704173191.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1873632548",
+      "text": "@rithviknishad once check the readme if its okay "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#197",
@@ -1245,6 +1294,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6963",
+      "title": "Rearranged left nav menu",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/197",
       "title": "Add pre commit hook",

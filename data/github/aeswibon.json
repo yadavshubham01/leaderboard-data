@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703666414.0,
+  "last_updated": 1704185934.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704185934.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1873755257",
+      "text": "> @aeswibon\r\n> \r\n> <img alt=\"image\" width=\"960\" src=\"https://private-user-images.githubusercontent.com/57055998/293656362-cd204061-564e-4264-af94-6c73ef238cdb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxODYxOTMsIm5iZiI6MTcwNDE4NTg5MywicGF0aCI6Ii81NzA1NTk5OC8yOTM2NTYzNjItY2QyMDQwNjEtNTY0ZS00MjY0LWFmOTQtNmM3M2VmMjM4Y2RiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDA4NTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViZDNkZmE4MmI5YTk5NGE4ZGRhYzJlNzBhNzJmMTM2OGQ0MTJhNmRhYTFhNjk5NzVhNjBhZjI0ZDA4MTAyNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tgZlq-IZvNdhWeU7nOCyQ-b0ZSEPt61dSpRBlEK2HdY\">\r\n> * [ ]  iam able to create a sample request using a staff id, can you reconfirm all the access control\r\n\r\nOkay I will check"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1589",
@@ -34,9 +41,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
-        "tested",
+        "changes required",
         "waiting for back end",
         "merge conflict"
       ]
@@ -44,7 +51,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 7,
+      "stale_for": 13,
       "labels": [
         "waiting-for-review"
       ]
@@ -52,7 +59,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1589",
       "title": "Adds Nurse user type and promote existing staffs to nurse",
-      "stale_for": 0,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]
@@ -60,7 +67,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 40,
+      "stale_for": 46,
       "labels": []
     }
   ],

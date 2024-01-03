@@ -1,6 +1,62 @@
 {
-  "last_updated": 1704113821.0,
+  "last_updated": 1704210580.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6921",
+      "time": 1704210580.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6921#issuecomment-1874200000",
+      "text": "@Ashesh3 can you close all the co-related PR and the issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6921",
+      "time": 1704210360.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6921#issuecomment-1874195235",
+      "text": "message from Aparna : you may close this for now. Let the sorting be implemented. If there is still need from the ground, we will\u00a0go\u00a0the\u00a0filter"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1704210298.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#issuecomment-1874193982",
+      "text": "<img width=\"757\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/5c394b89-65cd-411f-8677-7db55345b853\">\r\n\r\nnew Ui updated view, LGTM approved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1704210164.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#issuecomment-1874191328",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1704209505.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#issuecomment-1874176820",
+      "text": "<img width=\"743\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/7e82b556-59ce-4c4a-bc97-ba23d56e81da\">\r\n\r\n@Ashesh3 i believe we discussed replacing the icon with the percentage of bed usage or something more value adding"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704185819.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1873753466",
+      "text": "@aeswibon \r\n\r\n<img width=\"960\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/cd204061-564e-4264-af94-6c73ef238cdb\">\r\n\r\n- [ ] iam able to create a sample request using a staff id, can you reconfirm all the access control"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6240",
+      "time": 1704185767.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6240#issuecomment-1873752720",
+      "text": "<img width=\"960\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/cd204061-564e-4264-af94-6c73ef238cdb\">\r\n\r\n- [ ] iam able to create a sample request using a staff id, can you reconfirm all the access control"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6962",
+      "time": 1704173332.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6962",
+      "text": " Add Line breaking support to the doctor connect"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6932",

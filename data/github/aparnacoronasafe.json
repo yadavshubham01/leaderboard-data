@@ -1,6 +1,13 @@
 {
-  "last_updated": 1703855147.0,
+  "last_updated": 1704205836.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6941",
+      "time": 1704205836.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6941#issuecomment-1874097493",
+      "text": "For now lets just do one universal link. \r\n\r\nIn the future there could be separate links for clusters. But we will build for it when the requirement comes"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6945",
