@@ -1,6 +1,60 @@
 {
-  "last_updated": 1703949488.0,
+  "last_updated": 1704297191.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1803",
+      "time": 1704297191.0,
+      "link": "https://github.com/coronasafe/care/issues/1803",
+      "text": "Make arm and x86 builds run parallelly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1802",
+      "time": 1704296111.0,
+      "link": "https://github.com/coronasafe/care/pull/1802",
+      "text": "update lockfile"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1801",
+      "time": 1704292190.0,
+      "link": "https://github.com/coronasafe/care/pull/1801",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "Ashesh3",
+        "gigincg",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704278412.0,
+      "title": "coronasafe/care#1796",
+      "link": "https://github.com/coronasafe/care/pull/1796#pullrequestreview-1801755853",
+      "text": "Add more symptoms"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6942",
+      "time": 1704278346.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6942#issuecomment-1875159648",
+      "text": "@aparnacoronasafe  can we make \"New Loss of taste/smell\" -> \"Loss of taste\", \"Loss of smell\"?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1800",
+      "time": 1704277975.0,
+      "link": "https://github.com/coronasafe/care/issues/1800",
+      "text": "Add environment variable to disable summarization cron tasks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704272964.0,
+      "title": "coronasafe/care#1785",
+      "link": "https://github.com/coronasafe/care/pull/1785#pullrequestreview-1801614121",
+      "text": "Add video_connect_link field to User model"
+    },
     {
       "type": "pr_reviewed",
       "time": 1703949488.0,
@@ -7966,9 +8020,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1802",
+      "title": "update lockfile",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1788",
       "title": "Replace littletable with redis-om(redisearch)",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -7976,13 +8036,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 3,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -7990,7 +8050,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 34,
+      "stale_for": 38,
       "labels": [
         "blocked",
         "changes required",
@@ -8001,7 +8061,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 109,
+      "stale_for": 113,
       "labels": [
         "In progress"
       ]
@@ -8009,19 +8069,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 23,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 163,
+      "stale_for": 167,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 88,
+      "stale_for": 92,
       "labels": []
     }
   ],

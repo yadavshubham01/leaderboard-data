@@ -1,6 +1,31 @@
 {
-  "last_updated": 1704210580.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "GokulramGHV",
+        "Omkar76",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "rithviknishad",
+        "khavinshankar",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704273621.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968",
+      "text": "Feature: Add doctor availability date and time"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6921",
@@ -30735,10 +30760,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6786"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,24 @@
 {
-  "last_updated": 1704193435.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "GokulramGHV",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "rithviknishad",
+        "khavinshankar",
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6958",
@@ -425,39 +443,6 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6958",
-      "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1796",
-      "title": "Add more symptoms",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6871",
-      "title": "Make consultation page more responsive",
-      "stale_for": 6,
-      "labels": [
-        "hold",
-        "changes required"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

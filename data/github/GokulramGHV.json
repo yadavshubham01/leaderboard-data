@@ -1,6 +1,24 @@
 {
-  "last_updated": 1703792738.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "Omkar76",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "rithviknishad",
+        "khavinshankar",
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1718",
@@ -3104,80 +3122,6 @@
       "text": "Renamed the page heading  from 'Covid Suspect Details' to 'Patient Details'"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1742",
-      "title": "Display users list based on user access limitation",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1735",
-      "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 1,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6656",
-      "title": "Remove default ordering value",
-      "stale_for": 0,
-      "labels": [
-        "test failed",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1718",
-      "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6565",
-      "title": "Add titrated prescription dosage type",
-      "stale_for": 1,
-      "labels": [
-        "tested",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1692",
-      "title": "Prescription: Titrated drug dose",
-      "stale_for": 1,
-      "labels": [
-        "waiting-for-review"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1208",
-      "pr_link": "https://github.com/coronasafe/care/pull/1209"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4534",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4535"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4375",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4796"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3705",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3707"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2486",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2488"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2403",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2474"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

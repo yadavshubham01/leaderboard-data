@@ -1,6 +1,24 @@
 {
-  "last_updated": 1704222127.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "GokulramGHV",
+        "Omkar76",
+        "Pranshu1902",
+        "rithviknishad",
+        "khavinshankar",
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1704222127.0,
@@ -1293,56 +1311,6 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6963",
-      "title": "Rearranged left nav menu",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/197",
-      "title": "Add pre commit hook",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6946",
-      "title": "Fixed None option in medical history selection input",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6910",
-      "title": "Remove scroll bar when header text overflows in patient details. ",
-      "stale_for": 0,
-      "labels": [
-        "tested"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6842"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6837",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6841"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6848"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6599",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6614"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

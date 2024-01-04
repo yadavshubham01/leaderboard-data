@@ -1,6 +1,48 @@
 {
-  "last_updated": 1703668134.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "turnaround_time": 77
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1801",
+      "time": 1704292190.0,
+      "link": "https://github.com/coronasafe/care/pull/1801",
+      "text": "Production Release January Week 1",
+      "turnaround_time": 25
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1801",
+      "time": 1704292190.0,
+      "link": "https://github.com/coronasafe/care/pull/1801",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "Ashesh3",
+        "khavinshankar",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1801",
+      "time": 1704292165.0,
+      "link": "https://github.com/coronasafe/care/pull/1801",
+      "text": "Production Release January Week 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292115.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6929",
@@ -6788,7 +6830,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 15,
+      "stale_for": 22,
       "labels": [
         "In Progress"
       ]

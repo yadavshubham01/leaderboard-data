@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703657468.0,
+  "last_updated": 1704272700.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704272700.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1801598138",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704272700.0,
+      "title": "coronasafe/care#1689",
+      "link": "https://github.com/coronasafe/care/pull/1689#pullrequestreview-1801598138",
+      "text": "fix(asset_location): added duty_staff endpoint"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1786",

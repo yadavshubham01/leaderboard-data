@@ -1,6 +1,87 @@
 {
-  "last_updated": 1704221740.0,
+  "last_updated": 1704292192.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "GokulramGHV",
+        "Omkar76",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "khavinshankar",
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704278727.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1875168474",
+      "text": "Dropping a draft model schema here:\r\n\r\n```yaml\r\nUserAvailabilityModel:\r\n  user_id: ForeignKey(UserModel.id)\r\n  location_id: ForeignKey(AssetLocationModel.id, null=True) # Any one of location or facility or none in final\r\n  facility_id: ForeignKey(Facility.id, null=True) # Any one of location or facility or none in final\r\n  day_of_week: IntegerField(choices=[sun, mon, tue, wed, thu, fri, sat])\r\n  start_time: TimeField()\r\n  end_time: TimeField()\r\n  removed_at: DateTimeField(auto_delete_now=True, null=True, db_index=True)\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704278305.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1875158544",
+      "text": "Dropping a mock UI here for suggestions\r\n\r\n<img width=\"1697\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/8334fb6b-a96b-44df-b9d1-863c62078683\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704276494.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1875120179",
+      "text": "@gigincg / @aparnacoronasafe should the doctor availability record be optionally or mandatorily related to a Facility or a Location?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6967",
+      "time": 1704272904.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6967",
+      "text": "Central Nursing Station: Migrate to `useQuery` and update to use `resolved_middleware`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704271249.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1801571629",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6940",
+      "time": 1704256939.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1874842271",
+      "text": "@aparnacoronasafe I'm thinking of removing the sections, instead a single list would be shown, however, few things that'd help in improving the UX:\r\n\r\n1. Sort will be maintained, doctors followed by staff followed by tele icu hub.\r\n2. A chip will be shown in the user card indicating what group the user belongs to\r\n3. A search bar on top to search for the users"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6940",
+      "time": 1704256742.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1874840945",
+      "text": "Waiting for changes from #6924"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704256591.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889#issuecomment-1874839868",
+      "text": "@nihal467 patient crud is failing for an unrelated reason and a parallel PR seems to be fixing it as discussed https://rebuildearth.slack.com/archives/C010GQC5UE9/p1704126513851419"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704256452.0,
+      "title": "coronasafe/care_fe#6924",
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#pullrequestreview-1801369571",
+      "text": "Add video connect link to user profile"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704221740.0,
@@ -32074,98 +32155,6 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/191",
-      "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 8,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6889",
-      "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 6,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1704",
-      "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 26,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6464",
-      "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 0,
-      "labels": [
-        "waiting for back end"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/186",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/187"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/183",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/185"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/181",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/182"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/179",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/180"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6847",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6852"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/157",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/174"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6810",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6813"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1740",
-      "pr_link": "https://github.com/coronasafe/care/pull/1741"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6774",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6775"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6766",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6769"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

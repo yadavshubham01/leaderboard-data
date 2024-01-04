@@ -1,6 +1,38 @@
 {
-  "last_updated": 1704176091.0,
+  "last_updated": 1704324282.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#199",
+      "time": 1704324282.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/199#issuecomment-1876103588",
+      "text": "@rithviknishad \r\n\r\ncan you please suggest the expected behavior for these urls\r\n1. https://contributors.ohc.network/contributors/Ashe\r\n2. https://contributors.ohc.network/dsfdsfdsf/Ashe"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#199",
+      "time": 1704324009.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/199",
+      "text": "Invalid URL leads to 500 server Error"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6969",
+      "time": 1704292192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6969",
+      "text": "Production Release January Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "GokulramGHV",
+        "Omkar76",
+        "AshrafMd-1",
+        "Pranshu1902",
+        "rithviknishad",
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#198",
@@ -902,7 +934,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -910,13 +942,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6959",
       "title": "Date Time Component Draft PR",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     }
   ],
