@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704176530.0,
+  "last_updated": 1704342008.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6854",
+      "time": 1704342008.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6854#issuecomment-1876289782",
+      "text": "Hey @rithviknishad  please reopen this issue. I was in bad health conditions so couldn't give it time again. I am looking forward to work on this and raise a pr again"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6962",
@@ -272,13 +279,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/194",
       "title": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week.",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6854",
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "test failed",
         "stale"

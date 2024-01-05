@@ -1,6 +1,67 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704393274.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6978",
+      "time": 1704393274.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6978",
+      "text": "Make InventoryLog component responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6973",
+      "time": 1704383759.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6973",
+      "text": "Make daily round responsive on smaller screens",
+      "turnaround_time": 971
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6973",
+      "time": 1704383759.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6973",
+      "text": "Make daily round responsive on smaller screens",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6973",
+      "time": 1704382789.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6973",
+      "text": "Refactor DailyRoundsList and DefaultLogUpdateCard components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704367863.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1803979690",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6971",
+      "time": 1704362075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6971",
+      "text": "Move Diagnoses data to Info Tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6925",
+      "time": 1704360642.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6925",
+      "text": "Redesign Bed Capacity Cards",
+      "turnaround_time": 4164
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6941",
+      "time": 1704359483.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6941#issuecomment-1876749652",
+      "text": "@gigincg as discussed, should we proceed with this feature by injecting JS through Cloudflare or developing the feature and enable it with a config key?"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",
@@ -15518,6 +15579,170 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6971",
+      "title": "Move Diagnoses data to Info Tab",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "discussion"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1785",
+      "title": "Add video_connect_link field to User model",
+      "stale_for": 1,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6924",
+      "title": "Add video connect link to user profile",
+      "stale_for": 1,
+      "labels": [
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "title": "Add edit option for doctor notes",
+      "stale_for": 8,
+      "labels": [
+        "waiting for back end",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1773",
+      "title": "Data Migration to Support New Discharge Reason Field",
+      "stale_for": 1,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "title": "Refactor discharge_reason data type to Integer",
+      "stale_for": 8,
+      "labels": [
+        "waiting for back end",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1737",
+      "title": "Enhanced Error Handling in AssetViewSet",
+      "stale_for": 5,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1657",
+      "title": "POC: AI discharge summary",
+      "stale_for": 91,
+      "labels": [
+        "POC"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5147",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 275,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1227",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 288,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1221",
+      "title": "feat(patient notes): add edit window validation and update endpoint",
+      "stale_for": 1,
+      "labels": [
+        "waiting-for-review"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1283",
+      "pr_link": "https://github.com/coronasafe/care/pull/1286"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4097",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4101"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4078",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4079"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4022",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4198"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3866",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3867"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3794",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3813"
+    }
+  ]
 }

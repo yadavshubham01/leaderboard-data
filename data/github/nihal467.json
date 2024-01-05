@@ -1,6 +1,83 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704399502.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6979",
+      "time": 1704399502.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6979",
+      "text": "New Cypress Test | Facility Inventory Management | Facility Module"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6973",
+      "time": 1704383709.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6973#issuecomment-1877334172",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6971",
+      "time": 1704383456.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6971#issuecomment-1877327132",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/4c3451fa-62a9-4c94-9693-38816da03b3f)\r\n\r\n- [ ] when we make it as a card in the info section, the diagnosis is missed out, if user changes the section, so to keep it always visible, we can think about adding an arrow, which can expand the card when you want to see all the diagnosis.\r\n\r\nit is just a thought, marking it for discussion for future brain storming"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6967",
+      "time": 1704382453.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6967",
+      "text": "Central Nursing Station: Migrate to `useQuery` and update to use `resolved_middleware`",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704381252.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889#issuecomment-1877259575",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9062cd31-8d0e-4e99-89f5-28ca6d0bb6e7)\r\n\r\nhttps://deploy-preview-6889--care-net.netlify.app/facility/fe1b9b4b-def3-488a-808a-a5776222f65b/assets/48e768c6-237a-4235-97e6-4ab63a8f04ad\r\n\r\n- [ ] asset uptime operational details are malfunctioning\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6967",
+      "time": 1704379189.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6967#issuecomment-1877203560",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6953",
+      "time": 1704378938.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6953",
+      "text": "Hide delete facility option for users who dont have access",
+      "collaborated_with": [
+        "Pranshu1902",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6972",
+      "time": 1704377321.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6972#issuecomment-1877152243",
+      "text": "- [ ] it will be under the events module once its fully build"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6972",
+      "time": 1704376033.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6972",
+      "text": "Add user details in the asset configuration page, HFR ID, middleware and location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6953",
+      "time": 1704360769.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#issuecomment-1876779075",
+      "text": "LGTM"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",
@@ -30759,6 +30836,18 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6979",
+      "title": "New Cypress Test | Facility Inventory Management | Facility Module",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6786"
+    }
+  ]
 }

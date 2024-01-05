@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704348809.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1704348809.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1876437062",
+      "text": "Unassigned myself because I am already working on 2 other backend issues. "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",

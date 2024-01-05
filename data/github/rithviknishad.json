@@ -1,6 +1,171 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704390788.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6976",
+      "time": 1704390788.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6976",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704388635.0,
+      "title": "coronasafe/care_fe#6971",
+      "link": "https://github.com/coronasafe/care_fe/pull/6971#pullrequestreview-1804651598",
+      "text": "Move Diagnoses data to Info Tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6975",
+      "time": 1704388478.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6975",
+      "text": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6974",
+      "time": 1704388336.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6974",
+      "text": "Design Enhancement for Bed Management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6967",
+      "time": 1704382453.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6967",
+      "text": "Central Nursing Station: Migrate to `useQuery` and update to use `resolved_middleware`",
+      "turnaround_time": 23150
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6967",
+      "time": 1704382453.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6967",
+      "text": "Central Nursing Station: Migrate to `useQuery` and update to use `resolved_middleware`",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704380845.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1804352567",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6953",
+      "time": 1704378938.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6953",
+      "text": "Hide delete facility option for users who dont have access",
+      "collaborated_with": [
+        "Pranshu1902",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6972",
+      "time": 1704378439.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6972#issuecomment-1877183822",
+      "text": "Related issue https://github.com/coronasafe/care/issues/1697"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1704378287.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1877180002",
+      "text": "Adding this raises a concern, if a patient is readmitted to a different facility, the newer facility should not be able to access this information"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704371413.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804071548",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704366998.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1803959052",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704360569.0,
+      "title": "coronasafe/care_fe#6925",
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#pullrequestreview-1803792813",
+      "text": "Redesign Bed Capacity Cards"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704360226.0,
+      "title": "coronasafe/care_fe#6946",
+      "link": "https://github.com/coronasafe/care_fe/pull/6946#pullrequestreview-1803783273",
+      "text": "Fixed None option in medical history selection input"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704353286.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1803622373",
+      "text": "`listAssetAvailability` queryset to send all related assets record status"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704353125.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1803619721",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1806",
+      "time": 1704352802.0,
+      "link": "https://github.com/coronasafe/care/issues/1806",
+      "text": "Track previous consultation for `readmission` consultations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704349779.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1876469090",
+      "text": "Hey @shramanpaul \r\nAs you can see this issue is already assigned and requires changes in both backend and frontend.\r\n\r\nFeel free to pickup other unassigned issues: https://github.com/coronasafe/care_fe/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704347266.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1803535283",
+      "text": "fix review count"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704347266.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1803535283",
+      "text": "fix review count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#199",
+      "time": 1704346965.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/199#issuecomment-1876375709",
+      "text": "Reference: https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config#dynamicparams"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1704338517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932",
+      "text": "added the draft feature in the doctor's notes",
+      "collaborated_with": [
+        "shramanpaul"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",
@@ -32155,6 +32320,106 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6975",
+      "title": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/191",
+      "title": "Adds support for pagination in contributors' activity timeline",
+      "stale_for": 10,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
+      "stale_for": 0,
+      "labels": [
+        "needs testing"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "title": "Adds authz for Prescription & Medicine Administrations",
+      "stale_for": 28,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6464",
+      "title": "Adds user type: Nurse and Nurse (readonly)",
+      "stale_for": 2,
+      "labels": [
+        "waiting for back end"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/186",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/187"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/183",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/185"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/181",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/182"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/179",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/180"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6847",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6852"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/157",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/174"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6810",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6813"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1740",
+      "pr_link": "https://github.com/coronasafe/care/pull/1741"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6774",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6775"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6766",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6769"
+    }
+  ]
 }

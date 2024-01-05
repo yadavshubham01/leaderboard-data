@@ -1,6 +1,146 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704383759.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6973",
+      "time": 1704383759.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6973",
+      "text": "Make daily round responsive on smaller screens",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704383737.0,
+      "title": "coronasafe/care_fe#6973",
+      "link": "https://github.com/coronasafe/care_fe/pull/6973#pullrequestreview-1804461138",
+      "text": "Make daily round responsive on smaller screens"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704382423.0,
+      "title": "coronasafe/care_fe#6967",
+      "link": "https://github.com/coronasafe/care_fe/pull/6967#pullrequestreview-1804416202",
+      "text": "Central Nursing Station: Migrate to `useQuery` and update to use `resolved_middleware`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6608",
+      "time": 1704378938.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6608",
+      "text": "Hide the Delete Facility for user who don't have access to do it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704378880.0,
+      "title": "coronasafe/care_fe#6953",
+      "link": "https://github.com/coronasafe/care_fe/pull/6953#pullrequestreview-1804290905",
+      "text": "Hide delete facility option for users who dont have access"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1807",
+      "time": 1704376929.0,
+      "link": "https://github.com/coronasafe/care/pull/1807",
+      "text": "added error handling for get_hip_id_by_health_id",
+      "turnaround_time": 10177
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1807",
+      "time": 1704376929.0,
+      "link": "https://github.com/coronasafe/care/pull/1807",
+      "text": "added error handling for get_hip_id_by_health_id",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1807",
+      "time": 1704372167.0,
+      "link": "https://github.com/coronasafe/care/pull/1807#issuecomment-1877037300",
+      "text": "Test fails not related to the changes in this pr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1807",
+      "time": 1704366753.0,
+      "link": "https://github.com/coronasafe/care/pull/1807",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6620",
+      "time": 1704360642.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6620",
+      "text": "Design Enhancement Scope in Facility Bed Capacity Section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704360635.0,
+      "title": "coronasafe/care_fe#6925",
+      "link": "https://github.com/coronasafe/care_fe/pull/6925#pullrequestreview-1803794827",
+      "text": "Redesign Bed Capacity Cards"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6923",
+      "time": 1704360622.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6923",
+      "text": "None option can be selected along with other options simultaneously in patient details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704360615.0,
+      "title": "coronasafe/care_fe#6946",
+      "link": "https://github.com/coronasafe/care_fe/pull/6946#pullrequestreview-1803794241",
+      "text": "Fixed None option in medical history selection input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6731",
+      "time": 1704338639.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6731",
+      "text": "Show ICU Admission Date and Time in Discharge Summary / Consultation Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704338629.0,
+      "title": "coronasafe/care_fe#6779",
+      "link": "https://github.com/coronasafe/care_fe/pull/6779#pullrequestreview-1803378383",
+      "text": "Show icu admission date on consultations dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6902",
+      "time": 1704338593.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6902",
+      "text": "Scroll bar appearing for headers in patient details."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704338583.0,
+      "title": "coronasafe/care_fe#6910",
+      "link": "https://github.com/coronasafe/care_fe/pull/6910#pullrequestreview-1803377990",
+      "text": "Remove scroll bar when header text overflows in patient details. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6824",
+      "time": 1704338518.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6824",
+      "text": "Patient Notes UX improvement"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704338496.0,
+      "title": "coronasafe/care_fe#6932",
+      "link": "https://github.com/coronasafe/care_fe/pull/6932#pullrequestreview-1803377415",
+      "text": "added the draft feature in the doctor's notes"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",
@@ -27098,6 +27238,138 @@
       "text": "Shows a 'data not available' message when null in NeurologicalTables"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6487",
+      "title": "Abdm M3",
+      "stale_for": 15,
+      "labels": [
+        "work-in-progress",
+        "merge conflict",
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1229",
+      "title": "Hcx Refactors",
+      "stale_for": 29,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
+      "title": "Hcx/eligibility check workflow",
+      "stale_for": 39,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
+      "title": "Added an endpoint to get the time of the last request in observation",
+      "stale_for": 391,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1093",
+      "title": "Added is_occupied field in Bed",
+      "stale_for": 148,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 748,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 754,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 755,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/life/pull/306",
+      "title": "filtered duplicate tweets",
+      "stale_for": 950,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6545",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6547"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/102",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/103"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care/pull/1550"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1407",
+      "pr_link": "https://github.com/coronasafe/care/pull/1408"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5772",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5882"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5699",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5700"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5518",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5519"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5368",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5369"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4538",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4539"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4528",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4529"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4512",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4513"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4433",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4437"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1135",
+      "pr_link": "https://github.com/coronasafe/care/pull/1136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1132",
+      "pr_link": "https://github.com/coronasafe/care/pull/1133"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1126",
+      "pr_link": "https://github.com/coronasafe/care/pull/1127"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4365",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4366"
+    }
+  ]
 }

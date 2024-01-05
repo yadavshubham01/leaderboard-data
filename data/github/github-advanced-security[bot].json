@@ -1,6 +1,20 @@
 {
-  "last_updated": 1698407368.0,
+  "last_updated": 1704371897.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704371897.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804082800",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704371326.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804069506",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
     {
       "type": "pr_reviewed",
       "time": 1698407368.0,

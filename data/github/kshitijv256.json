@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704175719.0,
+  "last_updated": 1704391847.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1704391847.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977",
+      "text": "Changed TextFormField to TextAreaFormField"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6962",
@@ -875,6 +882,13 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6977",
+      "title": "Changed TextFormField to TextAreaFormField",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

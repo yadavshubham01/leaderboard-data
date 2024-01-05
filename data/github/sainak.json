@@ -1,6 +1,44 @@
 {
-  "last_updated": 1704297191.0,
+  "last_updated": 1704376929.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1807",
+      "time": 1704376929.0,
+      "link": "https://github.com/coronasafe/care/pull/1807",
+      "text": "added error handling for get_hip_id_by_health_id",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704371770.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804079855",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704371642.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804071326",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704371642.0,
+      "title": "coronasafe/care#1807",
+      "link": "https://github.com/coronasafe/care/pull/1807#pullrequestreview-1804071326",
+      "text": "added error handling for get_hip_id_by_health_id"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1805",
+      "time": 1704352181.0,
+      "link": "https://github.com/coronasafe/care/issues/1805",
+      "text": "Optimize summarization endpoints"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1803",
@@ -8022,13 +8060,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1802",
       "title": "update lockfile",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1788",
       "title": "Replace littletable with redis-om(redisearch)",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -8036,13 +8074,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -8050,7 +8088,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": [
         "blocked",
         "changes required",
@@ -8061,7 +8099,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 113,
+      "stale_for": 114,
       "labels": [
         "In progress"
       ]
@@ -8069,19 +8107,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 92,
+      "stale_for": 93,
       "labels": []
     }
   ],

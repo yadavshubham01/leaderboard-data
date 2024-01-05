@@ -1,6 +1,45 @@
 {
-  "last_updated": 1703924434.0,
+  "last_updated": 1704350736.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704350736.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1876502176",
+      "text": "Ok @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1704350569.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1876496345",
+      "text": "@aparnacoronasafe   I want to work on this issue. Please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704349621.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1876463730",
+      "text": "@rithviknishad I want to work on this issue. Please assign me"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1704338517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932",
+      "text": "added the draft feature in the doctor's notes",
+      "turnaround_time": 84394
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6932",
+      "time": 1704338517.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6932",
+      "text": "added the draft feature in the doctor's notes",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6932",
@@ -107,15 +146,6 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6932",
-      "title": "added the draft feature in the doctor's notes",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
