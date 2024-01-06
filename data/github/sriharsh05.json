@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704348809.0,
+  "last_updated": 1704453794.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6982",
+      "time": 1704453794.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6982",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1808",
+      "time": 1704453581.0,
+      "link": "https://github.com/coronasafe/care/pull/1808",
+      "text": "Added new routes in prescription"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6944",
@@ -600,6 +614,24 @@
       "text": "I want to work on this issue."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6982",
+      "title": "Added new routes to prescriptions.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1808",
+      "title": "Added new routes in prescription",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

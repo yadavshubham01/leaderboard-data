@@ -1,6 +1,70 @@
 {
-  "last_updated": 1704393274.0,
+  "last_updated": 1704472254.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704472254.0,
+      "title": "coronasafe/care_fe#6982",
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#pullrequestreview-1806353223",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#147",
+      "time": 1704451448.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/147#issuecomment-1878468046",
+      "text": "@thedevildude unassigning due to inactivity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#431",
+      "time": 1704434942.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/431",
+      "text": "Integrate OpenAI TTS Engine and Provide User Option to Switch in Project "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#430",
+      "time": 1704434697.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/430",
+      "text": "Enhance Error Messaging by Specifying Failure in STT, TTS, or LLM Components"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#429",
+      "time": 1704434545.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/429",
+      "text": "Compatibility Issue with OpenAI Whisper Implementation in openai>=1.0.0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#162",
+      "time": 1704434276.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/162",
+      "text": "Fix Thumbs Up/Down popup design "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#161",
+      "time": 1704434034.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/161",
+      "text": "Detect Autoplay Audio Restriction on iPhones and Display Play Button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#427",
+      "time": 1704431716.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/427",
+      "text": "Remove sample rate",
+      "turnaround_time": 131
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#427",
+      "time": 1704431586.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/427",
+      "text": "Remove sample rate"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6978",
@@ -15583,7 +15647,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "discussion"
@@ -15592,7 +15656,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -15600,7 +15664,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -15608,7 +15672,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15617,7 +15681,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -15625,7 +15689,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15634,7 +15698,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -15642,7 +15706,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 91,
+      "stale_for": 92,
       "labels": [
         "POC"
       ]
@@ -15650,7 +15714,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 275,
+      "stale_for": 276,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15659,13 +15723,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 288,
+      "stale_for": 289,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]

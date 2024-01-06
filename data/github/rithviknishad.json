@@ -1,6 +1,69 @@
 {
-  "last_updated": 1704390788.0,
+  "last_updated": 1704467659.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704467659.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1878831280",
+      "text": ">    Should the doctor availability record be optionally or mandatorily related to a Facility or a Location?\r\n>\r\n>    If yes (1), should they be allowed to be available in multiple facility/locations at the same time?\r\n\r\n\r\nUpdates as per discussion, \r\n\r\nThe availability record should be optionally linked to a location and not a facility."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1704466612.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1878806727",
+      "text": "If the pre-readmission consultation's facility is not the same as the current consultation, the serializer should redact the consultation object."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704461249.0,
+      "title": "coronasafe/care_fe#6982",
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#pullrequestreview-1805966274",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704461187.0,
+      "title": "coronasafe/care#1808",
+      "link": "https://github.com/coronasafe/care/pull/1808#pullrequestreview-1805964860",
+      "text": "Added new routes in prescription"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6982",
+      "time": 1704458069.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#issuecomment-1878598122",
+      "text": "@sriharsh05 kindly link the backend PR too in the main comment once ready for testing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704458018.0,
+      "title": "coronasafe/care_fe#6982",
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#pullrequestreview-1805862862",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704458018.0,
+      "title": "coronasafe/care_fe#6982",
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#pullrequestreview-1805862862",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704431688.0,
+      "title": "coronasafe/ayushma#427",
+      "link": "https://github.com/coronasafe/ayushma/pull/427#pullrequestreview-1805356921",
+      "text": "Remove sample rate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704429579.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1805338762",
+      "text": "Changed TextFormField to TextAreaFormField"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6976",
@@ -32324,7 +32387,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6975",
       "title": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -32332,13 +32395,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -32346,7 +32409,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "waiting-for-review"
       ]
@@ -32354,7 +32417,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]

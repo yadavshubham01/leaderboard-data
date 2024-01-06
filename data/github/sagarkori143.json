@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704342008.0,
+  "last_updated": 1704462142.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1704462142.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1878678574",
+      "text": "@rithviknishad How can I make changes in API response for patient details."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1704441444.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1878268674",
+      "text": "@rithviknishad can you please explain a bit about what and where I will be in need to implement the changes in backend."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6854",
@@ -279,7 +293,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/194",
       "title": "fix: shortened the contributors list by filtering contributors according to their activity in that particular week.",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
@@ -287,8 +301,7 @@
       "title": "Solved the responsiveness issue of Administer medicine Slide-Over",
       "stale_for": 0,
       "labels": [
-        "test failed",
-        "stale"
+        "test failed"
       ]
     }
   ],

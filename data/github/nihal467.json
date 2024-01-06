@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704399502.0,
+  "last_updated": 1704462528.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6240",
+      "time": 1704462528.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6240#issuecomment-1878686407",
+      "text": "@aeswibon  Due to your inactivity in the priority issue and the lack of updates provided regarding the bug fix, I am unassigning you from this issue. @sainak will be taking over this issue as we need to get it closed ASAP."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6983",
+      "time": 1704461121.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6983",
+      "text": "Enhancement to the inventory log entry management"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6979",
@@ -30840,7 +30854,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6979",
       "title": "New Cypress Test | Facility Inventory Management | Facility Module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
