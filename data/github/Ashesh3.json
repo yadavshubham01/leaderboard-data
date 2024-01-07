@@ -1,6 +1,34 @@
 {
-  "last_updated": 1704472254.0,
+  "last_updated": 1704553382.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#162",
+      "time": 1704553382.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/162#issuecomment-1879722400",
+      "text": "> @Ashesh3 Can you assign me this issue?\r\n\r\nassigned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704551786.0,
+      "title": "coronasafe/care_fe#6987",
+      "link": "https://github.com/coronasafe/care_fe/pull/6987#pullrequestreview-1807481249",
+      "text": "Blood Pressure: Temp. fix to treat negative values as undefined"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704547283.0,
+      "title": "coronasafe/care_fe#6986",
+      "link": "https://github.com/coronasafe/care_fe/pull/6986#pullrequestreview-1807457676",
+      "text": "Fix blood pressure being negative values when field is cleared"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704523428.0,
+      "title": "coronasafe/ayushma_fe#164",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/164#pullrequestreview-1807282112",
+      "text": "Update Next Config: App Dir is no longer epxerimental since next 13.4"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704472254.0,
@@ -15647,7 +15675,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "discussion"
@@ -15656,7 +15684,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -15664,7 +15692,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for back end"
       ]
@@ -15672,7 +15700,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15681,7 +15709,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -15689,7 +15717,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15698,7 +15726,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -15706,7 +15734,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 92,
+      "stale_for": 93,
       "labels": [
         "POC"
       ]
@@ -15714,7 +15742,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 276,
+      "stale_for": 277,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15723,13 +15751,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 289,
+      "stale_for": 290,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]

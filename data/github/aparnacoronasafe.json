@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704205836.0,
+  "last_updated": 1704521803.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#163",
+      "time": 1704521803.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/163",
+      "text": "New chat: change of language"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#432",
+      "time": 1704520709.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/432",
+      "text": "New chat: change of language"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6941",

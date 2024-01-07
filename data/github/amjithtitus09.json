@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704454676.0,
+  "last_updated": 1704545785.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1809",
+      "time": 1704545785.0,
+      "link": "https://github.com/coronasafe/care/pull/1809#issuecomment-1879674546",
+      "text": "@sainak Made the changes and added Docs"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1800",
+      "time": 1704538402.0,
+      "link": "https://github.com/coronasafe/care/issues/1800#issuecomment-1879636152",
+      "text": "@sainak Could you please share the link of the doc to be updated?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1809",
+      "time": 1704538298.0,
+      "link": "https://github.com/coronasafe/care/pull/1809",
+      "text": "Summarization Tasks Disable - Added env variables"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1800",
@@ -9,6 +30,13 @@
       "text": "Hey @sainak can you assign me this issue?"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1809",
+      "title": "Add env variables to toggle summarization tasks",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704360621.0,
+  "last_updated": 1704557006.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704557006.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807498417",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704556902.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807496667",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1704555864.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988",
+      "text": "Cache only the advance filters"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6946",
@@ -1329,15 +1350,25 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6988",
+      "title": "Cache only the advance filters",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6963",
       "title": "Rearranged left nav menu",
-      "stale_for": 0,
-      "labels": []
+      "stale_for": 1,
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/197",
       "title": "Add pre commit hook",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     }
   ],

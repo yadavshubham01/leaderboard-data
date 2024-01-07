@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704462528.0,
+  "last_updated": 1704552799.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6987",
+      "time": 1704552799.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6987#issuecomment-1879719684",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6986",
+      "time": 1704548823.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6986#issuecomment-1879692693",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6986",
+      "time": 1704548360.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6986#issuecomment-1879690452",
+      "text": "test to be completed\r\n\r\n- [ ] check the MEWS missing alert and mews score operation\r\n- [ ] create a log update with bp and without bp\r\n- [ ] edit a log update and remove/add the bp data\r\n- [ ] verify the chart review in the patient consultation page\r\n- [ ] verify the copied value to normal and critical care update"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6985",
+      "time": 1704545901.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6985",
+      "text": "Critical care nutrition section saving empty value as 0"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6984",
+      "time": 1704544065.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6984",
+      "text": "BP chart is showing -1 value in the patient consultation page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6240",
@@ -30854,7 +30889,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6979",
       "title": "New Cypress Test | Facility Inventory Management | Facility Module",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

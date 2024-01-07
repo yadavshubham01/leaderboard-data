@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704461223.0,
+  "last_updated": 1704547474.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1704547474.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1879686464",
+      "text": "@rithviknishad why don't we just return the external_id of the previous consultation and let the use navigate to the consultation? This would take care of the access control and would also avoid nested serialization"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1809",
+      "time": 1704546882.0,
+      "link": "https://github.com/coronasafe/care/pull/1809#issuecomment-1879683886",
+      "text": "https://github.com/coronasafe/care/blob/master/CONTRIBUTING.md#contributing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1809",
+      "time": 1704546783.0,
+      "link": "https://github.com/coronasafe/care/pull/1809#issuecomment-1879683352",
+      "text": "@amjithtitus09 lint check is failing, pass the changed files through pro-commit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1800",
+      "time": 1704540229.0,
+      "link": "https://github.com/coronasafe/care/issues/1800#issuecomment-1879645829",
+      "text": "@amjithtitus09 there is no doc for environmnt variables but you can create a new file under /docs/django-configuration and add the new variables, with a brief description and examples under the environment variables section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704539977.0,
+      "title": "coronasafe/care#1809",
+      "link": "https://github.com/coronasafe/care/pull/1809#pullrequestreview-1807363875",
+      "text": "Summarization Tasks Disable - Added env variables"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1808",
@@ -8074,13 +8109,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1802",
       "title": "update lockfile",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1788",
       "title": "Replace littletable with redis-om(redisearch)",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -8088,13 +8123,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -8102,7 +8137,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": [
         "blocked",
         "changes required",
@@ -8113,7 +8148,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 115,
+      "stale_for": 116,
       "labels": [
         "In progress"
       ]
@@ -8121,19 +8156,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 29,
+      "stale_for": 30,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 169,
+      "stale_for": 170,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 94,
+      "stale_for": 95,
       "labels": []
     }
   ],
