@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704378938.0,
+  "last_updated": 1704623721.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1704623721.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1880019687",
+      "text": "@rithviknishad is this icon ok?\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/732b3aaf-acaa-4505-884f-9be048239c2b)\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6953",
@@ -7390,7 +7397,7 @@
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/care/pull/1794",
-      "title": "`listAssetAvailability` queryset to send all related assets record status",
+      "title": "Send asset downtime status along with asset details",
       "stale_for": 0,
       "labels": [
         "changes required"
@@ -7402,13 +7409,13 @@
       "stale_for": 0,
       "labels": [
         "work-in-progress",
-        "merge conflict"
+        "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 6,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -7416,7 +7423,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 17,
+      "stale_for": 20,
       "labels": []
     }
   ],

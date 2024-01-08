@@ -1,6 +1,97 @@
 {
-  "last_updated": 1704557231.0,
+  "last_updated": 1704647102.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704647102.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#issuecomment-1880114094",
+      "text": "> But there's still a noticeable delay when you click the checkbox and the monitors (without patients) appearing and reappearing due to the api call.\r\n> Do you want me to add a loading icon for this?\r\n\r\nYup that can be done! We can show the CARE loading icon when the useQuery's `loading` is true.\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704646952.0,
+      "title": "coronasafe/care_fe#6992",
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#pullrequestreview-1807839930",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704634203.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#issuecomment-1880060791",
+      "text": "why is the noticeable delay being caused?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704633792.0,
+      "title": "coronasafe/care_fe#6992",
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#pullrequestreview-1807806559",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704627210.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807789391",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704626834.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807788527",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704626787.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807788432",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#195",
+      "time": 1704626761.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/195",
+      "text": "Configure pre commit hook to disallow commits that has lint errors"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704626753.0,
+      "title": "coronasafe/leaderboard#197",
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#pullrequestreview-1807788369",
+      "text": "Add pre commit hook"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6991",
+      "time": 1704623867.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6991",
+      "text": "Hide Monitors without a Patient checkbox filter is not toggling state"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6989",
+      "time": 1704604052.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6989",
+      "text": "Multiple beds \"in use\" by same patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704601446.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1807667935",
+      "text": "date format changed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704601337.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1807667849",
+      "text": "Fixes redirect on login (#6900)"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704557231.0,
@@ -32502,7 +32593,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6975",
       "title": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -32510,13 +32601,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -32524,7 +32615,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": [
         "waiting-for-review"
       ]
@@ -32532,7 +32623,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting for back end"
       ]
@@ -32594,10 +32685,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6774",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6775"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6766",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6769"
     }
   ]
 }

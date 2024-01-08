@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704292192.0,
+  "last_updated": 1704632448.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1811",
+      "time": 1704632448.0,
+      "link": "https://github.com/coronasafe/care/pull/1811",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1704632139.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "text": "Collect postpartum data"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6969",
@@ -443,6 +457,54 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1811",
+      "title": "Collect postpartum data",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "title": "Collect postpartum data",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6958",
+      "title": "Add more symptoms and move OTHERS to bottom",
+      "stale_for": 3,
+      "labels": [
+        "question",
+        "needs testing",
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "title": "Add more symptoms",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6871",
+      "title": "Make consultation page more responsive",
+      "stale_for": 3,
+      "labels": [
+        "hold",
+        "changes required",
+        "stale"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
+    }
+  ]
 }

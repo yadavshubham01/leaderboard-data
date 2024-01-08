@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704552799.0,
+  "last_updated": 1704634258.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6994",
+      "time": 1704634258.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6994",
+      "text": "Cypress test can't verify upload functionality"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6987",
@@ -30889,7 +30896,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6979",
       "title": "New Cypress Test | Facility Inventory Management | Facility Module",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704552914.0,
+  "last_updated": 1704612924.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1704612924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6984",
@@ -27268,9 +27275,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "title": "Events UI",
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27280,7 +27295,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": [
         "waiting-for-review"
       ]
@@ -27288,19 +27303,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 393,
+      "stale_for": 394,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "changes required"
       ]
@@ -27308,25 +27323,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 750,
+      "stale_for": 751,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 756,
+      "stale_for": 757,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 757,
+      "stale_for": 758,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 952,
+      "stale_for": 953,
       "labels": []
     }
   ],

@@ -1,6 +1,42 @@
 {
-  "last_updated": 1704557006.0,
+  "last_updated": 1704626760.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704626760.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197",
+      "text": "Add pre commit hook",
+      "turnaround_time": 83444
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#197",
+      "time": 1704610630.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/197#issuecomment-1879975406",
+      "text": "@rithviknishad is this readme okay or is there anything missing."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704608946.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807746882",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704608912.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807746843",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704608828.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1807746733",
+      "text": "Cache only the advance filters"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704557006.0,
@@ -1360,16 +1396,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6963",
       "title": "Rearranged left nav menu",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/197",
-      "title": "Add pre commit hook",
-      "stale_for": 4,
-      "labels": []
     }
   ],
   "authored_issue_and_pr": [
