@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704376916.0,
+  "last_updated": 1704725401.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4678",
+      "time": 1704725401.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4678#issuecomment-1881156830",
+      "text": "Note: Requires a new API to get Unique Patients with `active=false` from Consultation for the Facility. Do not reuse the existing Patient List API"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6920",
+      "time": 1704725316.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6920#issuecomment-1881154365",
+      "text": "@aparnacoronasafe Please specify what is the issue here? The Sidebar is scrollable and the space is utilized properly with the current layout. Adding a \"Show More\" button in a section that has a scroll doesn't make sense. \r\n\r\nThink of the existing Sidebar as a good UX of \"Show More\" which is an smart infinite scroll."
+    },
     {
       "type": "pr_reviewed",
       "time": 1704376916.0,
@@ -6837,7 +6851,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 23,
+      "stale_for": 27,
       "labels": [
         "In Progress"
       ]

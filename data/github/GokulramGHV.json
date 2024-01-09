@@ -1,6 +1,31 @@
 {
-  "last_updated": 1704634769.0,
+  "last_updated": 1704715784.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704715784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling",
+      "turnaround_time": 1549
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704715784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704713095.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#issuecomment-1880819913",
+      "text": "> I've pushed the fix (and also shows the loading component when refetching) as this had to be fixed by today evening. cc: @nihal467\r\n> \r\n> The issue was the query param variable is of type string, but the checkbox expected value of type boolean. Hence the issue.\r\n\r\n@rithviknishad Thanks for pushing a fix. I'm so sorry for not seeing your comment earlier and fixing it."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6992",
@@ -3152,24 +3177,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6992",
-      "title": "Fix: hide Monitors without a patient checkbox filter is not toggling",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "made_changes"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1735",
       "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "waiting-for-review"
       ]
@@ -3177,7 +3193,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "tested",
         "waiting for back end"
@@ -3186,7 +3202,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -3194,7 +3210,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6565",
       "title": "Add titrated prescription dosage type",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "tested",
         "waiting for back end"
@@ -3203,7 +3219,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1692",
       "title": "Prescription: Titrated drug dose",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "waiting-for-review"
       ]

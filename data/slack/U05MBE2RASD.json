@@ -1474,5 +1474,123 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-08 00:00:00": [
+        {
+            "client_msg_id": "da6ecdb9-ac10-4fff-ba14-11b9ca090d13",
+            "type": "message",
+            "text": "EOD 8/1/23\n\u2022 Revised PRs to split \"NEW LOSS OF TASTE/SMELL\" into two different symptoms as per new feedback.\n<https://github.com/coronasafe/care/pull/1796>\n<https://github.com/coronasafe/care_fe/pull/6958>\nWhat's next -\n\u2022 Will look into 3 failing test cases in patient_crud e2e",
+            "user": "U05MBE2RASD",
+            "ts": "1704735744.597759",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "osfjP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 8/1/23\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Revised PRs to split \"NEW LOSS OF TASTE/SMELL\" into two different symptoms as per new feedback."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care/pull/1796"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care_fe/pull/6958"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nWhat's next -\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Will look into 3 failing test cases in patient_crud e2e"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1704123006,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/1796",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#1796 Add more symptoms",
+                    "title": "#1796 Add more symptoms",
+                    "title_link": "https://github.com/coronasafe/care/pull/1796",
+                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1704123441,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/6958",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6958 Add more symptoms and move OTHERS to bottom",
+                    "title": "#6958 Add more symptoms and move OTHERS to bottom",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/6958",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }

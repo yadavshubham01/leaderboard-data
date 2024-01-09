@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704521803.0,
+  "last_updated": 1704693190.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6942",
+      "time": 1704693190.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6942#issuecomment-1880421213",
+      "text": "@sainak That is actually a good suggestion \r\n\r\nCan you make it \"New loss of taste\", \"New loss of smell\""
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#163",

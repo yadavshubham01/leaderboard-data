@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704453794.0,
+  "last_updated": 1704732410.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#201",
+      "time": 1704732410.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/201",
+      "text": "Fixed commit message overflow in feed."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#189",
+      "time": 1704722610.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/189#issuecomment-1881072968",
+      "text": "@sagarkori143 are you working on this. \r\nIf not @rithviknishad Please assign this to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#178",
+      "time": 1704721751.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/178#issuecomment-1881047743",
+      "text": "I want to work this issue. Please assign it to me.\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6982",
@@ -616,9 +637,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/201",
+      "title": "Fixed commit message overflow in feed.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6982",
       "title": "Added new routes to prescriptions.",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "waiting for back end"
@@ -627,7 +654,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1808",
       "title": "Added new routes in prescription",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]

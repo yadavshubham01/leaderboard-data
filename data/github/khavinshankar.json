@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704612924.0,
+  "last_updated": 1704715785.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6991",
+      "time": 1704715785.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6991",
+      "text": "Hide Monitors without a Patient checkbox filter is not toggling state"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704715751.0,
+      "title": "coronasafe/care_fe#6992",
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#pullrequestreview-1808961188",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6990",
@@ -27277,7 +27291,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -27285,7 +27299,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27295,7 +27309,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "waiting-for-review"
       ]
@@ -27303,19 +27317,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 394,
+      "stale_for": 395,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 151,
+      "stale_for": 152,
       "labels": [
         "changes required"
       ]
@@ -27323,25 +27337,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 751,
+      "stale_for": 752,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 757,
+      "stale_for": 758,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 758,
+      "stale_for": 759,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 953,
+      "stale_for": 954,
       "labels": []
     }
   ],

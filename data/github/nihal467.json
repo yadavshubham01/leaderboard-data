@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704634258.0,
+  "last_updated": 1704715612.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704715612.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#issuecomment-1880876691",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#6995",
+      "time": 1704703797.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6995",
+      "text": "ICD-11 is missing ME24.A5 diagnosis missing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1788",
+      "time": 1704690568.0,
+      "link": "https://github.com/coronasafe/care/pull/1788#issuecomment-1880392945",
+      "text": "its a p1 priority , for fixing facility cover image upload in local"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6994",
@@ -30896,7 +30917,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6979",
       "title": "New Cypress Test | Facility Inventory Management | Facility Module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

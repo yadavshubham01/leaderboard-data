@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704553382.0,
+  "last_updated": 1704702173.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704702173.0,
+      "title": "coronasafe/care#1809",
+      "link": "https://github.com/coronasafe/care/pull/1809#pullrequestreview-1808293685",
+      "text": "Add env variables to toggle summarization tasks"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#162",
@@ -15675,7 +15682,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "discussion"
@@ -15684,7 +15691,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1785",
       "title": "Add video_connect_link field to User model",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -15692,7 +15699,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6924",
       "title": "Add video connect link to user profile",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "waiting for back end"
       ]
@@ -15700,7 +15707,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15709,7 +15716,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1773",
       "title": "Data Migration to Support New Discharge Reason Field",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -15717,7 +15724,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6807",
       "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15726,7 +15733,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1737",
       "title": "Enhanced Error Handling in AssetViewSet",
-      "stale_for": 7,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -15734,7 +15741,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 93,
+      "stale_for": 95,
       "labels": [
         "POC"
       ]
@@ -15742,7 +15749,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 277,
+      "stale_for": 279,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15751,13 +15758,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 290,
+      "stale_for": 292,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]

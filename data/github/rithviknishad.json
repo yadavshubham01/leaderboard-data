@@ -1,6 +1,115 @@
 {
-  "last_updated": 1704647102.0,
+  "last_updated": 1704735532.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704735532.0,
+      "title": "coronasafe/care#1796",
+      "link": "https://github.com/coronasafe/care/pull/1796#pullrequestreview-1809682972",
+      "text": "Add more symptoms"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#199",
+      "time": 1704722161.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/199",
+      "text": "Invalid URLs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#200",
+      "time": 1704722160.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/200",
+      "text": "show 404 for invalid user instead of erroring to 500",
+      "turnaround_time": 29604
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#200",
+      "time": 1704722057.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/200",
+      "text": "show 404 for invalid user instead of erroring to 500"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704719592.0,
+      "title": "coronasafe/ayushma_fe#166",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/166#pullrequestreview-1809075221",
+      "text": "Configure prettier & Move dependencies to dev dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#166",
+      "time": 1704717772.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/166",
+      "text": "Configure prettier & Move dependencies to dev dependencies"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6992",
+      "time": 1704715784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6992",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling",
+      "collaborated_with": [
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704707784.0,
+      "title": "coronasafe/care_fe#6992",
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#pullrequestreview-1808572038",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704707745.0,
+      "title": "coronasafe/care_fe#6992",
+      "link": "https://github.com/coronasafe/care_fe/pull/6992#pullrequestreview-1808572038",
+      "text": "Fix: hide Monitors without a patient checkbox filter is not toggling"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704701320.0,
+      "title": "coronasafe/care#1809",
+      "link": "https://github.com/coronasafe/care/pull/1809#pullrequestreview-1808256758",
+      "text": "Add env variables to toggle summarization tasks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6512",
+      "time": 1704696522.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6512#issuecomment-1880461508",
+      "text": "Marking as hold as the requirements have changed and a more refined feature \"User Availability\" will be built that adds more depth and it would replace the \"Duty Staff for Locations\" feature.\r\n\r\nIssue: https://github.com/coronasafe/care_fe/issues/6968"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1689",
+      "time": 1704696418.0,
+      "link": "https://github.com/coronasafe/care/pull/1689#issuecomment-1880460163",
+      "text": "Marking as hold as the requirements have changed and a more refined feature \"User Availability\" will be built that'd replace this \"Duty Staff for Locations\" feature.\r\n\r\nIssue: https://github.com/coronasafe/care_fe/issues/6968"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6968",
+      "time": 1704696095.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6968#issuecomment-1880455871",
+      "text": "As discussed, \r\n\r\n> A doctor's availability must be understood as:\r\n\u2022\u2060  \u2060physical availability (only to be given in a home facility) link to a facility is mandatory, with optional linking to one or more locations in that facility. ( Let's assume availability across locations may be overlapping, but not across facilities) \r\n\u2022\u2060  \u2060availability for online engagement\r\n\r\n> Now for nurses this will be different. \r\nTheir availability will always be physical availability, restricted to 1 location at a time.\r\n\r\n> Also, we may be allowing multiple home facilities for doctors, to support palliative care use cases. Since a doctor can be involved with multiple palliative care teams.\r\n\r\n> The above schedule will be the duty staff schedule for locations. Duty Staff and this is essentially the same.\r\n\r\ncc: @aparnacoronasafe"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6942",
+      "time": 1704693870.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6942#issuecomment-1880428981",
+      "text": "cc: @Omkar76 \u261d\ud83c\udffc "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704690661.0,
+      "title": "coronasafe/care#1788",
+      "link": "https://github.com/coronasafe/care/pull/1788#pullrequestreview-1808029539",
+      "text": "Replace littletable with redis-om(redisearch)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6992",
@@ -32591,9 +32700,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/166",
+      "title": "Configure prettier & Move dependencies to dev dependencies",
+      "stale_for": 0,
+      "labels": [
+        "ready for review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6975",
       "title": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -32601,13 +32718,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6889",
       "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -32615,7 +32732,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": [
         "waiting-for-review"
       ]
@@ -32623,7 +32740,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting for back end"
       ]
