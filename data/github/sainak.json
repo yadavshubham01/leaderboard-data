@@ -1,6 +1,48 @@
 {
-  "last_updated": 1704701188.0,
+  "last_updated": 1704913164.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1589",
+      "time": 1704913164.0,
+      "link": "https://github.com/coronasafe/care/pull/1589#issuecomment-1885445214",
+      "text": "closing in favor of #1819"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7002",
+      "time": 1704912303.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7002",
+      "text": "How to restrict access for external results for nurse users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1819",
+      "time": 1704897050.0,
+      "link": "https://github.com/coronasafe/care/pull/1819",
+      "text": "Add nurse user type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704874432.0,
+      "title": "coronasafe/care#1818",
+      "link": "https://github.com/coronasafe/care/pull/1818#pullrequestreview-1812633324",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1818",
+      "time": 1704873627.0,
+      "link": "https://github.com/coronasafe/care/pull/1818#issuecomment-1884357055",
+      "text": "We can keep the old names"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1817",
+      "time": 1704856515.0,
+      "link": "https://github.com/coronasafe/care/issues/1817",
+      "text": "Load medibase and icd11 from static json"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704701188.0,
@@ -8114,10 +8156,12 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1802",
-      "title": "update lockfile",
-      "stale_for": 5,
-      "labels": []
+      "link": "https://github.com/coronasafe/care/pull/1819",
+      "title": "Add nurse user type",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1788",
@@ -8131,13 +8175,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -8145,7 +8189,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 43,
+      "stale_for": 45,
       "labels": [
         "blocked",
         "changes required",
@@ -8156,7 +8200,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 118,
+      "stale_for": 120,
       "labels": [
         "In progress"
       ]
@@ -8164,19 +8208,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 32,
+      "stale_for": 34,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 172,
+      "stale_for": 174,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 97,
+      "stale_for": 99,
       "labels": []
     }
   ],

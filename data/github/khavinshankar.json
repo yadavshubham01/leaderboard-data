@@ -1,6 +1,69 @@
 {
-  "last_updated": 1704715785.0,
+  "last_updated": 1704896713.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1704896713.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000",
+      "text": "Improve Abha linking process"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6641",
+      "time": 1704895543.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6641",
+      "text": "Adding support for gmeet/zoom/ any other video call to doctor connect"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704895511.0,
+      "title": "coronasafe/care_fe#6924",
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#pullrequestreview-1813302452",
+      "text": "Add video connect link and Cypress Tests for User Profile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704894944.0,
+      "title": "coronasafe/care_fe#6975",
+      "link": "https://github.com/coronasafe/care_fe/pull/6975#pullrequestreview-1813282289",
+      "text": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704873579.0,
+      "title": "coronasafe/care#1818",
+      "link": "https://github.com/coronasafe/care/pull/1818#pullrequestreview-1812611770",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6888",
+      "time": 1704873492.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6888",
+      "text": "\ud83d\udee0\ufe0f Replace `useDispatch` w. `useQuery`/`request`: Common (`src/Components/Common/**`)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704873452.0,
+      "title": "coronasafe/care_fe#6889",
+      "link": "https://github.com/coronasafe/care_fe/pull/6889#pullrequestreview-1812608526",
+      "text": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6830",
+      "time": 1704873347.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6830",
+      "text": "Change DOB(date) Format in Patient Details Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704873279.0,
+      "title": "coronasafe/care_fe#6950",
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#pullrequestreview-1812604421",
+      "text": "Updated DOB Date Format in Patient details page"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6991",
@@ -27289,17 +27352,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7000",
+      "title": "(DRAFT) Improve Abha linking process",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "waiting for back end",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27309,7 +27379,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 33,
+      "stale_for": 35,
       "labels": [
         "waiting-for-review"
       ]
@@ -27317,19 +27387,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 43,
+      "stale_for": 45,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 395,
+      "stale_for": 397,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 152,
+      "stale_for": 154,
       "labels": [
         "changes required"
       ]
@@ -27337,25 +27407,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 752,
+      "stale_for": 754,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 758,
+      "stale_for": 760,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 759,
+      "stale_for": 761,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 954,
+      "stale_for": 956,
       "labels": []
     }
   ],

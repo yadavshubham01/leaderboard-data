@@ -1,6 +1,24 @@
 {
-  "last_updated": 1703913380.0,
+  "last_updated": 1704873346.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1704873346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950",
+      "text": "Updated DOB Date Format in Patient details page",
+      "turnaround_time": 12295
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1704873346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950",
+      "text": "Updated DOB Date Format in Patient details page",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6950",
@@ -37,13 +55,6 @@
       "text": "Hello there,\r\nI have gone through the project and it seems really interesting and matches my skillset and experience too, Looking forward to submitting the proposal for this one!"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6950",
-      "title": "date format changed",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,99 @@
 {
-  "last_updated": 1704735532.0,
+  "last_updated": 1704913649.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704913649.0,
+      "title": "coronasafe/care#1819",
+      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1813930849",
+      "text": "Add nurse user type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704906508.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1813709267",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704906508.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1813709267",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704895266.0,
+      "title": "coronasafe/care_fe#6924",
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#pullrequestreview-1813293561",
+      "text": "Add video connect link and Cypress Tests for User Profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6975",
+      "time": 1704894952.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6975",
+      "text": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
+      "turnaround_time": 74475
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704877716.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1812725672",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704877690.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1812725672",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#166",
+      "time": 1704876461.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/166",
+      "text": "Configure prettier & Move dependencies to dev dependencies",
+      "turnaround_time": 72289
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704873567.0,
+      "title": "coronasafe/care#1818",
+      "link": "https://github.com/coronasafe/care/pull/1818#pullrequestreview-1812611458",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704873492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "text": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
+      "turnaround_time": 1618
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704873492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "text": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1704873346.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950",
+      "text": "Updated DOB Date Format in Patient details page",
+      "collaborated_with": [
+        "AdityyaX"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1704735532.0,
@@ -32700,39 +32793,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/166",
-      "title": "Configure prettier & Move dependencies to dev dependencies",
-      "stale_for": 0,
-      "labels": [
-        "ready for review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6975",
-      "title": "Migrate `useDispatch` with `useQuery/request` in Add / Update Bed Form",
-      "stale_for": 4,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 14,
+      "stale_for": 16,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6889",
-      "title": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
-      "stale_for": 4,
-      "labels": [
-        "needs testing"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 32,
+      "stale_for": 34,
       "labels": [
         "waiting-for-review"
       ]
@@ -32740,7 +32809,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6464",
       "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
         "waiting for back end"
       ]
@@ -32750,6 +32819,10 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6888",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6889"
     },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/186",
@@ -32798,10 +32871,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1740",
       "pr_link": "https://github.com/coronasafe/care/pull/1741"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6774",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6775"
     }
   ]
 }

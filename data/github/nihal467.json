@@ -1,6 +1,159 @@
 {
-  "last_updated": 1704715612.0,
+  "last_updated": 1704913847.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1819",
+      "time": 1704913847.0,
+      "link": "https://github.com/coronasafe/care/pull/1819#issuecomment-1885475352",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6939",
+      "time": 1704896091.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6939#issuecomment-1884930361",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1808",
+      "time": 1704895999.0,
+      "link": "https://github.com/coronasafe/care/pull/1808#issuecomment-1884927865",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6924",
+      "time": 1704895542.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6924",
+      "text": "Add video connect link and Cypress Tests for User Profile",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704884358.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1884627045",
+      "text": "@Arzzam \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/a845c0e6-de77-4222-a73d-55a4084c6b6c)\r\n\r\n- [ ] Keep the left and right arrow outside the board, where I marked the red circle\r\n- [ ] If we are in the leftmost and there is no more left to go with the arrow, keep the left arrow hidden similarly to the rightmost as well"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1796",
+      "time": 1704883778.0,
+      "link": "https://github.com/coronasafe/care/pull/1796#issuecomment-1884612021",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6958",
+      "time": 1704883650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#issuecomment-1884608995",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6924",
+      "time": 1704882177.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#issuecomment-1884570331",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704882169.0,
+      "title": "coronasafe/care_fe#6924",
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#pullrequestreview-1812878967",
+      "text": "Add video connect link and Cypress Tests for User Profile"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6975",
+      "time": 1704881641.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6975#issuecomment-1884555931",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6924",
+      "time": 1704874325.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6924#issuecomment-1884371064",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704873492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889",
+      "text": "Migrate `useDispatch` with `useQuery/request` in `src/Components/Common/**`",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1704873267.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#issuecomment-1884350076",
+      "text": "@konavivekramakrishna \r\n\r\n- [ ] Don't keep the sidebar by default collapsed for the facility detail page in the normal view\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/835ec345-fd74-45ab-8b30-bbf42d490b77)\r\n\r\n- [ ] if there any overflow or overlapping, just take it to next line\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1704872570.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1884337444",
+      "text": "@kshitijv256 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/951064a6-c85f-4c10-a46a-1976e31b8e9e)\r\n\r\n- [ ] Keep the box width and height as same as the current staging, when there is only one line\r\n- [ ] When the line increases in the message, increase the height of the text box similar to the implementation in Slack DM's "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6950",
+      "time": 1704871237.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6950#issuecomment-1884313119",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704870313.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1812530982",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704870313.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1812530982",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704869838.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1812527251",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6889",
+      "time": 1704869603.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6889#issuecomment-1884287030",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704869280.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807#issuecomment-1884282198",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/9967e0e3-a17a-4fb0-a5ff-dc1b0f40cfc3)\r\n\r\n- [ ] patient discharge reason with recovered, referred, LAMA is not possible\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704869076.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807#issuecomment-1884279112",
+      "text": "**test to complete**\r\n\r\n- [ ] all four type discharge is possible in patient consultation / shifting form / patient transfer\r\n- [ ] discharge reason is properly chosen in patient consultation page\r\n- [ ] discharge reason is properly chosen in discharge summary\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6992",
@@ -30913,14 +31066,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6979",
-      "title": "New Cypress Test | Facility Inventory Management | Facility Module",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

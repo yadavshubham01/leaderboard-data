@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704732410.0,
+  "last_updated": 1704902709.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7001",
+      "time": 1704902709.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7001",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6877",
+      "time": 1704896690.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6877#issuecomment-1884947497",
+      "text": "@rithviknishad \r\nI want to work on this issue. Please assign this to me."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#201",
@@ -637,24 +651,26 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/201",
-      "title": "Fixed commit message overflow in feed.",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001",
+      "title": "Fixed close Button in Treatment Summary",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6982",
       "title": "Added new routes to prescriptions.",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "tested",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1808",
       "title": "Added new routes in prescription",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

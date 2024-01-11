@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704391847.0,
+  "last_updated": 1704877176.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1704877176.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1884436377",
+      "text": "@nihal467 made changes"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6977",
@@ -885,9 +892,11 @@
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6977",
-      "title": "Changed TextFormField to TextAreaFormField",
+      "title": "Added support for multi-line text input for Doctor Notes",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "test failed"
+      ]
     }
   ],
   "authored_issue_and_pr": []

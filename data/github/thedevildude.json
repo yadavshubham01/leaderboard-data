@@ -1,6 +1,24 @@
 {
-  "last_updated": 1704552926.0,
+  "last_updated": 1704876667.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#165",
+      "time": 1704876667.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
+      "text": "Fixed adding question bug | increased Add Question modal width",
+      "turnaround_time": 64781
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma_fe#165",
+      "time": 1704876667.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
+      "text": "Fixed adding question bug | increased Add Question modal width",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#162",
@@ -367,15 +385,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/165",
-      "title": "Fixed adding question bug | increased Add Question modal width",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "changes required"
       ]
