@@ -1,6 +1,60 @@
 {
-  "last_updated": 1704895542.0,
+  "last_updated": 1704985165.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704985165.0,
+      "title": "coronasafe/ayushma_fe#169",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#pullrequestreview-1815799398",
+      "text": "Adds support for disabling TTS Autoplay"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704981798.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "text": "Refactor discharge_reason data type to Integer",
+      "turnaround_time": 16116
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704981798.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "text": "Refactor discharge_reason data type to Integer",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#163",
+      "time": 1704967724.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/163",
+      "text": "New chat: change of language"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704967653.0,
+      "title": "coronasafe/ayushma_fe#167",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/167#pullrequestreview-1815157384",
+      "text": "Opens new chat when language changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1818",
+      "time": 1704965008.0,
+      "link": "https://github.com/coronasafe/care/pull/1818",
+      "text": "Fix patient discharge_reason filter and add it to export",
+      "turnaround_time": 5989
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704940184.0,
+      "title": "coronasafe/care#1819",
+      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1814546556",
+      "text": "Add nurse user type"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6924",
@@ -15729,17 +15783,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1818",
-      "title": "Fix patient discharge_reason filter and add it to export",
-      "stale_for": 0,
-      "labels": [
-        "P1"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "blocked"
       ]
@@ -15747,26 +15793,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting for back end",
         "merge conflict"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6807",
-      "title": "Refactor discharge_reason data type to Integer",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "P1",
-        "waiting for back end"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 97,
+      "stale_for": 98,
       "labels": [
         "POC"
       ]
@@ -15774,7 +15810,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 281,
+      "stale_for": 282,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15783,13 +15819,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 294,
+      "stale_for": 295,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]

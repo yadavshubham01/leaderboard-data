@@ -1,6 +1,55 @@
 {
-  "last_updated": 1704913847.0,
+  "last_updated": 1704990784.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704990784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464",
+      "text": "Adds user type: Nurse and Nurse (readonly)",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704982093.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464#issuecomment-1887235426",
+      "text": "LGTM , checked through tunnel provided by aakash"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704981798.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807",
+      "text": "Refactor discharge_reason data type to Integer",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6807",
+      "time": 1704981620.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6807#issuecomment-1887219746",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7006",
+      "time": 1704979934.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7006#issuecomment-1887171311",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1704971732.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1886914652",
+      "text": "@Arzzam The current UI is overlapping with the shifting board data, and it doesn't look good. Please modify it based on the comment i made above"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1819",

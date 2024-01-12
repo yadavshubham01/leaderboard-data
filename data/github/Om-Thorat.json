@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703657764.0,
+  "last_updated": 1705003707.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705003707.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1887885806",
+      "text": "I don't understand why the tests are failing with a POST 401 on github actions \r\n\r\n![redirect -- Check if login redirects to the right url (failed) (attempt 2)](https://github.com/coronasafe/care_fe/assets/76207818/f37e879f-c0a6-41f6-9925-fbd1da104130)\r\n\r\nThe same tests pass on local \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/76207818/71150ca6-39b7-4742-aeb0-b203a0f7eb8e)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705001637.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1816435246",
+      "text": "Fixes redirect on login (#6900)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",

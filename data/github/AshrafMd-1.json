@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704626760.0,
+  "last_updated": 1704957352.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1704957352.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1886432386",
+      "text": "@rithviknishad is this okay or are there any changes"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#197",
@@ -1390,15 +1397,16 @@
       "title": "Cache only the advance filters",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "waiting for related PR"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6963",
       "title": "Rearranged left nav menu",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "blocked",
+        "merge conflict"
       ]
     }
   ],

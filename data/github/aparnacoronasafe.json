@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704693190.0,
+  "last_updated": 1704984328.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7002",
+      "time": 1704984328.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7002#issuecomment-1887336941",
+      "text": "@sainak you are right! i did not consider that challenge.\r\n\r\nLets not allow them to access External results or create patients from external results. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6942",

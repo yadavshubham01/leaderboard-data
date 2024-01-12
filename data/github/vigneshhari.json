@@ -1,6 +1,34 @@
 {
-  "last_updated": 1704272700.0,
+  "last_updated": 1704988160.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1704988160.0,
+      "title": "coronasafe/care#1819",
+      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1815912715",
+      "text": "Add nurse user type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704964993.0,
+      "title": "coronasafe/care#1818",
+      "link": "https://github.com/coronasafe/care/pull/1818#pullrequestreview-1815065923",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704960309.0,
+      "title": "coronasafe/care#1819",
+      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1814913140",
+      "text": "Add nurse user type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704960309.0,
+      "title": "coronasafe/care#1819",
+      "link": "https://github.com/coronasafe/care/pull/1819#pullrequestreview-1814913140",
+      "text": "Add nurse user type"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704272700.0,

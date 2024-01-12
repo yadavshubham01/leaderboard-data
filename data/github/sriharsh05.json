@@ -1,6 +1,27 @@
 {
-  "last_updated": 1704902709.0,
+  "last_updated": 1704976455.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7001",
+      "time": 1704976455.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#issuecomment-1887069277",
+      "text": "@rithviknishad \r\nPlease review the changes.\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704966041.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1815101509",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7005",
+      "time": 1704962900.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7005#issuecomment-1886639097",
+      "text": "I want to work on this issue. Please assign this to me."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7001",
@@ -655,13 +676,13 @@
       "title": "Fixed close Button in Treatment Summary",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6982",
       "title": "Added new routes to prescriptions.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "waiting for back end"
@@ -670,7 +691,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1808",
       "title": "Added new routes in prescription",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]

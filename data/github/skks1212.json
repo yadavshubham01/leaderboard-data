@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704876667.0,
+  "last_updated": 1704996195.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#161",
+      "time": 1704996195.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/161",
+      "text": "Detect Autoplay Audio Restriction on iPhones and Display Play Button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704996187.0,
+      "title": "coronasafe/ayushma_fe#169",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#pullrequestreview-1816186182",
+      "text": "Adds support for disabling TTS Autoplay"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704988768.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#issuecomment-1887474571",
+      "text": "```\r\n<html>\r\n<body>\r\n<!--StartFragment-->\r\nReferenceError: navigator is not defined\r\n--\r\n21:20:18.959 | at a (/vercel/path0/build/server/chunks/293.js:1:12801)\r\n21:20:18.959 | at v (/vercel/path0/build/server/chunks/293.js:1:5186)\r\n21:20:18.960 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:45321)\r\n21:20:18.960 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n21:20:18.960 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n21:20:18.960 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:56390)\r\n21:20:18.965 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n21:20:18.966 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n21:20:18.966 | at nO (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64035)\r\n21:20:18.966 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:62224)\r\n\r\n<!--EndFragment-->\r\n</body>\r\n</html>\r\n```\r\n\r\n@rithviknishad is navigator being called server side? \ud83e\udd14"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704985183.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#issuecomment-1887363509",
+      "text": "@rithviknishad \r\nBuild failing\r\n\r\n```\r\n<html>\r\n<body>\r\n<!--StartFragment-->\r\nReferenceError: navigator is not defined\r\n--\r\n20:29:03.978 | at a (/vercel/path0/build/server/chunks/293.js:1:12801)\r\n20:29:03.978 | at v (/vercel/path0/build/server/chunks/293.js:1:5186)\r\n20:29:03.978 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:45321)\r\n20:29:03.978 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.978 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.978 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:56390)\r\n20:29:03.978 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.978 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.978 | at nO (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64035)\r\n20:29:03.978 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:62224)\r\n20:29:03.979 | \u00a0\r\n20:29:03.979 | Error occurred prerendering page \"/\". Read more: https://nextjs.org/docs/messages/prerender-error\r\n20:29:03.979 | ReferenceError: navigator is not defined\r\n20:29:03.979 | at a (/vercel/path0/build/server/chunks/293.js:1:12801)\r\n20:29:03.979 | at v (/vercel/path0/build/server/chunks/293.js:1:5186)\r\n20:29:03.979 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:45321)\r\n20:29:03.979 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.979 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.979 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:56390)\r\n20:29:03.979 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.979 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.979 | at nO (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64035)\r\n20:29:03.979 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:62224)\r\n20:29:03.979 | ReferenceError: navigator is not defined\r\n20:29:03.979 | at a (/vercel/path0/build/server/chunks/293.js:1:12801)\r\n20:29:03.979 | at v (/vercel/path0/build/server/chunks/293.js:1:5186)\r\n20:29:03.979 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:45321)\r\n20:29:03.979 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.980 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.980 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:56390)\r\n20:29:03.980 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.980 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.980 | at nO (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64035)\r\n20:29:03.980 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:62224)\r\n20:29:03.980 | \u00a0\r\n20:29:03.980 | Error occurred prerendering page \"/profile\". Read more: https://nextjs.org/docs/messages/prerender-error\r\n20:29:03.980 | ReferenceError: navigator is not defined\r\n20:29:03.980 | at a (/vercel/path0/build/server/chunks/293.js:1:12801)\r\n20:29:03.980 | at v (/vercel/path0/build/server/chunks/293.js:1:5186)\r\n20:29:03.980 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:45321)\r\n20:29:03.980 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.980 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.980 | at nP (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:56390)\r\n20:29:03.980 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:61978)\r\n20:29:03.980 | at nj (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64628)\r\n20:29:03.980 | at nO (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64035)\r\n20:29:03.980 | at n$ (/vercel/path0/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:62224)\r\n\r\n<!--EndFragment-->\r\n</body>\r\n</html>\r\n```\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704985144.0,
+      "title": "coronasafe/ayushma_fe#169",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#pullrequestreview-1815798590",
+      "text": "Adds support for disabling TTS Autoplay"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma_fe#147",

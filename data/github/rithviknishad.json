@@ -1,6 +1,168 @@
 {
-  "last_updated": 1704913649.0,
+  "last_updated": 1705002743.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705002743.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1887863657",
+      "text": "@AshrafMd-1 was the filters cache working in your PR? How were you able to test whether this PR was working or not?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7009",
+      "time": 1705002645.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7009",
+      "text": "fix resetting the filters cache on page load"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7008",
+      "time": 1705002527.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7008",
+      "text": "Filters cache is not applying the cached filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705001754.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1816440397",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704996199.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169",
+      "text": "Adds support for disabling TTS Autoplay",
+      "turnaround_time": 13560
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704990784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464",
+      "text": "Adds user type: Nurse and Nurse (readonly)",
+      "turnaround_time": 39338
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6464",
+      "time": 1704990784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6464",
+      "text": "Adds user type: Nurse and Nurse (readonly)",
+      "collaborated_with": [
+        "nihal467",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704990204.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#issuecomment-1887518506",
+      "text": "@skks1212 @Ashesh3 fixed :) "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704988868.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#issuecomment-1887477699",
+      "text": "weirdly, local builds are not reporting this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704988855.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169#issuecomment-1887477252",
+      "text": "I think so. I've no clue why it's being called in SSR even after it being wrapped inside a useEffect"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#169",
+      "time": 1704985023.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/169",
+      "text": "Adds support for disabling TTS Autoplay"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7006",
+      "time": 1704981746.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7006",
+      "text": "Fixes buggy prefetch condition for local body and district autocompletes",
+      "turnaround_time": 18967
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704977318.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1815501193",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704975597.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1815419269",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704973999.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1815355062",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704973999.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1815355062",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#168",
+      "time": 1704972891.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/168",
+      "text": "Stop audio playback (if being played) when switched to a different chat"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#167",
+      "time": 1704967723.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/167",
+      "text": "Opens new chat when language changed",
+      "turnaround_time": 12035
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#167",
+      "time": 1704966329.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/167",
+      "text": "Opens new chat when language changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7006",
+      "time": 1704963343.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7006",
+      "text": "Fixes buggy prefetch condition for local body and district autocompletes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7005",
+      "time": 1704962779.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7005",
+      "text": "404 Not found errors on district and local bodies in Advanced Filters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7004",
+      "time": 1704947824.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7004",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704913649.0,
@@ -32793,29 +32955,42 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7009",
+      "title": "prevent resetting the filters cache on page load",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "P2"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7004",
+      "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
+      "stale_for": 0,
+      "labels": [
+        "cypress failed"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": [
         "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6464",
-      "title": "Adds user type: Nurse and Nurse (readonly)",
-      "stale_for": 0,
-      "labels": [
-        "waiting for back end"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7005",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7006"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"

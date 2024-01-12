@@ -1,6 +1,55 @@
 {
-  "last_updated": 1704896713.0,
+  "last_updated": 1704990785.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7002",
+      "time": 1704990785.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7002",
+      "text": "How to restrict access to external results for nurse users"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6240",
+      "time": 1704990785.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6240",
+      "text": "New user type \"Nurse\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704982500.0,
+      "title": "coronasafe/care_fe#6464",
+      "link": "https://github.com/coronasafe/care_fe/pull/6464#pullrequestreview-1815698027",
+      "text": "Adds user type: Nurse and Nurse (readonly)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1739",
+      "time": 1704981799.0,
+      "link": "https://github.com/coronasafe/care/issues/1739",
+      "text": "Convert `discharge_reason` to `IntegerField`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704981783.0,
+      "title": "coronasafe/care_fe#6807",
+      "link": "https://github.com/coronasafe/care_fe/pull/6807#pullrequestreview-1815661700",
+      "text": "Refactor discharge_reason data type to Integer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7005",
+      "time": 1704981746.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7005",
+      "text": "404 Not found errors on district and local bodies in Advanced Filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1704981738.0,
+      "title": "coronasafe/care_fe#7006",
+      "link": "https://github.com/coronasafe/care_fe/pull/7006#pullrequestreview-1815660158",
+      "text": "Fixes buggy prefetch condition for local body and district autocompletes"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7000",
@@ -27354,13 +27403,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7000",
       "title": "(DRAFT) Improve Abha linking process",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27369,7 +27418,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27379,7 +27428,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "waiting-for-review"
       ]
@@ -27387,19 +27436,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 45,
+      "stale_for": 46,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 397,
+      "stale_for": 398,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 154,
+      "stale_for": 155,
       "labels": [
         "changes required"
       ]
@@ -27407,25 +27456,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 754,
+      "stale_for": 755,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 760,
+      "stale_for": 761,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 761,
+      "stale_for": 762,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 956,
+      "stale_for": 957,
       "labels": []
     }
   ],
