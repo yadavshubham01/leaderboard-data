@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704473396.0,
+  "last_updated": 1705076278.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1705076278.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "text": "added a small icon to show that a filter is active"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6931",
+      "time": 1705040468.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6931#issuecomment-1888499432",
+      "text": " I am working on it I will be making the PR by today"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6944",
@@ -153,6 +167,13 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "title": "added a small icon to show that a filter is active",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1702307135.0,
+  "last_updated": 1705041924.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6983",
+      "time": 1705041924.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6983#issuecomment-1888519323",
+      "text": "Hey @nihal467 I am working on this issue !!"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1765",
@@ -505,5 +512,22 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1498",
+      "pr_link": "https://github.com/coronasafe/care/pull/1507"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1444",
+      "pr_link": "https://github.com/coronasafe/care/pull/1445"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5820",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5821"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5533",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5539"
+    }
+  ]
 }

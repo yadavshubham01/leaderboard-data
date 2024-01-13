@@ -1,6 +1,104 @@
 {
-  "last_updated": 1704990785.0,
+  "last_updated": 1705084832.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705084832.0,
+      "title": "coronasafe/care_fe#7028",
+      "link": "https://github.com/coronasafe/care_fe/pull/7028#pullrequestreview-1818835258",
+      "text": "Fix alignment issue in InvestigationTable"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705083912.0,
+      "title": "coronasafe/care_fe#7027",
+      "link": "https://github.com/coronasafe/care_fe/pull/7027#pullrequestreview-1818815724",
+      "text": "Refactor user delete button in FacilityUsers and ManageUsers components"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705078382.0,
+      "title": "coronasafe/care#1820",
+      "link": "https://github.com/coronasafe/care/pull/1820#pullrequestreview-1818671640",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7016",
+      "time": 1705071294.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7016",
+      "text": "Camera component for the file upload is not resetting after successful upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705071287.0,
+      "title": "coronasafe/care_fe#7024",
+      "link": "https://github.com/coronasafe/care_fe/pull/7024#pullrequestreview-1818446224",
+      "text": "Reset preview image for camera file selector"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7018",
+      "time": 1705070657.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7018",
+      "text": "new nurse user type is marked as undefined in the doctor notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705070649.0,
+      "title": "coronasafe/care_fe#7020",
+      "link": "https://github.com/coronasafe/care_fe/pull/7020#pullrequestreview-1818417816",
+      "text": "Fixes `undefined` shown in Doctor Notes for Nurse user types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705060896.0,
+      "title": "coronasafe/care_fe#7014",
+      "link": "https://github.com/coronasafe/care_fe/pull/7014#pullrequestreview-1818082891",
+      "text": "Update AssetFilter component to handle null facility value"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705060864.0,
+      "title": "coronasafe/care_fe#7015",
+      "link": "https://github.com/coronasafe/care_fe/pull/7015#pullrequestreview-1818080758",
+      "text": "Update weekly_working_hours to allow null value"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7008",
+      "time": 1705041636.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7008",
+      "text": "Filters cache is not applying the cached filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705041624.0,
+      "title": "coronasafe/care_fe#7009",
+      "link": "https://github.com/coronasafe/care_fe/pull/7009#pullrequestreview-1817491734",
+      "text": "prevent resetting the filters cache on page load"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7010",
+      "time": 1705040938.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7010",
+      "text": "Login-in button going to infinite loading post clicking it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705040929.0,
+      "title": "coronasafe/care_fe#7011",
+      "link": "https://github.com/coronasafe/care_fe/pull/7011#pullrequestreview-1817479216",
+      "text": "Fixes incorrect loading state when login form is invalid (no credentials provided)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1815",
+      "time": 1705030033.0,
+      "link": "https://github.com/coronasafe/care/issues/1815#issuecomment-1888374736",
+      "text": "Yes, that works, while logging, just use the function name or the endpoint, that should be enough."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7002",
@@ -27403,13 +27501,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7000",
       "title": "(DRAFT) Improve Abha linking process",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27418,7 +27516,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "work-in-progress",
         "merge conflict",
@@ -27428,7 +27526,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "waiting-for-review"
       ]
@@ -27436,19 +27534,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 398,
+      "stale_for": 399,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 155,
+      "stale_for": 156,
       "labels": [
         "changes required"
       ]
@@ -27456,25 +27554,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 755,
+      "stale_for": 756,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 761,
+      "stale_for": 762,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 762,
+      "stale_for": 763,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 957,
+      "stale_for": 958,
       "labels": []
     }
   ],

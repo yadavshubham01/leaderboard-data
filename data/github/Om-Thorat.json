@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705003707.0,
+  "last_updated": 1705040082.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705040082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1888494639",
+      "text": "Done! used the `devdistrictadmin` login instead."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705039715.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1888489999",
+      "text": "Yep that too works."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705039307.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1888483982",
+      "text": "Okay, found it! The staffdev login isn't available in the [dummy data](https://github.com/coronasafe/care/blob/master/data/dummy/users.json) that's loaded to the backend. Also there is just a devstaff2 username in the dummy data, no devstaff / devstaff1? The password on there is encrypted so do we proceed by adding a devstaff to the dummy data? or is the login info for devstaff2 noted somewhere?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",
@@ -120,7 +141,7 @@
       "title": "Fixes redirect on login (#6900)",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing"
       ]
     }
   ],

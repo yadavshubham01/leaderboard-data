@@ -1,6 +1,109 @@
 {
-  "last_updated": 1704985165.0,
+  "last_updated": 1705085072.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7023",
+      "time": 1705085072.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7023#issuecomment-1889785638",
+      "text": "Fixed by https://github.com/coronasafe/care_fe/pull/7028"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7023",
+      "time": 1705085071.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7023",
+      "text": "Investigation summary view is misaligned"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7028",
+      "time": 1705084841.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7028",
+      "text": "Fix alignment issue in InvestigationTable",
+      "turnaround_time": 13846
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7028",
+      "time": 1705084457.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7028",
+      "text": "Fix alignment issue in InvestigationTable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7027",
+      "time": 1705083921.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7027",
+      "text": "Refactor user delete button in FacilityUsers and ManageUsers components",
+      "turnaround_time": 2509
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7027",
+      "time": 1705081412.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7027",
+      "text": "Refactor user delete button in FacilityUsers and ManageUsers components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1820",
+      "time": 1705077496.0,
+      "link": "https://github.com/coronasafe/care/pull/1820",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7024",
+      "time": 1705071294.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7024",
+      "text": "Reset preview image for camera file selector",
+      "turnaround_time": 1692
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7024",
+      "time": 1705070918.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7024",
+      "text": "Reset preview image for camera file selector"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7016",
+      "time": 1705069653.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7016#issuecomment-1889354014",
+      "text": "@sriharsh05 Hey, we're treating this with priority. Feel free to pick up other issues! "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7014",
+      "time": 1705060906.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7014",
+      "text": "Update AssetFilter component to handle null facility value",
+      "turnaround_time": 5064
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7015",
+      "time": 1705060873.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7015",
+      "text": "Update weekly_working_hours to allow null value",
+      "turnaround_time": 3757
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7015",
+      "time": 1705057116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7015",
+      "text": "Update weekly_working_hours to allow null value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7014",
+      "time": 1705055843.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7014",
+      "text": "Update AssetFilter component to handle null facility value"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704985165.0,
@@ -15783,9 +15886,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1820",
+      "title": "Fix patient discharge_reason filter and add it to export",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "blocked"
       ]
@@ -15793,7 +15904,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15802,7 +15913,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 98,
+      "stale_for": 99,
       "labels": [
         "POC"
       ]
@@ -15810,7 +15921,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 282,
+      "stale_for": 283,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15819,13 +15930,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 295,
+      "stale_for": 296,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]

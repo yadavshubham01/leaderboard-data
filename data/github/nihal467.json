@@ -1,6 +1,139 @@
 {
-  "last_updated": 1704990784.0,
+  "last_updated": 1705084784.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7028",
+      "time": 1705084784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7028#issuecomment-1889780050",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7027",
+      "time": 1705083832.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7027#issuecomment-1889761313",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7025",
+      "time": 1705072326.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7025",
+      "text": "Patient transfer is malfunctioning"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7024",
+      "time": 1705071184.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7024#issuecomment-1889422082",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7023",
+      "time": 1705070778.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7023",
+      "text": "Investigation summary view is misaligned"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7022",
+      "time": 1705070467.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7022",
+      "text": "District data is misaligned in the user card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7020",
+      "time": 1705070171.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7020#issuecomment-1889377264",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7016",
+      "time": 1705069958.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7016#issuecomment-1889368036",
+      "text": "@sriharsh05 sorry, its already assigned to @Ashesh3 , feel free to take other open issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7021",
+      "time": 1705069908.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7021",
+      "text": "Restrict Live monitoring button in facility details page to Certain users"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7017",
+      "time": 1705069408.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7017#issuecomment-1889342811",
+      "text": "[Hide Camera Feed button for all users other than doctors and district admin and above](https://github.com/coronasafe/care_fe/issues/6539)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7017",
+      "time": 1705069408.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7017",
+      "text": "new Nurse user is not able to view the camera feed for the patient "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7018",
+      "time": 1705069139.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7018",
+      "text": "new nurse user type is marked as undefined in the doctor notes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7017",
+      "time": 1705068820.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7017",
+      "text": "new Nurse user is not able to view the camera feed for the patient "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7016",
+      "time": 1705067663.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7016",
+      "text": "Camera component for the file upload is not resetting after successful upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7014",
+      "time": 1705060531.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7014#issuecomment-1888978684",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7013",
+      "time": 1705054316.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7013",
+      "text": "Inconsistent Auto-Removal of facility advance Filter When Closing Parent Filter"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7009",
+      "time": 1705041569.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7009#issuecomment-1888513771",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7011",
+      "time": 1705040849.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7011#issuecomment-1888504100",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7010",
+      "time": 1705037481.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7010",
+      "text": "Login-in button going to infinite loading post clicking it"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6464",

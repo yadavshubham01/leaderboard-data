@@ -1,6 +1,86 @@
 {
-  "last_updated": 1705002743.0,
+  "last_updated": 1705078293.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705078293.0,
+      "title": "coronasafe/care#1820",
+      "link": "https://github.com/coronasafe/care/pull/1820#pullrequestreview-1818669292",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7020",
+      "time": 1705070656.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7020",
+      "text": "Fixes `undefined` shown in Doctor Notes for Nurse user types",
+      "turnaround_time": 1500
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7020",
+      "time": 1705069722.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7020",
+      "text": "Fixes `undefined` shown in Doctor Notes for Nurse user types"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7019",
+      "time": 1705069366.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7019",
+      "text": "Show feed for Nurse and NurseReadOnly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7009",
+      "time": 1705041635.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7009",
+      "text": "prevent resetting the filters cache on page load",
+      "turnaround_time": 39108
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7011",
+      "time": 1705040937.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7011",
+      "text": "Fixes incorrect loading state when login form is invalid (no credentials provided)",
+      "turnaround_time": 3457
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705040231.0,
+      "title": "coronasafe/care_fe#6911",
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#pullrequestreview-1817467287",
+      "text": "Fixes redirect on login (#6900)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7010",
+      "time": 1705039501.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7010#issuecomment-1888486492",
+      "text": "> \u26a0\ufe0f **Refrain from assigning this issue to yourself if you have another `P1` issue assigned that is not yet closed.** @rithviknishad kindly acknowledge this message by commenting 'Acknowledged' below.\r\n\r\nAck"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705039454.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1888485924",
+      "text": "You could just use devdistrictadmin or any user from dummy data that's already existing for this right?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7011",
+      "time": 1705037508.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7011",
+      "text": "Fixes incorrect loading state when login form is invalid (no credentials provided)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705032093.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1888398176",
+      "text": "No worries, #7009 would fix it. Once it's merged, you could rebase so that @nihal467 could test this out"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6988",
@@ -32955,18 +33035,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7009",
-      "title": "prevent resetting the filters cache on page load",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "P2"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "cypress failed"
       ]
@@ -32974,19 +33045,23 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7008",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7009"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7005",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7006"
@@ -33042,10 +33117,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6810",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6813"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1740",
-      "pr_link": "https://github.com/coronasafe/care/pull/1741"
     }
   ]
 }

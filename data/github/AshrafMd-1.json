@@ -1,6 +1,62 @@
 {
-  "last_updated": 1704957352.0,
+  "last_updated": 1705088912.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#133",
+      "time": 1705088912.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/133#issuecomment-1889863384",
+      "text": "@rithviknishad is this still an issue?\r\n![image](https://github.com/coronasafe/leaderboard/assets/98876115/bc765709-145e-4588-a8a5-b0f7fbc44df7)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6985",
+      "time": 1705088509.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6985#issuecomment-1889853786",
+      "text": "@rithviknishad Except nutrition all others show `-` if there is no data \r\nand in io balance \r\nit's due to the fact that the intake and out-take starts from 0\r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/6dcc293f-f4d8-437c-be9b-799d7d32a4f3)\r\nas you can see now there is no below values \r\n![image](https://github.com/coronasafe/care_fe/assets/98876115/3daafc61-651f-4605-9fa2-ec32ffe1a94a)\r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7029",
+      "time": 1705087169.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7029",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705076226.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1889587025",
+      "text": "@rithviknishad once can u review this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6963",
+      "time": 1705075038.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6963#issuecomment-1889555709",
+      "text": "Closing this PR as this is not needed "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7022",
+      "time": 1705071673.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7022#issuecomment-1889444300",
+      "text": "I want to work on this issue. Can you assig this to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7021",
+      "time": 1705070750.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7021#issuecomment-1889403223",
+      "text": "I want to work on this issue. Can you assign this to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705030626.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1888382469",
+      "text": "It wasn't working. Even when I tested it\nI was looking at local storage to find if the variable is stored or not"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6988",
@@ -1393,20 +1449,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7029",
+      "title": "Display live monitoring button to only State Admin, District Admin and Doctor.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6988",
       "title": "Cache only the advance filters",
       "stale_for": 0,
       "labels": [
         "waiting for related PR"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6963",
-      "title": "Rearranged left nav menu",
-      "stale_for": 0,
-      "labels": [
-        "blocked",
-        "merge conflict"
       ]
     }
   ],

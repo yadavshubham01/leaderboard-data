@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704990784.0,
+  "last_updated": 1705077792.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705077792.0,
+      "title": "coronasafe/care#1820",
+      "link": "https://github.com/coronasafe/care/pull/1820#pullrequestreview-1818654991",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6464",
@@ -8191,7 +8198,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1788",
       "title": "Replace littletable with redis-om(redisearch)",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review",
         "P1"
@@ -8200,13 +8207,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -8214,7 +8221,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "blocked",
         "changes required",
@@ -8225,7 +8232,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 121,
+      "stale_for": 122,
       "labels": [
         "In progress"
       ]
@@ -8233,19 +8240,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 175,
+      "stale_for": 176,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 100,
+      "stale_for": 101,
       "labels": []
     }
   ],

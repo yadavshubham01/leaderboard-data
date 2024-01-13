@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704632448.0,
+  "last_updated": 1705066245.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7013",
+      "time": 1705066245.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7013#issuecomment-1889213167",
+      "text": "Hi, I can work on this."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1811",
@@ -461,40 +468,29 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 0,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 0,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 3,
+      "stale_for": 2,
       "labels": [
-        "question",
-        "needs testing",
+        "tested",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1796",
       "title": "Add more symptoms",
-      "stale_for": 4,
+      "stale_for": 2,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6871",
-      "title": "Make consultation page more responsive",
-      "stale_for": 3,
-      "labels": [
-        "hold",
-        "changes required",
-        "stale"
-      ]
     }
   ],
   "authored_issue_and_pr": [
