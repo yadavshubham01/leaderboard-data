@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704876667.0,
+  "last_updated": 1705109893.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#170",
+      "time": 1705109893.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
+      "text": "Fixed chat upvote and downvote Feedback UI"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#165",
@@ -385,11 +392,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
+      "title": "Fixed chat upvote and downvote Feedback UI",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "stale"
       ]
     }
   ],

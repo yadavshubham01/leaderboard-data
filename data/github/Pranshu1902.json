@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704738230.0,
+  "last_updated": 1705153001.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1812",
+      "time": 1705153001.0,
+      "link": "https://github.com/coronasafe/care/pull/1812#issuecomment-1890461117",
+      "text": "@sainak done, could you review it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1705152958.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1890460988",
+      "text": "Cypress test will pass once the backend PR is merged\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/727a8e84-8ca0-4dd9-baea-f66b1940ff79)\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#6996",
@@ -7414,7 +7428,7 @@
       "title": "Add support to delete location",
       "stale_for": 0,
       "labels": [
-        "work-in-progress",
+        "needs testing",
         "waiting for back end"
       ]
     },
@@ -7427,7 +7441,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1794",
       "title": "Send asset downtime status along with asset details",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]
@@ -7435,7 +7449,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6952",
       "title": "Show Asset Downtime on assets lists page",
-      "stale_for": 1,
+      "stale_for": 6,
       "labels": [
         "work-in-progress",
         "waiting for back end"
@@ -7444,7 +7458,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 10,
+      "stale_for": 15,
       "labels": [
         "waiting-for-review"
       ]
@@ -7452,7 +7466,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 21,
+      "stale_for": 26,
       "labels": []
     }
   ],

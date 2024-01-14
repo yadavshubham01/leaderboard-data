@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705088912.0,
+  "last_updated": 1705163509.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7029",
+      "time": 1705163509.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#issuecomment-1890586330",
+      "text": "@rithviknishad can u review once "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#133",
@@ -1457,7 +1464,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6988",
       "title": "Cache only the advance filters",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for related PR"
       ]

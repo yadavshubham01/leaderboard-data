@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704988160.0,
+  "last_updated": 1705120301.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7025",
+      "time": 1705120301.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7025",
+      "text": "Patient transfer is malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705120254.0,
+      "title": "coronasafe/care#1820",
+      "link": "https://github.com/coronasafe/care/pull/1820#pullrequestreview-1819791166",
+      "text": "Fix patient discharge_reason filter and add it to export"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704988160.0,

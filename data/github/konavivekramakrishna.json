@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705058774.0,
+  "last_updated": 1705122606.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705122606.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1819807920",
+      "text": "fix review count"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705122563.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1819807871",
+      "text": "fix review count"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705058774.0,
@@ -962,7 +976,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "test failed"
       ]
@@ -970,13 +984,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6959",
       "title": "Date Time Component Draft PR",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     }
   ],

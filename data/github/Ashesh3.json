@@ -1,6 +1,35 @@
 {
-  "last_updated": 1705085072.0,
+  "last_updated": 1705149274.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7022",
+      "time": 1705149274.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7022#issuecomment-1890441675",
+      "text": "Fixed by https://github.com/coronasafe/care_fe/pull/7028"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7022",
+      "time": 1705149274.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7022",
+      "text": "District data is misaligned in the user card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7022",
+      "time": 1705149270.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7022#issuecomment-1890441657",
+      "text": "@singhbaidwan Hey, this issue is already resolved. Feel free to pick up another issue."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1820",
+      "time": 1705120300.0,
+      "link": "https://github.com/coronasafe/care/pull/1820",
+      "text": "Fix patient discharge_reason filter and add it to export",
+      "turnaround_time": 42805
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7023",
@@ -15886,17 +15915,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1820",
-      "title": "Fix patient discharge_reason filter and add it to export",
-      "stale_for": 0,
-      "labels": [
-        "P1"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "blocked"
       ]
@@ -15904,7 +15925,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15913,7 +15934,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 99,
+      "stale_for": 100,
       "labels": [
         "POC"
       ]
@@ -15921,7 +15942,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 283,
+      "stale_for": 284,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15930,13 +15951,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 296,
+      "stale_for": 297,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]

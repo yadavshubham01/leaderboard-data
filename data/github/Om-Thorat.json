@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705040082.0,
+  "last_updated": 1705130019.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705130019.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1890354031",
+      "text": "@rithviknishad The tests should work now."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",
