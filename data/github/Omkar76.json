@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705066245.0,
+  "last_updated": 1705269214.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7030",
+      "time": 1705269214.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7030",
+      "text": "Fix inconsistent removal of facility filters"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7013",
@@ -466,21 +473,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7030",
+      "title": "Fix inconsistent removal of facility filters",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "tested",
         "waiting for back end"
@@ -489,7 +502,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1796",
       "title": "Add more symptoms",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     }
   ],

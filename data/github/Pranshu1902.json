@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705153001.0,
+  "last_updated": 1705233428.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6938",
+      "time": 1705233428.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6938#issuecomment-1890930782",
+      "text": "Fixed in [#1820](https://github.com/coronasafe/care/pull/1820)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6938",
+      "time": 1705233427.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6938",
+      "text": "For patients discharged from CARE, the bed still shows In Use"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6938",
+      "time": 1705220253.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6938#issuecomment-1890880932",
+      "text": "@sriharsh05 any updates?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1812",
@@ -7426,7 +7447,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6996",
       "title": "Add support to delete location",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "waiting for back end"
@@ -7435,13 +7456,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1812",
       "title": "Support for deleting a location",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1794",
       "title": "Send asset downtime status along with asset details",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "changes required"
       ]
@@ -7449,7 +7470,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6952",
       "title": "Show Asset Downtime on assets lists page",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "work-in-progress",
         "waiting for back end"
@@ -7458,7 +7479,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting-for-review"
       ]
@@ -7466,7 +7487,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     }
   ],
@@ -7573,14 +7594,6 @@
     },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6162",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6163"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6156",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6157"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6156",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6163"
     }
   ]

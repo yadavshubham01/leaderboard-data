@@ -1592,5 +1592,82 @@
                 }
             ]
         }
+    ],
+    "2024-01-14 00:00:00": [
+        {
+            "client_msg_id": "6b1fab89-2068-4751-a58e-d0d6c092eb30",
+            "type": "message",
+            "text": "EOD 14/1/24\n\u2022 Sent this PR to fix inconsistency in facility filters <https://github.com/coronasafe/care_fe/pull/7030|#7030>",
+            "user": "U05MBE2RASD",
+            "ts": "1705269345.805579",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iUwDu",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 14/1/24\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sent this PR to fix inconsistency in facility filters "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7030",
+                                            "text": "#7030",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1705269213,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7030",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7030 Fix inconsistent removal of facility filters",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/coronasafe/care_fe/issues/7013|#7013>\n\u2022 When state is removed also remove district and local_body filters\n\u2022 When district is removed also remove local_body filter\n\n@coronasafe/care-fe-code-reviewers @coronasafe/code-reviewers\n\n*Merge Checklist*\n\n\u2610 Add specs that demonstrate bug / test a new feature.\n\u2610 Update <https://docs.coronasafe.network/coronasafe-care-documentation/architecture/architecture-and-layering-of-care|product documentation>.\n\u2610 Ensure that UI text is kept in I18n files.\n\u2611\ufe0e Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2610 Request for Peer Reviews\n\u2610 Completion of QA",
+                    "title": "#7030 Fix inconsistent removal of facility filters",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7030",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fields": [
+                        {
+                            "value": "2",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }
