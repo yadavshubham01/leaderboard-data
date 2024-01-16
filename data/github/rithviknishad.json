@@ -1,6 +1,181 @@
 {
-  "last_updated": 1705078293.0,
+  "last_updated": 1705334340.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1705334340.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961",
+      "text": "Alignment of search field in tablet view "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1705334334.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1892430126",
+      "text": "@konavivekramakrishna this issue can be addressed by the related duplicate issue: https://github.com/coronasafe/care_fe/issues/6648\r\n\r\n@thedevildude feel free to take up #6648"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1705334334.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961",
+      "text": "Alignment of search field in tablet view "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705334127.0,
+      "title": "coronasafe/care_fe#7031",
+      "link": "https://github.com/coronasafe/care_fe/pull/7031#pullrequestreview-1821949899",
+      "text": "Fix inconsistent removal of facility filters"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6771",
+      "time": 1705333959.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1892420426",
+      "text": "@thedevildude any updates on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705333796.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1821939725",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705333744.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1821937573",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705333744.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1821937573",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7038",
+      "time": 1705333492.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7038#issuecomment-1892408269",
+      "text": "@shyamprakash123 kindly resolve your other stale PR's https://github.com/coronasafe/care_fe/pull/6835#event-11487084541"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#133",
+      "time": 1705333291.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/133#issuecomment-1892402902",
+      "text": "Oh my bad, duplicate of #186 which was already completed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#133",
+      "time": 1705333290.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/133",
+      "text": "Markdown content not being rendered as markdown html in short bio"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6985",
+      "time": 1705333222.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6985#issuecomment-1892401162",
+      "text": "@AshrafMd-1 Let me rephrase how to replicate the issue:\r\n\r\n\r\n## Method 1:\r\n\r\nCreate a \"NORMAL\" log update\r\n\r\nThis form does not collect IO balance related information from the user, so we are NOT supposed to say that the IO Balance was ZERO at this point since we are not aware if it was actually zero since data wasn't collected.\r\n\r\nBut still we see a record in the chart that it was 0, even though no information about it was collected.\r\n\r\n## Method 2:\r\n\r\nCreate a \"Critical Care\" log update, but do not fill the I/O balance page and submit it.\r\n\r\nSame situation here, information was not collected, so we are not supposed to represent that the IO balance was 0 during this log update. But still chart shows 0 in that record."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705332658.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1821906991",
+      "text": "added a small icon to show that a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705332624.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1821906991",
+      "text": "added a small icon to show that a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705332425.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1821901128",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330560.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330542.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330514.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330476.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330409.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705330360.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1821839870",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7037",
+      "time": 1705328822.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7037",
+      "text": "Removes \"COVID Disease Status\" field from Patient Registration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7032",
+      "time": 1705328383.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7032#issuecomment-1892262856",
+      "text": "So how should we deal with the \"COVID Disease Status\" Filter? \r\n\r\n<img width=\"472\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/a393ef68-0698-4691-b662-07e14753d7df\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705327753.0,
+      "title": "coronasafe/care_fe#6993",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#pullrequestreview-1821759940",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705327669.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1821757505",
+      "text": "Collect postpartum data"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705078293.0,
@@ -33035,9 +33210,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7037",
+      "title": "Removes \"COVID Disease Status\" field from Patient Registration",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "cypress failed"
       ]
@@ -33045,13 +33228,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 18,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 36,
+      "stale_for": 39,
       "labels": [
         "waiting-for-review"
       ]

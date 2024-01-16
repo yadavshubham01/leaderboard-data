@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704900213.0,
+  "last_updated": 1705333080.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1705333080.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1892397550",
+      "text": "Hi @Pranshu1902, @nihal467,\r\n\r\nI have changed it as requested. Review and Merge it.\r\n\r\nhttps://github.com/coronasafe/care_fe/pull/6956#issuecomment-1873279199 \r\nIf this change requires, Kindly create a new issue and I will work on that.\r\n\r\nThank you \u270c\ud83c\udffb."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6956",
@@ -99,7 +106,7 @@
       "title": "Enhance UI of Shifting Board",
       "stale_for": 0,
       "labels": [
-        "work-in-progress"
+        "needs testing"
       ]
     }
   ],

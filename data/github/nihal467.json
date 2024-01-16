@@ -1,6 +1,34 @@
 {
-  "last_updated": 1705084784.0,
+  "last_updated": 1705343622.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7040",
+      "time": 1705343622.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7040",
+      "text": "New Cypress Test | Facility Configuration | Facility Module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7039",
+      "time": 1705338495.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7039",
+      "text": "New Cypress Test | Facility Cover Image | Facility Module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705317044.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1821473177",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1705316960.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1891936240",
+      "text": "@Pranshu1902 what is the status on this PR, we need to close it ASAP"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7028",
@@ -31248,7 +31276,20 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7040",
+      "title": "New Cypress Test | Facility Configuration | Facility Module",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7039",
+      "title": "New Cypress Test | Facility Cover Image | Facility Module",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704984328.0,
+  "last_updated": 1705303686.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7033",
+      "time": 1705303686.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7033",
+      "text": "Flagging COVID Patients"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7032",
+      "time": 1705302803.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7032",
+      "text": "Patient registration form: COVID fields"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7002",

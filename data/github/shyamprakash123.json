@@ -1,6 +1,20 @@
 {
-  "last_updated": 1703648068.0,
+  "last_updated": 1705332535.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7038",
+      "time": 1705332535.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7038#issuecomment-1892382417",
+      "text": "@rithviknishad assign this to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7038",
+      "time": 1705332474.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7038",
+      "text": "Patients list cards are uneven"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6868",
@@ -653,16 +667,17 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6835",
       "title": "Hide \"Asset Type\"",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required",
+        "stale",
         "cypress failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 13,
+      "stale_for": 32,
       "labels": [
         "question",
         "tested"

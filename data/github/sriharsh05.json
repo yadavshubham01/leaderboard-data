@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705068675.0,
+  "last_updated": 1705327734.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7036",
+      "time": 1705327734.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7036",
+      "text": "\ud83d\udee0\ufe0f Replace useDispatch w. useQuery/request: Facility (Part 3, I-Z) (src/Components/Facility/[I-Z]*.tsx)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7016",
@@ -681,7 +688,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7001",
       "title": "Fixed close Button in Treatment Summary",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -689,7 +696,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6982",
       "title": "Added new routes to prescriptions.",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "tested",
         "waiting for back end"
@@ -698,7 +705,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1808",
       "title": "Added new routes in prescription",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705109893.0,
+  "last_updated": 1705334575.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1705334575.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1892436483",
+      "text": "@rithviknishad understood, I'll try take that up start and working on the mock-up "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6771",
+      "time": 1705334153.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6771#issuecomment-1892425641",
+      "text": "Yes I've posted one yesterday on slack general channel "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6961",
+      "time": 1705314373.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6961#issuecomment-1891817467",
+      "text": "Can you assign this issue to me?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#170",
@@ -394,16 +415,15 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
       "title": "Fixed chat upvote and downvote Feedback UI",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "changes required",
-        "stale"
+        "changes required"
       ]
     }
   ],

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705269214.0,
+  "last_updated": 1705333448.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705333448.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1821930370",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7030",
+      "time": 1705299011.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7030#issuecomment-1891357216",
+      "text": "Forgot to make a feature branch. Review this pr instead https://github.com/coronasafe/care_fe/pull/7031"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7031",
+      "time": 1705298911.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7031",
+      "text": "Fix inconsistent removal of facility filters"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7030",
@@ -473,27 +494,31 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7030",
+      "link": "https://github.com/coronasafe/care_fe/pull/7031",
       "title": "Fix inconsistent removal of facility filters",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "waiting for back end"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "tested",
         "waiting for back end"
@@ -502,7 +527,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1796",
       "title": "Add more symptoms",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     }
   ],
