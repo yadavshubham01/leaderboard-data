@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705333448.0,
+  "last_updated": 1705513478.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7031",
+      "time": 1705513478.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7031#issuecomment-1896296130",
+      "text": "Debugged it. So `qParams` is empty when we go back to `/facility/`. The `useFilters()` hook will update url by reading localStorage. but by this time `useEffect()` in `HospitalList` has already batched remove operation for `district` and `local_body` params bacause it found `!qParams.state` to be true on very first render cycle.\r\n\r\nSolved this by checking if qParams is empty - in this case we don't remove any params.\r\nVideo is updated in PR."
+    },
     {
       "type": "pr_reviewed",
       "time": 1705333448.0,
@@ -498,7 +505,7 @@
       "title": "Fix inconsistent removal of facility filters",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed"
       ]
     },
     {
@@ -510,7 +517,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -518,7 +525,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": [
         "tested",
         "waiting for back end"
@@ -527,8 +534,17 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1796",
       "title": "Add more symptoms",
-      "stale_for": 5,
+      "stale_for": 1,
       "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6659",
+      "title": "Show fields when copying from previous log",
+      "stale_for": 0,
+      "labels": [
+        "test failed",
+        "merge conflict"
+      ]
     }
   ],
   "authored_issue_and_pr": [

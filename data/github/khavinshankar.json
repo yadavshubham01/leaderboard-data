@@ -1,6 +1,135 @@
 {
-  "last_updated": 1705084832.0,
+  "last_updated": 1705510462.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1705510462.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000",
+      "text": "Improve Abha linking process",
+      "turnaround_time": 27320
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7044",
+      "time": 1705510398.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7044",
+      "text": "Whitelist file types in file upload",
+      "turnaround_time": 18687
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7044",
+      "time": 1705510398.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7044",
+      "text": "Whitelist file types in file upload",
+      "collaborated_with": [
+        "nihal467",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6939",
+      "time": 1705495253.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6939",
+      "text": "Route of medicine- Add inhalation/ryles tube"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705495244.0,
+      "title": "coronasafe/care_fe#6982",
+      "link": "https://github.com/coronasafe/care_fe/pull/6982#pullrequestreview-1827210501",
+      "text": "Added new routes to prescriptions."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6891",
+      "time": 1705495198.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6891",
+      "text": "Cache only the advance filters across the platform"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705495181.0,
+      "title": "coronasafe/care_fe#6988",
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#pullrequestreview-1827208058",
+      "text": "Cache only the advance filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7021",
+      "time": 1705495025.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7021",
+      "text": "Restrict Live monitoring button in facility details page to Certain users"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705495016.0,
+      "title": "coronasafe/care_fe#7029",
+      "link": "https://github.com/coronasafe/care_fe/pull/7029#pullrequestreview-1827203480",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705494890.0,
+      "title": "coronasafe/care_fe#7040",
+      "link": "https://github.com/coronasafe/care_fe/pull/7040#pullrequestreview-1827199965",
+      "text": "New Cypress Test | Facility Configuration | Facility Module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1824",
+      "time": 1705486514.0,
+      "link": "https://github.com/coronasafe/care/pull/1824",
+      "text": "Added whitelist of file types in file upload",
+      "turnaround_time": 5336
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1824",
+      "time": 1705486514.0,
+      "link": "https://github.com/coronasafe/care/pull/1824",
+      "text": "Added whitelist of file types in file upload",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1821",
+      "time": 1705482029.0,
+      "link": "https://github.com/coronasafe/care/pull/1821#issuecomment-1895370324",
+      "text": "@ProCode2 can you handle this issue (https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895353628) also in this pr.\r\n\r\nTo replicate the issue, In the front end,\r\n1. Go to a patient consultation dashboard\r\n2. Link an Abha number\r\n3. Go to another patient's consultation dashboard\r\n4. Link the same Abha number again\r\n\r\nThat will trigger the error you see in the comment mentioned. \r\n\r\nHave a conditional check if the Abha number already exists before creating the Abha number, and return a response with a neat error message."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1705481426.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895353628",
+      "text": "> @khavinshankar ![image](https://private-user-images.githubusercontent.com/57055998/297313748-e7045d4f-d2e3-4c46-b082-05741ece44b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0ODE2MjQsIm5iZiI6MTcwNTQ4MTMyNCwicGF0aCI6Ii81NzA1NTk5OC8yOTczMTM3NDgtZTcwNDVkNGYtZDJlMy00YzQ2LWIwODItMDU3NDFlY2U0NGIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDA4NDg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMmM3N2Y4ODFkZDBlYmQ1ODRmNDBkMGQ3OWJiOWY5NzhiZmY0OWJjYjZiNGFiYzIwNmYzMDNmZmMyN2MwYTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YvnBXkaYIyyJDXuBU6h6fbrrYdt2srvUKmGW1DWgRo8)\r\n\r\n@nihal467 this is an existing issue, will create a new issue to handle this (it is a backend issue). It is caused because of trying to link the same Abha number multiple times"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705469667.0,
+      "title": "coronasafe/care#1826",
+      "link": "https://github.com/coronasafe/care/pull/1826#pullrequestreview-1826497621",
+      "text": "Fix bucket configurations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1829",
+      "time": 1705464722.0,
+      "link": "https://github.com/coronasafe/care/pull/1829",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705464575.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1826437455",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705084832.0,
@@ -27499,15 +27628,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7000",
-      "title": "(DRAFT) Improve Abha linking process",
-      "stale_for": 2,
+      "link": "https://github.com/coronasafe/care/pull/1829",
+      "title": "ABDM M3",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 2,
+      "stale_for": 7,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27516,9 +27645,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "work-in-progress",
+        "Deploy-Failed",
         "merge conflict",
         "ABDM"
       ]
@@ -27526,7 +27656,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 37,
+      "stale_for": 42,
       "labels": [
         "waiting-for-review"
       ]
@@ -27534,19 +27664,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 47,
+      "stale_for": 52,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 399,
+      "stale_for": 404,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 156,
+      "stale_for": 161,
       "labels": [
         "changes required"
       ]
@@ -27554,25 +27684,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 756,
+      "stale_for": 761,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 762,
+      "stale_for": 767,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 763,
+      "stale_for": 768,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 958,
+      "stale_for": 963,
       "labels": []
     }
   ],

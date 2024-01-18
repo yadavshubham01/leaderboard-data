@@ -1,6 +1,41 @@
 {
-  "last_updated": 1704877176.0,
+  "last_updated": 1705516794.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705516794.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827949350",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1705516021.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1896388463",
+      "text": "@rithviknishad \r\nchanged id with ref"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1705513636.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1896299902",
+      "text": "@rithviknishad @nihal467 \r\nmade requested changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1705491178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1895624306",
+      "text": "> 1. Define a max height. If the notes is of 1000 lines, we don't want it to be of 1000 lines high, instead cap it to a certain limit.\n> \n> 2. Could you make this as a reusable component named: `AutoExpandingTextInputFormField` instead? This would also require to use a ref instead of `getElementById`\n\nOn it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7049",
+      "time": 1705489937.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7049#issuecomment-1895594275",
+      "text": "Can i work on this issue?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6977",
@@ -895,7 +930,8 @@
       "title": "Added support for multi-line text input for Doctor Notes",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "needs testing",
+        "need Review"
       ]
     }
   ],

@@ -1,6 +1,58 @@
 {
-  "last_updated": 1705120301.0,
+  "last_updated": 1705489681.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705489681.0,
+      "title": "coronasafe/care#1826",
+      "link": "https://github.com/coronasafe/care/pull/1826#pullrequestreview-1827053605",
+      "text": "Fix bucket configurations"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1824",
+      "time": 1705486514.0,
+      "link": "https://github.com/coronasafe/care/pull/1824",
+      "text": "Added whitelist of file types in file upload",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705486495.0,
+      "title": "coronasafe/care#1824",
+      "link": "https://github.com/coronasafe/care/pull/1824#pullrequestreview-1826948082",
+      "text": "Added whitelist of file types in file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705486472.0,
+      "title": "coronasafe/care#1824",
+      "link": "https://github.com/coronasafe/care/pull/1824#pullrequestreview-1826946492",
+      "text": "Added whitelist of file types in file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705486472.0,
+      "title": "coronasafe/care#1824",
+      "link": "https://github.com/coronasafe/care/pull/1824#pullrequestreview-1826946492",
+      "text": "Added whitelist of file types in file upload"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7042",
+      "time": 1705486279.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7042",
+      "text": "Allow diagnoses starting with disease code to be picked (even if it's a chapter or a category, regardless of whether it's a leaf entity or not)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705486273.0,
+      "title": "coronasafe/care#1823",
+      "link": "https://github.com/coronasafe/care/pull/1823#pullrequestreview-1826940662",
+      "text": "Allows diagnoses starting with disease code to be available in ICD11 Search"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7025",

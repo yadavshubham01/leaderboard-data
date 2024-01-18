@@ -1,6 +1,32 @@
 {
-  "last_updated": 1705163509.0,
+  "last_updated": 1705495197.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705495197.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988",
+      "text": "Cache only the advance filters",
+      "turnaround_time": 8774
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7029",
+      "time": 1705495024.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7029",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor.",
+      "turnaround_time": 78555
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7029",
+      "time": 1705495024.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7029",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor.",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7029",
@@ -1454,22 +1480,7 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7029",
-      "title": "Display live monitoring button to only State Admin, District Admin and Doctor.",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6988",
-      "title": "Cache only the advance filters",
-      "stale_for": 1,
-      "labels": [
-        "waiting for related PR"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",

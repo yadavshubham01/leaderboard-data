@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705170856.0,
+  "last_updated": 1705500922.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#168",
+      "time": 1705500922.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/168#issuecomment-1895901816",
+      "text": "Can I take this up? "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1815",

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705333787.0,
+  "last_updated": 1705510185.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1705510185.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930#issuecomment-1896205641",
+      "text": "Ok @rithviknishad I already have 2 issues in which I am currently working on. I will try to resolve this issue after I complete the previous"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7026",
@@ -178,7 +185,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7026",
       "title": "added a small icon to show that a filter is active",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]

@@ -1,6 +1,55 @@
 {
-  "last_updated": 1705149274.0,
+  "last_updated": 1705517828.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705517828.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827964030",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705517828.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827964030",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705510036.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1827742498",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705501127.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1827408005",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705487395.0,
+      "title": "coronasafe/care_fe#7044",
+      "link": "https://github.com/coronasafe/care_fe/pull/7044#pullrequestreview-1826977170",
+      "text": "Whitelist file types in file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705467714.0,
+      "title": "coronasafe/care#1826",
+      "link": "https://github.com/coronasafe/care/pull/1826#pullrequestreview-1826473339",
+      "text": "Fix bucket configurations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705467361.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1826468925",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7022",
@@ -15917,7 +15966,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 4,
+      "stale_for": 8,
       "labels": [
         "blocked"
       ]
@@ -15925,7 +15974,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 17,
+      "stale_for": 21,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -15934,7 +15983,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 100,
+      "stale_for": 104,
       "labels": [
         "POC"
       ]
@@ -15942,7 +15991,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 284,
+      "stale_for": 288,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -15951,13 +16000,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 297,
+      "stale_for": 301,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 4,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -16027,10 +16076,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/4022",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/4198"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3866",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3867"
     }
   ]
 }

@@ -1,6 +1,74 @@
 {
-  "last_updated": 1705343622.0,
+  "last_updated": 1705510398.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7044",
+      "time": 1705510398.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7044",
+      "text": "Whitelist file types in file upload",
+      "collaborated_with": [
+        "khavinshankar",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6995",
+      "time": 1705502001.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6995#issuecomment-1895936100",
+      "text": "Description based search is not available, as we don't have that data , so marking it for discussion"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7039",
+      "time": 1705495623.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7039#issuecomment-1895741268",
+      "text": "Its been combined with #7040 , so closing this PR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7040",
+      "time": 1705495288.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7040",
+      "text": "New Cypress Test | Facility Configuration | Facility Module",
+      "turnaround_time": 65266
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7044",
+      "time": 1705494472.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7044#issuecomment-1895709593",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1705483529.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895413253",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1705483493.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895412196",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6988",
+      "time": 1705480492.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6988#issuecomment-1895329032",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7000",
+      "time": 1705480353.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7000#issuecomment-1895325647",
+      "text": "@khavinshankar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/e7045d4f-d2e3-4c46-b082-05741ece44b2)\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7040",
@@ -31276,20 +31344,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7040",
-      "title": "New Cypress Test | Facility Configuration | Facility Module",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7039",
-      "title": "New Cypress Test | Facility Cover Image | Facility Module",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

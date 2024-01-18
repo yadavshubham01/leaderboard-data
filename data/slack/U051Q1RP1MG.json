@@ -2281,5 +2281,118 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-16 00:00:00": [
+        {
+            "client_msg_id": "0827fefc-1041-472c-8236-3fe841ea2839",
+            "type": "message",
+            "text": "EOD 17/01/2024\n\n\u2022 Started working on a mockup for issue <http://github.com/coronasafe/care_fe/issues/6648|#6648> \nWeekly Update\n\u2022 Worked on bed allocation timeline UI <http://github.com/coronasafe/care_fe/issues/6771|#6771> (Needs changes)\n\u2022 Made a PR for issue <http://github.com/coronasafe/ayushma_fe/issues/162|#162> ayushma_fe (Merged today)",
+            "user": "U051Q1RP1MG",
+            "ts": "1705440331.633989",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "gFni9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 17/01/2024\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on a mockup for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://github.com/coronasafe/care_fe/issues/6648",
+                                            "text": "#6648",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nWeekly Update\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on bed allocation timeline UI "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://github.com/coronasafe/care_fe/issues/6771",
+                                            "text": "#6771",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (Needs changes)"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "http://github.com/coronasafe/ayushma_fe/issues/162",
+                                            "text": "#162",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ayushma_fe (Merged today)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "edited": {
+                "user": "U051Q1RP1MG",
+                "ts": "1705440473.000000"
+            }
+        }
     ]
 }

@@ -1,6 +1,38 @@
 {
-  "last_updated": 1704725401.0,
+  "last_updated": 1705510462.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6999",
+      "time": 1705510462.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6999",
+      "text": "ABHA linking on patients"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7044",
+      "time": 1705510398.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7044",
+      "text": "Whitelist file types in file upload",
+      "collaborated_with": [
+        "nihal467",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705510333.0,
+      "title": "coronasafe/care_fe#7044",
+      "link": "https://github.com/coronasafe/care_fe/pull/7044#pullrequestreview-1827752026",
+      "text": "Whitelist file types in file upload"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7049",
+      "time": 1705483623.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7049",
+      "text": "Improve Loading Discontinued Prescriptions in MAR"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4678",
@@ -6851,7 +6883,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 27,
+      "stale_for": 36,
       "labels": [
         "In Progress"
       ]

@@ -1,6 +1,129 @@
 {
-  "last_updated": 1705334340.0,
+  "last_updated": 1705516394.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705516394.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827932492",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705516394.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827932492",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705516242.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827928852",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705513976.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1827863557",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705508603.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1827689810",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1705508087.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930#issuecomment-1896140043",
+      "text": "@shramanpaul unassigning due to no activity for 3+ weeks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1831",
+      "time": 1705495646.0,
+      "link": "https://github.com/coronasafe/care/pull/1831#issuecomment-1895741918",
+      "text": "Waiting for confirmation from @Ashesh3 as to whether all existing references to the table has been removed from Metabase"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7029",
+      "time": 1705495024.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7029",
+      "text": "Display live monitoring button to only State Admin, District Admin and Doctor.",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1831",
+      "time": 1705494892.0,
+      "link": "https://github.com/coronasafe/care/pull/1831",
+      "text": "Cleanup: Delete unused Meta ICD11 Diagnosis Table"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7049",
+      "time": 1705490985.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7049#issuecomment-1895619638",
+      "text": "@kshitijv256 kindly follow up on the issue that has changes requested in https://github.com/coronasafe/care_fe/pull/6977"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1830",
+      "time": 1705489769.0,
+      "link": "https://github.com/coronasafe/care/pull/1830",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705487370.0,
+      "title": "coronasafe/care_fe#7044",
+      "link": "https://github.com/coronasafe/care_fe/pull/7044#pullrequestreview-1826976408",
+      "text": "Whitelist file types in file upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1823",
+      "time": 1705486279.0,
+      "link": "https://github.com/coronasafe/care/pull/1823",
+      "text": "Allows diagnoses starting with disease code to be available in ICD11 Search",
+      "turnaround_time": 9104
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7033",
+      "time": 1705482913.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7033#issuecomment-1895395392",
+      "text": "ETD January 30th as this will require backend changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705468933.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1826488147",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705468906.0,
+      "title": "coronasafe/care#1826",
+      "link": "https://github.com/coronasafe/care/pull/1826#pullrequestreview-1826487777",
+      "text": "Fix bucket configurations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1823",
+      "time": 1705467266.0,
+      "link": "https://github.com/coronasafe/care/pull/1823#issuecomment-1894939200",
+      "text": "@vigneshhari the issue was when running the tests, the in-memory table was being built before the DB was populated with the ICD11 data. Hence 0 records were loaded onto the in-memory table.\r\n\r\nIt was not being lazy loaded accidentally due to other functions in the same file being imported from other places. I've now ensured that ICD11 is always lazy-loaded."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6961",
@@ -33210,17 +33333,35 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1831",
+      "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
+      "stale_for": 0,
+      "labels": [
+        "waiting for confirmation"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1830",
+      "title": "Adds support for filtering patients by diagnoses",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review",
+        "P2"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7037",
       "title": "Removes \"COVID Disease Status\" field from Patient Registration",
       "stale_for": 0,
       "labels": [
+        "waiting for more data",
         "P1"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "cypress failed"
       ]
@@ -33228,19 +33369,23 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 21,
+      "stale_for": 23,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 39,
+      "stale_for": 41,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7042",
+      "pr_link": "https://github.com/coronasafe/care/pull/1823"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7008",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7009"
@@ -33296,10 +33441,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6810",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6813"
     }
   ]
 }

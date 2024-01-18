@@ -4008,5 +4008,121 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-17 00:00:00": [
+        {
+            "client_msg_id": "4f9eaa9f-5b17-4875-bc55-939256a4d323",
+            "type": "message",
+            "text": "*EOD 17/01/2024*\n\n*How did the day go?*\n\u2022 Worked on issues in coronasafe/carefe <https://github.com/coronasafe/care_fe/issues/6891|#6891> <https://github.com/coronasafe/care_fe/issues/7021|#7021> [merged]\n\u2022 <https://github.com/coronasafe/care_fe/issues/6783|#6891> - Cached only the advance filters across the platform\n\u2022 <https://github.com/coronasafe/care_fe/issues/6837|#7021>- Restrict Live monitoring button in facility details page to Certain users\n",
+            "user": "U05LRJ1HDNH",
+            "ts": "1705508454.256919",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "dPgge",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 17/01/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issues in coronasafe/carefe "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6891",
+                                            "text": "#6891",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7021",
+                                            "text": "#7021",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " [merged]"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#6891",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Cached only the advance filters across the platform"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#7021",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "- Restrict Live monitoring button in facility details page to Certain users"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

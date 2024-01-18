@@ -1669,5 +1669,110 @@
                 }
             ]
         }
+    ],
+    "2024-01-16 00:00:00": [
+        {
+            "client_msg_id": "faff7735-1696-451b-bc28-6391af19d367",
+            "type": "message",
+            "text": "EOD 17/1/2024\n\u2022 Update postpartum data collection related pr as per review\n<https://github.com/coronasafe/care/pull/1811>\n<https://github.com/coronasafe/care_fe/pull/6993>\ncc: <@U02TDGQQPMJ>",
+            "user": "U05MBE2RASD",
+            "ts": "1705448936.141189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tL3MT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 17/1/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Update postpartum data collection related pr as per review"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care/pull/1811"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care_fe/pull/6993"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\ncc: "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U02TDGQQPMJ"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1704632446,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care/pull/1811",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#1811 Collect postpartum data",
+                    "title": "#1811 Collect postpartum data",
+                    "title_link": "https://github.com/coronasafe/care/pull/1811",
+                    "footer": "<https://github.com/coronasafe/care|coronasafe/care>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1704632137,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/6993",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6993 Collect postpartum data",
+                    "title": "#6993 Collect postpartum data",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/6993",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }
