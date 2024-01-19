@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705303686.0,
+  "last_updated": 1705574857.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5992",
+      "time": 1705574857.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5992#issuecomment-1898237803",
+      "text": "@nihal467 We do not want to hide important data points like qualifications (for doctors)\r\n\r\nLet's have a uniform ordering and format. \r\n\r\nWe could identify data points which are not as relevant and have those hidden (maybe user that created the user, last online etc)\r\n\r\nWith the above, can you edit the issue?"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7033",

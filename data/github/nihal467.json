@@ -1,6 +1,106 @@
 {
-  "last_updated": 1705510398.0,
+  "last_updated": 1705608849.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7058",
+      "time": 1705608849.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7058",
+      "text": "Remaining Cypress Test for Patient Module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7057",
+      "time": 1705601917.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7057",
+      "text": "New Cypress Test | Verify Facility Detail Page redirection | Facility Module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7056",
+      "time": 1705597494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7056",
+      "text": "New Cypress Test | Modify Facility Bed Capacity | Facility Module",
+      "turnaround_time": 2233
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7056",
+      "time": 1705595262.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7056",
+      "text": "New Cypress Test | Modify Facility Bed Capacity | Facility Module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7054",
+      "time": 1705587874.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7054",
+      "text": "New Cypress Test | Modify Facility Doctor Capacity | Facility Module",
+      "turnaround_time": 5360
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7054",
+      "time": 1705582514.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7054",
+      "text": "New Cypress Test | Modify Facility Doctor Capacity | Facility Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#204",
+      "time": 1705579033.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/204",
+      "text": "Leaderboard is not auto-refreshing contributors data"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#203",
+      "time": 1705578917.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/203",
+      "text": "Contributor's name is overflowing in the leaderboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7052",
+      "time": 1705576184.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7052#issuecomment-1898273319",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7034",
+      "time": 1705576180.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7034#issuecomment-1898273228",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7007",
+      "time": 1705576177.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7007#issuecomment-1898273134",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7003",
+      "time": 1705576157.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7003#issuecomment-1898272640",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6565",
+      "time": 1705575914.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#issuecomment-1898266302",
+      "text": "@GokulramGHV can you clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6492",
+      "time": 1705575623.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6492#issuecomment-1898258358",
+      "text": "@dependabot rebase"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7044",
@@ -31344,7 +31444,14 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7057",
+      "title": "New Cypress Test | Verify Facility Detail Page redirection | Facility Module",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

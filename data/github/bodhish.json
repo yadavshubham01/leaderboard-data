@@ -1,6 +1,13 @@
 {
-  "last_updated": 1700988410.0,
+  "last_updated": 1705563541.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#445",
+      "time": 1705563541.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/445",
+      "text": "Ayushma review Jan"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#6715",

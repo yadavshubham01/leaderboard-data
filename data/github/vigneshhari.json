@@ -1,6 +1,55 @@
 {
-  "last_updated": 1705489681.0,
+  "last_updated": 1705574780.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705574780.0,
+      "title": "coronasafe/care#1836",
+      "link": "https://github.com/coronasafe/care/pull/1836#pullrequestreview-1829390925",
+      "text": "Fix celery beat healthchecks"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1800",
+      "time": 1705553892.0,
+      "link": "https://github.com/coronasafe/care/issues/1800",
+      "text": "Add environment variable to disable summarization cron tasks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705553802.0,
+      "title": "coronasafe/care#1796",
+      "link": "https://github.com/coronasafe/care/pull/1796#pullrequestreview-1828809237",
+      "text": "Add more symptoms"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6994",
+      "time": 1705553749.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6994",
+      "text": "Cypress test can't verify upload functionality"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1778",
+      "time": 1705553748.0,
+      "link": "https://github.com/coronasafe/care/issues/1778",
+      "text": "Status Code Error "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1658",
+      "time": 1705553748.0,
+      "link": "https://github.com/coronasafe/care/issues/1658",
+      "text": "Reduce startup time of gunicorn workers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1442",
+      "time": 1705553748.0,
+      "link": "https://github.com/coronasafe/care/issues/1442",
+      "text": "ICD11 Diagnoses: replace in-memory search with pg full text search with GIN index #1439 "
+    },
     {
       "type": "pr_reviewed",
       "time": 1705489681.0,

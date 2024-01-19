@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705510185.0,
+  "last_updated": 1705613116.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1705613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#issuecomment-1899226961",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/110323017/cc4defb4-2092-450d-899e-72097c9e5a63\r\n\r\nmade the requested changes @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6930",
@@ -184,8 +191,8 @@
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7026",
-      "title": "added a small icon to show that a filter is active",
-      "stale_for": 2,
+      "title": "changed the variant of the button to show a filter is active",
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]

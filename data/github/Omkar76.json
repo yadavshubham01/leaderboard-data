@@ -1,6 +1,24 @@
 {
-  "last_updated": 1705513478.0,
+  "last_updated": 1705553808.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1796",
+      "time": 1705553808.0,
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "text": "Add more symptoms",
+      "turnaround_time": 48401
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1796",
+      "time": 1705553808.0,
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "text": "Add more symptoms",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7031",
@@ -505,19 +523,20 @@
       "title": "Fix inconsistent removal of facility filters",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -525,22 +544,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6958",
       "title": "Add more symptoms and move OTHERS to bottom",
-      "stale_for": 7,
+      "stale_for": 0,
       "labels": [
         "tested",
-        "waiting for back end"
+        "good to merge"
       ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1796",
-      "title": "Add more symptoms",
-      "stale_for": 1,
-      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "test failed",
         "merge conflict"

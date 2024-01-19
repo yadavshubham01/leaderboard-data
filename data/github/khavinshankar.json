@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705510462.0,
+  "last_updated": 1705597486.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705597486.0,
+      "title": "coronasafe/care_fe#7056",
+      "link": "https://github.com/coronasafe/care_fe/pull/7056#pullrequestreview-1830180315",
+      "text": "New Cypress Test | Modify Facility Bed Capacity | Facility Module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705587857.0,
+      "title": "coronasafe/care_fe#7054",
+      "link": "https://github.com/coronasafe/care_fe/pull/7054#pullrequestreview-1829804512",
+      "text": "New Cypress Test | Modify Facility Doctor Capacity | Facility Module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705557977.0,
+      "title": "coronasafe/care_fe#6958",
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#pullrequestreview-1828909988",
+      "text": "Add more symptoms and move OTHERS to bottom"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7000",
@@ -27630,13 +27651,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27645,7 +27666,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
@@ -27656,7 +27677,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "waiting-for-review"
       ]
@@ -27664,19 +27685,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 52,
+      "stale_for": 53,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 404,
+      "stale_for": 405,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 161,
+      "stale_for": 162,
       "labels": [
         "changes required"
       ]
@@ -27684,25 +27705,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 761,
+      "stale_for": 762,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 767,
+      "stale_for": 768,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 963,
+      "stale_for": 964,
       "labels": []
     }
   ],

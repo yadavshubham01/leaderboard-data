@@ -1,6 +1,24 @@
 {
-  "last_updated": 1704545785.0,
+  "last_updated": 1705553891.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1809",
+      "time": 1705553891.0,
+      "link": "https://github.com/coronasafe/care/pull/1809",
+      "text": "Add env variables to toggle summarization tasks",
+      "turnaround_time": 61665
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1809",
+      "time": 1705553891.0,
+      "link": "https://github.com/coronasafe/care/pull/1809",
+      "text": "Add env variables to toggle summarization tasks",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1809",
@@ -30,13 +48,6 @@
       "text": "Hey @sainak can you assign me this issue?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1809",
-      "title": "Add env variables to toggle summarization tasks",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

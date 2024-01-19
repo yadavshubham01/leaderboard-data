@@ -1,6 +1,27 @@
 {
-  "last_updated": 1705510462.0,
+  "last_updated": 1705580458.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1705580458.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930",
+      "text": "Add an option to unlink a bed from live patient in patient consultation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6930",
+      "time": 1705580446.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6930#issuecomment-1898377560",
+      "text": "Discussed with @aparnacoronasafe, closing the Issue for now, will deal with it when there is a need for it. Unlinking and linking another bed at a later timestamp would cause data inconsistency issues\n\ncc: @rithviknishad @nihal467 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#444",
+      "time": 1705563537.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/444",
+      "text": "Broken UI in Settings Popup"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6999",
@@ -6883,7 +6904,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "In Progress"
       ]

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1704996195.0,
+  "last_updated": 1705617679.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#168",
+      "time": 1705617679.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/168",
+      "text": "Stop audio playback (if being played) when switched to a different chat"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705617667.0,
+      "title": "coronasafe/ayushma_fe#171",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/171#pullrequestreview-1830672286",
+      "text": "Stop Playing Audio When Switched to a Different Chat"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma_fe#161",

@@ -1,6 +1,118 @@
 {
-  "last_updated": 1705516394.0,
+  "last_updated": 1705597067.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705597067.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1830166595",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705591778.0,
+      "title": "coronasafe/ayushma_fe#171",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/171#pullrequestreview-1829958630",
+      "text": "Stop Playing Audio When Switched to a Different Chat"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705591720.0,
+      "title": "coronasafe/care_fe#7055",
+      "link": "https://github.com/coronasafe/care_fe/pull/7055#pullrequestreview-1829956527",
+      "text": "Replaced useDispatch with useQuery/request in MinimumQuantityList, MinimumQuantityRequiredModal and SetInventoryForm."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705591545.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1829949293",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705591545.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1829949293",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705588349.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1829807312",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705588348.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1829807312",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705587828.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1829748650",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705587828.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1829748650",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705586604.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829753556",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705580666.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1829561930",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705576627.0,
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1829447903",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705576234.0,
+      "title": "coronasafe/care_fe#6656",
+      "link": "https://github.com/coronasafe/care_fe/pull/6656#pullrequestreview-1829434485",
+      "text": "Remove default ordering value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7051",
+      "time": 1705564593.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7051",
+      "text": "Enhancements to backend setup of Cypress CI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705557862.0,
+      "title": "coronasafe/care_fe#6958",
+      "link": "https://github.com/coronasafe/care_fe/pull/6958#pullrequestreview-1828905459",
+      "text": "Add more symptoms and move OTHERS to bottom"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705547418.0,
+      "title": "coronasafe/care_fe#7031",
+      "link": "https://github.com/coronasafe/care_fe/pull/7031#pullrequestreview-1828630286",
+      "text": "Fix inconsistent removal of facility filters"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705516394.0,
@@ -33333,9 +33445,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7051",
+      "title": "Enhancements to backend setup of Cypress CI",
+      "stale_for": 0,
+      "labels": [
+        "need Review",
+        "waiting for back end"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for confirmation"
       ]
@@ -33352,7 +33473,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7037",
       "title": "Removes \"COVID Disease Status\" field from Patient Registration",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for more data",
         "P1"
@@ -33361,7 +33482,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "cypress failed"
       ]
@@ -33369,13 +33490,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": [
         "waiting-for-review"
       ]

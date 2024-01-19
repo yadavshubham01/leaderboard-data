@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705332535.0,
+  "last_updated": 1705543463.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1833",
+      "time": 1705543463.0,
+      "link": "https://github.com/coronasafe/care/issues/1833",
+      "text": "'make load-dummy-data' is not working as expected."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7038",
@@ -667,17 +674,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6835",
       "title": "Hide \"Asset Type\"",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
-        "stale",
         "cypress failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 32,
+      "stale_for": 35,
       "labels": [
         "question",
         "tested"

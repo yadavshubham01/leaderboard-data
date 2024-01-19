@@ -1,6 +1,141 @@
 {
-  "last_updated": 1705508756.0,
+  "last_updated": 1705607753.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705607753.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1830458022",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705586553.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829751464",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1794",
+      "time": 1705586272.0,
+      "link": "https://github.com/coronasafe/care/pull/1794#issuecomment-1898530065",
+      "text": "add test cases"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705586246.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1829735916",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705586246.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1829735916",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705584786.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829676037",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705584786.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1829676037",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705584098.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1829664799",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1833",
+      "time": 1705583965.0,
+      "link": "https://github.com/coronasafe/care/issues/1833#issuecomment-1898466770",
+      "text": "pull the latest changes and run `docker compose -f docker-compose.yaml -f 'docker-compose.local.yaml' down -v && make build up load-dummy-data`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1837",
+      "time": 1705582837.0,
+      "link": "https://github.com/coronasafe/care/pull/1837",
+      "text": "Fix healthcheck in celery container in dev",
+      "turnaround_time": 7358
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1837",
+      "time": 1705575480.0,
+      "link": "https://github.com/coronasafe/care/pull/1837",
+      "text": "Fix healthcheck in celery container in dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1836",
+      "time": 1705574845.0,
+      "link": "https://github.com/coronasafe/care/pull/1836",
+      "text": "Fix celery beat healthchecks",
+      "turnaround_time": 124
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1836",
+      "time": 1705574722.0,
+      "link": "https://github.com/coronasafe/care/pull/1836",
+      "text": "Fix celery beat healthchecks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705557947.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1828902785",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705557947.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1828902785",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1809",
+      "time": 1705553891.0,
+      "link": "https://github.com/coronasafe/care/pull/1809",
+      "text": "Add env variables to toggle summarization tasks",
+      "collaborated_with": [
+        "amjithtitus09"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1796",
+      "time": 1705553808.0,
+      "link": "https://github.com/coronasafe/care/pull/1796",
+      "text": "Add more symptoms",
+      "collaborated_with": [
+        "Omkar76"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1788",
+      "time": 1705553747.0,
+      "link": "https://github.com/coronasafe/care/pull/1788",
+      "text": "Replace littletable with redis-om(redisearch)",
+      "turnaround_time": 68542
+    },
     {
       "type": "pr_reviewed",
       "time": 1705508756.0,
@@ -8239,24 +8374,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1788",
-      "title": "Replace littletable with redis-om(redisearch)",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review",
-        "P1"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -8264,7 +8390,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 52,
+      "stale_for": 53,
       "labels": [
         "blocked",
         "changes required",
@@ -8275,7 +8401,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 127,
+      "stale_for": 128,
       "labels": [
         "In progress"
       ]
@@ -8283,19 +8409,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 106,
+      "stale_for": 107,
       "labels": []
     }
   ],
@@ -8307,6 +8433,10 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1681",
       "pr_link": "https://github.com/coronasafe/care/pull/1682"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1658",
+      "pr_link": "https://github.com/coronasafe/care/pull/1788"
     },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1645",
@@ -8367,10 +8497,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1350",
       "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/844",
-      "pr_link": "https://github.com/coronasafe/care/pull/848"
     }
   ]
 }
