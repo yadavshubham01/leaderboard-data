@@ -1,6 +1,48 @@
 {
-  "last_updated": 1705597486.0,
+  "last_updated": 1705676630.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705676630.0,
+      "title": "coronasafe/care_fe#7068",
+      "link": "https://github.com/coronasafe/care_fe/pull/7068#pullrequestreview-1832958579",
+      "text": "Add break-all class to SelectMenuV2 component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7066",
+      "time": 1705667373.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7066",
+      "text": "administrate of medicine at 4:00, 8:00, and 12:00  are missing in prescription"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705667366.0,
+      "title": "coronasafe/care_fe#7067",
+      "link": "https://github.com/coronasafe/care_fe/pull/7067#pullrequestreview-1832402956",
+      "text": "Include start date for Prescription timeline cells"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705645384.0,
+      "title": "coronasafe/care_fe#7060",
+      "link": "https://github.com/coronasafe/care_fe/pull/7060#pullrequestreview-1831649475",
+      "text": "Add security headers"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6653",
+      "time": 1705634651.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6653",
+      "text": "Remaining Cypress Test in Facility Module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705634644.0,
+      "title": "coronasafe/care_fe#7057",
+      "link": "https://github.com/coronasafe/care_fe/pull/7057#pullrequestreview-1831255349",
+      "text": "New Cypress Test | Verify Facility Detail Page redirection | Facility Module"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705597486.0,
@@ -27651,13 +27693,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27666,7 +27708,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
@@ -27677,7 +27719,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": [
         "waiting-for-review"
       ]
@@ -27685,19 +27727,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 53,
+      "stale_for": 54,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 405,
+      "stale_for": 406,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": [
         "changes required"
       ]
@@ -27705,25 +27747,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 762,
+      "stale_for": 763,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 769,
+      "stale_for": 770,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 964,
+      "stale_for": 965,
       "labels": []
     }
   ],

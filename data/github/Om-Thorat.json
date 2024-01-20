@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705130019.0,
+  "last_updated": 1705670495.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705670495.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1900417872",
+      "text": "```js\r\nexport default function SessionExpired() {\r\n  const { signOut, user } = useAuthContext();\r\n  const isAuthenticated = Boolean(user);\r\n  const navigate = useNavigate();\r\n  const { t } = useTranslation();\r\n\r\n  useEffect(() => {\r\n    Notification.closeAllNotifications();\r\n  }, []);\r\n\r\n  if (isAuthenticated) {\r\n    navigate(\"/\");\r\n  }\r\n  ```\r\n\r\nThe bug seems to be due to the navigate(\"/\") and i cannot understand why we need it? If the session has expired do we not wish to log the user out on the same page and show session expired with a return to login? \r\n "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",
@@ -148,7 +155,9 @@
       "title": "Fixes redirect on login (#6900)",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "test failed",
+        "changes required",
+        "cypress passed"
       ]
     }
   ],

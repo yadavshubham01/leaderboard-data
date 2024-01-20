@@ -1,6 +1,132 @@
 {
-  "last_updated": 1705597067.0,
+  "last_updated": 1705674385.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705674385.0,
+      "title": "coronasafe/care_fe#7068",
+      "link": "https://github.com/coronasafe/care_fe/pull/7068#pullrequestreview-1832831851",
+      "text": "Add break-all class to SelectMenuV2 component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1833",
+      "time": 1705673560.0,
+      "link": "https://github.com/coronasafe/care/issues/1833#issuecomment-1900494281",
+      "text": "@shyamprakash123 "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#203",
+      "time": 1705670897.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/203",
+      "text": "Contributor's name is overflowing in the leaderboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705670889.0,
+      "title": "coronasafe/leaderboard#205",
+      "link": "https://github.com/coronasafe/leaderboard/pull/205#pullrequestreview-1832584831",
+      "text": "Fix: Add text-overflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705667384.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1832403789",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705666026.0,
+      "title": "coronasafe/care_fe#7067",
+      "link": "https://github.com/coronasafe/care_fe/pull/7067#pullrequestreview-1832337930",
+      "text": "Include start date for Prescription timeline cells"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705665951.0,
+      "title": "coronasafe/leaderboard#205",
+      "link": "https://github.com/coronasafe/leaderboard/pull/205#pullrequestreview-1832329173",
+      "text": "Fix: Add text-overflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705665951.0,
+      "title": "coronasafe/leaderboard#205",
+      "link": "https://github.com/coronasafe/leaderboard/pull/205#pullrequestreview-1832329173",
+      "text": "Fix: Add text-overflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705664479.0,
+      "title": "coronasafe/care_fe#7067",
+      "link": "https://github.com/coronasafe/care_fe/pull/7067#pullrequestreview-1832260038",
+      "text": "Include start date for Prescription timeline cells"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7064",
+      "time": 1705649682.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7064",
+      "text": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7063",
+      "time": 1705648800.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7063#issuecomment-1899891014",
+      "text": "Note #7062 already partially reuses the existing objects on new selections. But it still would end up being fetched twice since it's needed by other components."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7063",
+      "time": 1705648569.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7063#issuecomment-1899887372",
+      "text": "Waiting for #7062"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7063",
+      "time": 1705648528.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7063",
+      "text": "Add support for caching specific useQuery routes (such as ICD11's retrieve by ID API)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7062",
+      "time": 1705647770.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7062",
+      "text": "Adds support for filtering by diagnoses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705644834.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1831640264",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705636758.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1831344050",
+      "text": "changed the variant of the button to show a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705636758.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1831344050",
+      "text": "changed the variant of the button to show a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705636239.0,
+      "title": "coronasafe/care_fe#7059",
+      "link": "https://github.com/coronasafe/care_fe/pull/7059#pullrequestreview-1831313999",
+      "text": "Fixed uneven cards in Patients List"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705597067.0,
@@ -33445,9 +33571,26 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7064",
+      "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7062",
+      "title": "Adds support for filtering patients by diagnoses",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review",
+        "P2",
+        "waiting for back end"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7051",
       "title": "Enhancements to backend setup of Cypress CI",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review",
         "waiting for back end"
@@ -33456,7 +33599,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for confirmation"
       ]
@@ -33464,7 +33607,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1830",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -33473,7 +33616,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7037",
       "title": "Removes \"COVID Disease Status\" field from Patient Registration",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for more data",
         "P1"
@@ -33482,21 +33625,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 7,
-      "labels": [
-        "cypress failed"
-      ]
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "waiting-for-review"
       ]

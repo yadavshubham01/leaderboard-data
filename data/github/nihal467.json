@@ -1,6 +1,52 @@
 {
-  "last_updated": 1705608849.0,
+  "last_updated": 1705682655.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7053",
+      "time": 1705682655.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7053#issuecomment-1900746065",
+      "text": "@dependabot rebase\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7068",
+      "time": 1705676101.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7068#issuecomment-1900567442",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7067",
+      "time": 1705666191.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7067#issuecomment-1900303041",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7066",
+      "time": 1705660937.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7066",
+      "text": "administrate of medicine at 4:00, 8:00, and 12:00  are missing in prescription"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7060",
+      "time": 1705645773.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7060",
+      "text": "Add security headers",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7057",
+      "time": 1705634650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7057",
+      "text": "New Cypress Test | Verify Facility Detail Page redirection | Facility Module",
+      "turnaround_time": 32734
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7058",
@@ -31444,14 +31490,7 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7057",
-      "title": "New Cypress Test | Verify Facility Detail Page redirection | Facility Module",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",

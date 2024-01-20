@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705585857.0,
+  "last_updated": 1705659281.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1705659281.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#issuecomment-1900123819",
+      "text": "@rithviknishad \r\nPlease review the changes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705644706.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1831638561",
+      "text": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7041",
@@ -715,7 +729,7 @@
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7041",
-      "title": "Replaced useDispatch with useQuery/request in Inventory list and Inventory Log.",
+      "title": "Replaced useDispatch with useQuery/request in Inventory Management",
       "stale_for": 0,
       "labels": [
         "changes required"
@@ -724,7 +738,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7001",
       "title": "Fixed close Button in Treatment Summary",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]

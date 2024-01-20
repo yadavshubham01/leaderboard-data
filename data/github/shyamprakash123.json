@@ -1,6 +1,34 @@
 {
-  "last_updated": 1705543463.0,
+  "last_updated": 1705675269.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1833",
+      "time": 1705675269.0,
+      "link": "https://github.com/coronasafe/care/issues/1833",
+      "text": "'make load-dummy-data' is not working as expected."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705647066.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1831713875",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7061",
+      "time": 1705642718.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7061",
+      "text": "Hide \"Asset Type\" (Assets to be always \"Internal\")"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7059",
+      "time": 1705635164.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7059",
+      "text": "Fixed uneven cards in Patients List"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1833",
@@ -672,21 +700,25 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6835",
-      "title": "Hide \"Asset Type\"",
-      "stale_for": 1,
+      "link": "https://github.com/coronasafe/care_fe/pull/7061",
+      "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7059",
+      "title": "Fixed uneven cards in Patients List",
+      "stale_for": 0,
       "labels": [
-        "changes required",
-        "cypress failed"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6791",
       "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 35,
+      "stale_for": 0,
       "labels": [
-        "question",
-        "tested"
+        "needs testing"
       ]
     }
   ],

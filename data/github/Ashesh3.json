@@ -1,6 +1,57 @@
 {
-  "last_updated": 1705597486.0,
+  "last_updated": 1705676636.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7068",
+      "time": 1705676636.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7068",
+      "text": "Add break-all class to SelectMenuV2 component",
+      "turnaround_time": 2830
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7068",
+      "time": 1705673807.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7068",
+      "text": "Add break-all class to SelectMenuV2 component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7067",
+      "time": 1705667372.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7067",
+      "text": "Include start date for Prescription timeline cells",
+      "turnaround_time": 4784
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7067",
+      "time": 1705664103.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7067",
+      "text": "Include start date for Prescription timeline cells"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705648834.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1831750986",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705648571.0,
+      "title": "coronasafe/care_fe#7062",
+      "link": "https://github.com/coronasafe/care_fe/pull/7062#pullrequestreview-1831745998",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705645475.0,
+      "title": "coronasafe/care_fe#7060",
+      "link": "https://github.com/coronasafe/care_fe/pull/7060#pullrequestreview-1831651179",
+      "text": "Add security headers"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705597486.0,
@@ -16015,7 +16066,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "blocked"
       ]
@@ -16023,7 +16074,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -16031,7 +16082,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 105,
+      "stale_for": 106,
       "labels": [
         "POC"
       ]
@@ -16039,7 +16090,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 289,
+      "stale_for": 290,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16048,13 +16099,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 302,
+      "stale_for": 303,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
