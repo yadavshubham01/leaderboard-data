@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705674385.0,
+  "last_updated": 1705760401.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705760401.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1834681689",
+      "text": "changed the variant of the button to show a filter is active"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705674385.0,
@@ -33573,13 +33580,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7062",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review",
@@ -33590,7 +33597,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7051",
       "title": "Enhancements to backend setup of Cypress CI",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "need Review",
         "waiting for back end"
@@ -33599,7 +33606,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for confirmation"
       ]
@@ -33607,7 +33614,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1830",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -33616,7 +33623,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7037",
       "title": "Removes \"COVID Disease Status\" field from Patient Registration",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting for more data",
         "P1"
@@ -33625,19 +33632,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": [
         "waiting-for-review"
       ]

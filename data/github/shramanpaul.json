@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705613116.0,
+  "last_updated": 1705740898.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705740898.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1834646976",
+      "text": "changed the variant of the button to show a filter is active"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1705738783.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1901931828",
+      "text": " (https://care.coronasafe.in/facility/eeb23cb7-1524-479a-825e-660311386b47/patient/51ff0682-065d-4e25-bcc6-fb1b682642fb/update) I received a \"Not Found\" error. Could you please look into this ? \r\n![image](https://github.com/coronasafe/care_fe/assets/110323017/825b1b6c-a84e-4c73-be9c-3163d75c700b)\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7026",
@@ -194,7 +208,8 @@
       "title": "changed the variant of the button to show a filter is active",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1704371897.0,
+  "last_updated": 1705740685.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705740685.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1834646642",
+      "text": "Abdm M3"
+    },
     {
       "type": "pr_reviewed",
       "time": 1704371897.0,

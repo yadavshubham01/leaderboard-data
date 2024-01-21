@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705676636.0,
+  "last_updated": 1705760763.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705760763.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1834682345",
+      "text": "changed the variant of the button to show a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705760763.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1834682345",
+      "text": "changed the variant of the button to show a filter is active"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7068",
@@ -16066,7 +16080,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6971",
       "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "blocked"
       ]
@@ -16074,7 +16088,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -16082,7 +16096,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 106,
+      "stale_for": 107,
       "labels": [
         "POC"
       ]
@@ -16090,7 +16104,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 290,
+      "stale_for": 291,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16099,13 +16113,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 303,
+      "stale_for": 304,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
