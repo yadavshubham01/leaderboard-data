@@ -1,6 +1,41 @@
 {
-  "last_updated": 1705760401.0,
+  "last_updated": 1705814962.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1705814962.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#issuecomment-1902516332",
+      "text": "@sriharsh05 cypress tests are failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705814943.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1834993018",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705814943.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1834993018",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7055",
+      "time": 1705814555.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7055#issuecomment-1902515256",
+      "text": "Closing as completed in #7041"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6684",
+      "time": 1705814033.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6684#issuecomment-1902514184",
+      "text": "Hi @abdulhasibn \r\n\r\nThe `last_consultation` object in patient object has two fields: \r\n- `suggestion` which when evaluates to `A` means it's an admission patient. \r\n- `encounter_date` which is the date at which the encounter has started, and this is the date and time of admission when suggestion is admission."
+    },
     {
       "type": "pr_reviewed",
       "time": 1705760401.0,
@@ -33580,13 +33615,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7062",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review",
@@ -33597,7 +33632,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7051",
       "title": "Enhancements to backend setup of Cypress CI",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "need Review",
         "waiting for back end"
@@ -33606,7 +33641,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for confirmation"
       ]
@@ -33614,7 +33649,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1830",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -33623,7 +33658,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7037",
       "title": "Removes \"COVID Disease Status\" field from Patient Registration",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting for more data",
         "P1"
@@ -33632,19 +33667,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 44,
+      "stale_for": 45,
       "labels": [
         "waiting-for-review"
       ]

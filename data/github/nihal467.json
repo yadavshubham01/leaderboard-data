@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705682655.0,
+  "last_updated": 1705867362.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6492",
+      "time": 1705867362.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6492#issuecomment-1902745517",
+      "text": "LGTM , as cypress is passing"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7053",

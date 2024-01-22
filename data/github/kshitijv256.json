@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705580695.0,
+  "last_updated": 1705837799.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7071",
+      "time": 1705837799.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7071",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6977",
@@ -933,9 +940,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7071",
+      "title": "only loading discontinued prescriptions instead of all prescriptions",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6977",
       "title": "Added support for multi-line text input for Doctor Notes",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
