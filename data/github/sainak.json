@@ -1,6 +1,92 @@
 {
-  "last_updated": 1705662233.0,
+  "last_updated": 1705952105.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705952105.0,
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1837220575",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705952105.0,
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1837220575",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705940190.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1836851003",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "nihal467",
+        "AshrafMd-1",
+        "gigincg",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "vigneshhari",
+        "amjithtitus09",
+        "Omkar76",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705929302.0,
+      "title": "coronasafe/care#1841",
+      "link": "https://github.com/coronasafe/care/pull/1841#pullrequestreview-1836444611",
+      "text": "Change name of facility in dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705907477.0,
+      "title": "coronasafe/care_deploy_configs#20",
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20#pullrequestreview-1835768598",
+      "text": "Remove `dashboard_url` from staging config.json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705904986.0,
+      "title": "coronasafe/care_fe#7051",
+      "link": "https://github.com/coronasafe/care_fe/pull/7051#pullrequestreview-1835721580",
+      "text": "Enhancements to backend setup of Cypress CI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6995",
+      "time": 1705904533.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6995#issuecomment-1903337844",
+      "text": "related to https://github.com/coronasafe/care/issues/1838"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1840",
+      "time": 1705900067.0,
+      "link": "https://github.com/coronasafe/care/issues/1840",
+      "text": "Add access control to live feed configs"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1838",
@@ -8408,13 +8494,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 16,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 15,
+      "stale_for": 18,
       "labels": [
         "waiting-for-review"
       ]
@@ -8422,7 +8508,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 54,
+      "stale_for": 57,
       "labels": [
         "blocked",
         "changes required",
@@ -8433,7 +8519,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 129,
+      "stale_for": 132,
       "labels": [
         "In progress"
       ]
@@ -8441,19 +8527,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 43,
+      "stale_for": 46,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 183,
+      "stale_for": 186,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 108,
+      "stale_for": 111,
       "labels": []
     }
   ],

@@ -1,6 +1,157 @@
 {
-  "last_updated": 1705814962.0,
+  "last_updated": 1705948591.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#63",
+      "time": 1705948591.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/63",
+      "text": "Showing duplicates in contribution history in profile"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#31",
+      "time": 1705942458.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/31#issuecomment-1904414096",
+      "text": "Superseded by #59"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#31",
+      "time": 1705942458.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/31",
+      "text": "Monthly leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#32",
+      "time": 1705942408.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/32",
+      "text": "Add Github authentication"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705940241.0,
+      "title": "coronasafe/care_fe#6952",
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#pullrequestreview-1836852774",
+      "text": "Show Asset Downtime on assets lists page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705938154.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1836776309",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705937420.0,
+      "title": "coronasafe/care_fe#6956",
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#pullrequestreview-1836748469",
+      "text": "Enhance UI of Shifting Board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705936713.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1836721774",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "nihal467",
+        "AshrafMd-1",
+        "sainak",
+        "gigincg",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "vigneshhari",
+        "amjithtitus09",
+        "sainak",
+        "Omkar76"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1841",
+      "time": 1705929318.0,
+      "link": "https://github.com/coronasafe/care/pull/1841",
+      "text": "Change name of facility in dummy data",
+      "turnaround_time": 959
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1841",
+      "time": 1705928359.0,
+      "link": "https://github.com/coronasafe/care/pull/1841",
+      "text": "Change name of facility in dummy data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7072",
+      "time": 1705911332.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7072",
+      "text": "Hide nav menu item \"Dashboard\" if not configured in config",
+      "turnaround_time": 8155
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#206",
+      "time": 1705908313.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/206",
+      "text": "Adds support for flexible date range in leaderboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_deploy_configs#20",
+      "time": 1705907192.0,
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
+      "text": "Remove `dashboard_url` from staging config.json"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7037",
+      "time": 1705905884.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7037#issuecomment-1903358911",
+      "text": "Closing as issue #7032 was closed as not planned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#175",
+      "time": 1705905247.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/175#issuecomment-1903348877",
+      "text": "Tooltip going to the bottom of the cursor position would be ideally good!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7072",
+      "time": 1705903177.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7072",
+      "text": "Hide dashboard nav menu item if not configured"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705888193.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1835531260",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7041",
@@ -33613,73 +33764,75 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/206",
+      "title": "Adds support for flexible date range in leaderboard",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
+      "title": "Remove `dashboard_url` from staging config.json",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7062",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review",
+        "tested",
         "P2",
-        "waiting for back end"
+        "waiting for back end",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7051",
       "title": "Enhancements to backend setup of Cypress CI",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "need Review",
-        "waiting for back end"
+        "tested",
+        "cypress passed",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 4,
-      "labels": [
-        "waiting for confirmation"
-      ]
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1830",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review",
         "P2"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7037",
-      "title": "Removes \"COVID Disease Status\" field from Patient Registration",
-      "stale_for": 4,
-      "labels": [
-        "waiting for more data",
-        "P1"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 45,
+      "stale_for": 46,
       "labels": [
         "waiting-for-review"
       ]

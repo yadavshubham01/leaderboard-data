@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705574857.0,
+  "last_updated": 1705904902.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6276",
+      "time": 1705904902.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6276#issuecomment-1903343235",
+      "text": "Can we then have separate fields \r\n\"Assign a nurse to the patient\" - assign 1 nurse\r\n\"Assign a doctor to the patient\" - assign 1 doctor\r\n\r\nIs this possible? \r\n\r\nThis is particularly important for homecare where nurses are allocated for patients, alongside doctor."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1810",
+      "time": 1705904567.0,
+      "link": "https://github.com/coronasafe/care/issues/1810#issuecomment-1903338354",
+      "text": "Yes. BP can be zero."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5992",

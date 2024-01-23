@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705547155.0,
+  "last_updated": 1705955724.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1705955724.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078",
+      "text": "Fix#6546"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6546",
@@ -975,31 +982,29 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7078",
+      "title": "Fix#6546",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 5,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "test failed"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6959",
-      "title": "Date Time Component Draft PR",
-      "stale_for": 5,
-      "labels": [
-        "stale"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 53,
+      "stale_for": 57,
       "labels": []
     }
   ],

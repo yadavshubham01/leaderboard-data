@@ -1,6 +1,22 @@
 {
-  "last_updated": 1705659281.0,
+  "last_updated": 1705934629.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "nihal467",
+        "AshrafMd-1",
+        "sainak",
+        "gigincg",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7041",
@@ -722,23 +738,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7055",
-      "title": "Replaced useDispatch with useQuery/request in MinimumQuantityList, MinimumQuantityRequiredModal and SetInventoryForm.",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7041",
       "title": "Replaced useDispatch with useQuery/request in Inventory Management",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7001",
       "title": "Fixed close Button in Treatment Summary",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "changes required"
       ]

@@ -2394,5 +2394,67 @@
                 "ts": "1705440473.000000"
             }
         }
+    ],
+    "2024-01-22 00:00:00": [
+        {
+            "client_msg_id": "d255395d-0066-45e0-8fe8-5a07a226107f",
+            "type": "message",
+            "text": "EOD 19 and 20/01/2024\n\n\u2022 Worked on the header mockup for issue <https://github.com/coronasafe/care_fe/issues/6648|#6648> (refer: <https://www.figma.com/community/file/1331249697676045682>)",
+            "user": "U051Q1RP1MG",
+            "ts": "1705930048.028349",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "bEe57",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 19 and 20/01/2024\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the header mockup for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6648",
+                                            "text": "#6648",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " (refer: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://www.figma.com/community/file/1331249697676045682"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

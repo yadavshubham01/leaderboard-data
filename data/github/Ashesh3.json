@@ -1,6 +1,127 @@
 {
-  "last_updated": 1705760763.0,
+  "last_updated": 1705954989.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1843",
+      "time": 1705954989.0,
+      "link": "https://github.com/coronasafe/care/pull/1843",
+      "text": "Track Location Uptime"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705942142.0,
+      "title": "coronasafe/care_fe#6952",
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#pullrequestreview-1836917294",
+      "text": "Show Asset Downtime on assets lists page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705939459.0,
+      "title": "coronasafe/care_fe#6956",
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#pullrequestreview-1836825440",
+      "text": "Enhance UI of Shifting Board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705938445.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1836787220",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6971",
+      "time": 1705937372.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6971#issuecomment-1904247535",
+      "text": "Superseded by #7077"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705937301.0,
+      "title": "coronasafe/care_fe#6956",
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#pullrequestreview-1836743838",
+      "text": "Enhance UI of Shifting Board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705937301.0,
+      "title": "coronasafe/care_fe#6956",
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#pullrequestreview-1836743838",
+      "text": "Enhance UI of Shifting Board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705936064.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1836697625",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1705935927.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077",
+      "text": "Redesign Patient Info Card"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "nihal467",
+        "AshrafMd-1",
+        "sainak",
+        "gigincg",
+        "sriharsh05"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6941",
+      "time": 1705929116.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6941#issuecomment-1903979122",
+      "text": "Discussed to inject JS through Cloudflare to deliver this feature for KR instance."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705929070.0,
+      "title": "coronasafe/care#1841",
+      "link": "https://github.com/coronasafe/care/pull/1841#pullrequestreview-1836437051",
+      "text": "Change name of facility in dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705913969.0,
+      "title": "coronasafe/care#1829",
+      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1835931980",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705904037.0,
+      "title": "coronasafe/care_fe#7072",
+      "link": "https://github.com/coronasafe/care_fe/pull/7072#pullrequestreview-1835706896",
+      "text": "Hide nav menu item \"Dashboard\" if not configured in config"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705904009.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1835706484",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1831",
+      "time": 1705901189.0,
+      "link": "https://github.com/coronasafe/care/pull/1831#issuecomment-1903283553",
+      "text": "No Metabase queries are using this table, we can proceed with the deletion."
+    },
     {
       "type": "pr_reviewed",
       "time": 1705760763.0,
@@ -16078,25 +16199,32 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6971",
-      "title": "Move Diagnoses data to Info Tab",
-      "stale_for": 11,
+      "link": "https://github.com/coronasafe/care/pull/1843",
+      "title": "Track Location Uptime",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7077",
+      "title": "Redesign Patient Info Card",
+      "stale_for": 0,
       "labels": [
-        "blocked"
+        "discussion"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
+        "changes required",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 107,
+      "stale_for": 109,
       "labels": [
         "POC"
       ]
@@ -16104,7 +16232,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 291,
+      "stale_for": 293,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16113,13 +16241,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 304,
+      "stale_for": 306,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

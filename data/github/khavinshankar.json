@@ -1,6 +1,85 @@
 {
-  "last_updated": 1705741938.0,
+  "last_updated": 1705936385.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1705936385.0,
+      "title": "coronasafe/care_fe#7076",
+      "link": "https://github.com/coronasafe/care_fe/pull/7076#pullrequestreview-1836709598",
+      "text": "Fixed the edge case in cypress flaky test"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "rithviknishad",
+        "nihal467",
+        "AshrafMd-1",
+        "sainak",
+        "gigincg",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "vigneshhari",
+        "amjithtitus09",
+        "sainak",
+        "Omkar76",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705932901.0,
+      "title": "coronasafe/care_fe#7074",
+      "link": "https://github.com/coronasafe/care_fe/pull/7074#pullrequestreview-1836570911",
+      "text": "Fixed the recent cypress Flaky Test across the platform"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705928995.0,
+      "title": "coronasafe/care#1841",
+      "link": "https://github.com/coronasafe/care/pull/1841#pullrequestreview-1836434739",
+      "text": "Change name of facility in dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705911323.0,
+      "title": "coronasafe/care_fe#7072",
+      "link": "https://github.com/coronasafe/care_fe/pull/7072#pullrequestreview-1835854778",
+      "text": "Hide nav menu item \"Dashboard\" if not configured in config"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705907306.0,
+      "title": "coronasafe/care_deploy_configs#20",
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20#pullrequestreview-1835765559",
+      "text": "Remove `dashboard_url` from staging config.json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705906532.0,
+      "title": "coronasafe/care_fe#7072",
+      "link": "https://github.com/coronasafe/care_fe/pull/7072#pullrequestreview-1835751807",
+      "text": "Hide nav menu item \"Dashboard\" if not configured in config"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705904829.0,
+      "title": "coronasafe/care_fe#7051",
+      "link": "https://github.com/coronasafe/care_fe/pull/7051#pullrequestreview-1835719250",
+      "text": "Enhancements to backend setup of Cypress CI"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7069",
@@ -27721,7 +27800,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27730,7 +27809,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
@@ -27740,7 +27819,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 45,
+      "stale_for": 47,
       "labels": [
         "waiting-for-review"
       ]
@@ -27748,19 +27827,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 55,
+      "stale_for": 57,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 407,
+      "stale_for": 409,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 164,
+      "stale_for": 166,
       "labels": [
         "changes required"
       ]
@@ -27768,25 +27847,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 764,
+      "stale_for": 766,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 770,
+      "stale_for": 772,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 771,
+      "stale_for": 773,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 966,
+      "stale_for": 968,
       "labels": []
     }
   ],

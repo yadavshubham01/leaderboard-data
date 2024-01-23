@@ -1,6 +1,66 @@
 {
-  "last_updated": 1705580458.0,
+  "last_updated": 1705934629.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "turnaround_time": 33
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "nihal467",
+        "AshrafMd-1",
+        "sainak",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934597.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1842",
+      "time": 1705934593.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7032",
+      "time": 1705905683.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7032",
+      "text": "Patient registration form: COVID fields"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7032",
+      "time": 1705905673.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7032#issuecomment-1903355422",
+      "text": "Closing this, as discussed, using Metabase for Diagnosis specific analytics for nkw"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#6930",
@@ -6904,7 +6964,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 37,
+      "stale_for": 41,
       "labels": [
         "In Progress"
       ]

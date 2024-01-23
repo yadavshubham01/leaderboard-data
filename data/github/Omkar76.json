@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705553808.0,
+  "last_updated": 1705934627.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "vigneshhari",
+        "amjithtitus09",
+        "sainak",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1796",
@@ -523,20 +537,20 @@
       "title": "Fix inconsistent removal of facility filters",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "need Review",
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": [
         "waiting for back end"
       ]
@@ -553,7 +567,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "test failed",
         "merge conflict"

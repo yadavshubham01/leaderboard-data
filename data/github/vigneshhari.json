@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705574780.0,
+  "last_updated": 1705934627.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1842",
+      "time": 1705934627.0,
+      "link": "https://github.com/coronasafe/care/pull/1842",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "amjithtitus09",
+        "sainak",
+        "Omkar76",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1705574780.0,

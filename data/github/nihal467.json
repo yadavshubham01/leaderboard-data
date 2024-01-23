@@ -1,6 +1,220 @@
 {
-  "last_updated": 1705867362.0,
+  "last_updated": 1705956385.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7073",
+      "time": 1705956385.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7073#issuecomment-1904778202",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7065",
+      "time": 1705956324.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7065#issuecomment-1904776802",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1794",
+      "time": 1705956193.0,
+      "link": "https://github.com/coronasafe/care/pull/1794#issuecomment-1904773839",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1830",
+      "time": 1705951957.0,
+      "link": "https://github.com/coronasafe/care/pull/1830#issuecomment-1904671177",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7053",
+      "time": 1705948691.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7053#issuecomment-1904585771",
+      "text": "LGTM as cypress passed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1812",
+      "time": 1705948651.0,
+      "link": "https://github.com/coronasafe/care/pull/1812#issuecomment-1904584761",
+      "text": "Functionality LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705948604.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1837103336",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705948604.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1837103336",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7059",
+      "time": 1705947660.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7059#issuecomment-1904558958",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7031",
+      "time": 1705947403.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7031#issuecomment-1904552130",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7034",
+      "time": 1705946507.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7034#issuecomment-1904529133",
+      "text": "LGTM as the cypress test passed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7053",
+      "time": 1705945890.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7053#issuecomment-1904513018",
+      "text": "@dependabot  rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7051",
+      "time": 1705945819.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7051#issuecomment-1904510971",
+      "text": "LGTM as cypress passed\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1705945668.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#issuecomment-1904507079",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7034",
+      "time": 1705945351.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7034#issuecomment-1904498348",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1705938290.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1904279894",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1705938073.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#issuecomment-1904272448",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1705937023.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1904235538",
+      "text": "@Pranshu1902 the backend review is still going on, posting the test to next week\r\n\r\nCC: @rithviknishad @Ashesh3 @sainak "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1705936909.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#issuecomment-1904231650",
+      "text": "@Ashesh3 fix the backend test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7076",
+      "time": 1705936392.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7076",
+      "text": "Fixed the edge case in cypress flaky test",
+      "turnaround_time": 498
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705936292.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1836706099",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6791",
+      "time": 1705936280.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#issuecomment-1904209180",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7076",
+      "time": 1705935895.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7076",
+      "text": "Fixed the edge case in cypress flaky test"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "AshrafMd-1",
+        "sainak",
+        "gigincg",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7074",
+      "time": 1705932911.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7074",
+      "text": "Fixed the recent cypress Flaky Test across the platform",
+      "turnaround_time": 1435
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7074",
+      "time": 1705931477.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7074",
+      "text": "Cypress Flaky Test"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7072",
+      "time": 1705911277.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7072#issuecomment-1903461849",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6395",
+      "time": 1705903789.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6395#issuecomment-1903326756",
+      "text": "Anyone wishing to work on this issue should discuss the approach and UI during the EOD call or care_general channel before starting to work on it."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#5442",
+      "time": 1705903448.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5442",
+      "text": "Origin Facility and Receiving Facility icons should be more Recognizable"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6492",

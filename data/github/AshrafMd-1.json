@@ -1,6 +1,50 @@
 {
-  "last_updated": 1705495197.0,
+  "last_updated": 1705934629.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7075",
+      "time": 1705934629.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7075",
+      "text": "Production Release | January Week 4",
+      "collaborated_with": [
+        "khavinshankar",
+        "rithviknishad",
+        "nihal467",
+        "sainak",
+        "gigincg",
+        "sriharsh05",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#175",
+      "time": 1705904610.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/175#issuecomment-1903339016",
+      "text": "![Screenshot (408)](https://github.com/coronasafe/leaderboard/assets/98876115/602925ee-2553-46cb-a003-c929eed86f83)\r\n\r\n@rithviknishad is this okay ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7045",
+      "time": 1705904559.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7045#issuecomment-1903338200",
+      "text": "@rithviknishad i want to work on this issue please assign this to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#175",
+      "time": 1705903562.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/175#issuecomment-1903323394",
+      "text": "@rithviknishad i want to work on this issue \r\nCan u assign me this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7045",
+      "time": 1705899762.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7045#issuecomment-1903261219",
+      "text": "I want to work on this issue can u assign this to me."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6988",
