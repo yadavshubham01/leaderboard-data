@@ -1,6 +1,42 @@
 {
-  "last_updated": 1705675269.0,
+  "last_updated": 1706024118.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6791",
+      "time": 1706024118.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6791",
+      "text": "Changed to current date time instead of date time at which app was loaded.",
+      "turnaround_time": 3877
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6791",
+      "time": 1706024118.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6791",
+      "text": "Changed to current date time instead of date time at which app was loaded.",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7059",
+      "time": 1706023924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7059",
+      "text": "Fixed uneven cards in Patients List",
+      "turnaround_time": 43160
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7059",
+      "time": 1706023924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7059",
+      "text": "Fixed uneven cards in Patients List",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1833",
@@ -704,23 +740,12 @@
       "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
       "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7059",
-      "title": "Fixed uneven cards in Patients List",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6791",
-      "title": "Changed to current date time instead of date time at which app was loaded.",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7038",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7059"
+    }
+  ]
 }

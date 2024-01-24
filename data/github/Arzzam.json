@@ -1,6 +1,25 @@
 {
-  "last_updated": 1705815547.0,
+  "last_updated": 1706024082.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1706024082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "text": "Enhance UI of Shifting Board",
+      "turnaround_time": 4518
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1706024082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "text": "Enhance UI of Shifting Board",
+      "collaborated_with": [
+        "Ashesh3",
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6956",
@@ -107,15 +126,6 @@
       "text": "I would like to work on this issue. Can you assign it to me? \r\nKindly give and explain the mock up design.\r\nThank you"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6956",
-      "title": "Enhance UI of Shifting Board",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

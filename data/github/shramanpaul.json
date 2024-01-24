@@ -1,6 +1,25 @@
 {
-  "last_updated": 1705740898.0,
+  "last_updated": 1706024016.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1706024016.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "text": "changed the variant of the button to show a filter is active",
+      "turnaround_time": 82803
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1706024016.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "text": "changed the variant of the button to show a filter is active",
+      "collaborated_with": [
+        "Ashesh3",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1705740898.0,
@@ -202,16 +221,6 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7026",
-      "title": "changed the variant of the button to show a filter is active",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

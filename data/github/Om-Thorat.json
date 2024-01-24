@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705670495.0,
+  "last_updated": 1705999747.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1705999747.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1905578260",
+      "text": "@rithviknishad @nihal467 @Ashesh3 The issue being session expired page navigates to \"/\" and then since the session has expired it loads the session expired page again anyway which again navigates to \"/\", If the token is invalid i don't understand the need for  checking the IsAuthenthicated and returning a navigate."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",

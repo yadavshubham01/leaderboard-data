@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705934627.0,
+  "last_updated": 1706003882.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706003882.0,
+      "title": "coronasafe/care#1784",
+      "link": "https://github.com/coronasafe/care/pull/1784#pullrequestreview-1838329670",
+      "text": "add events module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706003882.0,
+      "title": "coronasafe/care#1784",
+      "link": "https://github.com/coronasafe/care/pull/1784#pullrequestreview-1838329670",
+      "text": "add events module"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1842",

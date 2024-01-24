@@ -1,6 +1,132 @@
 {
-  "last_updated": 1705936385.0,
+  "last_updated": 1706028949.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706028949.0,
+      "title": "coronasafe/care_fe#7085",
+      "link": "https://github.com/coronasafe/care_fe/pull/7085#pullrequestreview-1839357998",
+      "text": "fix csp for websockets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706024368.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1839129776",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706024368.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1839129776",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6751",
+      "time": 1706024119.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6751",
+      "text": "Form default date time values: To be current date time instead of date time at which app was loaded"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706024104.0,
+      "title": "coronasafe/care_fe#6791",
+      "link": "https://github.com/coronasafe/care_fe/pull/6791#pullrequestreview-1839099589",
+      "text": "Changed to current date time instead of date time at which app was loaded."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6636",
+      "time": 1706024083.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6636",
+      "text": "Design Enhancement Scope in Shifting Board "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706024060.0,
+      "title": "coronasafe/care_fe#6956",
+      "link": "https://github.com/coronasafe/care_fe/pull/6956#pullrequestreview-1839095369",
+      "text": "Enhance UI of Shifting Board"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6942",
+      "time": 1706024044.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6942",
+      "text": "Symptoms : Expand list"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6931",
+      "time": 1706024017.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6931",
+      "text": "Log Update - filter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7013",
+      "time": 1706023995.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7013",
+      "text": "Inconsistent Auto-Removal of facility advance Filter When Closing Parent Filter"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7038",
+      "time": 1706023925.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7038",
+      "text": "Patients list cards are uneven"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706023824.0,
+      "title": "coronasafe/care_fe#7083",
+      "link": "https://github.com/coronasafe/care_fe/pull/7083#pullrequestreview-1839081755",
+      "text": "Add CSP headers"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706020248.0,
+      "title": "coronasafe/leaderboard#206",
+      "link": "https://github.com/coronasafe/leaderboard/pull/206#pullrequestreview-1838931934",
+      "text": "Adds support for flexible date range in leaderboard and other QOL fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706020248.0,
+      "title": "coronasafe/leaderboard#206",
+      "link": "https://github.com/coronasafe/leaderboard/pull/206#pullrequestreview-1838931934",
+      "text": "Adds support for flexible date range in leaderboard and other QOL fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705995138.0,
+      "title": "coronasafe/care_fe#7026",
+      "link": "https://github.com/coronasafe/care_fe/pull/7026#pullrequestreview-1838024970",
+      "text": "changed the variant of the button to show a filter is active"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705995094.0,
+      "title": "coronasafe/care_fe#7031",
+      "link": "https://github.com/coronasafe/care_fe/pull/7031#pullrequestreview-1838023960",
+      "text": "Fix inconsistent removal of facility filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705994888.0,
+      "title": "coronasafe/care_fe#7059",
+      "link": "https://github.com/coronasafe/care_fe/pull/7059#pullrequestreview-1838019316",
+      "text": "Fixed uneven cards in Patients List"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705985857.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1837859763",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705936385.0,
@@ -27800,7 +27926,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27809,17 +27935,18 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
+        "merge conflict",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "waiting-for-review"
       ]
@@ -27827,19 +27954,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 409,
+      "stale_for": 410,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 166,
+      "stale_for": 167,
       "labels": [
         "changes required"
       ]
@@ -27847,25 +27974,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 766,
+      "stale_for": 767,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 772,
+      "stale_for": 773,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 773,
+      "stale_for": 774,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 968,
+      "stale_for": 969,
       "labels": []
     }
   ],

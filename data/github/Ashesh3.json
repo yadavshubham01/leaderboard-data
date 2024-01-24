@@ -1,6 +1,63 @@
 {
-  "last_updated": 1705954989.0,
+  "last_updated": 1706024082.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1706024082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "text": "Enhance UI of Shifting Board",
+      "collaborated_with": [
+        "nihal467",
+        "Arzzam"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1706024016.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "text": "changed the variant of the button to show a filter is active",
+      "collaborated_with": [
+        "shramanpaul",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706018800.0,
+      "title": "coronasafe/care_fe#7083",
+      "link": "https://github.com/coronasafe/care_fe/pull/7083#pullrequestreview-1838879863",
+      "text": "Add CSP headers"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706014502.0,
+      "title": "coronasafe/leaderboard#206",
+      "link": "https://github.com/coronasafe/leaderboard/pull/206#pullrequestreview-1838727750",
+      "text": "Adds support for flexible date range in leaderboard and other QOL fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705997043.0,
+      "title": "coronasafe/care_fe#7004",
+      "link": "https://github.com/coronasafe/care_fe/pull/7004#pullrequestreview-1838073528",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6941",
+      "time": 1705996242.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6941#issuecomment-1905470698",
+      "text": "JS to be injected - Version 1\r\n\r\n```\r\nfunction isWithinTimeRange() {\r\n    var now = new Date();\r\n    var start = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 8, 0, 0); // 8 AM\r\n    var end = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 20, 0, 0); // 8 PM\r\n    return now >= start && now <= end;\r\n}\r\n\r\nfunction addButton() {\r\n    var targetElement = document.getElementById('doctor-connect-home-doctor');\r\n    if (targetElement && !document.querySelector('.doctor-connect-button') && isWithinTimeRange()) {\r\n        var button = document.createElement('button');\r\n        button.className = 'btn btn-primary m-1 w-full hover:text-white doctor-connect-button';\r\n        button.textContent = 'Join Group Video Call';\r\n\r\n        button.onclick = function() {\r\n            window.open('https://www.zoom.com', '_blank');\r\n        };\r\n\r\n        targetElement.parentNode.insertBefore(button, targetElement);\r\n    }\r\n}\r\n\r\nvar observer = new MutationObserver(function(mutations) {\r\n    if (document.getElementById('doctor-connect-home-doctor')) {\r\n        addButton();\r\n    }\r\n});\r\n\r\nobserver.observe(document.body, { childList: true, subtree: true });\r\n```\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/2bbdcd58-b07c-4160-8bc6-482e6b9263b7)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1221",
+      "time": 1705994588.0,
+      "link": "https://github.com/coronasafe/care/pull/1221#issuecomment-1905437347",
+      "text": "@vigneshhari The changes are done, could you review once? \r\n@sainak @rithviknishad could you also review this once?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1843",
@@ -16215,7 +16272,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16224,7 +16281,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 109,
+      "stale_for": 110,
       "labels": [
         "POC"
       ]
@@ -16232,7 +16289,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 293,
+      "stale_for": 294,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16241,7 +16298,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 306,
+      "stale_for": 307,
       "labels": []
     },
     {

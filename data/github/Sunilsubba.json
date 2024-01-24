@@ -1,0 +1,28 @@
+{
+  "last_updated": 1706013212.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7082",
+      "time": 1706013212.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7082#issuecomment-1905966147",
+      "text": "Got it, thanks."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7082",
+      "time": 1706012625.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7082",
+      "text": "Click and Upload patient file is not working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7081",
+      "time": 1706001556.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7081",
+      "text": "Registering assets with state admin read-only account"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

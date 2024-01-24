@@ -1,6 +1,34 @@
 {
-  "last_updated": 1705837799.0,
+  "last_updated": 1706017755.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706017755.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838840578",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706017546.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838833373",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706017141.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838814925",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7081",
+      "time": 1706016400.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7081#issuecomment-1906055947",
+      "text": "I can work on this"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7071",
@@ -943,15 +971,18 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7071",
       "title": "only loading discontinued prescriptions instead of all prescriptions",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6977",
       "title": "Added support for multi-line text input for Doctor Notes",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "question",
+        "tested",
+        "reviewed"
       ]
     }
   ],

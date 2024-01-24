@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705955724.0,
+  "last_updated": 1706025602.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1706025602.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#issuecomment-1906377342",
+      "text": "@rithviknishad \r\n\r\ncan you please approve, \r\nI have changed accordingly"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7078",
@@ -990,7 +997,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
@@ -1004,7 +1011,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": []
     }
   ],

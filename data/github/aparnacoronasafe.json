@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705904902.0,
+  "last_updated": 1705986007.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7079",
+      "time": 1705986007.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7079",
+      "text": "Personalised notification and alerts on updates on EMR"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6276",

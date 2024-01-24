@@ -1,6 +1,119 @@
 {
-  "last_updated": 1705948591.0,
+  "last_updated": 1706023969.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7051",
+      "time": 1706023969.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7051",
+      "text": "Enhancements to backend setup of Cypress CI",
+      "turnaround_time": 27376
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6220",
+      "time": 1706019684.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6220#issuecomment-1906158651",
+      "text": "Closing as this is a documentation of the implemented feature, and not an issue. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6220",
+      "time": 1706019683.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6220",
+      "text": "Live Camera Feed  Enhancement"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706019350.0,
+      "title": "coronasafe/care#1829",
+      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1838900505",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706018903.0,
+      "title": "coronasafe/care_fe#7083",
+      "link": "https://github.com/coronasafe/care_fe/pull/7083#pullrequestreview-1838883614",
+      "text": "Add CSP headers"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706017826.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838843094",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706017692.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838838352",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706015755.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838768105",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706015755.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1838768105",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7082",
+      "time": 1706013250.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7082",
+      "text": "Click and Upload patient file is not working"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7082",
+      "time": 1706012984.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7082#issuecomment-1905960387",
+      "text": "@Sunilsubba the \"Upload\" button is disabled as no file name is entered in the mandatory field\r\n\r\n<img width=\"690\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/d9103656-9445-47ea-bd87-aa3c12e53cd8\">\r\n\r\ncc: @nihal467 \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7081",
+      "time": 1706001808.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7081#issuecomment-1905634232",
+      "text": "Anyone working on this can use the newly added `AuthorizeUserRoute` to protect this route from certain user types."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705996791.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1838066785",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705993930.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1837997529",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7080",
+      "time": 1705991581.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7080",
+      "text": "Migration of font-awesome icons to `CareIcon`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1705984703.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1837845043",
+      "text": "Fix#6546"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#63",
@@ -33765,26 +33878,26 @@
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/206",
-      "title": "Adds support for flexible date range in leaderboard",
+      "title": "Adds support for flexible date range in leaderboard and other QOL fixes",
       "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7062",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "P2",
@@ -33793,19 +33906,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7051",
-      "title": "Enhancements to backend setup of Cypress CI",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "cypress passed",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -33821,18 +33924,21 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "waiting-for-review"
       ]

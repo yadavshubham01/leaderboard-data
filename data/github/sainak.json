@@ -1,6 +1,36 @@
 {
-  "last_updated": 1705952105.0,
+  "last_updated": 1706029477.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7085",
+      "time": 1706029477.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7085",
+      "text": "fix csp for websockets",
+      "turnaround_time": 557
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7085",
+      "time": 1706028920.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7085",
+      "text": "fix csp for websockets"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7083",
+      "time": 1706023830.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7083",
+      "text": "Add CSP headers",
+      "turnaround_time": 8161
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7083",
+      "time": 1706015670.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7083",
+      "text": "Add CSP headers"
+    },
     {
       "type": "pr_reviewed",
       "time": 1705952105.0,
@@ -8494,13 +8524,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 19,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting-for-review"
       ]
@@ -8508,7 +8538,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "blocked",
         "changes required",
@@ -8519,7 +8549,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 132,
+      "stale_for": 133,
       "labels": [
         "In progress"
       ]
@@ -8527,19 +8557,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 186,
+      "stale_for": 187,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": []
     }
   ],

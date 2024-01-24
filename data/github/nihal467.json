@@ -1,6 +1,96 @@
 {
-  "last_updated": 1705956385.0,
+  "last_updated": 1706048279.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7089",
+      "time": 1706048279.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7089",
+      "text": "Facility Cover Image is not Working"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7088",
+      "time": 1706048033.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7088",
+      "text": "Pincode based auto-fill is not working across the platform"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7087",
+      "time": 1706047923.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7087",
+      "text": "Sidebar nav action animation is missing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7086",
+      "time": 1706036405.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7086",
+      "text": "Patient file upload"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6791",
+      "time": 1706024118.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6791",
+      "text": "Changed to current date time instead of date time at which app was loaded.",
+      "collaborated_with": [
+        "shyamprakash123"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6956",
+      "time": 1706024082.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6956",
+      "text": "Enhance UI of Shifting Board",
+      "collaborated_with": [
+        "Ashesh3",
+        "Arzzam"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6958",
+      "time": 1706024043.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6958",
+      "text": "Add more symptoms and move OTHERS to bottom",
+      "collaborated_with": [
+        "Omkar76"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7026",
+      "time": 1706024016.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7026",
+      "text": "changed the variant of the button to show a filter is active",
+      "collaborated_with": [
+        "Ashesh3",
+        "shramanpaul"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7031",
+      "time": 1706023994.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7031",
+      "text": "Fix inconsistent removal of facility filters",
+      "collaborated_with": [
+        "Omkar76"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7059",
+      "time": 1706023924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7059",
+      "text": "Fixed uneven cards in Patients List",
+      "collaborated_with": [
+        "shyamprakash123"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7073",
