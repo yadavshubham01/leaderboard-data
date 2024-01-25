@@ -1,6 +1,88 @@
 {
-  "last_updated": 1706024082.0,
+  "last_updated": 1706117241.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7100",
+      "time": 1706117241.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7100",
+      "text": "Add blob: data: for media-src CSP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7099",
+      "time": 1706116354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7099",
+      "text": "Add mime_type to upload request for sample results"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706115433.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097",
+      "text": "Relax CSP for styles and connect URLs",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7098",
+      "time": 1706115359.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7098",
+      "text": "Fix camera feed not working on asset configure page for IOS devices"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706113712.0,
+      "title": "coronasafe/care_fe#7097",
+      "link": "https://github.com/coronasafe/care_fe/pull/7097#pullrequestreview-1841843364",
+      "text": "Relax CSP for styles and connect URLs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706101636.0,
+      "title": "coronasafe/care_fe#7096",
+      "link": "https://github.com/coronasafe/care_fe/pull/7096#pullrequestreview-1841334266",
+      "text": "Adds support to remove all filters via `useFilters`'s utility method and fixes issues with patient advanced filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7092",
+      "time": 1706082125.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7092",
+      "text": "Fix facility cover upload when using camera",
+      "turnaround_time": 33847
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7090",
+      "time": 1706080050.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7090",
+      "text": "Add api.data.gov.in to CSP",
+      "turnaround_time": 32017
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7092",
+      "time": 1706075650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7092",
+      "text": "Fix facility cover upload when using camera"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706073169.0,
+      "title": "coronasafe/care_fe#7091",
+      "link": "https://github.com/coronasafe/care_fe/pull/7091#pullrequestreview-1840429741",
+      "text": "fixes missing sidebar nav animation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7090",
+      "time": 1706072414.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7090",
+      "text": "Add api.data.gov.in to CSP"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6956",
@@ -16256,15 +16338,42 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7100",
+      "title": "Add blob: data: for media-src CSP",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7099",
+      "title": "Add mime_type to upload request for sample results",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "reviewed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7098",
+      "title": "Fix camera feed not working on asset configure page for IOS devices",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "reviewed"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "discussion"
       ]
@@ -16272,7 +16381,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16281,7 +16390,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 110,
+      "stale_for": 111,
       "labels": [
         "POC"
       ]
@@ -16289,7 +16398,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 294,
+      "stale_for": 295,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16298,13 +16407,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 307,
+      "stale_for": 308,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]

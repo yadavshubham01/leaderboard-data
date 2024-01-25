@@ -1,6 +1,83 @@
 {
-  "last_updated": 1706028949.0,
+  "last_updated": 1706115434.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7095",
+      "time": 1706115434.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7095",
+      "text": "Notification inline style is malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706115426.0,
+      "title": "coronasafe/care_fe#7097",
+      "link": "https://github.com/coronasafe/care_fe/pull/7097#pullrequestreview-1841923033",
+      "text": "Relax CSP for styles and connect URLs"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7094",
+      "time": 1706115421.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7094",
+      "text": "Patient advance filters clear button is malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706115412.0,
+      "title": "coronasafe/care_fe#7096",
+      "link": "https://github.com/coronasafe/care_fe/pull/7096#pullrequestreview-1841922552",
+      "text": "Adds support to remove all filters via `useFilters`'s utility method and fixes issues with patient advanced filters"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1849",
+      "time": 1706098826.0,
+      "link": "https://github.com/coronasafe/care/issues/1849",
+      "text": "Issue with registering health facility as a service"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7089",
+      "time": 1706082125.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7089",
+      "text": "Facility Cover Image is not Working"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706082114.0,
+      "title": "coronasafe/care_fe#7092",
+      "link": "https://github.com/coronasafe/care_fe/pull/7092#pullrequestreview-1840659546",
+      "text": "Fix facility cover upload when using camera"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7088",
+      "time": 1706080052.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7088",
+      "text": "Pincode based auto-fill is not working across the platform"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7087",
+      "time": 1706080039.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7087",
+      "text": "Sidebar nav action animation is missing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706080032.0,
+      "title": "coronasafe/care_fe#7091",
+      "link": "https://github.com/coronasafe/care_fe/pull/7091#pullrequestreview-1840571007",
+      "text": "fixes missing sidebar nav animation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706080018.0,
+      "title": "coronasafe/care_fe#7090",
+      "link": "https://github.com/coronasafe/care_fe/pull/7090#pullrequestreview-1840570707",
+      "text": "Add api.data.gov.in to CSP"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706028949.0,
@@ -27926,7 +28003,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -27935,7 +28012,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
@@ -27946,7 +28023,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": [
         "waiting-for-review"
       ]
@@ -27954,19 +28031,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 58,
+      "stale_for": 59,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 410,
+      "stale_for": 411,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": [
         "changes required"
       ]
@@ -27974,25 +28051,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 767,
+      "stale_for": 768,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 773,
+      "stale_for": 774,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 969,
+      "stale_for": 970,
       "labels": []
     }
   ],

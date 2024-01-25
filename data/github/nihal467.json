@@ -1,6 +1,83 @@
 {
-  "last_updated": 1706048279.0,
+  "last_updated": 1706117811.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7100",
+      "time": 1706117811.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7100#issuecomment-1908614452",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7099",
+      "time": 1706116678.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7099#issuecomment-1908583471",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7098",
+      "time": 1706115844.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7098#issuecomment-1908558643",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706110946.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097#issuecomment-1908390034",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7096",
+      "time": 1706110869.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7096#issuecomment-1908387738",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7096",
+      "time": 1706106741.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7096#issuecomment-1908250565",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5cb7df7a-f8c5-4e59-84af-6adaa300b26a)\r\n\r\nwhen i apply only the bed type filter, the clear all filter badge is missing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7095",
+      "time": 1706099331.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7095",
+      "text": "Notification inline style is malfunctioning"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7094",
+      "time": 1706098974.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7094",
+      "text": "Patient advance filters clear button is malfunctioning"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7092",
+      "time": 1706082049.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7092#issuecomment-1907566134",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7091",
+      "time": 1706079366.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7091#issuecomment-1907479779",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7090",
+      "time": 1706079133.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7090#issuecomment-1907476106",
+      "text": "LGTM"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7089",
@@ -31802,10 +31879,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6717",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6786"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

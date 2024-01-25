@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706013212.0,
+  "last_updated": 1706129400.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7101",
+      "time": 1706129400.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7101#issuecomment-1908893209",
+      "text": "State admin should be able to upload the patient files of all the districts of that particular state. \"Different District\" must not come up for all the districts of the respective state."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1706123421.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102",
+      "text": "Location/ Bed Management issue ( District Lab Admin Account)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7101",
+      "time": 1706122711.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7101",
+      "text": "Failed to upload patient file in External Result"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7082",

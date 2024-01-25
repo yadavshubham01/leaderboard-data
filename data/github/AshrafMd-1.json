@@ -1,6 +1,28 @@
 {
-  "last_updated": 1705934629.0,
+  "last_updated": 1706089431.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#207",
+      "time": 1706089431.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/207",
+      "text": "Add CSS tooltip styling. ",
+      "turnaround_time": 13027
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#207",
+      "time": 1706084402.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/207#issuecomment-1907617133",
+      "text": "@rithviknishad is this okay"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#207",
+      "time": 1706084386.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/207",
+      "text": "Add CSS tooltip styling. "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7075",

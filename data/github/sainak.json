@@ -1,6 +1,66 @@
 {
-  "last_updated": 1706029477.0,
+  "last_updated": 1706118906.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706118906.0,
+      "title": "coronasafe/care_fe#7100",
+      "link": "https://github.com/coronasafe/care_fe/pull/7100#pullrequestreview-1842046625",
+      "text": "Add blob: data: for media-src CSP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706115433.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097",
+      "text": "Relax CSP for styles and connect URLs",
+      "turnaround_time": 7357
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706115433.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097",
+      "text": "Relax CSP for styles and connect URLs",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706113660.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097#issuecomment-1908484462",
+      "text": "Lgtm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7097",
+      "time": 1706108077.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7097",
+      "text": "Relax CSP for styles and connect URLs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706073260.0,
+      "title": "coronasafe/care#1829",
+      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1840430918",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706073234.0,
+      "title": "coronasafe/care#1829",
+      "link": "https://github.com/coronasafe/care/pull/1829#pullrequestreview-1840430604",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706072866.0,
+      "title": "coronasafe/care_fe#7090",
+      "link": "https://github.com/coronasafe/care_fe/pull/7090#pullrequestreview-1840425998",
+      "text": "Add api.data.gov.in to CSP"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7085",
@@ -8524,13 +8584,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "waiting-for-review"
       ]
@@ -8538,7 +8598,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 58,
+      "stale_for": 59,
       "labels": [
         "blocked",
         "changes required",
@@ -8549,7 +8609,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 133,
+      "stale_for": 134,
       "labels": [
         "In progress"
       ]
@@ -8557,19 +8617,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 187,
+      "stale_for": 188,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 112,
+      "stale_for": 113,
       "labels": []
     }
   ],

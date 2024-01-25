@@ -1,6 +1,156 @@
 {
-  "last_updated": 1706023969.0,
+  "last_updated": 1706140509.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706140509.0,
+      "title": "coronasafe/care_fe#7098",
+      "link": "https://github.com/coronasafe/care_fe/pull/7098#pullrequestreview-1842612496",
+      "text": "Fix camera feed not working on asset configure page for IOS devices"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706140398.0,
+      "title": "coronasafe/care_fe#7099",
+      "link": "https://github.com/coronasafe/care_fe/pull/7099#pullrequestreview-1842611174",
+      "text": "Add mime_type to upload request for sample results"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706140359.0,
+      "title": "coronasafe/care_fe#7100",
+      "link": "https://github.com/coronasafe/care_fe/pull/7100#pullrequestreview-1842610719",
+      "text": "Add blob: data: for media-src CSP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7096",
+      "time": 1706115420.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7096",
+      "text": "Adds support to remove all filters via `useFilters`'s utility method and fixes issues with patient advanced filters",
+      "turnaround_time": 16447
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706108789.0,
+      "title": "coronasafe/care_fe#7097",
+      "link": "https://github.com/coronasafe/care_fe/pull/7097#pullrequestreview-1841615506",
+      "text": "Relax CSP for styles and connect URLs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7096",
+      "time": 1706101061.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7096",
+      "text": "Adds support to remove all filters via `useFilters`'s utility method and fixes issues with patient advanced filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#175",
+      "time": 1706089432.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/175",
+      "text": "Migrate `Tooltip` jsx component to use CSS based tooltip to reduce client side javascript"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706089424.0,
+      "title": "coronasafe/leaderboard#207",
+      "link": "https://github.com/coronasafe/leaderboard/pull/207#pullrequestreview-1840924828",
+      "text": "Add CSS tooltip styling. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4678",
+      "time": 1706087597.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4678#issuecomment-1907702164",
+      "text": "ETD: Feb 14th"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706086657.0,
+      "title": "coronasafe/leaderboard#207",
+      "link": "https://github.com/coronasafe/leaderboard/pull/207#pullrequestreview-1840799737",
+      "text": "Add CSS tooltip styling. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7091",
+      "time": 1706080038.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7091",
+      "text": "fixes missing sidebar nav animation",
+      "turnaround_time": 6923
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706075937.0,
+      "title": "coronasafe/care_fe#7092",
+      "link": "https://github.com/coronasafe/care_fe/pull/7092#pullrequestreview-1840468453",
+      "text": "Fix facility cover upload when using camera"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7091",
+      "time": 1706073140.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7091",
+      "text": "fixes missing sidebar nav animation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706072762.0,
+      "title": "coronasafe/care_fe#7090",
+      "link": "https://github.com/coronasafe/care_fe/pull/7090#pullrequestreview-1840424700",
+      "text": "Add api.data.gov.in to CSP"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#194",
+      "time": 1706071146.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/194#issuecomment-1907364341",
+      "text": "@sagarkori143 closing this PR as #206 has fixed the underlying issue in a larger refactor and this PR was stale for a month with builds failing. Your contributions are appreciated."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#59",
+      "time": 1706071004.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/59",
+      "text": "Time range for leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#171",
+      "time": 1706071005.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/171",
+      "text": "Truncate / exclude contributors that has 0 points in the weekly leaderboard page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#42",
+      "time": 1706071005.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/42",
+      "text": "Support for multiple contributors to be listed in top contributors"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#40",
+      "time": 1706071004.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/40",
+      "text": "Top contributors card automatically takes first element even when no contribution."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#24",
+      "time": 1706071004.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/24",
+      "text": "Create static links for leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#206",
+      "time": 1706071003.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/206",
+      "text": "Adds support for flexible date range in leaderboard and other QOL fixes",
+      "turnaround_time": 48608
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7051",
@@ -33877,27 +34027,21 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/206",
-      "title": "Adds support for flexible date range in leaderboard and other QOL fixes",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7062",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "tested",
         "P2",
@@ -33908,13 +34052,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1830",
       "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review",
         "P2"
@@ -33923,7 +34067,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -33932,13 +34076,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 29,
+      "stale_for": 30,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "waiting-for-review"
       ]

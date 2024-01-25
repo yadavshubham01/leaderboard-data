@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706017755.0,
+  "last_updated": 1706093673.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1706093673.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1907888860",
+      "text": "> @kshitijv256 a minor suggestion\r\n\r\nThanks for the suggestion, I hadn't thought of it.\r\njust changed it to fetch lineheight dynamically"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706017755.0,
