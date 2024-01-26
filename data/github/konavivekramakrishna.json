@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706025602.0,
+  "last_updated": 1706186947.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706186947.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1910135873",
+      "text": "@rithviknishad \r\n\r\nCan I modify the files dailyRounds, patientRegistration, and fileUploads in another pull request? Changing those files is taking time, and a few things are breaking, not working as expected."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6960",
@@ -992,18 +999,20 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Fix#6546",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "Deploy-Failed"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 10,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "test failed"
       ]
@@ -1011,7 +1020,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 58,
+      "stale_for": 60,
       "labels": []
     }
   ],

@@ -1,6 +1,47 @@
 {
-  "last_updated": 1706117811.0,
+  "last_updated": 1706216512.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7107",
+      "time": 1706216512.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7107",
+      "text": "Enhanced Cypress Test | Patient Registration | Patient Module"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1857",
+      "time": 1706196414.0,
+      "link": "https://github.com/coronasafe/care/issues/1857",
+      "text": "CSP related bug"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7105",
+      "time": 1706192824.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7105#issuecomment-1910321858",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7062",
+      "time": 1706167983.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7062",
+      "text": "Adds support for filtering patients by diagnoses",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7098",
+      "time": 1706148647.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7098",
+      "text": "Fix camera feed not working on asset configure page for IOS devices",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7100",
@@ -31878,6 +31919,13 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7107",
+      "title": "Enhanced Cypress Test | Patient Registration | Patient Module",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

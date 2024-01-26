@@ -1,6 +1,96 @@
 {
-  "last_updated": 1706140509.0,
+  "last_updated": 1706192831.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706192831.0,
+      "title": "coronasafe/care_fe#7105",
+      "link": "https://github.com/coronasafe/care_fe/pull/7105#pullrequestreview-1843871748",
+      "text": "Update Content-Security-Policy script-src directive to allow 'blob' as a source"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706187085.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1910139396",
+      "text": "Sure!"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706178639.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1843360638",
+      "text": "Fix#6546"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706172714.0,
+      "title": "coronasafe/care_fe#7084",
+      "link": "https://github.com/coronasafe/care_fe/pull/7084#pullrequestreview-1843143618",
+      "text": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7062",
+      "time": 1706167983.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7062",
+      "text": "Adds support for filtering patients by diagnoses",
+      "turnaround_time": 80396
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7062",
+      "time": 1706167983.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7062",
+      "text": "Adds support for filtering patients by diagnoses",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1854",
+      "time": 1706166432.0,
+      "link": "https://github.com/coronasafe/care/pull/1854",
+      "text": "fixes N+1 query in `/api/v1/investigations/`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1853",
+      "time": 1706166255.0,
+      "link": "https://github.com/coronasafe/care/issues/1853#issuecomment-1909468238",
+      "text": "<img width=\"1983\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/25143503/1eca629d-01ff-40b0-b4fa-f0a9438bab30\">\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1852",
+      "time": 1706163965.0,
+      "link": "https://github.com/coronasafe/care/pull/1852",
+      "text": "Load all icd11 records to redis; search filter by `has_code`",
+      "turnaround_time": 2469
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1852",
+      "time": 1706163816.0,
+      "link": "https://github.com/coronasafe/care/pull/1852",
+      "text": "Load all icd11 records to redis; search filter by `has_code`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1851",
+      "time": 1706161496.0,
+      "link": "https://github.com/coronasafe/care/issues/1851",
+      "text": "Diseases without code are not loaded onto redis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1830",
+      "time": 1706157898.0,
+      "link": "https://github.com/coronasafe/care/pull/1830",
+      "text": "Adds support for filtering patients by diagnoses",
+      "turnaround_time": 63328
+    },
     {
       "type": "pr_reviewed",
       "time": 1706140509.0,
@@ -34027,68 +34117,58 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1854",
+      "title": "fixes N+1 query in investigations, claims, users api",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7062",
-      "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 2,
-      "labels": [
-        "tested",
-        "P2",
-        "waiting for back end",
-        "reviewed"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1830",
-      "title": "Adds support for filtering patients by diagnoses",
-      "stale_for": 1,
-      "labels": [
-        "waiting-for-review",
-        "P2"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
-        "need Review"
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1851",
+      "pr_link": "https://github.com/coronasafe/care/pull/1852"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7042",
       "pr_link": "https://github.com/coronasafe/care/pull/1823"

@@ -1,6 +1,34 @@
 {
-  "last_updated": 1706003882.0,
+  "last_updated": 1706163966.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1851",
+      "time": 1706163966.0,
+      "link": "https://github.com/coronasafe/care/issues/1851",
+      "text": "Diseases without code are not loaded onto redis"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706163958.0,
+      "title": "coronasafe/care#1852",
+      "link": "https://github.com/coronasafe/care/pull/1852#pullrequestreview-1842924369",
+      "text": "Load all icd11 records to redis; search filter by `has_code`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1830",
+      "time": 1706157919.0,
+      "link": "https://github.com/coronasafe/care/pull/1830#issuecomment-1909346521",
+      "text": "Lets look at N+1 query issues in this approach as well, maybe as a seperate ticket."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706157892.0,
+      "title": "coronasafe/care#1830",
+      "link": "https://github.com/coronasafe/care/pull/1830#pullrequestreview-1842829463",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706003882.0,

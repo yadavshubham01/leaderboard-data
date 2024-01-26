@@ -2456,5 +2456,50 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-01-25 00:00:00": [
+        {
+            "client_msg_id": "8f9d27f5-5826-4c2a-a048-09432e228d97",
+            "type": "message",
+            "text": "EOD 25/01/2023\n\n\u2022 Worked on issue #7046",
+            "user": "U051Q1RP1MG",
+            "ts": "1706198704.208989",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "CSdB+",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 25/01/2023\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue #7046"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

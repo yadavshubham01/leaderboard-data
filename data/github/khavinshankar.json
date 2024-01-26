@@ -1,6 +1,80 @@
 {
-  "last_updated": 1706115434.0,
+  "last_updated": 1706192905.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7104",
+      "time": 1706192905.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7104",
+      "text": "Bug- white screen"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7105",
+      "time": 1706192904.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7105",
+      "text": "Update Content-Security-Policy script-src directive to allow 'blob' as a source",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706184748.0,
+      "title": "coronasafe/care_fe#7105",
+      "link": "https://github.com/coronasafe/care_fe/pull/7105#pullrequestreview-1843574343",
+      "text": "Update Content-Security-Policy script-src directive to allow 'blob' as a source"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7033",
+      "time": 1706167984.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7033",
+      "text": "Support for filtering patients by ICD11 Diagnosis"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706167971.0,
+      "title": "coronasafe/care_fe#7062",
+      "link": "https://github.com/coronasafe/care_fe/pull/7062#pullrequestreview-1843002477",
+      "text": "Adds support for filtering patients by diagnoses"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1856",
+      "time": 1706167455.0,
+      "link": "https://github.com/coronasafe/care/pull/1856",
+      "text": "Prduction Release (Hotfix): January Week 4",
+      "turnaround_time": 439
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1856",
+      "time": 1706167016.0,
+      "link": "https://github.com/coronasafe/care/pull/1856",
+      "text": "Prduction Release (Hotfix): January Week 4"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706148705.0,
+      "title": "coronasafe/care_fe#7100",
+      "link": "https://github.com/coronasafe/care_fe/pull/7100#pullrequestreview-1842717816",
+      "text": "Add blob: data: for media-src CSP"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706148674.0,
+      "title": "coronasafe/care_fe#7099",
+      "link": "https://github.com/coronasafe/care_fe/pull/7099#pullrequestreview-1842717494",
+      "text": "Add mime_type to upload request for sample results"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706148330.0,
+      "title": "coronasafe/care_fe#7098",
+      "link": "https://github.com/coronasafe/care_fe/pull/7098#pullrequestreview-1842713164",
+      "text": "Fix camera feed not working on asset configure page for IOS devices"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7095",
@@ -27997,13 +28071,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28012,7 +28086,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "work-in-progress",
         "Deploy-Failed",
@@ -28023,7 +28097,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "waiting-for-review"
       ]
@@ -28031,19 +28105,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 411,
+      "stale_for": 412,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 168,
+      "stale_for": 169,
       "labels": [
         "changes required"
       ]
@@ -28051,25 +28125,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 768,
+      "stale_for": 769,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 775,
+      "stale_for": 776,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 970,
+      "stale_for": 971,
       "labels": []
     }
   ],

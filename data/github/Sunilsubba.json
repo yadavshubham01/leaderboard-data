@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706129400.0,
+  "last_updated": 1706190448.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7106",
+      "time": 1706190448.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7106",
+      "text": "Notification and Notice board not working for State Admin Access"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7101",
