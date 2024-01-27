@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706186947.0,
+  "last_updated": 1706292823.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706292823.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1912483346",
+      "text": "@rithviknishad\n\nPlease review the pr"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7078",
@@ -1006,13 +1013,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "test failed"
       ]
@@ -1020,7 +1027,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": []
     }
   ],

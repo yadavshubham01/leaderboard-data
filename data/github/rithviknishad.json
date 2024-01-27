@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706192831.0,
+  "last_updated": 1706228539.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7106",
+      "time": 1706228539.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7106#issuecomment-1911212205",
+      "text": "Hey @shramanpaul \r\n\r\nI see that you've assigned #6944 but have not made any PR against it. It'd be nice if you could take up one issue at a time to work on, so that other contributors would also be able to participate. Feel free to comment down any issues or blockers you are facing if any."
+    },
     {
       "type": "pr_reviewed",
       "time": 1706192831.0,
@@ -34119,31 +34126,31 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "reviewed"
@@ -34152,13 +34159,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "waiting-for-review"
       ]
