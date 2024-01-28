@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706292823.0,
+  "last_updated": 1706375957.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706375957.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1847139476",
+      "text": "Fix#6546"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7078",
@@ -1007,13 +1014,13 @@
       "title": "Fix#6546",
       "stale_for": 0,
       "labels": [
-        "Deploy-Failed"
+        "changes required"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -1021,13 +1028,13 @@
       "title": "Fixes responsiveness in Facilty Home",
       "stale_for": 0,
       "labels": [
-        "test failed"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706277293.0,
+  "last_updated": 1706387247.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7106",
+      "time": 1706387247.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7106#issuecomment-1913326855",
+      "text": "@Sunilsubba When you send a notice to a facility, users linked to the facility, except the one who sent the notice, will receive a notification."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1857",
@@ -31944,7 +31951,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7107",
       "title": "Enhanced Cypress Test | Patient Registration | Patient Module",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

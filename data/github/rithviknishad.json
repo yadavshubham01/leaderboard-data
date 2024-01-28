@@ -1,6 +1,48 @@
 {
-  "last_updated": 1706228539.0,
+  "last_updated": 1706355705.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706355705.0,
+      "title": "coronasafe/care_fe#7111",
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#pullrequestreview-1847062203",
+      "text": "Added authorization on route for asset creation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706355705.0,
+      "title": "coronasafe/care_fe#7111",
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#pullrequestreview-1847062203",
+      "text": "Added authorization on route for asset creation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706319757.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1846778781",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706319757.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1846778781",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706319428.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1846773634",
+      "text": "Fix#6546"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706319428.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1846773634",
+      "text": "Fix#6546"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7106",
@@ -34126,31 +34168,33 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "reviewed"
@@ -34159,13 +34203,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": [
         "waiting-for-review"
       ]

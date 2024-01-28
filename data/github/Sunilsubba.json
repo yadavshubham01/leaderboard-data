@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706190448.0,
+  "last_updated": 1706386886.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7112",
+      "time": 1706386886.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7112",
+      "text": "Filters under the notification section.\n \nThere are filters like \"Patient Deleted\" and \"Patient Consultation Deleted\", are we supposed to have that since no user in CARE has access to them?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7106",
+      "time": 1706386395.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7106#issuecomment-1913323762",
+      "text": "@nihal467 Nothing was coming up in the notification field, seems fixed now.\n\n![IMG_20240128_012307.jpg](https://github.com/coronasafe/care_fe/assets/144016088/8e4896d2-0a23-47a9-ab30-917b0a322b57)\n\n\n\n"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7106",

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706024118.0,
+  "last_updated": 1706329325.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7043",
+      "time": 1706329325.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7043#issuecomment-1912976635",
+      "text": "@rithviknishad I want to work on this can you assign me?"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6791",
@@ -738,7 +745,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7061",
       "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
