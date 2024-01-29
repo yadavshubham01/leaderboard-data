@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706329325.0,
+  "last_updated": 1706447161.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7113",
+      "time": 1706447161.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7113",
+      "text": "Draft for ABHA Linking Process."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7043",
@@ -743,9 +750,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7113",
+      "title": "Draft for ABHA Linking Process.",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7061",
       "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],
