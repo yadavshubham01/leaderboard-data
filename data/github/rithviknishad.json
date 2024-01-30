@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706355705.0,
+  "last_updated": 1706532494.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706532494.0,
+      "title": "coronasafe/care_fe#7116",
+      "link": "https://github.com/coronasafe/care_fe/pull/7116#pullrequestreview-1848598567",
+      "text": "Switch to report only for CSP"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1706512375.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1914090760",
+      "text": "https://care.ohc.network/facility/0421de45-3541-4652-862d-79cec4acb6af/patient/aab8ff1c-10b9-426a-b5b1-d4cbbd675dee/update\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1706512328.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1914089869",
+      "text": "You can create a new patient, that'd lead you to the patient registration form"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706355705.0,
@@ -34168,19 +34189,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "stale"
       ]
@@ -34188,28 +34209,28 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "tested",
         "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 33,
+      "stale_for": 35,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 51,
+      "stale_for": 53,
       "labels": [
         "waiting-for-review"
       ]

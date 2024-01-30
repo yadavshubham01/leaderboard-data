@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706447161.0,
+  "last_updated": 1706529853.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7115",
+      "time": 1706529853.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7115#issuecomment-1914555405",
+      "text": "I want to work on this issue."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7113",
@@ -758,7 +765,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7061",
       "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     }
   ],

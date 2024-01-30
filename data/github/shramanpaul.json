@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706209848.0,
+  "last_updated": 1706508339.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1706508339.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1914020326",
+      "text": "I'm still encountering the 'Not Found' error mentioned earlier. Whenever you have a moment, could you please take a look?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6944",
+      "time": 1706508336.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6944#issuecomment-1914020285",
+      "text": "I'm still encountering the 'Not Found' error mentioned earlier. Whenever you have a moment, could you please take a look?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7106",

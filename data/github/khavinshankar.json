@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706192905.0,
+  "last_updated": 1706535874.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7109",
+      "time": 1706535874.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7109",
+      "text": "CSP related bug"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706535867.0,
+      "title": "coronasafe/care_fe#7116",
+      "link": "https://github.com/coronasafe/care_fe/pull/7116#pullrequestreview-1848708497",
+      "text": "Switch to report only for CSP"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706506751.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1847864360",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7114",
+      "time": 1706501577.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7114",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1861",
+      "time": 1706500097.0,
+      "link": "https://github.com/coronasafe/care/pull/1861",
+      "text": "Fixes 1849"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7104",
@@ -28069,15 +28104,31 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7114",
+      "title": "show notification when health id registration fails",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review",
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1861",
+      "title": "Fixes 1849",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 15,
+      "stale_for": 19,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28086,18 +28137,17 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "work-in-progress",
-        "Deploy-Failed",
-        "merge conflict",
+        "needs testing",
+        "need Review",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 50,
+      "stale_for": 54,
       "labels": [
         "waiting-for-review"
       ]
@@ -28105,19 +28155,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 60,
+      "stale_for": 64,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 412,
+      "stale_for": 416,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 169,
+      "stale_for": 173,
       "labels": [
         "changes required"
       ]
@@ -28125,25 +28175,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 769,
+      "stale_for": 773,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 775,
+      "stale_for": 779,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 776,
+      "stale_for": 780,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 971,
+      "stale_for": 975,
       "labels": []
     }
   ],

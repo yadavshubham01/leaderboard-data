@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706386886.0,
+  "last_updated": 1706518107.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7115",
+      "time": 1706518107.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7115",
+      "text": "username by default lowercase"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7112",

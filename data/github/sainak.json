@@ -1,6 +1,49 @@
 {
-  "last_updated": 1706118906.0,
+  "last_updated": 1706536974.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706536974.0,
+      "title": "coronasafe/care#1784",
+      "link": "https://github.com/coronasafe/care/pull/1784#pullrequestreview-1848750993",
+      "text": "add events module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706536602.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1848737581",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7116",
+      "time": 1706535873.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7116",
+      "text": "Switch to report only for CSP",
+      "turnaround_time": 15955
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7116",
+      "time": 1706519918.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7116",
+      "text": "Switch to report only for CSP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1862",
+      "time": 1706515867.0,
+      "link": "https://github.com/coronasafe/care/pull/1862",
+      "text": "Limit minimum encounter date to 2020-01-01"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706505404.0,
+      "title": "coronasafe/care#1861",
+      "link": "https://github.com/coronasafe/care/pull/1861#pullrequestreview-1847845673",
+      "text": "Fixes 1849"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706118906.0,
@@ -8582,15 +8625,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1862",
+      "title": "Limit minimum encounter date to 2020-01-01",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 20,
+      "stale_for": 25,
       "labels": [
         "waiting-for-review"
       ]
@@ -8598,7 +8647,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 59,
+      "stale_for": 64,
       "labels": [
         "blocked",
         "changes required",
@@ -8609,7 +8658,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 134,
+      "stale_for": 139,
       "labels": [
         "In progress"
       ]
@@ -8617,19 +8666,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 48,
+      "stale_for": 53,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 188,
+      "stale_for": 193,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 113,
+      "stale_for": 118,
       "labels": []
     }
   ],

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706192904.0,
+  "last_updated": 1706535721.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7117",
+      "time": 1706535721.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7117",
+      "text": "Add Facility Notify button for District/State Admins"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706532417.0,
+      "title": "coronasafe/care_fe#7116",
+      "link": "https://github.com/coronasafe/care_fe/pull/7116#pullrequestreview-1848596152",
+      "text": "Switch to report only for CSP"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7105",
@@ -16411,23 +16425,34 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7117",
+      "title": "Add Facility Notify button for District/State Admins",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "discussion"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 3,
+      "stale_for": 7,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16436,7 +16461,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 112,
+      "stale_for": 116,
       "labels": [
         "POC"
       ]
@@ -16444,7 +16469,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 296,
+      "stale_for": 300,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16453,13 +16478,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 309,
+      "stale_for": 313,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706375957.0,
+  "last_updated": 1706523924.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706523924.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1914393897",
+      "text": "@rithviknishad \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/054c6a8b-c79b-4df4-824d-4b09743fc112)\r\n\r\n\r\nis it okay or the background should be set to none"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706375957.0,
@@ -1011,7 +1018,7 @@
   "open_prs": [
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
-      "title": "Fix#6546",
+      "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
       "stale_for": 0,
       "labels": [
         "changes required"
@@ -1020,7 +1027,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
@@ -1034,7 +1041,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 62,
+      "stale_for": 64,
       "labels": []
     }
   ],

@@ -1,6 +1,48 @@
 {
-  "last_updated": 1706387247.0,
+  "last_updated": 1706561183.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7084",
+      "time": 1706561183.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7084#issuecomment-1915534261",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1706558770.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#issuecomment-1915470350",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7004",
+      "time": 1706558494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7004#issuecomment-1915463230",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7001",
+      "time": 1706557760.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#issuecomment-1915445018",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1706552291.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1915307058",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c0b1232a-98cc-4ffd-beb8-875054cb39a9)\r\n\r\nlast test in failing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7116",
+      "time": 1706535420.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7116#issuecomment-1914711814",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7106",
@@ -31951,7 +31993,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7107",
       "title": "Enhanced Cypress Test | Patient Registration | Patient Module",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     }
   ],

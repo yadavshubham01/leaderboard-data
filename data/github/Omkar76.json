@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706024043.0,
+  "last_updated": 1706551998.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1706551998.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118",
+      "text": "Replace font-awesome icons by CareIcon component"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6958",
@@ -576,15 +583,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7118",
+      "title": "Replace font-awesome icons by CareIcon component",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 6,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 7,
+      "stale_for": 13,
       "labels": [
         "waiting for back end"
       ]
@@ -592,10 +605,11 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 6,
+      "stale_for": 5,
       "labels": [
         "test failed",
-        "merge conflict"
+        "merge conflict",
+        "stale"
       ]
     }
   ],
