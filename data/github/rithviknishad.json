@@ -1,6 +1,93 @@
 {
-  "last_updated": 1706532494.0,
+  "last_updated": 1706620160.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706620160.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1851217964",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706617302.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1851053042",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706617302.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1851053042",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "collaborated_with": [
+        "Arzzam",
+        "nihal467",
+        "Omkar76",
+        "shyamprakash123",
+        "sainak",
+        "shramanpaul",
+        "khavinshankar",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706589258.0,
+      "title": "coronasafe/care#1861",
+      "link": "https://github.com/coronasafe/care/pull/1861#pullrequestreview-1850211114",
+      "text": "Fixes 1849"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706589228.0,
+      "title": "coronasafe/care_fe#7117",
+      "link": "https://github.com/coronasafe/care_fe/pull/7117#pullrequestreview-1850210786",
+      "text": "Add Facility Notify button for District/State Admins"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706588618.0,
+      "title": "coronasafe/care_fe#7118",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#pullrequestreview-1850203639",
+      "text": "Replace font-awesome icons by CareIcon component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706585376.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1850165441",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706585376.0,
+      "title": "coronasafe/care_fe#6808",
+      "link": "https://github.com/coronasafe/care_fe/pull/6808#pullrequestreview-1850165441",
+      "text": " Timeline style view for Daily Rounds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706585196.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1916007219",
+      "text": "@konavivekramakrishna just noticed that https://github.com/coronasafe/care_fe/pull/6808/commits/ada6efd642a6ea6200083d6fa1309e52ca193d99#diff-d5a0491d201afa07e9229b4529d76bf770f7bab2f577a2e0c542414347199fb7R138-R152 accidentally wraps ItemList with Timeline component, which is NOT intended, which is why I assume the bg-white is showing up.\r\n\r\n`PaginatedList` and related components are unstyled components (mostly) to allow flexibility for styling from the place in which it is used.\r\n\r\nSo, undo the linked changes, also make sure that <Timeline> is wrapped in the daily rounds place instead of where it was originally desired.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706584242.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1915995151",
+      "text": "> @rithviknishad\r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/101407963/300419650-054c6a8b-c79b-4df4-824d-4b09743fc112.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY1ODQ0NDQsIm5iZiI6MTcwNjU4NDE0NCwicGF0aCI6Ii8xMDE0MDc5NjMvMzAwNDE5NjUwLTA1NGM2YThiLWM3OWItNGRmNC04MjRkLTRiMDk3NDNmYzExMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEzMFQwMzA5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZTM0MGNkYzJjZDI3ZmNkNzgxOTAxMzRhMzU2Y2U1ZTRiNzE1NjI0NjlhZjRlMDA3MjRkNzAxM2UzMTMxMWIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gawJcy9u0H3grMnJaIdKVqFbzHSrmDasmoGB_SFV08A)\r\n> \r\n> is it okay or the background should be set to none\r\n\r\n@konavivekramakrishna why change the background / UI in useDispatch migration PR?"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706532494.0,
@@ -34189,19 +34276,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "stale"
       ]
@@ -34209,13 +34296,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7004",
       "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "reviewed"
@@ -34224,13 +34311,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 53,
+      "stale_for": 54,
       "labels": [
         "waiting-for-review"
       ]

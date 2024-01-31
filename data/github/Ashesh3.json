@@ -1,6 +1,23 @@
 {
-  "last_updated": 1706535721.0,
+  "last_updated": 1706613116.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "collaborated_with": [
+        "Arzzam",
+        "nihal467",
+        "Omkar76",
+        "shyamprakash123",
+        "sainak",
+        "rithviknishad",
+        "shramanpaul",
+        "khavinshankar"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7117",
@@ -16430,13 +16447,13 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "need Review"
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -16444,7 +16461,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -16452,7 +16469,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16461,7 +16478,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 116,
+      "stale_for": 117,
       "labels": [
         "POC"
       ]
@@ -16469,7 +16486,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 300,
+      "stale_for": 301,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16478,13 +16495,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 313,
+      "stale_for": 314,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]

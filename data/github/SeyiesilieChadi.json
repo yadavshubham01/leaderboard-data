@@ -1,6 +1,20 @@
 {
-  "last_updated": 1695715824.0,
+  "last_updated": 1706620517.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7121",
+      "time": 1706620517.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7121#issuecomment-1916824378",
+      "text": "@aparnacoronasafe "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7121",
+      "time": 1706620473.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7121",
+      "text": "To increase the respiratory rate in log update page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6340",

@@ -1,6 +1,34 @@
 {
-  "last_updated": 1706523924.0,
+  "last_updated": 1706616737.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706616737.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1916709897",
+      "text": "@rithviknishad \r\n\r\ncould you please review the changes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1706584451.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1915997704",
+      "text": "implemented paginatedList for consultationHistory \r\n\r\nshould i change paginatedList to accept an additional prop isbgNone so that the bg is set to none"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706578327.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1915896353",
+      "text": "@rithviknishad \r\n\r\ncan you please assigne me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": 1706577703.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1915885156",
+      "text": "@rithviknishad \r\n\r\nA simple solution would be to passing perPage 5 or 6. by default per Page is 14, causing the entire page to stretch significantly\r\n\r\n \r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/fd7d1115-e1f8-450e-8383-c6842f760071)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7078",
@@ -1021,19 +1049,20 @@
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -1041,7 +1070,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": []
     }
   ],

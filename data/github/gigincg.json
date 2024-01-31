@@ -1,6 +1,28 @@
 {
-  "last_updated": 1705934629.0,
+  "last_updated": 1706623323.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#172",
+      "time": 1706623323.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/172",
+      "text": "Broken UI in Settings Popup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "turnaround_time": 20151
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706592966.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7075",
@@ -6964,7 +6986,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 41,
+      "stale_for": 49,
       "labels": [
         "In Progress"
       ]

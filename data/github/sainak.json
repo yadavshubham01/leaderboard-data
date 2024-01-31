@@ -1,6 +1,23 @@
 {
-  "last_updated": 1706536974.0,
+  "last_updated": 1706613116.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "collaborated_with": [
+        "Arzzam",
+        "nihal467",
+        "Omkar76",
+        "shyamprakash123",
+        "rithviknishad",
+        "shramanpaul",
+        "khavinshankar",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1706536974.0,
@@ -8633,13 +8650,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "waiting-for-review"
       ]
@@ -8647,7 +8664,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": [
         "blocked",
         "changes required",
@@ -8658,7 +8675,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 139,
+      "stale_for": 140,
       "labels": [
         "In progress"
       ]
@@ -8666,19 +8683,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 53,
+      "stale_for": 54,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 193,
+      "stale_for": 194,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": []
     }
   ],

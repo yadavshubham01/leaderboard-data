@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706533883.0,
+  "last_updated": 1706631342.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7045",
+      "time": 1706631342.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7045#issuecomment-1917397377",
+      "text": "@aparnacoronasafe Currently I have started working based on this design \r\n![Pasted image at 2024-01-24 at 15 00 37 PM](https://github.com/coronasafe/care_fe/assets/98876115/99793566-fae8-449b-8425-1a404da5aa91)\r\n\r\nWill submit by 2-feb\r\ncc @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7086",

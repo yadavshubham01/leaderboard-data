@@ -1,6 +1,30 @@
 {
-  "last_updated": 1706551998.0,
+  "last_updated": 1706638826.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1706638826.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1917633607",
+      "text": "@rithviknishad found some more icons by searching `fa-`.  these were not matched by that regex earlier. I've replaced those in this commit. Also `npm uninstall`ed fontawesome and removed from `index.css`"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "collaborated_with": [
+        "Arzzam",
+        "nihal467",
+        "shyamprakash123",
+        "sainak",
+        "rithviknishad",
+        "shramanpaul",
+        "khavinshankar",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7118",
@@ -591,13 +615,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting for back end"
       ]
@@ -605,7 +629,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6659",
       "title": "Show fields when copying from previous log",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "test failed",
         "merge conflict",

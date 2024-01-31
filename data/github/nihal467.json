@@ -1,6 +1,23 @@
 {
-  "last_updated": 1706561183.0,
+  "last_updated": 1706613116.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7119",
+      "time": 1706613116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7119",
+      "text": "Production Release | January Week 5",
+      "collaborated_with": [
+        "Arzzam",
+        "Omkar76",
+        "shyamprakash123",
+        "sainak",
+        "rithviknishad",
+        "shramanpaul",
+        "khavinshankar",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7084",

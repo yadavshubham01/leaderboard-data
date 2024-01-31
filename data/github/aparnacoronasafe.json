@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706182149.0,
+  "last_updated": 1706635136.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#173",
+      "time": 1706635136.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/173",
+      "text": "Bugs (as on 30th Jan)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7045",
+      "time": 1706620075.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7045#issuecomment-1916808750",
+      "text": "@AshrafMd-1 please give an estimate date of release\r\n\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7120",
+      "time": 1706613651.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7120",
+      "text": "Patient transfer"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7104",
