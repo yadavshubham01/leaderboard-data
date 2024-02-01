@@ -1,6 +1,69 @@
 {
-  "last_updated": 1706613116.0,
+  "last_updated": 1706698235.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706698235.0,
+      "title": "coronasafe/care_fe#7107",
+      "link": "https://github.com/coronasafe/care_fe/pull/7107#pullrequestreview-1853444606",
+      "text": "Enhanced Cypress Test | Patient Registration | Patient Module"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7084",
+      "time": 1706687126.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7084#issuecomment-1918558412",
+      "text": "@sriharsh05 can u resolve the merge conflicts"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706687088.0,
+      "title": "coronasafe/care_fe#7084",
+      "link": "https://github.com/coronasafe/care_fe/pull/7084#pullrequestreview-1853071186",
+      "text": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706686981.0,
+      "title": "coronasafe/care_fe#7041",
+      "link": "https://github.com/coronasafe/care_fe/pull/7041#pullrequestreview-1853068705",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706686911.0,
+      "title": "coronasafe/care_fe#7004",
+      "link": "https://github.com/coronasafe/care_fe/pull/7004#pullrequestreview-1853067025",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6877",
+      "time": 1706686877.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6877",
+      "text": "Close Button in Treatment Summary is Malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706686868.0,
+      "title": "coronasafe/care_fe#7001",
+      "link": "https://github.com/coronasafe/care_fe/pull/7001#pullrequestreview-1853065997",
+      "text": "Fixed close Button in Treatment Summary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7124",
+      "time": 1706675166.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7124",
+      "text": "use team for tagging in stale reminder"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7123",
+      "time": 1706675031.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7123",
+      "text": "Use team for tagging in stale reminder"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7119",
@@ -28121,9 +28184,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7124",
+      "title": "use team for tagging in stale reminder",
+      "stale_for": 0,
+      "labels": [
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review",
@@ -28133,19 +28204,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28158,13 +28229,14 @@
       "labels": [
         "needs testing",
         "need Review",
+        "merge conflict",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": [
         "waiting-for-review"
       ]
@@ -28172,19 +28244,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 417,
+      "stale_for": 418,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 174,
+      "stale_for": 175,
       "labels": [
         "changes required"
       ]
@@ -28192,25 +28264,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 774,
+      "stale_for": 775,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 780,
+      "stale_for": 781,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 781,
+      "stale_for": 782,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 976,
+      "stale_for": 977,
       "labels": []
     }
   ],

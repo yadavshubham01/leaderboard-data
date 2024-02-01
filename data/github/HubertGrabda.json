@@ -1,0 +1,28 @@
+{
+  "last_updated": 1706718262.0,
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7133",
+      "time": 1706718262.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7133",
+      "text": "Fix: Disable add counsultations button when patient is discharged"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7131",
+      "time": 1706717489.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7131#issuecomment-1919428209",
+      "text": "Hey, I can help with that "
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7133",
+      "title": "Fix: Disable add counsultations button when patient is discharged",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

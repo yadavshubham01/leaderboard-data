@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705754319.0,
+  "last_updated": 1706737993.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7046",
+      "time": 1706737993.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7046#issuecomment-1920038462",
+      "text": "Hey @younome71 I am currently working on it. Couldn't make a PR due to ongoing exams. Can you look for some other issue?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7046",
@@ -424,7 +431,8 @@
       "title": "Added Timeline UI for Bed Activity",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "stale"
       ]
     }
   ],

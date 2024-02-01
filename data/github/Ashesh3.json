@@ -1,6 +1,76 @@
 {
-  "last_updated": 1706613116.0,
+  "last_updated": 1706688423.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7125",
+      "time": 1706688423.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7125",
+      "text": "Set Form Drafts to expire after 24 hours"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706685311.0,
+      "title": "coronasafe/care_fe#7118",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#pullrequestreview-1853030355",
+      "text": "Replace font-awesome icons by CareIcon component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1221",
+      "time": 1706683524.0,
+      "link": "https://github.com/coronasafe/care/pull/1221#issuecomment-1918486219",
+      "text": "@vigneshhari Could you review this? Got 3 approvals"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683433.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1852993888",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683390.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1852993166",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683344.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1852992298",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683334.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1852992069",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683176.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1852989217",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683149.0,
+      "title": "coronasafe/care_fe#7124",
+      "link": "https://github.com/coronasafe/care_fe/pull/7124#pullrequestreview-1852988759",
+      "text": "use team for tagging in stale reminder"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706683132.0,
+      "title": "coronasafe/care#1862",
+      "link": "https://github.com/coronasafe/care/pull/1862#pullrequestreview-1852988462",
+      "text": "Limit minimum encounter date to 2020-01-01"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7119",
@@ -16442,9 +16512,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7125",
+      "title": "Set Form Drafts to expire after 24 hours",
+      "stale_for": 0,
+      "labels": [
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7117",
       "title": "Add Facility Notify button for District/State Admins",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "reviewed"
@@ -16453,7 +16531,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -16461,7 +16539,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]
@@ -16469,7 +16547,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16478,7 +16556,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 117,
+      "stale_for": 118,
       "labels": [
         "POC"
       ]
@@ -16486,7 +16564,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 301,
+      "stale_for": 302,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16495,13 +16573,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 314,
+      "stale_for": 315,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]

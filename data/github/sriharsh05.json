@@ -1,6 +1,39 @@
 {
-  "last_updated": 1706026346.0,
+  "last_updated": 1706718540.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1706718540.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132#issuecomment-1919463634",
+      "text": "I want to work on this. Please assign this to me."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1706686998.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management",
+      "turnaround_time": 11835
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1706686998.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7001",
+      "time": 1706686877.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7001",
+      "text": "Fixed close Button in Treatment Summary",
+      "turnaround_time": 60062
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7084",
@@ -755,23 +788,10 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7084",
       "title": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient.",
       "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7041",
-      "title": "Replaced useDispatch with useQuery/request in Inventory Management",
-      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7001",
-      "title": "Fixed close Button in Treatment Summary",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
+        "tested",
+        "merge conflict",
+        "reviewed"
       ]
     }
   ],

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706616737.0,
+  "last_updated": 1706723248.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706723248.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1919606968",
+      "text": "@rithviknishad \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/9a8d2096-008c-4407-84d5-69f82cd2dcee)\r\n\r\n\r\nin patientmetainfo there no records, should i add occupation field in patientregistration table ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1706701454.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#issuecomment-1918943756",
+      "text": "@rithviknishad \r\n\r\ncould you please check"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706700493.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1918919779",
+      "text": "@rithviknishad \r\n\r\nin patientregistration table there is no field occupation instead in patientmetainfo\r\n table occupation is present  but the options are different should i add a new field to patientregistration table or change options in patientmetainfo table\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/609262db-6811-48f8-b504-536f4a7b6c47)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7078",
@@ -1056,13 +1077,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -1070,7 +1091,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": []
     }
   ],

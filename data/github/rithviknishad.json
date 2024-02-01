@@ -1,6 +1,94 @@
 {
-  "last_updated": 1706620160.0,
+  "last_updated": 1706703645.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706703645.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1853603172",
+      "text": "fix review count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1706703446.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#issuecomment-1918994948",
+      "text": "<img width=\"1239\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/f280e845-b665-4cf3-8f17-b65ae88c044b\">\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7106",
+      "time": 1706703238.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7106",
+      "text": "Notification and Notice board not working for State Admin Access"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1706702933.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132",
+      "text": "Able to create daily round update without a bed assigned through patient details page but not through consultation dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7131",
+      "time": 1706702564.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7131",
+      "text": "Add consultation updates button not disabled in Patient Details page for Discharged consultations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706690094.0,
+      "title": "coronasafe/care_fe#7125",
+      "link": "https://github.com/coronasafe/care_fe/pull/7125#pullrequestreview-1853154107",
+      "text": "Set Form Drafts to expire after 24 hours"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7004",
+      "time": 1706686923.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7004",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
+      "turnaround_time": 11100
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7004",
+      "time": 1706686923.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7004",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706684284.0,
+      "title": "coronasafe/care_fe#7118",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#pullrequestreview-1853009984",
+      "text": "Replace font-awesome icons by CareIcon component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1706684273.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1918499565",
+      "text": "> @rithviknishad found some more icons by searching `fa-`. these were not matched by that regex earlier. I've replaced those in this commit. Also `npm uninstall`ed fontawesome and removed from `index.css`\r\n\r\nAwesome \ud83d\ude80 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706684201.0,
+      "title": "coronasafe/care_fe#7124",
+      "link": "https://github.com/coronasafe/care_fe/pull/7124#pullrequestreview-1853008385",
+      "text": "use team for tagging in stale reminder"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706679937.0,
+      "title": "coronasafe/care#1862",
+      "link": "https://github.com/coronasafe/care/pull/1862#pullrequestreview-1852931790",
+      "text": "Limit minimum encounter date to 2020-01-01"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706620160.0,
@@ -34276,19 +34364,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "stale"
       ]
@@ -34296,28 +34384,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7004",
-      "title": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
-      "stale_for": 1,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 54,
+      "stale_for": 55,
       "labels": [
         "waiting-for-review"
       ]

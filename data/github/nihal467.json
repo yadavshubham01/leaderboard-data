@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706613116.0,
+  "last_updated": 1706732415.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7135",
+      "time": 1706732415.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7135",
+      "text": "Limit the decimal points in the Facility GPS Location field upto 7 only"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7107",
+      "time": 1706698240.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7107",
+      "text": "Enhanced Cypress Test | Patient Registration | Patient Module",
+      "turnaround_time": 49728
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7041",
+      "time": 1706686998.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7041",
+      "text": "Replaced useDispatch with useQuery/request in Inventory Management",
+      "collaborated_with": [
+        "sriharsh05"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7004",
+      "time": 1706686923.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7004",
+      "text": "Replace `useDispatch` with `useQuery` in Asset Management, Location Management, Facility Cover Image Popup, Doctor Capacity and Triage",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7119",
@@ -32006,13 +32041,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7107",
-      "title": "Enhanced Cypress Test | Patient Registration | Patient Module",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
