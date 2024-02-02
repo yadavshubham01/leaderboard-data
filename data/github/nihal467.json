@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706732415.0,
+  "last_updated": 1706824835.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7150",
+      "time": 1706824835.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7150",
+      "text": "Patient investigation summary is malfunctioning"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7145",
+      "time": 1706787320.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7145",
+      "text": "Vital monitor middleware state is not getting reset post updation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7142",
+      "time": 1706782583.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7142",
+      "text": "Increase the Add button height in skills slideover"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7141",
+      "time": 1706781978.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7141",
+      "text": "Fix the Mobile responsive view in the user card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7140",
+      "time": 1706781672.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7140",
+      "text": "Remove the 0 in the Link facility sidebar"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7135",

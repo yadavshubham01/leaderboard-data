@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706353259.0,
+  "last_updated": 1706801640.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1868",
+      "time": 1706801640.0,
+      "link": "https://github.com/coronasafe/care/pull/1868",
+      "text": "added user type check before creating new asset"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7111",
@@ -982,6 +989,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1868",
+      "title": "added user type check before creating new asset",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7111",
       "title": "Added authorization on route for asset creation",
       "stale_for": 0,
@@ -993,15 +1006,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7071",
       "title": "only loading discontinued prescriptions instead of all prescriptions",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6977",
       "title": "Added support for multi-line text input for Doctor Notes",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "question",
         "tested",

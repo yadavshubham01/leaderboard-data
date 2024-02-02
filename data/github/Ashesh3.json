@@ -1,6 +1,172 @@
 {
-  "last_updated": 1706688423.0,
+  "last_updated": 1706818001.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#176",
+      "time": 1706818001.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/176",
+      "text": "Fix new chat creation during initial empty STT"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#458",
+      "time": 1706815784.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/458",
+      "text": "Fix speech recognition functionality",
+      "turnaround_time": 77
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#458",
+      "time": 1706815708.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/458",
+      "text": "Add speech recognition functionality"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706814651.0,
+      "title": "coronasafe/ayushma#457",
+      "link": "https://github.com/coronasafe/ayushma/pull/457#pullrequestreview-1857365536",
+      "text": "fix start script (#456)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#175",
+      "time": 1706814181.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/175",
+      "text": "Fix chat list pagination",
+      "turnaround_time": 890
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#174",
+      "time": 1706814089.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/174",
+      "text": "Fix new chat error handling",
+      "turnaround_time": 1633
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#175",
+      "time": 1706813291.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/175",
+      "text": "Fix chat list pagination"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#174",
+      "time": 1706812456.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/174",
+      "text": "Fix new chat error handling"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#449",
+      "time": 1706810977.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/449#issuecomment-1921922928",
+      "text": "@sainak \r\n```\r\n  File \"<stdin>\", line 3, in <module>\r\nModuleNotFoundError: No module named 'psycopg2'\r\nWaiting for PostgreSQL to become available...\r\nTraceback (most recent call last):\r\n  File \"<stdin>\", line 3, in <module>\r\nModuleNotFoundError: No module named 'psycopg2'\r\nWaiting for PostgreSQL to become available...\r\nTraceback (most recent call last):\r\n  File \"<stdin>\", line 3, in <module>\r\nModuleNotFoundError: No module named 'psycopg2'\r\nWaiting for PostgreSQL to become available...\r\nTraceback (most recent call last):\r\n  File \"<stdin>\", line 3, in <module>\r\nModuleNotFoundError: No module named 'psycopg2'\r\nWaiting for PostgreSQL to become available...\r\nTraceback (most recent call last):\r\n  File \"<stdin>\", line 3, in <module>\r\nModuleNotFoundError: No module named 'psycopg2'\r\nWaiting for PostgreSQL to become available...\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#437",
+      "time": 1706810328.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/437#issuecomment-1921901967",
+      "text": "@dependabot ignore this dependency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#452",
+      "time": 1706810299.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/452",
+      "text": "Downgrade anyio version to 3.7.1",
+      "turnaround_time": 204
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#421",
+      "time": 1706810291.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/421#issuecomment-1921901034",
+      "text": "@dependabot ignore this dependency"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#421",
+      "time": 1706810275.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/421#issuecomment-1921900585",
+      "text": "@dependabot ignore"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#452",
+      "time": 1706810096.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/452",
+      "text": "Downgrade anyio version to 3.7.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#451",
+      "time": 1706808526.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/451",
+      "text": "Add check for empty recognized text in speech_to_text function",
+      "turnaround_time": 262
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#451",
+      "time": 1706808265.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/451",
+      "text": "Add check for empty recognized text in speech_to_text function"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": 1706804409.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-1921700203",
+      "text": "@sagarkori143 any updates on this issue?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1867",
+      "time": 1706796552.0,
+      "link": "https://github.com/coronasafe/care/pull/1867",
+      "text": "Add external results dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706793247.0,
+      "title": "coronasafe/care_fe#7144",
+      "link": "https://github.com/coronasafe/care_fe/pull/7144#pullrequestreview-1856461378",
+      "text": "Removed 0 in Link Facility sidebar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706785413.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1856194838",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706785387.0,
+      "title": "coronasafe/care_fe#7137",
+      "link": "https://github.com/coronasafe/care_fe/pull/7137#pullrequestreview-1856194083",
+      "text": "Redesign the facility card image to 1:1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706772072.0,
+      "title": "coronasafe/ayushma#449",
+      "link": "https://github.com/coronasafe/ayushma/pull/449#pullrequestreview-1855709721",
+      "text": "Switch to pipenv"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706768454.0,
+      "title": "coronasafe/care_fe#7133",
+      "link": "https://github.com/coronasafe/care_fe/pull/7133#pullrequestreview-1855621468",
+      "text": "Fix: Disable add counsultations button when patient is discharged"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7125",
@@ -16512,9 +16678,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/176",
+      "title": "Fix new chat creation during initial empty STT",
+      "stale_for": 0,
+      "labels": [
+        "blocked",
+        "do-not-merge"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1867",
+      "title": "Add external results dummy data",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review"
       ]
@@ -16522,7 +16703,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7117",
       "title": "Add Facility Notify button for District/State Admins",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "reviewed"
@@ -16531,7 +16712,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -16539,7 +16720,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -16547,7 +16728,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16556,7 +16737,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": [
         "POC"
       ]
@@ -16564,7 +16745,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 302,
+      "stale_for": 303,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16573,13 +16754,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 315,
+      "stale_for": 316,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]

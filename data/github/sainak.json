@@ -1,6 +1,72 @@
 {
-  "last_updated": 1706719602.0,
+  "last_updated": 1706814693.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#457",
+      "time": 1706814693.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/457",
+      "text": "fix start script",
+      "turnaround_time": 3190
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#457",
+      "time": 1706811503.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/457",
+      "text": "fix start script (#456)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#456",
+      "time": 1706811366.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/456",
+      "text": "fix start script",
+      "turnaround_time": 12
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#456",
+      "time": 1706811354.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/456",
+      "text": "fix start script"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#421",
+      "time": 1706810992.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/421#issuecomment-1921923511",
+      "text": "@dependabot ignore this major version\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#449",
+      "time": 1706810569.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/449",
+      "text": "Switch to pipenv",
+      "turnaround_time": 41059
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706797598.0,
+      "title": "coronasafe/care#1867",
+      "link": "https://github.com/coronasafe/care/pull/1867#pullrequestreview-1856645107",
+      "text": "Add external results dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706787751.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921135501",
+      "text": "seems like a migration is pending, can you pull the latest changes and restart the containers\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#449",
+      "time": 1706769510.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/449",
+      "text": "Switch to pipenv"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706719602.0,
@@ -8665,31 +8731,31 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7134",
       "title": "Update username validation on useradd",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1865",
       "title": "Update username validator",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1862",
       "title": "Limit minimum encounter date to 2020-01-01",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "waiting-for-review"
       ]
@@ -8697,7 +8763,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": [
         "blocked",
         "changes required",
@@ -8708,7 +8774,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 141,
+      "stale_for": 142,
       "labels": [
         "In progress"
       ]
@@ -8716,19 +8782,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 195,
+      "stale_for": 196,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 120,
+      "stale_for": 121,
       "labels": []
     }
   ],

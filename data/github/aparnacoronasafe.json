@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706635136.0,
+  "last_updated": 1706816661.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#459",
+      "time": 1706816661.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/459",
+      "text": "Language selection"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7146",
+      "time": 1706789834.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7146",
+      "text": "Bug: spacing: patient list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#450",
+      "time": 1706778247.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/450",
+      "text": "Different answers when same question tested minutes apart"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#173",

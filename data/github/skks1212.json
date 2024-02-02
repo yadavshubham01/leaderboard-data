@@ -1,6 +1,48 @@
 {
-  "last_updated": 1706623405.0,
+  "last_updated": 1706815772.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706815772.0,
+      "title": "coronasafe/ayushma#458",
+      "link": "https://github.com/coronasafe/ayushma/pull/458#pullrequestreview-1857420867",
+      "text": "Fix speech recognition functionality"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706814688.0,
+      "title": "coronasafe/ayushma#457",
+      "link": "https://github.com/coronasafe/ayushma/pull/457#pullrequestreview-1857366472",
+      "text": "fix start script"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#449",
+      "time": 1706810374.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/449#issuecomment-1921903099",
+      "text": "@sainak conflicts\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706810358.0,
+      "title": "coronasafe/ayushma#449",
+      "link": "https://github.com/coronasafe/ayushma/pull/449#pullrequestreview-1857173903",
+      "text": "Switch to pipenv"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706810295.0,
+      "title": "coronasafe/ayushma#452",
+      "link": "https://github.com/coronasafe/ayushma/pull/452#pullrequestreview-1857172061",
+      "text": "Downgrade anyio version to 3.7.1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706808522.0,
+      "title": "coronasafe/ayushma#451",
+      "link": "https://github.com/coronasafe/ayushma/pull/451#pullrequestreview-1857102854",
+      "text": "Add check for empty recognized text in speech_to_text function"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#172",

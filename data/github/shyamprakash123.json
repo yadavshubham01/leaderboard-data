@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706613116.0,
+  "last_updated": 1706791754.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7141",
+      "time": 1706791754.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7141#issuecomment-1921255991",
+      "text": "I want to work on this, can you assign me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7142",
+      "time": 1706791586.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7142#issuecomment-1921249827",
+      "text": "I want to work on this can you assign me?"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7119",
@@ -776,14 +790,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7113",
       "title": "Draft for ABHA Linking Process.",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7061",
       "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
-      "stale_for": 4,
-      "labels": []
+      "stale_for": 1,
+      "labels": [
+        "merge conflict"
+      ]
     }
   ],
   "authored_issue_and_pr": [

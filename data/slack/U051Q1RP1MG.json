@@ -2501,5 +2501,79 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-01 00:00:00": [
+        {
+            "client_msg_id": "0be872e9-6f42-4a6a-afab-9647433fb3b2",
+            "type": "message",
+            "text": "EOD 01/02/2023\n\n\u2022 Worked on issue <https://github.com/coronasafe/care_fe/issues/7046|#7046> \n\u2022 Made a PR for the same <https://github.com/coronasafe/care_fe/pull/7136|#7136> ",
+            "user": "U051Q1RP1MG",
+            "ts": "1706808827.732239",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "s5Aq4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 01/02/2023\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7046",
+                                            "text": "#7046",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a PR for the same "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7136",
+                                            "text": "#7136",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

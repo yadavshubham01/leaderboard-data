@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706698235.0,
+  "last_updated": 1706794843.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7147",
+      "time": 1706794843.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "text": "Minor ui spacing fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706761221.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1855348613",
+      "text": "Abdm M3"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706698235.0,
@@ -28184,9 +28198,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "title": "Minor ui spacing fix",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review"
       ]
@@ -28194,7 +28214,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "need Review",
@@ -28204,19 +28224,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28229,14 +28249,13 @@
       "labels": [
         "needs testing",
         "need Review",
-        "merge conflict",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": [
         "waiting-for-review"
       ]
@@ -28244,19 +28263,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 418,
+      "stale_for": 419,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 175,
+      "stale_for": 176,
       "labels": [
         "changes required"
       ]
@@ -28264,25 +28283,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 775,
+      "stale_for": 776,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 781,
+      "stale_for": 782,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 782,
+      "stale_for": 783,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 977,
+      "stale_for": 978,
       "labels": []
     }
   ],

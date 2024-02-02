@@ -1,6 +1,139 @@
 {
-  "last_updated": 1706703645.0,
+  "last_updated": 1706795555.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7149",
+      "time": 1706795555.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7149",
+      "text": "Live update socket URL on middleware hostname change in Asset Configure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1706795078.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148",
+      "text": "Adds support for viewing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706791988.0,
+      "title": "coronasafe/care_fe#7144",
+      "link": "https://github.com/coronasafe/care_fe/pull/7144#pullrequestreview-1856420265",
+      "text": "Removed 0 in Link Facility sidebar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706789437.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921185240",
+      "text": "@konavivekramakrishna wait for the migrations to complete before running `load_dummy_data`\r\n\r\nSame issue reported here: https://github.com/coronasafe/care/issues/1833"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1866",
+      "time": 1706786697.0,
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7143",
+      "time": 1706782607.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7143",
+      "text": "Add max validation for doctor experience years"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706777727.0,
+      "title": "coronasafe/care_fe#7137",
+      "link": "https://github.com/coronasafe/care_fe/pull/7137#pullrequestreview-1855901688",
+      "text": "Redesign the facility card image to 1:1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706770795.0,
+      "title": "coronasafe/ayushma#449",
+      "link": "https://github.com/coronasafe/ayushma/pull/449#pullrequestreview-1855677811",
+      "text": "Switch to pipenv"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706769848.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1855657171",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706769712.0,
+      "title": "coronasafe/ayushma#449",
+      "link": "https://github.com/coronasafe/ayushma/pull/449#pullrequestreview-1855654667",
+      "text": "Switch to pipenv"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706764999.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1855474422",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706764999.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1855474422",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#209",
+      "time": 1706755518.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/209",
+      "text": "Migrate IO utilities to be async so that NextJS can properly leverage Suspense boundaries and render Loading layouts"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#208",
+      "time": 1706755304.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/208",
+      "text": "Not centre aligned when multiple contributors are listed in top contributors card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1706755133.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#issuecomment-1920389860",
+      "text": "@konavivekramakrishna conversation https://github.com/coronasafe/leaderboard/pull/198#discussion_r1472745737 has not been resolved"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706754904.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1855264990",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706754834.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1920382344",
+      "text": "The `meta_info` field may not being used in the current version of `care_fe`. But the backend already has it working. We do have 21 records in `meta_info` table in staging.\r\n\r\nYou can just update the enum choices\r\n\r\n<img width=\"1747\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/96d509db-a3d1-44e7-9a98-dafcdc8668e2\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7131",
+      "time": 1706754205.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7131#issuecomment-1920372757",
+      "text": "Hey @younome71 \r\n\r\nAssigned to @HubertGrabda since he had already made a working PR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706754115.0,
+      "title": "coronasafe/care_fe#7133",
+      "link": "https://github.com/coronasafe/care_fe/pull/7133#pullrequestreview-1855254300",
+      "text": "Fix: Disable add counsultations button when patient is discharged"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706703645.0,
@@ -34362,21 +34495,45 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7149",
+      "title": "Live update socket URL on middleware hostname change in Asset Configure",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7148",
+      "title": "Adds support for viewing discharged patients of a facility",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "title": "Adds view for listing discharged patients of a facility",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "stale"
       ]
@@ -34384,19 +34541,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": [
         "waiting-for-review"
       ]

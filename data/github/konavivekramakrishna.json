@@ -1,6 +1,55 @@
 {
-  "last_updated": 1706723248.0,
+  "last_updated": 1706795454.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706795454.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921374685",
+      "text": "Thanks, @sainak and  @rithviknishad \r\n\r\nThe issue has been fixed now"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706788371.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921153009",
+      "text": "No changes are there, and I have restarted the containers, but It's still showing the same error"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706786612.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921099250",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/ea076b7a-fca6-48aa-a5a6-013d61bca22e)\r\n\r\n\r\nshould i add video_connect_link field to each user in  dummy data to fix this ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1785",
+      "time": 1706786536.0,
+      "link": "https://github.com/coronasafe/care/pull/1785#issuecomment-1921096955",
+      "text": "![image](https://github.com/coronasafe/care/assets/101407963/20e10c7c-17f0-48c4-8912-958557f46201)\r\n\r\n\r\nshould i add video_connect_link field to each user in dummy data to fix this ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6945",
+      "time": 1706785074.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6945#issuecomment-1921055350",
+      "text": "@sainak \r\n\r\n\r\nwhen i am trying to load dummy data, I am getting the below error can you please help me to fix this\r\n\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/9e4a0711-fcf7-4160-8952-341a008b7c2b)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7140",
+      "time": 1706783693.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7140#issuecomment-1921011173",
+      "text": "@rithviknishad \r\n\r\ncan you please assing me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7144",
+      "time": 1706783678.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7144",
+      "text": "Remoed 0 in Link Facility sidebar"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6945",
@@ -1066,9 +1115,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7144",
+      "title": "Removed 0 in Link Facility sidebar",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -1083,7 +1141,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -1091,7 +1149,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": []
     }
   ],
