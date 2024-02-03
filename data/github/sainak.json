@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706814693.0,
+  "last_updated": 1706876309.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7158",
+      "time": 1706876309.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7158#issuecomment-1923694500",
+      "text": "seems like acces control restricton from the backend @aparnacoronasafe can you update [this](https://github.com/coronasafe/care_fe/issues/6240#issuecomment-1783827403) table with pharmacist and other roles"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706858162.0,
+      "title": "coronasafe/ayushma#461",
+      "link": "https://github.com/coronasafe/ayushma/pull/461#pullrequestreview-1858532855",
+      "text": "Adds workflow to test build docker image"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma#457",
@@ -8731,31 +8745,31 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7134",
       "title": "Update username validation on useradd",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1865",
       "title": "Update username validator",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1862",
       "title": "Limit minimum encounter date to 2020-01-01",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "waiting-for-review"
       ]
@@ -8763,7 +8777,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": [
         "blocked",
         "changes required",
@@ -8774,7 +8788,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 142,
+      "stale_for": 143,
       "labels": [
         "In progress"
       ]
@@ -8782,19 +8796,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 196,
+      "stale_for": 197,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 121,
+      "stale_for": 122,
       "labels": []
     }
   ],

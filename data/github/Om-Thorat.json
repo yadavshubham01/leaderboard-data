@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705999747.0,
+  "last_updated": 1706849734.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6911",
+      "time": 1706849734.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6911#issuecomment-1922818940",
+      "text": "The bug also happens on the live version of care. https://care.ohc.network hence wasn't introduced by this pr.\r\n\r\n@nihal467 @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6911",
@@ -164,6 +171,7 @@
       "labels": [
         "test failed",
         "changes required",
+        "stale",
         "cypress passed"
       ]
     }

@@ -1,6 +1,28 @@
 {
-  "last_updated": 1706818001.0,
+  "last_updated": 1706872619.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7153",
+      "time": 1706872619.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7153",
+      "text": "Fix investigation report pagination when first page is empty",
+      "turnaround_time": 9825
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7153",
+      "time": 1706862795.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7153",
+      "text": "Fix investigation report pagination when first page is empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706858185.0,
+      "title": "coronasafe/ayushma#461",
+      "link": "https://github.com/coronasafe/ayushma/pull/461#pullrequestreview-1858533690",
+      "text": "Adds workflow to test build docker image"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#176",
@@ -16695,7 +16717,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "need Review"
       ]
@@ -16703,7 +16725,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7117",
       "title": "Add Facility Notify button for District/State Admins",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "reviewed"
@@ -16712,7 +16734,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
@@ -16720,7 +16742,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -16728,7 +16750,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16737,7 +16759,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 119,
+      "stale_for": 120,
       "labels": [
         "POC"
       ]
@@ -16745,7 +16767,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 303,
+      "stale_for": 304,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16754,13 +16776,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 316,
+      "stale_for": 317,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]

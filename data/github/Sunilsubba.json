@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706518107.0,
+  "last_updated": 1706875828.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7158",
+      "time": 1706875828.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7158",
+      "text": " Error message on clicking patient Card (User Type: Pharmacist)"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7115",

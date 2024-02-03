@@ -1,6 +1,83 @@
 {
-  "last_updated": 1706795555.0,
+  "last_updated": 1706918289.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706918289.0,
+      "title": "coronasafe/care#1867",
+      "link": "https://github.com/coronasafe/care/pull/1867#pullrequestreview-1860643646",
+      "text": "Add external results dummy data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706888946.0,
+      "title": "coronasafe/care#1870",
+      "link": "https://github.com/coronasafe/care/pull/1870#pullrequestreview-1859569783",
+      "text": "add insurer name in csv export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7157",
+      "time": 1706873256.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7157",
+      "text": "Fix filters cache restoration logic and prevent unapplied filters in URL query params and filters cache"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706872125.0,
+      "title": "coronasafe/care_fe#7153",
+      "link": "https://github.com/coronasafe/care_fe/pull/7153#pullrequestreview-1858978434",
+      "text": "Fix investigation report pagination when first page is empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706863608.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1858688497",
+      "text": "fix review count"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706863536.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1858686563",
+      "text": "fix review count"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706863155.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1858666162",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706863155.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1858666162",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#461",
+      "time": 1706855815.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/461",
+      "text": "Adds workflow to test build docker image"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma#460",
+      "time": 1706848923.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/460",
+      "text": "Add workflow to test build image for PRs"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7151",
+      "time": 1706843203.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7151",
+      "text": "Filters cache resotration not being skipped when explicit query params specified"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7149",
@@ -34495,9 +34572,26 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7157",
+      "title": "Fix filters cache restoration logic and prevent unapplied filters in URL query params and filters cache",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/ayushma/pull/461",
+      "title": "Adds workflow to test build docker image",
+      "stale_for": 0,
+      "labels": [
+        "github_actions"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7149",
       "title": "Live update socket URL on middleware hostname change in Asset Configure",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -34506,7 +34600,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -34515,25 +34609,25 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7064",
       "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "stale"
       ]
@@ -34541,19 +34635,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": [
         "waiting-for-review"
       ]

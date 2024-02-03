@@ -1,6 +1,34 @@
 {
-  "last_updated": 1706794843.0,
+  "last_updated": 1706874514.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1578",
+      "time": 1706874513.0,
+      "link": "https://github.com/coronasafe/care/issues/1578",
+      "text": "remove fidelius and use a python package for encryption and decryption"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1578",
+      "time": 1706874514.0,
+      "link": "https://github.com/coronasafe/care/issues/1578#issuecomment-1923650120",
+      "text": "Closing this wrt #1871 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1871",
+      "time": 1706874347.0,
+      "link": "https://github.com/coronasafe/care/issues/1871",
+      "text": "Replace fidelius with a python alternative"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706872185.0,
+      "title": "coronasafe/care_fe#7153",
+      "link": "https://github.com/coronasafe/care_fe/pull/7153#pullrequestreview-1858980023",
+      "text": "Fix investigation report pagination when first page is empty"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7147",
@@ -28200,13 +28228,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "need Review"
       ]
@@ -28214,7 +28242,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review",
@@ -28224,19 +28252,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28245,7 +28273,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review",
@@ -28255,7 +28283,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "waiting-for-review"
       ]
@@ -28263,19 +28291,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 419,
+      "stale_for": 420,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 176,
+      "stale_for": 177,
       "labels": [
         "changes required"
       ]
@@ -28283,25 +28311,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 776,
+      "stale_for": 777,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 782,
+      "stale_for": 783,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 783,
+      "stale_for": 784,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 978,
+      "stale_for": 979,
       "labels": []
     }
   ],
@@ -28369,10 +28397,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1126",
       "pr_link": "https://github.com/coronasafe/care/pull/1127"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4365",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4366"
     }
   ]
 }

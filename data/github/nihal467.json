@@ -1,6 +1,62 @@
 {
-  "last_updated": 1706824835.0,
+  "last_updated": 1706884449.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7159",
+      "time": 1706884449.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7159",
+      "text": "Enhance the Doctor Notes Feature in the Patient Consultation Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7114",
+      "time": 1706881112.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#issuecomment-1923825328",
+      "text": "@khavinshankar fix the cypress issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7144",
+      "time": 1706881077.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7144#issuecomment-1923824492",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1706872405.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#issuecomment-1923593300",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7153",
+      "time": 1706872005.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7153#issuecomment-1923582985",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7156",
+      "time": 1706870515.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7156",
+      "text": "Develop a Consultation-Focused Basic Billing System Module to CARE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7155",
+      "time": 1706869240.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7155",
+      "text": "Enhance Existing Inventory System to Support Dynamic Management"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7154",
+      "time": 1706867918.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7154",
+      "text": "Imporve the camera uploaded patient files quality"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7150",

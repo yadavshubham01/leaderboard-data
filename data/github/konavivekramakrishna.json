@@ -1,6 +1,48 @@
 {
-  "last_updated": 1706795454.0,
+  "last_updated": 1706866231.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1870",
+      "time": 1706866231.0,
+      "link": "https://github.com/coronasafe/care/pull/1870",
+      "text": "add insurer name in csv export"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706858259.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1858535697",
+      "text": "fix review count"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706857544.0,
+      "title": "coronasafe/leaderboard#198",
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#pullrequestreview-1858511580",
+      "text": "fix review count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1706852705.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1922876363",
+      "text": "@rithviknishad \r\n\r\ncan you please review it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1869",
+      "time": 1706852566.0,
+      "link": "https://github.com/coronasafe/care/pull/1869",
+      "text": "draft support for patient occupation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1706852011.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152",
+      "text": "draft Fix#6945"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6945",
@@ -1115,18 +1157,38 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1870",
+      "title": "add insurer name in csv export",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1869",
+      "title": "draft support for patient occupation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7152",
+      "title": "draft occupation of patient",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7144",
       "title": "Removed 0 in Link Facility sidebar",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "need Review",
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
@@ -1141,15 +1203,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6960",
       "title": "Fixes responsiveness in Facilty Home",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": []
     }
   ],
