@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706641339.0,
+  "last_updated": 1706984337.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1706984337.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1925420539",
+      "text": "@nihal467 could you check again? the tests are passing for me locally\r\n![image](https://github.com/coronasafe/care_fe/assets/70687348/dfb7f3d7-73a7-4a1a-bdf3-dee1ee0db1df)\r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706641339.0,
@@ -7503,9 +7510,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6996",
       "title": "Add support to delete location",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "test failed",
+        "needs testing",
         "waiting for back end"
       ]
     },
@@ -7518,13 +7525,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1794",
       "title": "Send asset downtime status along with asset details",
-      "stale_for": 2,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6952",
       "title": "Show Asset Downtime on assets lists page",
-      "stale_for": 7,
+      "stale_for": 11,
       "labels": [
         "tested",
         "waiting for back end",
@@ -7534,7 +7541,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 32,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -7542,7 +7549,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 43,
+      "stale_for": 47,
       "labels": []
     }
   ],

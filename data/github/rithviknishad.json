@@ -1,6 +1,48 @@
 {
-  "last_updated": 1706918289.0,
+  "last_updated": 1706975107.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706975107.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1925363025",
+      "text": "@Ashesh3 I'm still getting a white image preview for the back camera. The front camera works.\r\n\r\n(Verified in incognito mode too)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1869",
+      "time": 1706974127.0,
+      "link": "https://github.com/coronasafe/care/pull/1869#issuecomment-1925359287",
+      "text": "@sainak, how about we keep a char choices field `occupation` in the patient registration table to keep it simple instead?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706973916.0,
+      "title": "coronasafe/care_fe#7160",
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#pullrequestreview-1861049482",
+      "text": "Improve resolution images uploaded via camera"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1706969897.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1925339583",
+      "text": "@Bhavik-ag unassigning due to no activity"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#204",
+      "time": 1706934738.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/204#issuecomment-1925086742",
+      "text": "@nihal467 this should be fixed now. The https://github.com/coronasafe/leaderboard-data was not configured properly for vercel deployments. It has now been configured and contributors.ohc.network should now show the daily updated page."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#204",
+      "time": 1706934738.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/204",
+      "text": "Leaderboard is not auto-refreshing contributors data"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706918289.0,
@@ -34574,7 +34616,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7157",
       "title": "Fix filters cache restoration logic and prevent unapplied filters in URL query params and filters cache",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -34583,7 +34625,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma/pull/461",
       "title": "Adds workflow to test build docker image",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "github_actions"
       ]
@@ -34591,7 +34633,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7149",
       "title": "Live update socket URL on middleware hostname change in Asset Configure",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
@@ -34600,7 +34642,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
@@ -34609,45 +34651,37 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7064",
-      "title": "Adds support for voluntarily opting into caching in `useQuery` and opt-in ICD-11 retrieve by ID API to be cached.",
-      "stale_for": 6,
-      "labels": [
-        "stale"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "waiting-for-review"
       ]

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1706872619.0,
+  "last_updated": 1706977649.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706977649.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1925374791",
+      "text": "Oh weird \ud83e\udd14 . @Omkar76 could you take a look into this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706974600.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1925361199",
+      "text": "> @Omkar76 the back camera is not working on my phone for this deploy preview specifically. Works in staging.\r\n> \r\n> cc: @Ashesh3\r\n\r\nSeems like the component was malfunctioning due to CSP fixes not being merged in the brach. I've updated the branch with develop. \r\n\r\nCould you check once again?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706973556.0,
+      "title": "coronasafe/care_fe#7160",
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#pullrequestreview-1861048752",
+      "text": "Improve resolution images uploaded via camera"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7153",
@@ -16702,7 +16723,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/176",
       "title": "Fix new chat creation during initial empty STT",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "blocked",
         "do-not-merge"
@@ -16711,13 +16732,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1867",
       "title": "Add external results dummy data",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "need Review"
       ]
@@ -16725,7 +16746,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7117",
       "title": "Add Facility Notify button for District/State Admins",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "reviewed"
@@ -16734,7 +16755,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -16742,7 +16763,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7077",
       "title": "Redesign Patient Info Card",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing"
       ]
@@ -16750,7 +16771,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16759,7 +16780,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 120,
+      "stale_for": 121,
       "labels": [
         "POC"
       ]
@@ -16767,7 +16788,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 304,
+      "stale_for": 305,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16776,13 +16797,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 317,
+      "stale_for": 318,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]

@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706638826.0,
+  "last_updated": 1706980727.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706980727.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1925399754",
+      "text": "@rithviknishad it's working fine for me :thinking:. which browser are you using? \r\nI tested on Brave browser on my android."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706977805.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1925376196",
+      "text": "looking :eyes: "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1706969889.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1925339542",
+      "text": "Please assign me\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1706950760.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160",
+      "text": "Improve resolution images uploaded via camera"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7154",
+      "time": 1706947779.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7154#issuecomment-1925207396",
+      "text": "Assign this to me. Sending a PR to improve resolution of image capture."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7118",
@@ -607,33 +642,36 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7160",
+      "title": "Improve resolution images uploaded via camera",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7118",
       "title": "Replace font-awesome icons by CareIcon component",
-      "stale_for": 0,
-      "labels": []
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "need Review",
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 13,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 14,
+      "stale_for": 18,
       "labels": [
         "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6659",
-      "title": "Show fields when copying from previous log",
-      "stale_for": 6,
-      "labels": [
-        "test failed",
-        "merge conflict",
-        "stale"
       ]
     }
   ],

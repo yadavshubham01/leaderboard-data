@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706866231.0,
+  "last_updated": 1706988296.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1706988296.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1861114162",
+      "text": "draft support for patient occupation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706988118.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1861113883",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706987479.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1861112846",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1706986719.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1861111730",
+      "text": "draft support for patient occupation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1869",
+      "time": 1706973981.0,
+      "link": "https://github.com/coronasafe/care/pull/1869#issuecomment-1925358726",
+      "text": "@rithviknishad \r\n\r\n can you please review this? I am facing an issue: if a patient first selects an occupation, later, if the patient unselects it, the system should either delete the record or simply keep the occupation field as null"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1870",
@@ -1159,7 +1194,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "add insurer name in csv export",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -1179,7 +1214,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7144",
       "title": "Removed 0 in Link Facility sidebar",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review",
         "tested"
@@ -1188,7 +1223,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "need Review"
@@ -1197,7 +1232,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -1211,7 +1246,7 @@
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/19",
       "title": "Update sample_format_external_result",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": []
     }
   ],
