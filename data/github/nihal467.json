@@ -1,6 +1,69 @@
 {
-  "last_updated": 1706884449.0,
+  "last_updated": 1707083673.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7137",
+      "time": 1707083673.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7137#issuecomment-1925934094",
+      "text": "LGTM, is this design approved by @aparnacoronasafe \r\n\r\nCC: @AshrafMd-1 @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7133",
+      "time": 1707083535.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7133#issuecomment-1925933547",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1707083424.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1925933119",
+      "text": "@Omkar76 can you clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7149",
+      "time": 1707083284.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7149#issuecomment-1925932534",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7161",
+      "time": 1707083097.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7161#issuecomment-1925931840",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7162",
+      "time": 1707082875.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7162#issuecomment-1925930911",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7117",
+      "time": 1707082573.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7117#issuecomment-1925925996",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1707082428.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#issuecomment-1925925229",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/18f21c00-7113-48f2-9d68-5f523fe1ccea)\r\n\r\nthe log update button seems to have a huge width, can you check reducing it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7165",
+      "time": 1707067984.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7165",
+      "text": "Created Cypress Test | Patient Transfer and Patient Data Import From External Result and  | Patient Module"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7159",
@@ -32132,6 +32195,13 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7165",
+      "title": "New Cypress Test | Patient Transfer and Patient Data Import From External Result | Patient Module",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
