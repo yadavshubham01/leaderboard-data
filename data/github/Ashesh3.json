@@ -1,6 +1,81 @@
 {
-  "last_updated": 1707058571.0,
+  "last_updated": 1707148767.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707148767.0,
+      "title": "coronasafe/care_fe#7174",
+      "link": "https://github.com/coronasafe/care_fe/pull/7174#pullrequestreview-1863173348",
+      "text": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7173",
+      "time": 1707144032.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7173",
+      "text": "Production Release | Feb Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707142621.0,
+      "title": "coronasafe/leaderboard#211",
+      "link": "https://github.com/coronasafe/leaderboard/pull/211#pullrequestreview-1862920108",
+      "text": "Migrate sync IO utilities to async"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707118440.0,
+      "title": "coronasafe/care_fe#7157",
+      "link": "https://github.com/coronasafe/care_fe/pull/7157#pullrequestreview-1862042988",
+      "text": "Fix filters cache restoration logic + cleaner URL query params and filters cache + fixes state management of facility, lsg body and district in patient filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707114770.0,
+      "title": "coronasafe/care#1831",
+      "link": "https://github.com/coronasafe/care/pull/1831#pullrequestreview-1861973269",
+      "text": "Cleanup: Delete unused Meta ICD11 Diagnosis Table"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7150",
+      "time": 1707113274.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7150#issuecomment-1926292358",
+      "text": "Facility name to be linked to the investigation record and shown in the UI."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1707110194.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#issuecomment-1926247521",
+      "text": "> Should we make the \"Hide diagnoses\" button less intense?\r\n> \r\n> The diagnoses itself seems to be of `font-normal`. But hide diagnoses is gaining more attention with it being bold than the diagnoses itself.\r\n\r\nI agree, it took away the initial focus of the user from the diagnoses list by standing out too much. I've softened it out a bit. Although no changes are to be made for \"Show diagnoses\", since it's supposed to stand out and be obvious. Let me know how it looks now.\r\n\r\n- Removed semibold\r\n+ text-gray-600 hover:bg-gray-200\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/0313b023-1e3f-4e08-bbec-73e766000beb)\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/263ddc21-b47f-4cbd-bb80-35d292a9a840)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707109557.0,
+      "title": "coronasafe/care_fe#7077",
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#pullrequestreview-1861891761",
+      "text": "Redesign Patient Info Card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707109110.0,
+      "title": "coronasafe/care_fe#7149",
+      "link": "https://github.com/coronasafe/care_fe/pull/7149#pullrequestreview-1861886621",
+      "text": "Live update socket URL on middleware hostname change in Asset Configure"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707109098.0,
+      "title": "coronasafe/care_fe#7163",
+      "link": "https://github.com/coronasafe/care_fe/pull/7163#pullrequestreview-1861886513",
+      "text": "Increase the Add button height in skills slideover."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1867",
@@ -16745,16 +16820,13 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/176",
       "title": "Fix new chat creation during initial empty STT",
-      "stale_for": 2,
-      "labels": [
-        "blocked",
-        "do-not-merge"
-      ]
+      "stale_for": 0,
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "need Review"
       ]
@@ -16762,7 +16834,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7117",
       "title": "Add Facility Notify button for District/State Admins",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "reviewed"
@@ -16771,7 +16843,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1843",
       "title": "Track Location Uptime",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -16781,13 +16853,14 @@
       "title": "Redesign Patient Info Card",
       "stale_for": 0,
       "labels": [
-        "needs testing"
+        "needs testing",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -16796,7 +16869,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 122,
+      "stale_for": 123,
       "labels": [
         "POC"
       ]
@@ -16804,7 +16877,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 306,
+      "stale_for": 307,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -16813,13 +16886,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 319,
+      "stale_for": 320,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]

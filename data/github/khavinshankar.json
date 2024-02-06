@@ -1,6 +1,41 @@
 {
-  "last_updated": 1706874514.0,
+  "last_updated": 1707131667.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707131667.0,
+      "title": "coronasafe/care_fe#7165",
+      "link": "https://github.com/coronasafe/care_fe/pull/7165#pullrequestreview-1862459639",
+      "text": "New Cypress Test | Patient Transfer and Patient Data Import From External Result | Patient Module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7166",
+      "time": 1707130238.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "text": "Patient Filters: Selected state of Facility, LSG Body and District is not working as expected"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7166",
+      "time": 1707130238.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "text": "Patient Filters: Selected state of Facility, LSG Body and District is not working as expected"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7151",
+      "time": 1707130238.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7151",
+      "text": "Filters cache resotration not being skipped when explicit query params specified"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707130223.0,
+      "title": "coronasafe/care_fe#7157",
+      "link": "https://github.com/coronasafe/care_fe/pull/7157#pullrequestreview-1862415124",
+      "text": "Fix filters cache restoration logic + cleaner URL query params and filters cache + fixes state management of facility, lsg body and district in patient filters"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1578",
@@ -28228,13 +28263,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "need Review"
       ]
@@ -28242,29 +28277,28 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
-        "needs testing",
-        "need Review",
+        "changes required",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 3,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 9,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 23,
+      "stale_for": 26,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28273,7 +28307,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "need Review",
@@ -28283,7 +28317,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 58,
+      "stale_for": 61,
       "labels": [
         "waiting-for-review"
       ]
@@ -28291,19 +28325,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 68,
+      "stale_for": 71,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 420,
+      "stale_for": 423,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 177,
+      "stale_for": 180,
       "labels": [
         "changes required"
       ]
@@ -28311,25 +28345,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 777,
+      "stale_for": 780,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 783,
+      "stale_for": 786,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 784,
+      "stale_for": 787,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 979,
+      "stale_for": 982,
       "labels": []
     }
   ],

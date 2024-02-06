@@ -1,6 +1,36 @@
 {
-  "last_updated": 1706623323.0,
+  "last_updated": 1707144032.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7173",
+      "time": 1707144032.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7173",
+      "text": "Production Release | Feb Week 1",
+      "turnaround_time": 44
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1872",
+      "time": 1707144027.0,
+      "link": "https://github.com/coronasafe/care/pull/1872",
+      "text": "Production Release | Feb Week 1",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1872",
+      "time": 1707144019.0,
+      "link": "https://github.com/coronasafe/care/pull/1872",
+      "text": "Production Release | Feb Week 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7173",
+      "time": 1707143989.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7173",
+      "text": "Production Release | Feb Week 1"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#172",
@@ -6986,7 +7016,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 49,
+      "stale_for": 55,
       "labels": [
         "In Progress"
       ]

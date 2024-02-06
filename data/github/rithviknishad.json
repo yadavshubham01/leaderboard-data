@@ -1,6 +1,174 @@
 {
-  "last_updated": 1707049016.0,
+  "last_updated": 1707148110.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7174",
+      "time": 1707148110.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7174",
+      "text": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707144229.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1862979877",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707144229.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1862979877",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7173",
+      "time": 1707144032.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7173",
+      "text": "Production Release | Feb Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#209",
+      "time": 1707143877.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/209",
+      "text": "Migrate IO utilities to be async so that NextJS can properly leverage Suspense boundaries and render Loading layouts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#211",
+      "time": 1707143876.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/211",
+      "text": "Migrate sync IO utilities to async",
+      "turnaround_time": 42758
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707131007.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1862355430",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7171",
+      "time": 1707130934.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7171",
+      "text": "Replace `useDispatch` w. `useQuery`/`request`: Patient Registration Form (`src/Components/Patient/PatientRegister.tsx`)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7170",
+      "time": 1707130904.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7170",
+      "text": "Replace `useDispatch` w. `useQuery`/`request`: File Upload (`src/Components/Patient/FileUpload.tsx`)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7169",
+      "time": 1707130883.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7169",
+      "text": "Replace `useDispatch` w. `useQuery`/`request`: Daily Rounds form (`src/Components/Patient/DailyRounds.tsx`)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707130820.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1862355430",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7157",
+      "time": 1707130237.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7157",
+      "text": "Fix filters cache restoration logic + cleaner URL query params and filters cache + fixes state management of facility, lsg body and district in patient filters",
+      "turnaround_time": 27835
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1707128736.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132#issuecomment-1926659985",
+      "text": "Hey @younome71 any updates on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707128425.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1862355430",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7168",
+      "time": 1707128033.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7168",
+      "text": "Replace `useDispatch` w. `useQuery`/`request`: Investigations (`src/Components/Facility/Investigations`)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7157",
+      "time": 1707116835.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7157#issuecomment-1926349202",
+      "text": "@nihal467 this is happening in staging too for facility + lsg body + districts too (#7166).\r\n\r\nWill fix along with this PR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7166",
+      "time": 1707116774.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "text": "Patient Filters: Selected state of Facility, LSG Body and District is not working as expected"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707114835.0,
+      "title": "coronasafe/care_fe#7077",
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#pullrequestreview-1861974325",
+      "text": "Redesign Patient Info Card"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#212",
+      "time": 1707114273.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/212",
+      "text": "Support for showing GitHub discussions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#211",
+      "time": 1707110499.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/211",
+      "text": "Migrate sync IO utilities to async"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1707101439.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#issuecomment-1926135871",
+      "text": "Should we make the \"Hide diagnoses\" button less intense?\r\n\r\nThe diagnoses itself seems to be of `font-normal`. But hide diagnoses is gaining more attention with it being bold than the diagnoses itself."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707101331.0,
+      "title": "coronasafe/care_fe#7077",
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#pullrequestreview-1861795236",
+      "text": "Redesign Patient Info Card"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707101280.0,
+      "title": "coronasafe/care_fe#7077",
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#pullrequestreview-1861794738",
+      "text": "Redesign Patient Info Card"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707049016.0,
@@ -34677,9 +34845,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7157",
-      "title": "Fix filters cache restoration logic and prevent unapplied filters in URL query params and filters cache",
-      "stale_for": 2,
+      "link": "https://github.com/coronasafe/care_fe/pull/7174",
+      "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -34688,7 +34856,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma/pull/461",
       "title": "Adds workflow to test build docker image",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "github_actions"
       ]
@@ -34705,7 +34873,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review",
@@ -34715,43 +34883,55 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 10,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
       "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 13,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/191",
       "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7151",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/209",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/211"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1851",
       "pr_link": "https://github.com/coronasafe/care/pull/1852"
@@ -34811,10 +34991,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/152",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/165"
     }
   ]
 }

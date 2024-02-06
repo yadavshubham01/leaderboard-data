@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706730105.0,
+  "last_updated": 1707159452.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1707159452.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132#issuecomment-1927830822",
+      "text": "@rithviknishad I was facing some issues initially setting up the environment, which got resolved just now. Will update shortly about the progress\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7046",

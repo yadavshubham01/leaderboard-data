@@ -1,6 +1,68 @@
 {
-  "last_updated": 1707083673.0,
+  "last_updated": 1707163075.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1707163075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#issuecomment-1927900613",
+      "text": "@Ashesh3 modify the failing test"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707162957.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1863642700",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707162991.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1863642700",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1707160848.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1927872509",
+      "text": "@Pranshu1902 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/2592aefc-343f-45d7-ab3c-2c30b1660df3)\r\n\r\n- [ ] i just with checked it with fresh backend and frontend, check whether your front-end and backend is updated, the last test is failing."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7173",
+      "time": 1707144032.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7173",
+      "text": "Production Release | Feb Week 1",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7165",
+      "time": 1707131674.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7165",
+      "text": "New Cypress Test | Patient Transfer and Patient Data Import From External Result | Patient Module",
+      "turnaround_time": 63691
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7157",
+      "time": 1707129676.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7157#issuecomment-1926687563",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7157",
+      "time": 1707112191.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7157#issuecomment-1926276497",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5748ad67-2002-4114-b3fa-d9f50fb4b7d9)\r\n\r\n-> apply a facility filter in the patient advance filter and switch the tab\r\n-> After switching back the tab to patient tab\r\n-> Open the advance filter and scroll down to the facility filter column, it is blank even though the filter works well"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7137",
@@ -32195,13 +32257,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7165",
-      "title": "New Cypress Test | Patient Transfer and Patient Data Import From External Result | Patient Module",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

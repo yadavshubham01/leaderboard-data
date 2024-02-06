@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706816661.0,
+  "last_updated": 1707132986.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7121",
+      "time": 1707132986.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7121#issuecomment-1926781109",
+      "text": "Increase pulse rate data validation to any number equal to or less than 600."
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma#459",
