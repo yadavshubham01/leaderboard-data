@@ -1,6 +1,14 @@
 {
-  "last_updated": 1706801640.0,
+  "last_updated": 1707248319.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7071",
+      "time": 1707248319.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7071",
+      "text": "only loading discontinued prescriptions instead of all prescriptions",
+      "turnaround_time": 30261
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1868",
@@ -991,7 +999,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1868",
       "title": "added user type check before creating new asset",
-      "stale_for": 0,
+      "stale_for": 5,
       "labels": []
     },
     {
@@ -1001,15 +1009,6 @@
       "labels": [
         "changes required",
         "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7071",
-      "title": "only loading discontinued prescriptions instead of all prescriptions",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
       ]
     },
     {

@@ -1,6 +1,14 @@
 {
-  "last_updated": 1706718262.0,
+  "last_updated": 1707248237.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7133",
+      "time": 1707248237.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7133",
+      "text": "Fix: Disable add counsultations button when patient is discharged",
+      "turnaround_time": 11575
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7133",
@@ -16,13 +24,6 @@
       "text": "Hey, I can help with that "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7133",
-      "title": "Fix: Disable add counsultations button when patient is discharged",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

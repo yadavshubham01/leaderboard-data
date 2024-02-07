@@ -2081,5 +2081,64 @@
                 }
             ]
         }
+    ],
+    "2024-02-06 00:00:00": [
+        {
+            "client_msg_id": "27a32335-5114-4f36-a656-de9eca42a18e",
+            "type": "message",
+            "text": "EOD 6/02/2024:\n\u2022 Updating self hosted whsiper model to latest version: <https://github.com/coronasafe/care-whisper/commit/f41d44b58581ca13fd37470af78a2a62625578f3|link>\n\u2022 Finding issue with hindi stt engines",
+            "user": "U02U103J5LG",
+            "ts": "1707231146.932489",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6wyvD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 6/02/2024:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Updating self hosted whsiper model to latest version: "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care-whisper/commit/f41d44b58581ca13fd37470af78a2a62625578f3",
+                                            "text": "link"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Finding issue with hindi stt engines"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

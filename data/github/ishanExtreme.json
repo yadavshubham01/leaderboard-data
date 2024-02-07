@@ -1,6 +1,13 @@
 {
-  "last_updated": 1698169236.0,
+  "last_updated": 1707229174.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma#267",
+      "time": 1707229174.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/267",
+      "text": "Add support and option for self hosted whisper to be used in care"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/teleicu_middleware#107",
@@ -1262,13 +1269,13 @@
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/107",
       "title": "v2 ocr addon",
-      "stale_for": 0,
+      "stale_for": 82,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_ocr/pull/9",
       "title": "v2 ocr addon",
-      "stale_for": 0,
+      "stale_for": 105,
       "labels": []
     }
   ],

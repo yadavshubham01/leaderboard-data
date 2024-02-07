@@ -1,6 +1,32 @@
 {
-  "last_updated": 1707146774.0,
+  "last_updated": 1707248294.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7084",
+      "time": 1707248294.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7084",
+      "text": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient.",
+      "turnaround_time": 19721
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7084",
+      "time": 1707248294.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7084",
+      "text": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient.",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7161",
+      "time": 1707248276.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7161",
+      "text": "Add max validation for doctor experience years in add user form",
+      "turnaround_time": 24221
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7171",
@@ -884,31 +910,21 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7162",
       "title": "Limit the decimal points in the Facility GPS Location field upto 7.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "need Review",
         "tested"
       ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7161",
-      "title": "Add max validation for doctor experience years in add user form",
-      "stale_for": 1,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7084",
-      "title": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient.",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "good to merge",
-        "reviewed"
-      ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7041"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7084"
+    }
+  ]
 }

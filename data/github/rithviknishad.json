@@ -1,6 +1,201 @@
 {
-  "last_updated": 1707148110.0,
+  "last_updated": 1707248294.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7084",
+      "time": 1707248294.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7084",
+      "text": "Replaced useDispatch with useQuery/request in Treatment Summary and Transfer Patient.",
+      "collaborated_with": [
+        "sriharsh05"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1707247980.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160",
+      "text": "Improve resolution images uploaded via camera",
+      "collaborated_with": [
+        "Omkar76",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#26",
+      "time": 1707238389.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/26#issuecomment-1930351603",
+      "text": "Completed in 3f599f8db15bfc8a85dc25e3207e79ff78b89f7e"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#26",
+      "time": 1707238388.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/26",
+      "text": "Add pagination for activity feed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#138",
+      "time": 1707238364.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/138#issuecomment-1930350502",
+      "text": "Completed in 3f599f8db15bfc8a85dc25e3207e79ff78b89f7e"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#138",
+      "time": 1707238363.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/138",
+      "text": "Paginate user activity by month"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#213",
+      "time": 1707238253.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/213",
+      "text": "change font to monospace font across the leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#214",
+      "time": 1707238252.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/214",
+      "text": "Use monospaced font",
+      "turnaround_time": 6114
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#214",
+      "time": 1707237756.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/214",
+      "text": "Use monospaced font"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#191",
+      "time": 1707234717.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/191",
+      "text": "Adds support for pagination in contributors' activity timeline",
+      "turnaround_time": 9506
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#213",
+      "time": 1707232139.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/213",
+      "text": "change font to monospace font across the leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#461",
+      "time": 1707227925.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/461",
+      "text": "Adds workflow to test build docker image",
+      "turnaround_time": 33402
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707225358.0,
+      "title": "coronasafe/care_fe#7160",
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#pullrequestreview-1865143260",
+      "text": "Improve resolution images uploaded via camera"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707222647.0,
+      "title": "coronasafe/care_fe#7118",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#pullrequestreview-1865036590",
+      "text": "Replace font-awesome icons by CareIcon component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/10bedicu#76",
+      "time": 1707216923.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/76",
+      "text": "Update geojson data of Sikkim",
+      "turnaround_time": 150
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#76",
+      "time": 1707216774.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/76",
+      "text": "Update geojson data of Sikkim"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1707207886.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1929001266",
+      "text": "What's the issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7176",
+      "time": 1707207823.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7176",
+      "text": "enable hcx",
+      "turnaround_time": 5979
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_deploy_configs#20",
+      "time": 1707202827.0,
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
+      "text": "Remove `dashboard_url` from staging config.json",
+      "turnaround_time": 86035
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7176",
+      "time": 1707201844.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7176",
+      "text": "enable hcx"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707198936.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1864327793",
+      "text": "draft support for patient occupation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707198936.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1864327793",
+      "text": "draft support for patient occupation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707196841.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1864296378",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707196841.0,
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1864296378",
+      "text": "draft occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707195987.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1864285394",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707195956.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1864285394",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7174",
@@ -34847,24 +35042,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/ayushma/pull/461",
-      "title": "Adds workflow to test build docker image",
-      "stale_for": 3,
-      "labels": [
-        "github_actions"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7149",
       "title": "Live update socket URL on middleware hostname change in Asset Configure",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review",
         "tested"
@@ -34873,7 +35060,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review",
@@ -34883,46 +35070,52 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20",
-      "title": "Remove `dashboard_url` from staging config.json",
-      "stale_for": 14,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/191",
-      "title": "Adds support for pagination in contributors' activity timeline",
-      "stale_for": 42,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": [
         "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5681",
+      "title": "HCX Communication",
+      "stale_for": 0,
+      "labels": [
+        "merge conflict",
+        "stale",
+        "cypress failed"
       ]
     }
   ],
   "authored_issue_and_pr": [
     {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/214"
+    },
+    {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7166",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/460",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/461"
     },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7151",
@@ -34979,18 +35172,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6847",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6852"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/157",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/174"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6822",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6823"
     }
   ]
 }

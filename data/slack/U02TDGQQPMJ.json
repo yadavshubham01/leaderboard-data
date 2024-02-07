@@ -25573,5 +25573,104 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-06 00:00:00": [
+        {
+            "client_msg_id": "379c1620-4184-460a-bd76-124a1b158b56",
+            "type": "message",
+            "text": "*EOD 06/02/2024 <!subteam^S035L5S02RF|@care_engineering>* \n\n*How did the day go?*\n\u2022 <https://github.com/coronasafe/10bedicu/pull/76|10bedicu#76>: Updated sikkim\u2019s geojson file to contain the latest districts\n\u2022 <https://github.com/coronasafe/leaderboard/pull/191|leaderboard#191>: Added support for pagination (by date range) in contributors timeline and filtering by activity type",
+            "user": "U02TDGQQPMJ",
+            "ts": "1707232610.010029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Fjjp8",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 06/02/2024 ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S035L5S02RF",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/10bedicu/pull/76",
+                                            "text": "10bedicu#76"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Updated sikkim\u2019s geojson file to contain the latest districts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/leaderboard/pull/191",
+                                            "text": "leaderboard#191"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ": Added support for pagination (by date range) in contributors timeline and filtering by activity type"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "edited": {
+                "user": "U02TDGQQPMJ",
+                "ts": "1707232642.000000"
+            }
+        }
     ]
 }

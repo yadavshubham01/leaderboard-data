@@ -1,6 +1,14 @@
 {
-  "last_updated": 1706777179.0,
+  "last_updated": 1707248258.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7137",
+      "time": 1707248258.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7137",
+      "text": "Redesign the facility card image to 1:1",
+      "turnaround_time": 46737
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7137",
@@ -1574,17 +1582,7 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7137",
-      "title": "Redesign the facility card image to 1:1",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",

@@ -1,6 +1,132 @@
 {
-  "last_updated": 1707131667.0,
+  "last_updated": 1707248320.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7049",
+      "time": 1707248320.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7049",
+      "text": "Improve Loading Discontinued Prescriptions in MAR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707248311.0,
+      "title": "coronasafe/care_fe#7071",
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#pullrequestreview-1866170205",
+      "text": "only loading discontinued prescriptions instead of all prescriptions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7036",
+      "time": 1707248295.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7036",
+      "text": "\ud83d\udee0\ufe0f Replace useDispatch w. useQuery/request: Facility (Part 3, I-Z) (src/Components/Facility/[I-Z]*.tsx)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7143",
+      "time": 1707248277.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7143",
+      "text": "Add max validation for doctor experience years"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707248270.0,
+      "title": "coronasafe/care_fe#7161",
+      "link": "https://github.com/coronasafe/care_fe/pull/7161#pullrequestreview-1866169190",
+      "text": "Add max validation for doctor experience years in add user form"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7045",
+      "time": 1707248259.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7045",
+      "text": "Facility list: image to be 1:1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707248253.0,
+      "title": "coronasafe/care_fe#7137",
+      "link": "https://github.com/coronasafe/care_fe/pull/7137#pullrequestreview-1866168702",
+      "text": "Redesign the facility card image to 1:1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7131",
+      "time": 1707248238.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7131",
+      "text": "Add consultation updates button not disabled in Patient Details page for Discharged consultations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707248230.0,
+      "title": "coronasafe/care_fe#7133",
+      "link": "https://github.com/coronasafe/care_fe/pull/7133#pullrequestreview-1866168065",
+      "text": "Fix: Disable add counsultations button when patient is discharged"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707248002.0,
+      "title": "coronasafe/care_fe#7117",
+      "link": "https://github.com/coronasafe/care_fe/pull/7117#pullrequestreview-1866161976",
+      "text": "Add Facility Notify button for District/State Admins"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7154",
+      "time": 1707247981.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7154",
+      "text": "Improve the camera uploaded patient files quality"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707247943.0,
+      "title": "coronasafe/care_fe#7160",
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#pullrequestreview-1866159885",
+      "text": "Improve resolution images uploaded via camera"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707210822.0,
+      "title": "coronasafe/care_fe#5681",
+      "link": "https://github.com/coronasafe/care_fe/pull/5681#pullrequestreview-1864627846",
+      "text": "HCX Communication"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707210822.0,
+      "title": "coronasafe/care_fe#5681",
+      "link": "https://github.com/coronasafe/care_fe/pull/5681#pullrequestreview-1864627846",
+      "text": "HCX Communication"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707208628.0,
+      "title": "coronasafe/care_fe#7177",
+      "link": "https://github.com/coronasafe/care_fe/pull/7177#pullrequestreview-1864556163",
+      "text": "Revert Hcx Configuration in the staging"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707207817.0,
+      "title": "coronasafe/care_fe#7176",
+      "link": "https://github.com/coronasafe/care_fe/pull/7176#pullrequestreview-1864530515",
+      "text": "enable hcx"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707202822.0,
+      "title": "coronasafe/care_deploy_configs#20",
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/20#pullrequestreview-1864403991",
+      "text": "Remove `dashboard_url` from staging config.json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707202808.0,
+      "title": "coronasafe/care_deploy_configs#21",
+      "link": "https://github.com/coronasafe/care_deploy_configs/pull/21#pullrequestreview-1864403721",
+      "text": "Update staging config"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707131667.0,
@@ -28263,13 +28389,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "need Review"
       ]
@@ -28277,7 +28403,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required",
         "ABDM"
@@ -28286,19 +28412,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 12,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28307,17 +28433,18 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6487",
       "title": "Abdm M3",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review",
+        "merge conflict",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "waiting-for-review"
       ]
@@ -28325,19 +28452,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 71,
+      "stale_for": 72,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 423,
+      "stale_for": 424,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": [
         "changes required"
       ]
@@ -28345,25 +28472,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 780,
+      "stale_for": 781,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 786,
+      "stale_for": 787,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 787,
+      "stale_for": 788,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 982,
+      "stale_for": 983,
       "labels": []
     }
   ],

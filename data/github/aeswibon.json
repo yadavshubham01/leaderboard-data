@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707141987.0,
+  "last_updated": 1707216733.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1707216733.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1929260865",
+      "text": "> What's the issue?\r\n\r\nFacing difficulty in converting handleLoadMore function. Can you help me in that. Just pushed the bug commit..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1707205741.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1928951271",
+      "text": "@rithviknishad Facing difficulties in migrating the `src/Components/Facility/Investigations/Reports/**`."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1707196191.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1928795334",
+      "text": "> @aeswibon `src/Components/Facility/Investigations/Reports/**` has not been migrated\r\n> \r\n> <img alt=\"image\" width=\"1182\" src=\"https://private-user-images.githubusercontent.com/25143503/302508040-7cff728c-4fd6-4dd2-89a7-d81e2862212e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxOTYzODIsIm5iZiI6MTcwNzE5NjA4MiwicGF0aCI6Ii8yNTE0MzUwMy8zMDI1MDgwNDAtN2NmZjcyOGMtNGZkNi00ZGQyLTg5YTctZDgxZTI4NjIyMTJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjA2VDA1MDgwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUxMjhlYzFlNzZlMGIzZDU0OWYzYmFmNTZmNTUwMDdkYjljYmMzMzMwNTIxNmZiNWVjNTg4N2Y2NjJhNTVjY2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uOnsEg0tDF5hmTqLYFkgjdjx36dQ1rkGp9A6ZcX3doM\">\r\n\r\n@rithviknishad I am working on it, that's why the PR was draft.."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7172",
@@ -85,19 +106,20 @@
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1839",
       "title": "fix: Custom Migration to clean no input values as null in Daily Rounds table",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "do not merge",
         "hold",
@@ -108,7 +130,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -118,7 +140,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 80,
+      "stale_for": 81,
       "labels": []
     }
   ],

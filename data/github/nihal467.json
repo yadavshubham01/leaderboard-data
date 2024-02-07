@@ -1,6 +1,98 @@
 {
-  "last_updated": 1707163075.0,
+  "last_updated": 1707246405.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7061",
+      "time": 1707246405.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7061#issuecomment-1930582353",
+      "text": "@shyamprakash123 you might have mishandled the merge conflicts and the file changes are not related to the PR. I would suggest taking advice on how to handle merge conflicts and for now, close this PR and create a new one."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1707245552.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#issuecomment-1930561104",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/72f6088e-d5bf-40e7-b529-d03936dbfeaf)\r\n\r\n- [ ] a discharge patient file is trying to be accessed by a staff , but he is not able to see the details, because the patient is already admitted in another facility as live patient\r\n\r\nis this expected behaviour"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7160",
+      "time": 1707243402.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7160#issuecomment-1930507980",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7163",
+      "time": 1707243096.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7163#issuecomment-1930500188",
+      "text": "@shyamprakash123 "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7179",
+      "time": 1707240673.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7179",
+      "text": "Automate Daily Rounds is not working properly"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7137",
+      "time": 1707223966.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7137#issuecomment-1929464549",
+      "text": "@aparnacoronasafe approved it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7071",
+      "time": 1707222968.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7071#issuecomment-1929436681",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1707222681.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1929429341",
+      "text": "@Omkar76 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/a88c24d9-a706-4979-b32a-313c87e2e397)\r\n\r\n- [ ] the cross button is smaller compared to the existing staging, keep it as consist on size and boldness\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/245e2fa9-484e-4e02-8ae6-c3a61de52b60)\r\n\r\n- [ ] the asset import all the icons are really small, do check its size\r\n\r\n@Omkar76 seems like all the icon sizes are small comparatively, so go through all file change and make sure the icons are in proper size before you mark it again for review and testing"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1707216007.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1929234092",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/fb65b2db-136d-49f4-b56c-c93e880cede7)\r\n\r\n- [ ] Apply critical log filter, to a patient consultation where there is no critical care log update is present and you will be an additional card present below the no consultation card\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7077",
+      "time": 1707215376.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#issuecomment-1929215504",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7177",
+      "time": 1707208636.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7177",
+      "text": "Revert Hcx Configuration in the staging",
+      "turnaround_time": 356
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7178",
+      "time": 1707208566.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7178",
+      "text": "Enable HCX for Demo Purpose"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7177",
+      "time": 1707208280.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7177",
+      "text": "Revert Hcx Configuration in the staging"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7077",
@@ -32257,6 +32349,15 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7178",
+      "title": "Enable HCX for Demo Purpose",
+      "stale_for": 0,
+      "labels": [
+        "HCX"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

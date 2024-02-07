@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706815772.0,
+  "last_updated": 1707227925.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma#460",
+      "time": 1707227925.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/460",
+      "text": "Add workflow to test build image for PRs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707227919.0,
+      "title": "coronasafe/ayushma#461",
+      "link": "https://github.com/coronasafe/ayushma/pull/461#pullrequestreview-1865271468",
+      "text": "Adds workflow to test build docker image"
+    },
     {
       "type": "pr_reviewed",
       "time": 1706815772.0,
