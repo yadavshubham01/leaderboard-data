@@ -1,6 +1,120 @@
 {
-  "last_updated": 1707248294.0,
+  "last_updated": 1707324799.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7189",
+      "time": 1707324799.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7189",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled",
+      "turnaround_time": 7612
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7189",
+      "time": 1707324799.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7189",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7189",
+      "time": 1707317718.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7189",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7187",
+      "time": 1707317447.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7187#issuecomment-1932209967",
+      "text": "Update: as per the latest version of care, we cannot create a consultation without at least 1 diagnosis.\r\n\r\nWe could hide the diagnosis card in such cases."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7188",
+      "time": 1707317188.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7188",
+      "text": "Patient details page, relative date time having \"false\" in text"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1707314225.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#issuecomment-1932105499",
+      "text": "@nihal467 unable to reproduce.\r\n\r\nI've admitted a previously discharged patient of \"Critical Care\" patient named \"James Gunn\" to \"James Assets\" facility.\r\n\r\nI'm still able to access the patient from the discharged patients view of \"Critical Care\"\r\n\r\n\r\n<img width=\"1483\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/9590766a-b632-4be1-93e9-5ba78392c7de\">\r\n\r\n<img width=\"1481\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/9dc26bdf-3024-422e-b8f7-3237c1b9522e\">\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7187",
+      "time": 1707313740.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7187",
+      "text": "User would be confused whether diagnoses are being loaded or does the consultation not have any diagnoses associated to it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7186",
+      "time": 1707313227.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7186#issuecomment-1932074726",
+      "text": "We can hide the asset name (since it's not very relevant) to a `(i)` info button which when clicked opens a popup that'll show the asset name, middleware and IP address. Also, add a configure button in the popup which will take you to the configure page of that asset.\r\n\r\n<img width=\"709\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/e5bcac63-69f9-4355-adff-0469b4cf3520\">\r\n\r\ncc: @nihal467 @aparnacoronasafe \r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707302504.0,
+      "title": "coronasafe/care_fe#7185",
+      "link": "https://github.com/coronasafe/care_fe/pull/7185#pullrequestreview-1867483965",
+      "text": "Make Update Log buttons responsive"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1707302474.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960",
+      "text": "Fixes responsiveness in Facilty Home",
+      "collaborated_with": [
+        "nihal467",
+        "konavivekramakrishna"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707300054.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1867397219",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707300054.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1867397219",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707286981.0,
+      "title": "coronasafe/care_fe#7180",
+      "link": "https://github.com/coronasafe/care_fe/pull/7180#pullrequestreview-1866985977",
+      "text": "Hide Asset Type"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7149",
+      "time": 1707284947.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7149",
+      "text": "Live update socket URL on middleware hostname change in Asset Configure",
+      "turnaround_time": 65628
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#215",
+      "time": 1707270122.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/215",
+      "text": "Add API route for leaderboard"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7084",
@@ -35042,19 +35156,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7149",
-      "title": "Live update socket URL on middleware hostname change in Asset Configure",
-      "stale_for": 1,
-      "labels": [
-        "need Review",
-        "tested"
       ]
     },
     {
@@ -35064,31 +35169,32 @@
       "labels": [
         "needs testing",
         "need Review",
-        "waiting for back end"
+        "waiting for back end",
+        "discussion"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "waiting-for-review"
       ]
@@ -35096,7 +35202,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "merge conflict",
         "stale",
@@ -35105,6 +35211,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/214"
@@ -35168,10 +35278,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/159",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/160"
     }
   ]
 }

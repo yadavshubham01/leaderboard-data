@@ -1,6 +1,153 @@
 {
-  "last_updated": 1707248320.0,
+  "last_updated": 1707324800.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7188",
+      "time": 1707324800.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7188",
+      "text": "Patient details page, relative date time having \"false\" in text"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707324793.0,
+      "title": "coronasafe/care_fe#7189",
+      "link": "https://github.com/coronasafe/care_fe/pull/7189#pullrequestreview-1868324372",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707324534.0,
+      "title": "coronasafe/care_fe#7189",
+      "link": "https://github.com/coronasafe/care_fe/pull/7189#pullrequestreview-1868314529",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707324534.0,
+      "title": "coronasafe/care_fe#7189",
+      "link": "https://github.com/coronasafe/care_fe/pull/7189#pullrequestreview-1868314529",
+      "text": "fixes improper string interpolation in relative dates causing 'false' to be present when withoutSuffix is disabled"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707324446.0,
+      "title": "coronasafe/care_fe#7191",
+      "link": "https://github.com/coronasafe/care_fe/pull/7191#pullrequestreview-1868312144",
+      "text": "Make log update button responsive"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7181",
+      "time": 1707306089.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7181",
+      "text": "Update Log button is not properly responsive"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707306077.0,
+      "title": "coronasafe/care_fe#7185",
+      "link": "https://github.com/coronasafe/care_fe/pull/7185#pullrequestreview-1867595698",
+      "text": "Make Update Log buttons responsive"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6621",
+      "time": 1707302477.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6621",
+      "text": "Make the facility detail page more properly responsive"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707300189.0,
+      "title": "coronasafe/care_fe#6960",
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#pullrequestreview-1867402295",
+      "text": "Fixes responsiveness in Facilty Home"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707285555.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1866960643",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707285555.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1866960643",
+      "text": "Abdm M3"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1707285511.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960#issuecomment-1931342908",
+      "text": "@rithviknishad @Ashesh3 please review this pr"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7140",
+      "time": 1707285471.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7140",
+      "text": "Remove the 0 in the Link facility sidebar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707285461.0,
+      "title": "coronasafe/care_fe#7144",
+      "link": "https://github.com/coronasafe/care_fe/pull/7144#pullrequestreview-1866959283",
+      "text": "Removed 0 in Link Facility sidebar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7145",
+      "time": 1707284948.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7145",
+      "text": "Vital monitor middleware state is not getting reset post updation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707284941.0,
+      "title": "coronasafe/care_fe#7149",
+      "link": "https://github.com/coronasafe/care_fe/pull/7149#pullrequestreview-1866951540",
+      "text": "Live update socket URL on middleware hostname change in Asset Configure"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7135",
+      "time": 1707284852.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7135",
+      "text": "Limit the decimal points in the Facility GPS Location field upto 7"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707284698.0,
+      "title": "coronasafe/care_fe#7162",
+      "link": "https://github.com/coronasafe/care_fe/pull/7162#pullrequestreview-1866947836",
+      "text": "Limit the decimal points in the Facility GPS Location field upto 7."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6628",
+      "time": 1707284608.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6628",
+      "text": "Design Enhancement Scope in Patient Consultation Page ( Patient Details )"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6627",
+      "time": 1707284608.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6627",
+      "text": "Design Enhancement Scope in Patient Consultation Page ( ICD-11 Diagnosis )"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707284581.0,
+      "title": "coronasafe/care_fe#7077",
+      "link": "https://github.com/coronasafe/care_fe/pull/7077#pullrequestreview-1866946132",
+      "text": "Redesign Patient Info Card"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7049",
@@ -28389,13 +28536,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "need Review"
       ]
@@ -28403,7 +28550,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7114",
       "title": "show notification when health id registration fails",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "changes required",
         "ABDM"
@@ -28412,19 +28559,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28444,7 +28591,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": [
         "waiting-for-review"
       ]
@@ -28452,19 +28599,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 424,
+      "stale_for": 425,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": [
         "changes required"
       ]
@@ -28472,25 +28619,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 781,
+      "stale_for": 782,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 787,
+      "stale_for": 788,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 788,
+      "stale_for": 789,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 983,
+      "stale_for": 984,
       "labels": []
     }
   ],

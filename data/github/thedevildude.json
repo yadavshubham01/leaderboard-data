@@ -1,6 +1,13 @@
 {
-  "last_updated": 1706769568.0,
+  "last_updated": 1707312829.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6940",
+      "time": 1707312829.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1932062774",
+      "text": "I'd like to work on the issue"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7136",
@@ -436,13 +443,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7136",
       "title": "Extend Update Log to bottom of the screen",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]

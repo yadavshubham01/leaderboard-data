@@ -1,6 +1,14 @@
 {
-  "last_updated": 1707248294.0,
+  "last_updated": 1707284852.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7162",
+      "time": 1707284852.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7162",
+      "text": "Limit the decimal points in the Facility GPS Location field upto 7.",
+      "turnaround_time": 11584
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7084",
@@ -906,17 +914,7 @@
       "text": "I want to work on this issue."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7162",
-      "title": "Limit the decimal points in the Facility GPS Location field upto 7.",
-      "stale_for": 0,
-      "labels": [
-        "need Review",
-        "tested"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",

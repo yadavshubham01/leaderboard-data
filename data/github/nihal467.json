@@ -1,6 +1,66 @@
 {
-  "last_updated": 1707246405.0,
+  "last_updated": 1707324403.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7189",
+      "time": 1707324403.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7189#issuecomment-1932461892",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7191",
+      "time": 1707324061.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7191#issuecomment-1932444607",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7189",
+      "time": 1707323970.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7189#issuecomment-1932441879",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/c94276e2-eff0-488c-ae10-8b840cf02e84)\r\n\r\nadd a space between ago and at @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7185",
+      "time": 1707305986.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7185#issuecomment-1931862816",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7186",
+      "time": 1707302614.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7186",
+      "text": "CNS page card size is inconsistent"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6960",
+      "time": 1707302474.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6960",
+      "text": "Fixes responsiveness in Facilty Home",
+      "collaborated_with": [
+        "konavivekramakrishna",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1707300241.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1931693347",
+      "text": "@kshitijv256 what is the status of this PR"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7181",
+      "time": 1707299615.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7181",
+      "text": "Update Log button is not properly responsive"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7061",
@@ -32353,7 +32413,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "HCX"
       ]

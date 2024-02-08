@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707248319.0,
+  "last_updated": 1707300356.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1707300356.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1931696913",
+      "text": "Last time @khavinshankar suggested some changes which I have added. So this PR should be completed"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7071",
@@ -999,13 +1006,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1868",
       "title": "added user type check before creating new asset",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7111",
       "title": "Added authorization on route for asset creation",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "waiting for back end"
@@ -1016,7 +1023,6 @@
       "title": "Added support for multi-line text input for Doctor Notes",
       "stale_for": 0,
       "labels": [
-        "question",
         "tested",
         "reviewed"
       ]

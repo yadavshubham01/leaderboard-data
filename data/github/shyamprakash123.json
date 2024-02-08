@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707050287.0,
+  "last_updated": 1707311878.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7163",
+      "time": 1707311878.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7163#issuecomment-1932033250",
+      "text": "@nihal467 I've updated the code according to the requested changes.\r\n\r\ncc: @rithviknishad @Ashesh3 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707278497.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180#issuecomment-1931238829",
+      "text": "@nihal467 This is the fixed version."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707277578.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180",
+      "text": "Hide Asset Type"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7164",
@@ -802,6 +823,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7180",
+      "title": "Hide Asset Type",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7164",
       "title": "Responsive issue in user card#7141",
       "stale_for": 0,
@@ -818,16 +848,8 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7113",
       "title": "Draft for ABHA Linking Process.",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7061",
-      "title": "Hide \"Asset Type\" (Assets to be always \"Internal\")",
-      "stale_for": 0,
-      "labels": [
-        "merge conflict"
-      ]
     }
   ],
   "authored_issue_and_pr": [

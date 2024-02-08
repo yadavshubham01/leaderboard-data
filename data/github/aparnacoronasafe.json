@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707132986.0,
+  "last_updated": 1707299663.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7121",
+      "time": 1707299663.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7121#issuecomment-1931675975",
+      "text": "Let us allow resp rate of upto 150 breaths per minute. \r\n\r\n@nihal467 @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7121",
