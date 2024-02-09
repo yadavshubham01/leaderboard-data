@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707312829.0,
+  "last_updated": 1707370956.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6940",
+      "time": 1707370956.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6940#issuecomment-1933398650",
+      "text": "@aparnacoronasafe \r\n@rithviknishad \r\n\r\nWhat do you think of this mockup for doctor connect? I've also added three filter buttons on top for Doctors, Nurses and TeleICU Hub\r\n\r\n![DoctorConnect](https://github.com/coronasafe/care_fe/assets/63492939/03e0dfd1-0321-4e94-9a16-051a3953446f)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6940",
@@ -443,13 +450,13 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7136",
       "title": "Extend Update Log to bottom of the screen",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]

@@ -1,6 +1,49 @@
 {
-  "last_updated": 1707324800.0,
+  "last_updated": 1707408268.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707408268.0,
+      "title": "coronasafe/care#1879",
+      "link": "https://github.com/coronasafe/care/pull/1879#pullrequestreview-1870642485",
+      "text": "Fix queryset filters for asset daily rounds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7114",
+      "time": 1707399479.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7114",
+      "text": "show notification when health id registration fails",
+      "turnaround_time": 33902
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707399089.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870236478",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7193",
+      "time": 1707373872.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7193",
+      "text": "ABDM M3"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6487",
+      "time": 1707373825.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#issuecomment-1933437338",
+      "text": "Closing this pr and creating a new pr with the same branch"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707370208.0,
+      "title": "coronasafe/care_fe#6487",
+      "link": "https://github.com/coronasafe/care_fe/pull/6487#pullrequestreview-1869297477",
+      "text": "Abdm M3"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7188",
@@ -28534,64 +28577,53 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7193",
+      "title": "ABDM M3",
+      "stale_for": 0,
+      "labels": [
+        "merge conflict",
+        "ABDM"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7114",
-      "title": "show notification when health id registration fails",
-      "stale_for": 3,
-      "labels": [
-        "changes required",
-        "ABDM"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1861",
       "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "waiting for back end",
         "merge conflict"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6487",
-      "title": "Abdm M3",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review",
-        "merge conflict",
-        "ABDM"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 63,
+      "stale_for": 64,
       "labels": [
         "waiting-for-review"
       ]
@@ -28599,19 +28631,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 73,
+      "stale_for": 74,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 425,
+      "stale_for": 426,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": [
         "changes required"
       ]
@@ -28619,25 +28651,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 782,
+      "stale_for": 783,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 788,
+      "stale_for": 789,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 789,
+      "stale_for": 790,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 984,
+      "stale_for": 985,
       "labels": []
     }
   ],

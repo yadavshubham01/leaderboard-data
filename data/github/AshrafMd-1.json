@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707248258.0,
+  "last_updated": 1707424949.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1707424949.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1934902401",
+      "text": "@nihal467 for the following \r\n\r\n[ ] Verify the uploaded file can only be modified by the author, district admin, and above users.\r\n[ ]  Verify file download is possible for all users.\r\n\r\nDo I need to sign to each kind of user and check or is there a different way?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1707424849.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197",
+      "text": "Add Cypress test to patient file upload"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7137",
@@ -1582,7 +1596,14 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7197",
+      "title": "Add Cypress test to patient file upload",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",

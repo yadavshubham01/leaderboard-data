@@ -1,6 +1,91 @@
 {
-  "last_updated": 1707202814.0,
+  "last_updated": 1707418263.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707418263.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1871002798",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707418254.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1871002153",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1869",
+      "time": 1707417924.0,
+      "link": "https://github.com/coronasafe/care/pull/1869#issuecomment-1934732170",
+      "text": "@konavivekramakrishna run precommit on the changed files\r\n\r\nhttps://github.com/coronasafe/care/blob/master/CONTRIBUTING.md#getting-started"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1879",
+      "time": 1707409951.0,
+      "link": "https://github.com/coronasafe/care/pull/1879",
+      "text": "Fix queryset filters for asset daily rounds",
+      "turnaround_time": 5823
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707406288.0,
+      "title": "coronasafe/care#1876",
+      "link": "https://github.com/coronasafe/care/pull/1876#pullrequestreview-1870548775",
+      "text": "Add consultation serializer for Investigation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707406140.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1870542261",
+      "text": "Track occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707406102.0,
+      "title": "coronasafe/care#1869",
+      "link": "https://github.com/coronasafe/care/pull/1869#pullrequestreview-1870540737",
+      "text": "Track occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405997.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1870536599",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405746.0,
+      "title": "coronasafe/care#1878",
+      "link": "https://github.com/coronasafe/care/pull/1878#pullrequestreview-1870524041",
+      "text": "Increased the respiratory rate in log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405710.0,
+      "title": "coronasafe/care#1843",
+      "link": "https://github.com/coronasafe/care/pull/1843#pullrequestreview-1870475923",
+      "text": "Track Location Uptime"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405710.0,
+      "title": "coronasafe/care#1843",
+      "link": "https://github.com/coronasafe/care/pull/1843#pullrequestreview-1870475923",
+      "text": "Track Location Uptime"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1879",
+      "time": 1707404128.0,
+      "link": "https://github.com/coronasafe/care/pull/1879",
+      "text": "Fix queryset filters for asset daily rounds"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_deploy_configs#21",
@@ -8816,31 +8901,31 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7134",
       "title": "Update username validation on useradd",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1865",
       "title": "Update username validator",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1862",
       "title": "Limit minimum encounter date to 2020-01-01",
-      "stale_for": 6,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1783",
       "title": "Make bed names unique for location",
-      "stale_for": 33,
+      "stale_for": 35,
       "labels": [
         "waiting-for-review"
       ]
@@ -8848,7 +8933,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 72,
+      "stale_for": 74,
       "labels": [
         "blocked",
         "changes required",
@@ -8859,7 +8944,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 147,
+      "stale_for": 149,
       "labels": [
         "In progress"
       ]
@@ -8867,19 +8952,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 61,
+      "stale_for": 63,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 201,
+      "stale_for": 203,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 126,
+      "stale_for": 128,
       "labels": []
     }
   ],

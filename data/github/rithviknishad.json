@@ -1,6 +1,111 @@
 {
-  "last_updated": 1707324799.0,
+  "last_updated": 1707407227.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707407227.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1870591214",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405527.0,
+      "title": "coronasafe/care#1879",
+      "link": "https://github.com/coronasafe/care/pull/1879#pullrequestreview-1870514229",
+      "text": "Fix queryset filters for asset daily rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707405187.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1870492841",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707402385.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1870369688",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707402385.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1870369688",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707401110.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1870302097",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707401110.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1870302097",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7193",
+      "time": 1707400157.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7193#issuecomment-1934162159",
+      "text": "# Cypress Test Results with Local Backend\r\n\r\n## Facility: Facility Creation\r\n\r\n<img width=\"1810\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/e37043cd-da1a-49eb-b6ba-c6ed2e9db34f\">\r\n\r\n## Facility: Inventory\r\n\r\n<img width=\"1810\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/f066316c-a1c3-44ce-8ae7-454045655e2a\">\r\n\r\n## Facility: Facility Manage\r\n\r\n<img width=\"2228\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/48f5d210-1136-482a-850a-da9e0bdbb0b3\">\r\n\r\n## External Results\r\n\r\n<img width=\"2228\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/289863ce-1ea1-412e-bb7d-c0e3f373f40c\">\r\n\r\n\r\ncc: @khavinshankar \r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707398252.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870204324",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707395582.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1870101171",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707395582.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1870101171",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707394848.0,
+      "title": "coronasafe/care_fe#7195",
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#pullrequestreview-1870078931",
+      "text": "Increased the respiratory rate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707394825.0,
+      "title": "coronasafe/care#1878",
+      "link": "https://github.com/coronasafe/care/pull/1878#pullrequestreview-1870077556",
+      "text": "Increased the respiratory rate in log update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707381395.0,
+      "title": "coronasafe/care#1876",
+      "link": "https://github.com/coronasafe/care/pull/1876#pullrequestreview-1869547988",
+      "text": "Add consultation serializer for Investigation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707375215.0,
+      "title": "coronasafe/care#1876",
+      "link": "https://github.com/coronasafe/care/pull/1876#pullrequestreview-1869379147",
+      "text": "Add consultation serializer for Investigation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7189",
@@ -35156,7 +35261,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "need Review"
@@ -35165,7 +35270,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review",
@@ -35176,25 +35281,25 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1854",
       "title": "fixes N+1 query in investigations, claims, users api",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1831",
       "title": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": [
         "waiting-for-review"
       ]
@@ -35202,7 +35307,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "merge conflict",
         "stale",

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707216733.0,
+  "last_updated": 1707399152.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707399152.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7172",
@@ -102,24 +109,32 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7196",
+      "title": "fix: hide the diagonses card if it's empty",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "stale_for": 0,
       "labels": [
-        "changes required",
-        "merge conflict"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1839",
       "title": "fix: Custom Migration to clean no input values as null in Daily Rounds table",
-      "stale_for": 15,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 27,
+      "stale_for": 29,
       "labels": [
         "do not merge",
         "hold",
@@ -130,7 +145,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 29,
+      "stale_for": 31,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -140,7 +155,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 81,
+      "stale_for": 83,
       "labels": []
     }
   ],

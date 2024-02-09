@@ -1,0 +1,59 @@
+{
+    "2024-02-08 00:00:00": [
+        {
+            "client_msg_id": "d80ed826-d274-4427-994d-8829dab70c1b",
+            "type": "message",
+            "text": "EOD 08/02/2024:\n\u2022 setup a terraform server to manage gcp from  anywhere. \n\u2022 test run terraform commands to spin up a basic vpc and destroy the same.\n",
+            "user": "U06CY7RUZ9S",
+            "ts": "1707405040.740029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7H8LF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 08/02/2024:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "setup a terraform server to manage gcp from  anywhere. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "test run terraform commands to spin up a basic vpc and destroy the same."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
+    ]
+}

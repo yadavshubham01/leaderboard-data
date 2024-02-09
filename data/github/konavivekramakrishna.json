@@ -1,6 +1,69 @@
 {
-  "last_updated": 1707302474.0,
+  "last_updated": 1707395858.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5695",
+      "time": 1707395858.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5695#issuecomment-1934029827",
+      "text": "@Ashesh3 can you please assign me"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1707392163.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195",
+      "text": "Increased the respiratory rate"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1878",
+      "time": 1707392117.0,
+      "link": "https://github.com/coronasafe/care/pull/1878",
+      "text": "Increased the respiratory rate in log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7121",
+      "time": 1707390751.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7121#issuecomment-1933856476",
+      "text": "@rithviknishad \r\n\r\ncan you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1707387521.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1933762626",
+      "text": "also I had one doubt, is it okay to display occupation in patient details page\r\n\r\n \r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/df6f948c-624a-40c4-8aeb-7e9535e0ba7e)\r\n\r\nand if patient occupation is set to other what should it be displayed as\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1707387100.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1933751672",
+      "text": "https://www.loom.com/share/8eb316eb5a0b4935b14992f199d9ed1a?sid=28ad88f3-e332-4cb5-aadc-e5f028fec81d\r\n\r\n\r\n@rithviknishad  can you please review\r\n\r\nregarding cypress\ud83e\udd14\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/7421cd09-217a-45eb-a82b-effcc04c64c4)\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1707385510.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1933701320",
+      "text": "\r\n\r\nhttps://www.loom.com/share/10e513d00b0d48a6844142999459389a?sid=a201b096-6014-45eb-83da-bb1e54b29af9\r\n\r\n\r\n@rithviknishad  can you please review and I have checked and updated now"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7192",
+      "time": 1707367121.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7192#issuecomment-1933352343",
+      "text": "@rithviknishad \r\n\r\ncan you please assign me"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7192",
+      "time": 1707366971.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7192",
+      "text": "Manage Patient button is clipping out"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6960",
@@ -1247,21 +1310,36 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7195",
+      "title": "Increased the respiratory rate",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1878",
+      "title": "Increased the respiratory rate in log update",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "add insurer name in csv export",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
-      "title": "draft support for patient occupation",
-      "stale_for": 1,
+      "title": "Track occupation of patient",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
-      "title": "draft occupation of patient",
-      "stale_for": 1,
+      "title": "Track occupation of patient",
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]
@@ -1271,14 +1349,14 @@
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
       "stale_for": 0,
       "labels": [
-        "need Review",
-        "test failed"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     }
   ],

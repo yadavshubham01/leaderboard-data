@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707324403.0,
+  "last_updated": 1707398116.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7114",
+      "time": 1707398116.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#issuecomment-1934104101",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707397910.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870181050",
+      "text": "show notification when health id registration fails"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7189",
@@ -32413,7 +32427,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "HCX"
       ]

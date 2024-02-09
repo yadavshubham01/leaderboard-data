@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706163966.0,
+  "last_updated": 1707410038.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707410038.0,
+      "title": "coronasafe/care#1876",
+      "link": "https://github.com/coronasafe/care/pull/1876#pullrequestreview-1870719635",
+      "text": "Add consultation serializer for Investigation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707409945.0,
+      "title": "coronasafe/care#1879",
+      "link": "https://github.com/coronasafe/care/pull/1879#pullrequestreview-1870716417",
+      "text": "Fix queryset filters for asset daily rounds"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1851",

@@ -1,6 +1,20 @@
 {
-  "last_updated": 1705144507.0,
+  "last_updated": 1707392153.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": 1707392153.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1933903003",
+      "text": "@rithviknishad @nihal467 Here are two simple possible solutions\r\n\r\n1) We can shift the patient details section to the right side of grid and setting comment perPage limit to 5.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/73033511/12413c5c-52af-4361-8744-c6c266b1ac87)\r\n\r\n2) We can make patient details page expand full width and comments and rest section side by side.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/73033511/64d9d657-2b5b-445e-a2f9-b4f55f45f0e1)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1707373248.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1933429595",
+      "text": "@rithviknishad Yup go ahead !! Not getting time to take up this issue."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1806",

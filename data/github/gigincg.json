@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707144032.0,
+  "last_updated": 1707399466.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707399466.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870249060",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707398934.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870225716",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707398934.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870225716",
+      "text": "show notification when health id registration fails"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7173",
@@ -7016,7 +7037,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 55,
+      "stale_for": 58,
       "labels": [
         "In Progress"
       ]

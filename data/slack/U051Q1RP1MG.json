@@ -2575,5 +2575,64 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-08 00:00:00": [
+        {
+            "client_msg_id": "7fbbc1fa-164d-43c9-8d6b-1b78f77922bb",
+            "type": "message",
+            "text": "EDO 07/02/2024 and 08/02/2024\n\nHow did the day go?\n\u2022 Created a mockup for an improved Doctor connect for care_fe\n\u2022 Started working on issue <https://github.com/coronasafe/care_fe/issues/6940|#6940>",
+            "user": "U051Q1RP1MG",
+            "ts": "1707423806.982049",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ViYBY",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EDO 07/02/2024 and 08/02/2024\n\nHow did the day go?\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created a mockup for an improved Doctor connect for care_fe"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6940",
+                                            "text": "#6940",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

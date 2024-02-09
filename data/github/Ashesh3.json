@@ -1,6 +1,63 @@
 {
-  "last_updated": 1707324916.0,
+  "last_updated": 1707426654.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707426654.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1871263126",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707426642.0,
+      "title": "coronasafe/care_fe#7134",
+      "link": "https://github.com/coronasafe/care_fe/pull/7134#pullrequestreview-1871262795",
+      "text": "Update username validation on useradd"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707426628.0,
+      "title": "coronasafe/care#1865",
+      "link": "https://github.com/coronasafe/care/pull/1865#pullrequestreview-1871262422",
+      "text": "Update username validator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1876",
+      "time": 1707410043.0,
+      "link": "https://github.com/coronasafe/care/pull/1876",
+      "text": "Add consultation serializer for Investigation",
+      "turnaround_time": 5012
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707408338.0,
+      "title": "coronasafe/care#1879",
+      "link": "https://github.com/coronasafe/care/pull/1879#pullrequestreview-1870646934",
+      "text": "Fix queryset filters for asset daily rounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707398186.0,
+      "title": "coronasafe/care_fe#7114",
+      "link": "https://github.com/coronasafe/care_fe/pull/7114#pullrequestreview-1870202194",
+      "text": "show notification when health id registration fails"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707395228.0,
+      "title": "coronasafe/care_fe#7195",
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#pullrequestreview-1870090438",
+      "text": "Increased the respiratory rate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707395224.0,
+      "title": "coronasafe/care#1878",
+      "link": "https://github.com/coronasafe/care/pull/1878#pullrequestreview-1870090341",
+      "text": "Increased the respiratory rate in log update"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707324916.0,
@@ -16999,15 +17056,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1876",
-      "title": "Add consultation serializer for Investigation",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -17023,7 +17074,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "waiting for back end",
@@ -17033,7 +17084,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 125,
+      "stale_for": 126,
       "labels": [
         "POC"
       ]
@@ -17041,7 +17092,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 309,
+      "stale_for": 310,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17050,13 +17101,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 322,
+      "stale_for": 323,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
