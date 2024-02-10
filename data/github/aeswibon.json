@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707399152.0,
+  "last_updated": 1707483009.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1839",
+      "time": 1707483009.0,
+      "link": "https://github.com/coronasafe/care/pull/1839#issuecomment-1935873920",
+      "text": "@sainak Can you check the PR?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7196",
@@ -111,7 +118,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7196",
       "title": "fix: hide the diagonses card if it's empty",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -120,7 +127,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -134,7 +141,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 29,
+      "stale_for": 30,
       "labels": [
         "do not merge",
         "hold",
@@ -145,7 +152,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -155,7 +162,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": []
     }
   ],

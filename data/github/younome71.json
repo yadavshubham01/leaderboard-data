@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707159452.0,
+  "last_updated": 1707468079.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1707468079.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132#issuecomment-1935529669",
+      "text": "@rithviknishad Do it need to disallow as in show an error ? Or Remove the button itself if there is no bed assigned?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7132",

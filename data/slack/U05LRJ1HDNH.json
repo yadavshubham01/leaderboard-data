@@ -4124,5 +4124,121 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-09 00:00:00": [
+        {
+            "client_msg_id": "ad653e8c-3513-4548-ad19-68fbaebfe7bb",
+            "type": "message",
+            "text": "*EOD 08/02/2024*\n\n*How did the day go?*\n\u2022 Worked on issues in coronasafe/carefe  <https://github.com/coronasafe/care_fe/issues/7086|#7086>, <https://github.com/coronasafe/care_fe/issues/7045|#7045> [merged]\n\u2022 <https://github.com/coronasafe/care_fe/issues/6783|#7086> - Added cypress test for patient upload\n\u2022 <https://github.com/coronasafe/care_fe/issues/6837|#7045> - Converted facility images to a 1:1 ratio \n",
+            "user": "U05LRJ1HDNH",
+            "ts": "1707486231.320009",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "S9UVL",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 08/02/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on issues in coronasafe/carefe  "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7086",
+                                            "text": "#7086",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/7045",
+                                            "text": "#7045",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " [merged]"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6783",
+                                            "text": "#7086",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Added cypress test for patient upload"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6837",
+                                            "text": "#7045",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - Converted facility images to a 1:1 ratio "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

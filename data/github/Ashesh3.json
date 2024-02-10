@@ -1,6 +1,34 @@
 {
-  "last_updated": 1707426654.0,
+  "last_updated": 1707480135.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#429",
+      "time": 1707480135.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/429#issuecomment-1935806784",
+      "text": "@ishanExtreme you mentioned that you were working on a fix for this issue, what's the status of the fix?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#177",
+      "time": 1707470155.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/177",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#465",
+      "time": 1707470065.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/465",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707465158.0,
+      "title": "coronasafe/care#1843",
+      "link": "https://github.com/coronasafe/care/pull/1843#pullrequestreview-1871823907",
+      "text": "Track Location Uptime"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707426654.0,
@@ -17048,9 +17076,25 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/177",
+      "title": "Add support for OpenAI TTS Engine",
+      "stale_for": 0,
+      "labels": [
+        "do-not-merge"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/ayushma/pull/465",
+      "title": "Add support for OpenAI TTS Engine",
+      "stale_for": 0,
+      "labels": [
+        "do-not-merge"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7190",
       "title": "Add facility name to ReportTable component",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting for back end"
       ]
@@ -17058,7 +17102,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing"
       ]
@@ -17074,7 +17118,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required",
         "waiting for back end",
@@ -17084,7 +17128,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "POC"
       ]
@@ -17092,7 +17136,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 310,
+      "stale_for": 311,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17101,13 +17145,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 323,
+      "stale_for": 324,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]

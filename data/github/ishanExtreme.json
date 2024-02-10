@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707229174.0,
+  "last_updated": 1707514813.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#466",
+      "time": 1707514813.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/466",
+      "text": "OpenAI STT fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#429",
+      "time": 1707480541.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/429#issuecomment-1935816100",
+      "text": "> @ishanExtreme you mentioned that you were working on a fix for this issue, what's the status of the fix?\r\n\r\n\r\nExpected to fix it by today...\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#429",
+      "time": 1707480522.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/429#issuecomment-1935815690",
+      "text": "Expected to fix it by today..."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma#267",
@@ -1267,15 +1288,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/ayushma/pull/466",
+      "title": "OpenAI STT fixed",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/107",
       "title": "v2 ocr addon",
-      "stale_for": 82,
+      "stale_for": 85,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_ocr/pull/9",
       "title": "v2 ocr addon",
-      "stale_for": 105,
+      "stale_for": 108,
       "labels": []
     }
   ],

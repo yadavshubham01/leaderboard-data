@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707370956.0,
+  "last_updated": 1707444901.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7198",
+      "time": 1707444901.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "text": "Improving Doctor Connect UI"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6940",
@@ -448,15 +455,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "title": "Improving Doctor Connect UI",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7136",
       "title": "Extend Update Log to bottom of the screen",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]

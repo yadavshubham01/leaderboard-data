@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707247980.0,
+  "last_updated": 1707507579.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1880",
+      "time": 1707507579.0,
+      "link": "https://github.com/coronasafe/care/issues/1880#issuecomment-1936499741",
+      "text": "@aparnacoronasafe could you please confirm the expected behavior? "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1880",
+      "time": 1707507317.0,
+      "link": "https://github.com/coronasafe/care/issues/1880",
+      "text": "Duplicate IP(In Patient) numbers are allowed cin consultation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7160",
@@ -663,7 +677,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7118",
       "title": "Replace font-awesome icons by CareIcon component",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "changes required",
         "merge conflict",
@@ -673,13 +687,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1811",
       "title": "Collect postpartum data",
-      "stale_for": 5,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 21,
+      "stale_for": 24,
       "labels": [
         "waiting for back end"
       ]
