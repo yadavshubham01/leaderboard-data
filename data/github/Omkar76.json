@@ -1,6 +1,14 @@
 {
-  "last_updated": 1707507579.0,
+  "last_updated": 1707557174.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1811",
+      "time": 1707557174.0,
+      "link": "https://github.com/coronasafe/care/pull/1811",
+      "text": "Collect postpartum data",
+      "turnaround_time": 73527
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1880",
@@ -677,7 +685,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7118",
       "title": "Replace font-awesome icons by CareIcon component",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "changes required",
         "merge conflict",
@@ -685,15 +693,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1811",
-      "title": "Collect postpartum data",
-      "stale_for": 8,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         "waiting for back end"
       ]

@@ -1,6 +1,14 @@
 {
-  "last_updated": 1707408268.0,
+  "last_updated": 1707557347.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1861",
+      "time": 1707557347.0,
+      "link": "https://github.com/coronasafe/care/pull/1861",
+      "text": "Add custom prefix and suffix to hip name",
+      "turnaround_time": 76122
+    },
     {
       "type": "pr_reviewed",
       "time": 1707408268.0,
@@ -28579,7 +28587,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "merge conflict",
         "ABDM"
@@ -28588,33 +28596,29 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 7,
-      "labels": []
+      "stale_for": 1,
+      "labels": [
+        "stale"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": [
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1861",
-      "title": "Add custom prefix and suffix to hip name",
-      "stale_for": 9,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 29,
+      "stale_for": 31,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28623,7 +28627,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 64,
+      "stale_for": 66,
       "labels": [
         "waiting-for-review"
       ]
@@ -28631,19 +28635,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 74,
+      "stale_for": 76,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 426,
+      "stale_for": 428,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 183,
+      "stale_for": 185,
       "labels": [
         "changes required"
       ]
@@ -28651,29 +28655,37 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 783,
+      "stale_for": 785,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 789,
+      "stale_for": 791,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 790,
+      "stale_for": 792,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 985,
+      "stale_for": 987,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care/pull/1861"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7114"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6545",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6547"
@@ -28733,10 +28745,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1132",
       "pr_link": "https://github.com/coronasafe/care/pull/1133"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1126",
-      "pr_link": "https://github.com/coronasafe/care/pull/1127"
     }
   ]
 }

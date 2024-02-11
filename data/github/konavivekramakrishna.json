@@ -1,6 +1,14 @@
 {
-  "last_updated": 1707395858.0,
+  "last_updated": 1707556884.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1878",
+      "time": 1707556884.0,
+      "link": "https://github.com/coronasafe/care/pull/1878",
+      "text": "Increased the respiratory rate in log update",
+      "turnaround_time": 78368
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5695",
@@ -1312,34 +1320,28 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7195",
       "title": "Increased the respiratory rate",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1878",
-      "title": "Increased the respiratory rate in log update",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "add insurer name in csv export",
-      "stale_for": 6,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -1347,7 +1349,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
@@ -1356,7 +1358,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 6,
+      "stale_for": 8,
       "labels": []
     }
   ],

@@ -1,6 +1,47 @@
 {
-  "last_updated": 1707409059.0,
+  "last_updated": 1707564795.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1707564795.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1936980835",
+      "text": "@nihal467 @khavinshankar the backend PR has been merged, this PR is good to merge"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1707564695.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1936980451",
+      "text": "@nihal467 the backend PR has been merged"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1794",
+      "time": 1707557532.0,
+      "link": "https://github.com/coronasafe/care/pull/1794",
+      "text": "Send asset downtime status along with asset details",
+      "turnaround_time": 78526
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1812",
+      "time": 1707557411.0,
+      "link": "https://github.com/coronasafe/care/pull/1812",
+      "text": "Support for deleting a location",
+      "turnaround_time": 54594
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1812",
+      "time": 1707557411.0,
+      "link": "https://github.com/coronasafe/care/pull/1812",
+      "text": "Support for deleting a location",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6996",
@@ -7519,36 +7560,22 @@
       "title": "Add support to delete location",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "waiting for back end"
+        "needs testing"
       ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1812",
-      "title": "Support for deleting a location",
-      "stale_for": 7,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1794",
-      "title": "Send asset downtime status along with asset details",
-      "stale_for": 11,
-      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6952",
       "title": "Show Asset Downtime on assets lists page",
-      "stale_for": 16,
+      "stale_for": 0,
       "labels": [
         "tested",
-        "waiting for back end",
         "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 8,
+      "stale_for": 10,
       "labels": [
         "waiting-for-review"
       ]
@@ -7556,7 +7583,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 52,
+      "stale_for": 54,
       "labels": []
     }
   ],

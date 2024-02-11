@@ -1,6 +1,168 @@
 {
-  "last_updated": 1707466050.0,
+  "last_updated": 1707576610.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1888",
+      "time": 1707576610.0,
+      "link": "https://github.com/coronasafe/care/pull/1888",
+      "text": "Fix API schema generation",
+      "turnaround_time": 6324
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1882",
+      "time": 1707576564.0,
+      "link": "https://github.com/coronasafe/care/pull/1882",
+      "text": "Fix prefetch_related in PatientInvestigationViewSet",
+      "turnaround_time": 6492
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707576389.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1873723813",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707576389.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1873723813",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575593.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937021477",
+      "text": "@dependabot unignore django dependency"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575558.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937021363",
+      "text": "@dependabot unignore"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575535.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937021288",
+      "text": "@dependabot unignore django"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575500.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937021177",
+      "text": "@dependabot show django ignore condition"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575467.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937021048",
+      "text": "@dependabot ignore this major version"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1885",
+      "time": 1707575451.0,
+      "link": "https://github.com/coronasafe/care/pull/1885#issuecomment-1937020981",
+      "text": "@dependabot ignore this major versio"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1874",
+      "time": 1707575000.0,
+      "link": "https://github.com/coronasafe/care/pull/1874#issuecomment-1937019359",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1877",
+      "time": 1707574984.0,
+      "link": "https://github.com/coronasafe/care/pull/1877#issuecomment-1937019306",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1888",
+      "time": 1707574571.0,
+      "link": "https://github.com/coronasafe/care/pull/1888",
+      "text": "Fix API schema generation"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1883",
+      "time": 1707570283.0,
+      "link": "https://github.com/coronasafe/care/issues/1883",
+      "text": "Api schema crashing on staging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1882",
+      "time": 1707570057.0,
+      "link": "https://github.com/coronasafe/care/pull/1882",
+      "text": "Fix prefetch_related in PatientInvestigationViewSet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1865",
+      "time": 1707558440.0,
+      "link": "https://github.com/coronasafe/care/pull/1865",
+      "text": "Update username validator",
+      "turnaround_time": 65903
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1783",
+      "time": 1707558064.0,
+      "link": "https://github.com/coronasafe/care/pull/1783",
+      "text": "Make bed names unique for location",
+      "turnaround_time": 16178
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1821",
+      "time": 1707557651.0,
+      "link": "https://github.com/coronasafe/care/pull/1821",
+      "text": "ABDM: Log the errors instead of sending them as a response",
+      "collaborated_with": [
+        "ProCode2"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1812",
+      "time": 1707557411.0,
+      "link": "https://github.com/coronasafe/care/pull/1812",
+      "text": "Support for deleting a location",
+      "collaborated_with": [
+        "rithviknishad",
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1862",
+      "time": 1707557216.0,
+      "link": "https://github.com/coronasafe/care/pull/1862",
+      "text": "Limit minimum encounter date to 2020-01-01",
+      "turnaround_time": 4549
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1831",
+      "time": 1707556948.0,
+      "link": "https://github.com/coronasafe/care/pull/1831",
+      "text": "Cleanup: Delete unused Meta ICD11 Diagnosis Table",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1707466050.0,
@@ -8908,39 +9070,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7134",
       "title": "Update username validation on useradd",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1865",
-      "title": "Update username validator",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1862",
-      "title": "Limit minimum encounter date to 2020-01-01",
-      "stale_for": 9,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 11,
+      "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1783",
-      "title": "Make bed names unique for location",
-      "stale_for": 36,
-      "labels": [
-        "waiting-for-review"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 75,
+      "stale_for": 76,
       "labels": [
         "blocked",
         "changes required",
@@ -8951,7 +9093,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "In progress"
       ]
@@ -8959,23 +9101,27 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 204,
+      "stale_for": 205,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 129,
+      "stale_for": 130,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1883",
+      "pr_link": "https://github.com/coronasafe/care/pull/1888"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"

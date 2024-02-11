@@ -1,6 +1,230 @@
 {
-  "last_updated": 1707410038.0,
+  "last_updated": 1707576610.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1883",
+      "time": 1707576610.0,
+      "link": "https://github.com/coronasafe/care/issues/1883",
+      "text": "Api schema crashing on staging"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707576601.0,
+      "title": "coronasafe/care#1888",
+      "link": "https://github.com/coronasafe/care/pull/1888#pullrequestreview-1873724255",
+      "text": "Fix API schema generation"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1881",
+      "time": 1707576565.0,
+      "link": "https://github.com/coronasafe/care/issues/1881",
+      "text": "Getting 500 internal server error when calling endpoint `/api/v1/investigation`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707558412.0,
+      "title": "coronasafe/care#1865",
+      "link": "https://github.com/coronasafe/care/pull/1865#pullrequestreview-1873607541",
+      "text": "Update username validator"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6634",
+      "time": 1707558262.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6634#issuecomment-1936955357",
+      "text": "Use a state filter before the dist filter is applied to solve this problem, no backend changes required. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1735",
+      "time": 1707558202.0,
+      "link": "https://github.com/coronasafe/care/pull/1735#issuecomment-1936955153",
+      "text": "This MR is going to be closed, if this feature is required, the state has to be serialized as a separate field."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1735",
+      "time": 1707558146.0,
+      "link": "https://github.com/coronasafe/care/pull/1735#issuecomment-1936954930",
+      "text": "This might create a ton of N+1 queries if the query does not select the state as well. "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1782",
+      "time": 1707558065.0,
+      "link": "https://github.com/coronasafe/care/issues/1782",
+      "text": "Same bed name validation is not working while multiple bed creation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707558049.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1873606949",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557788.0,
+      "title": "coronasafe/care#1783",
+      "link": "https://github.com/coronasafe/care/pull/1783#pullrequestreview-1873606510",
+      "text": "Make bed names unique for location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557644.0,
+      "title": "coronasafe/care#1821",
+      "link": "https://github.com/coronasafe/care/pull/1821#pullrequestreview-1873606319",
+      "text": "ABDM: Log the errors instead of sending them as a response"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557611.0,
+      "title": "coronasafe/care#1704",
+      "link": "https://github.com/coronasafe/care/pull/1704#pullrequestreview-1873606265",
+      "text": "Adds authz for Prescription & Medicine Administrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557566.0,
+      "title": "coronasafe/care#1704",
+      "link": "https://github.com/coronasafe/care/pull/1704#pullrequestreview-1873606202",
+      "text": "Adds authz for Prescription & Medicine Administrations"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6819",
+      "time": 1707557532.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6819",
+      "text": "Show \"Asset Down\" in asset list if asset's last uptime status is down"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1794",
+      "time": 1707557528.0,
+      "link": "https://github.com/coronasafe/care/pull/1794#issuecomment-1936952812",
+      "text": "It might be better to cache this data in the main record to make the query simpler. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557489.0,
+      "title": "coronasafe/care#1794",
+      "link": "https://github.com/coronasafe/care/pull/1794#pullrequestreview-1873606068",
+      "text": "Send asset downtime status along with asset details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6976",
+      "time": 1707557411.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6976",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557393.0,
+      "title": "coronasafe/care#1812",
+      "link": "https://github.com/coronasafe/care/pull/1812#pullrequestreview-1873605898",
+      "text": "Support for deleting a location"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1849",
+      "time": 1707557347.0,
+      "link": "https://github.com/coronasafe/care/issues/1849",
+      "text": "Issue with registering health facility as a service"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557340.0,
+      "title": "coronasafe/care#1861",
+      "link": "https://github.com/coronasafe/care/pull/1861#pullrequestreview-1873605829",
+      "text": "Add custom prefix and suffix to hip name"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557210.0,
+      "title": "coronasafe/care#1862",
+      "link": "https://github.com/coronasafe/care/pull/1862#pullrequestreview-1873605634",
+      "text": "Limit minimum encounter date to 2020-01-01"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557163.0,
+      "title": "coronasafe/care#1811",
+      "link": "https://github.com/coronasafe/care/pull/1811#pullrequestreview-1873605559",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1866",
+      "time": 1707557093.0,
+      "link": "https://github.com/coronasafe/care/pull/1866#issuecomment-1936951152",
+      "text": "Need Tests."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1858",
+      "time": 1707557031.0,
+      "link": "https://github.com/coronasafe/care/issues/1858",
+      "text": "N+1 Query: List Users"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1855",
+      "time": 1707557031.0,
+      "link": "https://github.com/coronasafe/care/issues/1855",
+      "text": "N+1 Query - `/api/v1/hcx/claim/`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1858",
+      "time": 1707557031.0,
+      "link": "https://github.com/coronasafe/care/issues/1858",
+      "text": "N+1 Query: List Users"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1855",
+      "time": 1707557030.0,
+      "link": "https://github.com/coronasafe/care/issues/1855",
+      "text": "N+1 Query - `/api/v1/hcx/claim/`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1853",
+      "time": 1707557030.0,
+      "link": "https://github.com/coronasafe/care/issues/1853",
+      "text": "N+1 Query in Investigations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707557021.0,
+      "title": "coronasafe/care#1854",
+      "link": "https://github.com/coronasafe/care/pull/1854#pullrequestreview-1873605343",
+      "text": "fixes N+1 query in investigations, claims, users api"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707556979.0,
+      "title": "coronasafe/care#1854",
+      "link": "https://github.com/coronasafe/care/pull/1854#pullrequestreview-1873605285",
+      "text": "fixes N+1 query in investigations, claims, users api"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707556943.0,
+      "title": "coronasafe/care#1831",
+      "link": "https://github.com/coronasafe/care/pull/1831#pullrequestreview-1873605227",
+      "text": "Cleanup: Delete unused Meta ICD11 Diagnosis Table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707556878.0,
+      "title": "coronasafe/care#1878",
+      "link": "https://github.com/coronasafe/care/pull/1878#pullrequestreview-1873605125",
+      "text": "Increased the respiratory rate in log update"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707410038.0,

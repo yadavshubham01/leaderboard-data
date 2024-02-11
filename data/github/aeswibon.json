@@ -1,6 +1,34 @@
 {
-  "last_updated": 1707483009.0,
+  "last_updated": 1707571473.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707571473.0,
+      "title": "coronasafe/care#1882",
+      "link": "https://github.com/coronasafe/care/pull/1882#pullrequestreview-1873638756",
+      "text": "Fix prefetch_related in PatientInvestigationViewSet"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1881",
+      "time": 1707567773.0,
+      "link": "https://github.com/coronasafe/care/issues/1881",
+      "text": "Getting 500 internal server error when calling endpoint `/api/v1/investigation`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707565629.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1873620290",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707565624.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1873620282",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1839",
@@ -118,7 +146,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7196",
       "title": "fix: hide the diagonses card if it's empty",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
@@ -127,9 +155,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "needs testing",
+        "need Review"
       ]
     },
     {
@@ -141,7 +170,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": [
         "do not merge",
         "hold",
@@ -152,7 +181,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -162,7 +191,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": []
     }
   ],

@@ -1,6 +1,24 @@
 {
-  "last_updated": 1705617678.0,
+  "last_updated": 1707557651.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1821",
+      "time": 1707557651.0,
+      "link": "https://github.com/coronasafe/care/pull/1821",
+      "text": "ABDM: Log the errors instead of sending them as a response",
+      "turnaround_time": 22079
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1821",
+      "time": 1707557651.0,
+      "link": "https://github.com/coronasafe/care/pull/1821",
+      "text": "ABDM: Log the errors instead of sending them as a response",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/ayushma_fe#171",
@@ -59,14 +77,7 @@
       "text": "Can I take this up? \r\n\r\nSo as I understand the issue, We have to log the error response instead of sending them as response in places like these in the abdm API?:\r\n```python\r\n        try:\r\n            AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n        except Exception as e:\r\n            return Response({\"error\": str(e)}, status=status.HTTP_400_BAD_REQUEST)\r\n```\r\n\r\n#### Questions:\r\n- What should be sent instead of the `e` object to the client instead?\r\n- This is how we should log instead right?\r\n```python\r\nlogger = logging.getLogger(__nane__)\r\n\r\n\r\ndef post(self, request, *args, **kwargs):\r\n    data = request.data\r\n\r\n    try:\r\n        AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n    except Exception as e:\r\n        logger.warning(f\"Error while initialising ABDM Gateway: {e}\", exc_info=True)\r\n        return Response({ \"error\": \"Something went wrong.\" }, status=status.HTTP_400_BAD_REQUEST)\r\n\r\n    return Response({}, status=status.HTTP_202_ACCEPTED)\r\n\r\n```\r\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1821",
-      "title": "ABDM: Log the errors instead of sending them as a response",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/dashboard/issues/137",

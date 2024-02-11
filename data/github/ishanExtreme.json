@@ -1,6 +1,21 @@
 {
-  "last_updated": 1707514813.0,
+  "last_updated": 1707605619.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma#429",
+      "time": 1707605619.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/429",
+      "text": "Compatibility Issue with OpenAI Whisper Implementation in openai>=1.0.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#466",
+      "time": 1707605618.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/466",
+      "text": "OpenAI STT fixed",
+      "turnaround_time": 30334
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma#466",
@@ -1288,21 +1303,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma/pull/466",
-      "title": "OpenAI STT fixed",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/107",
       "title": "v2 ocr addon",
-      "stale_for": 85,
+      "stale_for": 86,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_ocr/pull/9",
       "title": "v2 ocr addon",
-      "stale_for": 108,
+      "stale_for": 109,
       "labels": []
     }
   ],
