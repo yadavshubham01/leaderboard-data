@@ -1,6 +1,73 @@
 {
-  "last_updated": 1707600770.0,
+  "last_updated": 1707685100.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707685100.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7202",
+      "time": 1707681934.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7202",
+      "text": "Fix bed check for log update button"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma#431",
+      "time": 1707679853.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/431",
+      "text": "Integrate OpenAI TTS Engine and Provide User Option to Switch in Project "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma#465",
+      "time": 1707679829.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/465",
+      "text": "Add support for OpenAI TTS Engine",
+      "turnaround_time": 36965
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma#465",
+      "time": 1707679829.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/465",
+      "text": "Add support for OpenAI TTS Engine",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679553.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420737",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707663925.0,
+      "title": "coronasafe/care_fe#7199",
+      "link": "https://github.com/coronasafe/care_fe/pull/7199#pullrequestreview-1874385297",
+      "text": "Add Search Box to Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707663909.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874385230",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1843",
+      "time": 1707633422.0,
+      "link": "https://github.com/coronasafe/care/pull/1843#issuecomment-1937449660",
+      "text": "@vigneshhari could you review this once?\t\t"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707600770.0,
@@ -17104,33 +17171,35 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/177",
-      "title": "Add support for OpenAI TTS Engine",
-      "stale_for": 1,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204",
+      "title": "Fix update log filters on page change",
+      "stale_for": 0,
       "labels": [
-        "do-not-merge"
+        "needs testing",
+        "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/ayushma/pull/465",
-      "title": "Add support for OpenAI TTS Engine",
-      "stale_for": 1,
+      "link": "https://github.com/coronasafe/care_fe/pull/7202",
+      "title": "Fix bed check for log update button",
+      "stale_for": 0,
       "labels": [
-        "do-not-merge"
+        "need Review",
+        "tested"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7190",
       "title": "Add facility name to ReportTable component",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "waiting for back end"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing"
       ]
@@ -17146,7 +17215,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "changes required",
         "waiting for back end",
@@ -17156,7 +17225,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 128,
+      "stale_for": 129,
       "labels": [
         "POC"
       ]
@@ -17164,7 +17233,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 312,
+      "stale_for": 313,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17173,19 +17242,27 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 325,
+      "stale_for": 326,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1221",
       "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "waiting-for-review"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
@@ -17241,10 +17318,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/4097",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/4101"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4078",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4079"
     }
   ]
 }

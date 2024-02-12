@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707557174.0,
+  "last_updated": 1707688720.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1707688720.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1937885638",
+      "text": "@nihal467, fixed the sizing issue and resolved conflicts. \r\nBTW The test case failure is unrelated to my change. Same test is failing on master."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1811",
@@ -685,7 +692,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7118",
       "title": "Replace font-awesome icons by CareIcon component",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "changes required",
         "merge conflict",
@@ -695,7 +702,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "waiting for back end"
       ]

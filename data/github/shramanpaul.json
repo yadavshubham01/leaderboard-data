@@ -1,6 +1,20 @@
 {
-  "last_updated": 1706613116.0,
+  "last_updated": 1707673381.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7200",
+      "time": 1707673381.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7200#issuecomment-1937819922",
+      "text": "[expanding comorbidities.webm](https://github.com/coronasafe/care_fe/assets/110323017/aa8a7cc2-38c7-4447-a456-70b85b89d9e1)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7200",
+      "time": 1707672755.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7200",
+      "text": "expanded the medical conditions the patient has (comorbidities)"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7119",
@@ -259,6 +273,13 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7200",
+      "title": "expanded the medical conditions the patient has (comorbidities)",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

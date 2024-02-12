@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707424949.0,
+  "last_updated": 1707676210.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1707676210.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1937831906",
+      "text": "@nihal467 done I understood\n\nAlso other small doubt what patient should I use"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",

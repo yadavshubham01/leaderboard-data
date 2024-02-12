@@ -1,6 +1,58 @@
 {
-  "last_updated": 1707573279.0,
+  "last_updated": 1707679829.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma#465",
+      "time": 1707679829.0,
+      "link": "https://github.com/coronasafe/ayushma/pull/465",
+      "text": "Add support for OpenAI TTS Engine",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707665290.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874388911",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707661306.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874377783",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707661306.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874377783",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707660958.0,
+      "title": "coronasafe/care_fe#7190",
+      "link": "https://github.com/coronasafe/care_fe/pull/7190#pullrequestreview-1874377417",
+      "text": "Add facility name to ReportTable component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707660863.0,
+      "title": "coronasafe/care#1870",
+      "link": "https://github.com/coronasafe/care/pull/1870#pullrequestreview-1874377181",
+      "text": "draft add insurer name in csv export"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707660578.0,
+      "title": "coronasafe/care_fe#7199",
+      "link": "https://github.com/coronasafe/care_fe/pull/7199#pullrequestreview-1874376388",
+      "text": "Add Search Box to Resource"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707573279.0,
@@ -35326,7 +35378,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -35335,7 +35387,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "need Review",
@@ -35346,7 +35398,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -35354,7 +35406,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -35362,7 +35414,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "merge conflict",
         "stale",

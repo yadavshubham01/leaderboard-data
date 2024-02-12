@@ -1,6 +1,48 @@
 {
-  "last_updated": 1707576610.0,
+  "last_updated": 1707679907.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707679907.0,
+      "title": "coronasafe/care#1870",
+      "link": "https://github.com/coronasafe/care/pull/1870#pullrequestreview-1874421578",
+      "text": "draft add insurer name in csv export"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679657.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420990",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679614.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420872",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679450.0,
+      "title": "coronasafe/care#1890",
+      "link": "https://github.com/coronasafe/care/pull/1890#pullrequestreview-1874420553",
+      "text": "Add Support to filter by Title in Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679406.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420323",
+      "text": "Add support for OpenAI TTS Engine"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707679406.0,
+      "title": "coronasafe/ayushma#465",
+      "link": "https://github.com/coronasafe/ayushma/pull/465#pullrequestreview-1874420323",
+      "text": "Add support for OpenAI TTS Engine"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1888",
@@ -9070,19 +9112,23 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7134",
       "title": "Update username validation on useradd",
-      "stale_for": 2,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "urgent",
+        "needs testing",
+        "P1"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1784",
       "title": "add events module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 76,
+      "stale_for": 77,
       "labels": [
         "blocked",
         "changes required",
@@ -9093,7 +9139,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 151,
+      "stale_for": 152,
       "labels": [
         "In progress"
       ]
@@ -9101,19 +9147,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 130,
+      "stale_for": 131,
       "labels": []
     }
   ],

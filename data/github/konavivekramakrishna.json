@@ -1,6 +1,55 @@
 {
-  "last_updated": 1707556884.0,
+  "last_updated": 1707652832.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707652832.0,
+      "title": "coronasafe/care#1870",
+      "link": "https://github.com/coronasafe/care/pull/1870#pullrequestreview-1874354532",
+      "text": "draft add insurer name in csv export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7199",
+      "time": 1707652210.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7199",
+      "text": "Add Search Box to Resource"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1890",
+      "time": 1707651646.0,
+      "link": "https://github.com/coronasafe/care/pull/1890",
+      "text": "Add Support to filter by Title in Resource"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1889",
+      "time": 1707636593.0,
+      "link": "https://github.com/coronasafe/care/issues/1889",
+      "text": "Dummy Data for Shifting and Resource"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1707627639.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1937426786",
+      "text": "@aparnacoronasafe \r\n\r\ncan you please look into it https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1933762626\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7192",
+      "time": 1707625767.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7192#issuecomment-1937420967",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/7cb04e91-be1b-46e5-92e3-21ebf135c36a)\r\nfixed"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7192",
+      "time": 1707625766.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7192",
+      "text": "Manage Patient button is clipping out"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1878",
@@ -1318,9 +1367,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7199",
+      "title": "Add Search Box to Resource",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1890",
+      "title": "Add Support to filter by Title in Resource",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7195",
       "title": "Increased the respiratory rate",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -1328,20 +1392,20 @@
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
-      "title": "add insurer name in csv export",
-      "stale_for": 8,
+      "title": "draft add insurer name in csv export",
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]
@@ -1349,7 +1413,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7078",
       "title": "Replace useDispatch in Patient Files (src/Components/Patient/)",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -1358,7 +1422,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     }
   ],

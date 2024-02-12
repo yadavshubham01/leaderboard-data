@@ -1,6 +1,55 @@
 {
-  "last_updated": 1707398116.0,
+  "last_updated": 1707695513.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707695513.0,
+      "title": "coronasafe/care_fe#7202",
+      "link": "https://github.com/coronasafe/care_fe/pull/7202#pullrequestreview-1874462657",
+      "text": "Fix bed check for log update button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7202",
+      "time": 1707683374.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7202#issuecomment-1937860959",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7202",
+      "time": 1707682316.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7202#issuecomment-1937856805",
+      "text": "testing note\r\n\r\n- [ ] check the expected functionality\r\n- [ ] check whether it is wrongly throwing it for discharged patients"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7203",
+      "time": 1707682043.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7203",
+      "text": "Bug: Patient Consultation Page Log Update filter is malfunctioning"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7201",
+      "time": 1707680377.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7201",
+      "text": "Bug: Error Message is missing for Patient consultation with no bed assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1707678140.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1937839539",
+      "text": "@AshrafMd-1 don't create a new patient, just select a patient in the existing dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1707676053.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1937831313",
+      "text": "@AshrafMd-1 \r\n\r\nway of approach should be like , use two nurse type and one district admin\r\n\r\nTest - 1 Part-1 : Verify the uploaded file can only be modified by the author, district admin, and above users.\r\n- [ ] First, upload a file to a patient file using the nurse user ID-1, and edit the file successfully.\r\n- [ ] Now, log out as nurse user ID-1 and log in as nurse user ID-2. Then try to edit the same file. Expected behavior: \"Nurse user ID-2 shouldn't be able to edit the file uploaded by nurse user ID-1.\" Verify this behavior.\r\n- [ ] Now, log out as nurse user ID-2 and log in as a district admin. Edit the file uploaded by nurse user ID-1. Expected behavior: \"The admin should be able to edit the file uploaded by nurse user ID-1.\"\r\n\r\nTest - 1 Part-2 : Verify file download is possible for all users.\r\n\r\n- [ ] Verify that the download functionality is working for nurse user ID-1 and the district admin, along with the part-1 test.\r\n\r\n@AshrafMd-1 Answer to the question : Only check for district admin and nurse userID"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7114",
@@ -32427,7 +32476,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "HCX"
       ]
