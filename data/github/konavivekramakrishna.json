@@ -1,6 +1,21 @@
 {
-  "last_updated": 1707652832.0,
+  "last_updated": 1707738897.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1890",
+      "time": 1707738897.0,
+      "link": "https://github.com/coronasafe/care/pull/1890",
+      "text": "Add Support to filter by Title in Resource",
+      "turnaround_time": 851
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7205",
+      "time": 1707720169.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7205",
+      "text": "Edit Button in Location Managment is Clipping out"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707652832.0,
@@ -1369,22 +1384,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7199",
       "title": "Add Search Box to Resource",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1890",
-      "title": "Add Support to filter by Title in Resource",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7195",
       "title": "Increased the respiratory rate",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -1393,19 +1402,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "draft add insurer name in csv export",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -1416,14 +1425,17 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "need Review"
+        "need Review",
+        "merge conflict"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 9,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": []

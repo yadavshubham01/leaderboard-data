@@ -1,6 +1,51 @@
 {
-  "last_updated": 1707576610.0,
+  "last_updated": 1707738890.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707738890.0,
+      "title": "coronasafe/care#1890",
+      "link": "https://github.com/coronasafe/care/pull/1890#pullrequestreview-1875077023",
+      "text": "Add Support to filter by Title in Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707738825.0,
+      "title": "coronasafe/care#1891",
+      "link": "https://github.com/coronasafe/care/pull/1891#pullrequestreview-1875075112",
+      "text": "fix ulid namespace and migrations issues"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1784",
+      "time": 1707721769.0,
+      "link": "https://github.com/coronasafe/care/pull/1784",
+      "text": "add events module",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707721763.0,
+      "title": "coronasafe/care#1784",
+      "link": "https://github.com/coronasafe/care/pull/1784#pullrequestreview-1874632986",
+      "text": "add events module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707720050.0,
+      "title": "coronasafe/care#1221",
+      "link": "https://github.com/coronasafe/care/pull/1221#pullrequestreview-1874611335",
+      "text": "feat(patient notes): add edit window validation and update endpoint"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707720024.0,
+      "title": "coronasafe/care#1843",
+      "link": "https://github.com/coronasafe/care/pull/1843#pullrequestreview-1874610940",
+      "text": "Track Location Uptime"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1883",

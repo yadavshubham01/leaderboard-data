@@ -1,6 +1,92 @@
 {
-  "last_updated": 1707695513.0,
+  "last_updated": 1707735650.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7207",
+      "time": 1707735650.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7207#issuecomment-1938456970",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7206",
+      "time": 1707722623.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7206",
+      "text": "Add Cypress test to verify error thrown for duplicate bed name"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1707720756.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952",
+      "text": "Show Asset Downtime on assets lists page",
+      "collaborated_with": [
+        "Pranshu1902"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6952",
+      "time": 1707720674.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#issuecomment-1938137060",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707718354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204",
+      "text": "Fix update log filters on page change",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707718088.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#issuecomment-1938108214",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7134",
+      "time": 1707712319.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7134",
+      "text": "Update username validation on useradd",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7134",
+      "time": 1707709617.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7134#issuecomment-1938030012",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7179",
+      "time": 1707707908.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7179#issuecomment-1938016868",
+      "text": "a related backend change fixed the issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7179",
+      "time": 1707707906.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7179",
+      "text": "Automate Daily Rounds is not working properly"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707707554.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#issuecomment-1938013667",
+      "text": "LGTM"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707695513.0,
@@ -32476,8 +32562,9 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
+        "merge conflict",
         "HCX"
       ]
     }

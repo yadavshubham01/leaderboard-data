@@ -1,6 +1,111 @@
 {
-  "last_updated": 1707685100.0,
+  "last_updated": 1707740987.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707740987.0,
+      "title": "coronasafe/leaderboard#216",
+      "link": "https://github.com/coronasafe/leaderboard/pull/216#pullrequestreview-1875136449",
+      "text": "Adds API route `/leaderboard` and \u2728 Optimize leaderboard page size"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7207",
+      "time": 1707735699.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7207",
+      "text": "Add min_encounter_date validation",
+      "turnaround_time": 10411
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707734707.0,
+      "title": "coronasafe/care#1891",
+      "link": "https://github.com/coronasafe/care/pull/1891#pullrequestreview-1874962743",
+      "text": "fix ulid namespace and migrations issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7207",
+      "time": 1707725288.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7207",
+      "text": "Add min_encounter_date validation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1221",
+      "time": 1707720072.0,
+      "link": "https://github.com/coronasafe/care/pull/1221",
+      "text": "feat(patient notes): add edit window validation and update endpoint",
+      "turnaround_time": 5030
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1221",
+      "time": 1707720072.0,
+      "link": "https://github.com/coronasafe/care/pull/1221",
+      "text": "feat(patient notes): add edit window validation and update endpoint",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1843",
+      "time": 1707720030.0,
+      "link": "https://github.com/coronasafe/care/pull/1843",
+      "text": "Track Location Uptime",
+      "turnaround_time": 37042
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1843",
+      "time": 1707720030.0,
+      "link": "https://github.com/coronasafe/care/pull/1843",
+      "text": "Track Location Uptime",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707718354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204",
+      "text": "Fix update log filters on page change",
+      "turnaround_time": 33255
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7204",
+      "time": 1707718354.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7204",
+      "text": "Fix update log filters on page change",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707717856.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1874584992",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707717763.0,
+      "title": "coronasafe/care_fe#7204",
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#pullrequestreview-1874584102",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7202",
+      "time": 1707709554.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7202",
+      "text": "Fix bed check for log update button",
+      "turnaround_time": 27620
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7204",
@@ -17171,27 +17276,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7204",
-      "title": "Fix update log filters on page change",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7202",
-      "title": "Fix bed check for log update button",
-      "stale_for": 0,
-      "labels": [
-        "need Review",
-        "tested"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7190",
       "title": "Add facility name to ReportTable component",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing"
       ]
@@ -17199,33 +17286,24 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care/pull/1843",
-      "title": "Track Location Uptime",
-      "stale_for": 0,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6919",
       "title": "Add edit option for doctor notes",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "changes required",
-        "waiting for back end",
-        "merge conflict"
+        "needs testing",
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 129,
+      "stale_for": 130,
       "labels": [
         "POC"
       ]
@@ -17233,7 +17311,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 313,
+      "stale_for": 314,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17242,16 +17320,8 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 326,
+      "stale_for": 327,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1221",
-      "title": "feat(patient notes): add edit window validation and update endpoint",
-      "stale_for": 11,
-      "labels": [
-        "waiting-for-review"
-      ]
     }
   ],
   "authored_issue_and_pr": [

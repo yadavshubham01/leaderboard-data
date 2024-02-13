@@ -1,6 +1,62 @@
 {
-  "last_updated": 1707557347.0,
+  "last_updated": 1707735690.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707735690.0,
+      "title": "coronasafe/care_fe#7207",
+      "link": "https://github.com/coronasafe/care_fe/pull/7207#pullrequestreview-1874991230",
+      "text": "Add min_encounter_date validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707720734.0,
+      "title": "coronasafe/care_fe#6952",
+      "link": "https://github.com/coronasafe/care_fe/pull/6952#pullrequestreview-1874619790",
+      "text": "Show Asset Downtime on assets lists page"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7203",
+      "time": 1707718355.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7203",
+      "text": "Bug: Patient Consultation Page Log Update filter is malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707718230.0,
+      "title": "coronasafe/care_fe#7204",
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#pullrequestreview-1874589124",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7115",
+      "time": 1707712320.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7115",
+      "text": "username by default lowercase"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707712302.0,
+      "title": "coronasafe/care_fe#7134",
+      "link": "https://github.com/coronasafe/care_fe/pull/7134#pullrequestreview-1874536180",
+      "text": "Update username validation on useradd"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7201",
+      "time": 1707709555.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7201",
+      "text": "Bug: Error Message is missing for Patient consultation with no bed assigned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707701156.0,
+      "title": "coronasafe/care_fe#7202",
+      "link": "https://github.com/coronasafe/care_fe/pull/7202#pullrequestreview-1874483030",
+      "text": "Fix bed check for log update button"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1861",
@@ -28587,7 +28643,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "merge conflict",
         "ABDM"
@@ -28596,7 +28652,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "stale"
       ]
@@ -28604,7 +28660,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         "need Review"
       ]
@@ -28612,13 +28668,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 31,
+      "stale_for": 33,
       "labels": [
         "waiting for back end",
         "merge conflict"
@@ -28627,7 +28683,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 66,
+      "stale_for": 68,
       "labels": [
         "waiting-for-review"
       ]
@@ -28635,19 +28691,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 76,
+      "stale_for": 78,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 428,
+      "stale_for": 430,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 185,
+      "stale_for": 187,
       "labels": [
         "changes required"
       ]
@@ -28655,25 +28711,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 785,
+      "stale_for": 787,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 791,
+      "stale_for": 793,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 792,
+      "stale_for": 794,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 987,
+      "stale_for": 989,
       "labels": []
     }
   ],

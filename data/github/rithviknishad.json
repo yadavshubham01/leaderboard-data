@@ -1,6 +1,111 @@
 {
-  "last_updated": 1707679829.0,
+  "last_updated": 1707737936.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707737936.0,
+      "title": "coronasafe/care#1891",
+      "link": "https://github.com/coronasafe/care/pull/1891#pullrequestreview-1875051671",
+      "text": "fix ulid namespace and migrations issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#216",
+      "time": 1707736166.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/216",
+      "text": "Adds API route `/leaderboard` and srhink leaderboard page size by 82x"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707729807.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1874793250",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707729807.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1874793250",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1707728831.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1938276475",
+      "text": "Hey @SamakshAgarwal1112 any updates on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707728604.0,
+      "title": "coronasafe/care_fe#6919",
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#pullrequestreview-1874771689",
+      "text": "Add edit option for doctor notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707728468.0,
+      "title": "coronasafe/care_fe#7207",
+      "link": "https://github.com/coronasafe/care_fe/pull/7207#pullrequestreview-1874768116",
+      "text": "Add min_encounter_date validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1866",
+      "time": 1707721941.0,
+      "link": "https://github.com/coronasafe/care/pull/1866#issuecomment-1938152282",
+      "text": "@vigneshhari will add tests once the permission related discussion is clarified\r\n\r\nhttps://github.com/coronasafe/care_fe/pull/7148#issuecomment-1938150169"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1707721776.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#issuecomment-1938150169",
+      "text": "As per discussions, the following changes will be made to the permissions:\r\n\r\n## Patient Registration Permission\r\n\r\n**Current**: \r\nIf a patient is readmitted to a different facility, the users of the previous consultation's facility cannot access those patient details.\r\n\r\n**New**: \r\nIf the user belongs to one of the facilities where the patient has ever had a consultation, they can read the \"Patient Registration\" details.\r\n\r\n\r\n## Consultation History\r\n\r\n**Current**: \r\nIf a patient has access to the patient details page, they can \"read\" older consultations even if those consultations may not be part of the latest facility of the patient. I.e., If a patient is readmitted to a different facility, users of the latest facility can \"view\" all the consultations regardless of which facility the previous consultations belong to.\r\n\r\n**New**:\r\nPossible solutions:\r\n- [ ] Allow users who have access to view the patient details to also be able to view all previous consultations regardless of which facility the previous consultations belonged to.\r\n- [ ] Allow users to view all consultation history (regardless of facility) if the active/latest consultation belongs to the facility that the user belongs to. However, if the user belongs to a facility which is not the latest consultation facility, they won't have permission to view consultations that took part in other facilities of the patient. (This could lead to confusion to the user as they'll loose access to the full consultation history once the patient is readmitted to a different facility)."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707715588.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1874560232",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707709951.0,
+      "title": "coronasafe/care_fe#7204",
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#pullrequestreview-1874522333",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707709940.0,
+      "title": "coronasafe/care_fe#7204",
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#pullrequestreview-1874522269",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707709892.0,
+      "title": "coronasafe/care_fe#7204",
+      "link": "https://github.com/coronasafe/care_fe/pull/7204#pullrequestreview-1874522012",
+      "text": "Fix update log filters on page change"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707709430.0,
+      "title": "coronasafe/care_fe#7134",
+      "link": "https://github.com/coronasafe/care_fe/pull/7134#pullrequestreview-1874519686",
+      "text": "Update username validation on useradd"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707709384.0,
+      "title": "coronasafe/care_fe#7202",
+      "link": "https://github.com/coronasafe/care_fe/pull/7202#pullrequestreview-1874519475",
+      "text": "Fix bed check for log update button"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/ayushma#465",
@@ -35376,9 +35481,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/216",
+      "title": "Adds API route `/leaderboard` and \u2728 Optimize leaderboard page size",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -35387,7 +35498,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review",
@@ -35398,7 +35509,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]
@@ -35406,7 +35517,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -35414,7 +35525,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "merge conflict",
         "stale",

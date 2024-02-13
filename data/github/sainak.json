@@ -1,6 +1,77 @@
 {
-  "last_updated": 1707679907.0,
+  "last_updated": 1707738831.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1891",
+      "time": 1707738831.0,
+      "link": "https://github.com/coronasafe/care/pull/1891",
+      "text": "fix ulid namespace and migrations issues",
+      "turnaround_time": 7145
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1891",
+      "time": 1707731687.0,
+      "link": "https://github.com/coronasafe/care/pull/1891",
+      "text": "fix ulid namespace and migrations issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1784",
+      "time": 1707721769.0,
+      "link": "https://github.com/coronasafe/care/pull/1784",
+      "text": "add events module",
+      "turnaround_time": 75423
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1784",
+      "time": 1707721769.0,
+      "link": "https://github.com/coronasafe/care/pull/1784",
+      "text": "add events module",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1221",
+      "time": 1707720072.0,
+      "link": "https://github.com/coronasafe/care/pull/1221",
+      "text": "feat(patient notes): add edit window validation and update endpoint",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1843",
+      "time": 1707720030.0,
+      "link": "https://github.com/coronasafe/care/pull/1843",
+      "text": "Track Location Uptime",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7134",
+      "time": 1707712319.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7134",
+      "text": "Update username validation on useradd",
+      "turnaround_time": 42858
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7134",
+      "time": 1707712319.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7134",
+      "text": "Update username validation on useradd",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1707679907.0,
@@ -9110,25 +9181,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7134",
-      "title": "Update username validation on useradd",
-      "stale_for": 0,
-      "labels": [
-        "urgent",
-        "needs testing",
-        "P1"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1784",
-      "title": "add events module",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 77,
+      "stale_for": 78,
       "labels": [
         "blocked",
         "changes required",
@@ -9139,7 +9194,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 152,
+      "stale_for": 153,
       "labels": [
         "In progress"
       ]
@@ -9147,19 +9202,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 206,
+      "stale_for": 207,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 131,
+      "stale_for": 132,
       "labels": []
     }
   ],
