@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707738831.0,
+  "last_updated": 1707845867.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707845867.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1878579024",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707845623.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1878562151",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707845623.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1878562151",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1891",
@@ -9183,7 +9204,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 78,
+      "stale_for": 79,
       "labels": [
         "blocked",
         "changes required",
@@ -9194,7 +9215,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 153,
+      "stale_for": 154,
       "labels": [
         "In progress"
       ]
@@ -9202,19 +9223,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 67,
+      "stale_for": 68,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 132,
+      "stale_for": 133,
       "labels": []
     }
   ],

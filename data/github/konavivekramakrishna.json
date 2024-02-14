@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707738897.0,
+  "last_updated": 1707823104.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1707823104.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#issuecomment-1941268027",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/5375dc9a-b7da-44d7-9b8c-110837efb4a5)\r\n\r\n\r\n@nihal467  @rithviknishad \r\n\r\nIn both invasive and non-invasive ventilation modes, the respiratory rate (bpm) is currently set to 100. Should this be increased?\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7206",
+      "time": 1707796115.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7206#issuecomment-1940378314",
+      "text": "@nihal467 can you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7205",
+      "time": 1707795709.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7205#issuecomment-1940374488",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/15a5aec2-91a2-4b13-bcb8-bf4d6249bf38)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/b991d8f1-f812-4696-ba37-dfa15995d159)\r\n\r\n\r\nand if the name is length is too high the edit button is not visible"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1890",
@@ -1384,37 +1405,37 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7199",
       "title": "Add Search Box to Resource",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "tested",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7195",
       "title": "Increased the respiratory rate",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "need Review",
+        "test failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "draft add insurer name in csv export",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -1425,14 +1446,13 @@
       "stale_for": 0,
       "labels": [
         "needs testing",
-        "need Review",
-        "merge conflict"
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]

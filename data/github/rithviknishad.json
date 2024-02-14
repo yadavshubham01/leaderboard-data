@@ -1,6 +1,92 @@
 {
-  "last_updated": 1707737936.0,
+  "last_updated": 1707831290.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707831290.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1877954985",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707831197.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1877950559",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707831197.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1877950559",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#217",
+      "time": 1707827423.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/217",
+      "text": "Adds support for showing Active Projects",
+      "turnaround_time": 4276
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707827185.0,
+      "title": "coronasafe/care_fe#7210",
+      "link": "https://github.com/coronasafe/care_fe/pull/7210#pullrequestreview-1877812566",
+      "text": "Update Uptime endpoint for AssetUptime"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707827185.0,
+      "title": "coronasafe/care_fe#7210",
+      "link": "https://github.com/coronasafe/care_fe/pull/7210#pullrequestreview-1877812566",
+      "text": "Update Uptime endpoint for AssetUptime"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7209",
+      "time": 1707824722.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7209#issuecomment-1941308946",
+      "text": "@Ashesh3 https://github.com/coronasafe/care/pull/1843 requires changes in front end too right?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#217",
+      "time": 1707823148.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/217",
+      "text": "Adds support for showing Active Projects"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707818764.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1877453653",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707818764.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1877453653",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#215",
+      "time": 1707802718.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/215",
+      "text": "Add API route for leaderboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#216",
+      "time": 1707802717.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/216",
+      "text": "Adds API route `/leaderboard` and \u2728 Optimize leaderboard page size",
+      "turnaround_time": 14195
+    },
     {
       "type": "pr_reviewed",
       "time": 1707737936.0,
@@ -35481,15 +35567,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/216",
-      "title": "Adds API route `/leaderboard` and \u2728 Optimize leaderboard page size",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -35500,7 +35580,6 @@
       "title": "Adds support for viewing discharged patients of a facility",
       "stale_for": 0,
       "labels": [
-        "needs testing",
         "need Review",
         "waiting for back end",
         "discussion"
@@ -35509,7 +35588,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -35517,7 +35596,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "waiting-for-review"
       ]
@@ -35525,7 +35604,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "merge conflict",
         "stale",
@@ -35537,6 +35616,10 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/215",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/216"
     },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
@@ -35597,10 +35680,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/179",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/180"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/166",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/172"
     }
   ]
 }

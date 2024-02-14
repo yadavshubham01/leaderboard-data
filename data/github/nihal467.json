@@ -1,6 +1,90 @@
 {
-  "last_updated": 1707735650.0,
+  "last_updated": 1707831042.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7190",
+      "time": 1707831042.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7190#issuecomment-1941519287",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707828806.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#issuecomment-1941455462",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7125",
+      "time": 1707828214.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7125#issuecomment-1941439935",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7199",
+      "time": 1707823123.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7199#issuecomment-1941268563",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707822447.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180#issuecomment-1941233539",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7209",
+      "time": 1707822321.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7209",
+      "text": "Asset detail page is malfunctioning"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7163",
+      "time": 1707820451.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7163#issuecomment-1941120483",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707819511.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#issuecomment-1941077965",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707819386.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#issuecomment-1941072429",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707818698.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#issuecomment-1941026907",
+      "text": "@aeswibon \r\n<img width=\"960\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/42defb19-6f18-4f4a-9618-84691faf3c4a\">\r\n\r\nwhen there is no diagnosis, there is a 0 being shown in the patient consultation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1707817972.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#issuecomment-1940978003",
+      "text": "@konavivekramakrishna \r\n\r\n<img width=\"749\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/339e1082-7af3-43b9-a59e-4cedbf37da60\">\r\n\r\nchange the RR rate in the critical care log update, vitals section as well, because the slide still consider 70 as maximum limit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707817446.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#issuecomment-1940948584",
+      "text": "- [ ] the edit button is not clickable , only the icon is clickable"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7207",
@@ -32562,7 +32646,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "merge conflict",
         "HCX"

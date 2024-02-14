@@ -1,6 +1,41 @@
 {
-  "last_updated": 1707740987.0,
+  "last_updated": 1707827359.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707827359.0,
+      "title": "coronasafe/leaderboard#217",
+      "link": "https://github.com/coronasafe/leaderboard/pull/217#pullrequestreview-1877821678",
+      "text": "Adds support for showing Active Projects"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707827210.0,
+      "title": "coronasafe/care_fe#7210",
+      "link": "https://github.com/coronasafe/care_fe/pull/7210#pullrequestreview-1877813409",
+      "text": "Update Uptime endpoint for AssetUptime"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7210",
+      "time": 1707825114.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7210",
+      "text": "Track uptime for Locations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707818394.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1877428587",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707817883.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#issuecomment-1940972791",
+      "text": "> * [ ]  the edit button is not clickable , only the icon is clickable\r\n\r\nFixed, made the edit experience more intuitive."
+    },
     {
       "type": "pr_reviewed",
       "time": 1707740987.0,
@@ -17276,19 +17311,29 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7190",
-      "title": "Add facility name to ReportTable component",
-      "stale_for": 1,
+      "link": "https://github.com/coronasafe/care_fe/pull/7210",
+      "title": "Update Uptime endpoint for AssetUptime",
+      "stale_for": 0,
       "labels": [
         "needs testing"
       ]
     },
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7190",
+      "title": "Add facility name to ReportTable component",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "reviewed"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7125",
       "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
-        "needs testing"
+        "tested",
+        "reviewed"
       ]
     },
     {
@@ -17296,14 +17341,14 @@
       "title": "Add edit option for doctor notes",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "tested",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 130,
+      "stale_for": 131,
       "labels": [
         "POC"
       ]
@@ -17311,7 +17356,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 314,
+      "stale_for": 315,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17320,7 +17365,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 327,
+      "stale_for": 328,
       "labels": []
     }
   ],
