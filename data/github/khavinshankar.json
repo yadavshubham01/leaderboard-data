@@ -1,6 +1,139 @@
 {
-  "last_updated": 1707735690.0,
+  "last_updated": 1707914832.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707914832.0,
+      "title": "coronasafe/care#1895",
+      "link": "https://github.com/coronasafe/care/pull/1895#pullrequestreview-1880190238",
+      "text": "Improvements for events module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6546",
+      "time": 1707898722.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6546",
+      "text": "\ud83d\udee0\ufe0f Replace `useDispatch` w. `useQuery`/`request`: Patient (`src/Components/Patient/**`)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707898713.0,
+      "title": "coronasafe/care_fe#7078",
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#pullrequestreview-1879636074",
+      "text": "Replace useDispatch in Patient Files (src/Components/Patient/)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707895603.0,
+      "title": "coronasafe/care_fe#6919",
+      "link": "https://github.com/coronasafe/care_fe/pull/6919#pullrequestreview-1879552155",
+      "text": "Add edit option for doctor notes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6962",
+      "time": 1707895465.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6962",
+      "text": " Add Line breaking support to the doctor notes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707895443.0,
+      "title": "coronasafe/care_fe#6977",
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#pullrequestreview-1879548931",
+      "text": "Added support for multi-line text input for Doctor Notes"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7209",
+      "time": 1707895315.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7209",
+      "text": "Asset detail page is malfunctioning"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707895307.0,
+      "title": "coronasafe/care_fe#7210",
+      "link": "https://github.com/coronasafe/care_fe/pull/7210#pullrequestreview-1879546223",
+      "text": "Update Uptime endpoint for AssetUptime"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707886098.0,
+      "title": "coronasafe/care_fe#7125",
+      "link": "https://github.com/coronasafe/care_fe/pull/7125#pullrequestreview-1879351690",
+      "text": "Set Form Drafts to expire after 24 hours"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7142",
+      "time": 1707886076.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7142",
+      "text": "Increase the Add button height in skills slideover"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707886068.0,
+      "title": "coronasafe/care_fe#7163",
+      "link": "https://github.com/coronasafe/care_fe/pull/7163#pullrequestreview-1879351360",
+      "text": "Increase the Add button height in skills slideover."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6789",
+      "time": 1707886047.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6789",
+      "text": "Hide \"Asset Type\" (Assets to be always \"Internal\")"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707886037.0,
+      "title": "coronasafe/care_fe#7180",
+      "link": "https://github.com/coronasafe/care_fe/pull/7180#pullrequestreview-1879351012",
+      "text": "Hide Asset Type"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7150",
+      "time": 1707886003.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7150",
+      "text": "Add a new row for facility name to Patient investigation summary"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707885991.0,
+      "title": "coronasafe/care_fe#7190",
+      "link": "https://github.com/coronasafe/care_fe/pull/7190#pullrequestreview-1879350511",
+      "text": "Add facility name to ReportTable component"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7187",
+      "time": 1707885975.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7187",
+      "text": "User would be confused whether diagnoses are being loaded or does the consultation not have any diagnoses associated to it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707885944.0,
+      "title": "coronasafe/care_fe#7196",
+      "link": "https://github.com/coronasafe/care_fe/pull/7196#pullrequestreview-1879349975",
+      "text": "fix: hide the diagonses card if it's empty"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#5695",
+      "time": 1707885932.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5695",
+      "text": "Add: Search box to filter data in resource board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707885907.0,
+      "title": "coronasafe/care_fe#7199",
+      "link": "https://github.com/coronasafe/care_fe/pull/7199#pullrequestreview-1879349537",
+      "text": "Add Search Box to Resource"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707735690.0,
@@ -28643,7 +28776,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "merge conflict",
         "ABDM"
@@ -28652,7 +28785,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7147",
       "title": "Minor ui spacing fix",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "stale"
       ]
@@ -28660,7 +28793,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 12,
+      "stale_for": 14,
       "labels": [
         "need Review"
       ]
@@ -28668,22 +28801,21 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 6,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 33,
+      "stale_for": 1,
       "labels": [
-        "waiting for back end",
-        "merge conflict"
+        "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 68,
+      "stale_for": 70,
       "labels": [
         "waiting-for-review"
       ]
@@ -28691,19 +28823,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 78,
+      "stale_for": 80,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 430,
+      "stale_for": 432,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 187,
+      "stale_for": 189,
       "labels": [
         "changes required"
       ]
@@ -28711,25 +28843,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 787,
+      "stale_for": 789,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 793,
+      "stale_for": 795,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 794,
+      "stale_for": 796,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 989,
+      "stale_for": 991,
       "labels": []
     }
   ],

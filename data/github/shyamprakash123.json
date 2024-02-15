@@ -1,6 +1,32 @@
 {
-  "last_updated": 1707311878.0,
+  "last_updated": 1707886075.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7163",
+      "time": 1707886075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7163",
+      "text": "Increase the Add button height in skills slideover.",
+      "turnaround_time": 62384
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707886046.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180",
+      "text": "Hide Asset Type",
+      "turnaround_time": 3669
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707886046.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180",
+      "text": "Hide Asset Type",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7163",
@@ -823,33 +849,18 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7180",
-      "title": "Hide Asset Type",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7164",
       "title": "Responsive issue in user card#7141",
-      "stale_for": 0,
+      "stale_for": 7,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7163",
-      "title": "Increase the Add button height in skills slideover.",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7113",
       "title": "Draft for ABHA Linking Process.",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "stale"
+      ]
     }
   ],
   "authored_issue_and_pr": [

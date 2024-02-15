@@ -1,6 +1,97 @@
 {
-  "last_updated": 1707827359.0,
+  "last_updated": 1707915636.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707915636.0,
+      "title": "coronasafe/care#1894",
+      "link": "https://github.com/coronasafe/care/pull/1894#pullrequestreview-1880214441",
+      "text": "Remove old bed name field"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707915617.0,
+      "title": "coronasafe/care#1895",
+      "link": "https://github.com/coronasafe/care/pull/1895#pullrequestreview-1880213836",
+      "text": "Improvements for events module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#172",
+      "time": 1707904049.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/172",
+      "text": "Broken UI in Settings Popup"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#172",
+      "time": 1707904046.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/172#issuecomment-1943407208",
+      "text": "Unable to replicate, closing for now. Feel free to re-open with device configuration details on which the issue occurs.\r\n![image](https://github.com/coronasafe/ayushma_fe/assets/3626859/2cc0c6dc-4b6c-4c1c-b53e-d3bd65a0c6b4)\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1893",
+      "time": 1707902784.0,
+      "link": "https://github.com/coronasafe/care/issues/1893",
+      "text": "Restrict Log Updates to Patients Assigned to Beds"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4884",
+      "time": 1707902229.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4884#issuecomment-1943357459",
+      "text": "Fixed by https://github.com/coronasafe/care_fe/pull/6919"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#4884",
+      "time": 1707902228.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4884",
+      "text": "Doctor's Notes: Option to edit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707895615.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "text": "Add edit option for doctor notes",
+      "turnaround_time": 78353
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707895615.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "text": "Add edit option for doctor notes",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7210",
+      "time": 1707895314.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7210",
+      "text": "Update Uptime endpoint for AssetUptime",
+      "turnaround_time": 70368
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7125",
+      "time": 1707886106.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7125",
+      "text": "Set Form Drafts to expire after 24 hours",
+      "turnaround_time": 74484
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7190",
+      "time": 1707886002.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7190",
+      "text": "Add facility name to ReportTable component",
+      "turnaround_time": 81553
+    },
     {
       "type": "pr_reviewed",
       "time": 1707827359.0,
@@ -17311,44 +17402,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7210",
-      "title": "Update Uptime endpoint for AssetUptime",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7190",
-      "title": "Add facility name to ReportTable component",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7125",
-      "title": "Set Form Drafts to expire after 24 hours",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6919",
-      "title": "Add edit option for doctor notes",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 131,
+      "stale_for": 132,
       "labels": [
         "POC"
       ]
@@ -17356,7 +17412,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 315,
+      "stale_for": 316,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17365,7 +17421,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 328,
+      "stale_for": 329,
       "labels": []
     }
   ],

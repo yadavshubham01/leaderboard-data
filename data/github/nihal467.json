@@ -1,6 +1,120 @@
 {
-  "last_updated": 1707831042.0,
+  "last_updated": 1707897306.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707897306.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1879591137",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707897306.0,
+      "title": "coronasafe/care_fe#6996",
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#pullrequestreview-1879591137",
+      "text": "Add support to delete location"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7174",
+      "time": 1707896406.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7174#issuecomment-1943226086",
+      "text": "@rithviknishad https://deploy-preview-7174--care-net.netlify.app/facility/9f6ac58c-c572-4965-be8d-c15415dd9f55/patient/b3828472-3a4c-4488-a6cb-46060de2aaaa/consultation/368a312c-4654-44bb-a549-5e4c55643d23/files\r\n\r\nuserid: nihal-district password: Test@123\r\n\r\nThis above mentioned patient have no file present in the consultation file, but it is still showing a unnamed file present in the section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1707896200.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1943222479",
+      "text": "@aeswibon can you fix the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7078",
+      "time": 1707896127.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7078#issuecomment-1943221275",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6919",
+      "time": 1707895615.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6919",
+      "text": "Add edit option for doctor notes",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6996",
+      "time": 1707895522.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6996#issuecomment-1943211116",
+      "text": "@Pranshu1902 the test is failing fix it, and clear the merge conflict"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1707895464.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977",
+      "text": "Added support for multi-line text input for Doctor Notes",
+      "collaborated_with": [
+        "kshitijv256"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7118",
+      "time": 1707895464.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7118#issuecomment-1943210066",
+      "text": "@Omkar76 can you clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6977",
+      "time": 1707895326.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6977#issuecomment-1943207872",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7210",
+      "time": 1707895231.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7210#issuecomment-1943206329",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7180",
+      "time": 1707886046.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7180",
+      "text": "Hide Asset Type",
+      "collaborated_with": [
+        "shyamprakash123"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707885975.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196",
+      "text": "fix: hide the diagonses card if it's empty",
+      "collaborated_with": [
+        "aeswibon",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7199",
+      "time": 1707885931.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7199",
+      "text": "Add Search Box to Resource",
+      "collaborated_with": [
+        "konavivekramakrishna"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7190",
@@ -32646,7 +32760,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "merge conflict",
         "HCX"

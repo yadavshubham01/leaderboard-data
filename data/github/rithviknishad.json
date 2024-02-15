@@ -1,6 +1,94 @@
 {
-  "last_updated": 1707831290.0,
+  "last_updated": 1707933889.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1707933889.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1944338378",
+      "text": "show other or not selected itself \ud83d\ude05 am I missing some context?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": 1707933663.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1944332619",
+      "text": "@konavivekramakrishna if we are taking an input from the user from a form, we should be displaying it too right?\n\nlet's keep it in the patient home as you've suggested in the previous comment."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707933303.0,
+      "title": "coronasafe/care#1894",
+      "link": "https://github.com/coronasafe/care/pull/1894#pullrequestreview-1880920316",
+      "text": "Remove old bed name field"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7215",
+      "time": 1707919164.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7215",
+      "text": "Support for showing tutorial on how to use CARE inside CARE"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707914892.0,
+      "title": "coronasafe/care#1895",
+      "link": "https://github.com/coronasafe/care/pull/1895#pullrequestreview-1880192119",
+      "text": "Improvements for events module"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7171",
+      "time": 1707912189.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7171#issuecomment-1943636363",
+      "text": "Hey @sriharsh05 any updates on this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7169",
+      "time": 1707912172.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7169#issuecomment-1943635932",
+      "text": "Hey @MayaSatishRao any updates on this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707890040.0,
+      "title": "coronasafe/care_fe#7211",
+      "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1879418065",
+      "text": "Fix edit clipping"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707890040.0,
+      "title": "coronasafe/care_fe#7211",
+      "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1879418065",
+      "text": "Fix edit clipping"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7212",
+      "time": 1707889642.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7212",
+      "text": "Discharge date issue"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7196",
+      "time": 1707885975.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7196",
+      "text": "fix: hide the diagonses card if it's empty",
+      "collaborated_with": [
+        "aeswibon",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7212",
+      "time": 1707885475.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7212#issuecomment-1943070127",
+      "text": "@Deepjyoti14 could you specify what the error was when attempting to discharge?\r\n\r\nThe discharge date must be later than the admission date."
+    },
     {
       "type": "pr_reviewed",
       "time": 1707831290.0,
@@ -35571,14 +35659,14 @@
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "need Review",
+        "test failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review",
         "waiting for back end",
@@ -35588,7 +35676,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -35596,7 +35684,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "waiting-for-review"
       ]
@@ -35604,7 +35692,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "merge conflict",
         "stale",

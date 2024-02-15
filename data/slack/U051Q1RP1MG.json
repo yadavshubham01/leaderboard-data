@@ -2634,5 +2634,86 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-14 00:00:00": [
+        {
+            "client_msg_id": "2aa4235c-ace1-42ff-a79b-de0902f12cd5",
+            "type": "message",
+            "text": "Missed weekly update as I was traveling\n\nWeekly update:  5/02/2023 - 12/02/2023\n\u2022 Built a mockup for Doctor Connect UI.\n\u2022 Worked on a figma design for the care_fe header.\n\u2022 Made a draft PR for issue <https://github.com/coronasafe/care_fe/issues/6940|#6950>.\n\u2022 Restructured the Doctor connect component as per mockup.",
+            "user": "U051Q1RP1MG",
+            "ts": "1707888352.622189",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3/vjc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Missed weekly update as I was traveling\n\nWeekly update:  5/02/2023 - 12/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Built a mockup for Doctor Connect UI."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on a figma design for the care_fe header."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made a draft PR for issue "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/issues/6940",
+                                            "text": "#6950",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Restructured the Doctor connect component as per mockup."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

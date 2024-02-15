@@ -1,6 +1,27 @@
 {
-  "last_updated": 1700550386.0,
+  "last_updated": 1707886067.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7212",
+      "time": 1707886067.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7212",
+      "text": "Discharge date issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7212",
+      "time": 1707885793.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7212#issuecomment-1943073537",
+      "text": "@rithviknishad Sorry I was checking for wrong patient. Yes its working. Thanks. Please close the issue."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7212",
+      "time": 1707885137.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7212",
+      "text": "Discharge date issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6678",

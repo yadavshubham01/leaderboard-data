@@ -1,0 +1,46 @@
+{
+    "2024-02-14 00:00:00": [
+        {
+            "client_msg_id": "b2df5598-ca94-4995-ad9a-df0a8e9ded47",
+            "type": "message",
+            "text": "EOD 13 Feb:\n\u2022 Raised Issues on Metabase Manager repo to make ease of navigation and documentation changes.",
+            "user": "U065F462NF2",
+            "ts": "1707905626.898309",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "reiIA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 13 Feb:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Raised Issues on Metabase Manager repo to make ease of navigation and documentation changes."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
+    ]
+}
