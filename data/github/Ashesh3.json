@@ -1,6 +1,69 @@
 {
-  "last_updated": 1707915636.0,
+  "last_updated": 1708006356.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7112",
+      "time": 1708006356.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7112#issuecomment-1946177491",
+      "text": "After discussion: \"Patient Deleted\" and \"Patient Consultation Deleted\" categories from notification filters are to be removed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708006062.0,
+      "title": "coronasafe/care_fe#7221",
+      "link": "https://github.com/coronasafe/care_fe/pull/7221#pullrequestreview-1882874309",
+      "text": "Allows \"MESSAGE\" type push notifications to show notification"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6895",
+      "time": 1707991601.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6895#issuecomment-1945750657",
+      "text": "Issue is already resolved as per discussion with the team."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6895",
+      "time": 1707991601.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6895",
+      "text": "Patient transfer function in the registration form is malfunctioning"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1896",
+      "time": 1707989144.0,
+      "link": "https://github.com/coronasafe/care/pull/1896",
+      "text": "Add validation to ensure patient has a bed assigned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#178",
+      "time": 1707989016.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178#issuecomment-1945679660",
+      "text": "> @Ashesh3 is this able to be toggled on/off? If I want to change my language mid conversation for some specific use case it should be allowed. Maybe add this to the settings modal\r\n\r\nWe're decided against language changes mid conversation.\r\nRef: https://github.com/coronasafe/ayushma_fe/issues/163"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#178",
+      "time": 1707984871.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178",
+      "text": "Add language override functionality to ChatBar component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707977499.0,
+      "title": "coronasafe/care_fe#7211",
+      "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1881870656",
+      "text": "Fix edit clipping"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707977132.0,
+      "title": "coronasafe/care#1894",
+      "link": "https://github.com/coronasafe/care/pull/1894#pullrequestreview-1881860288",
+      "text": "Remove old bed name field and fix bed name validator"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707915636.0,
@@ -17402,9 +17465,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1896",
+      "title": "Creating daily round - ensure the patient has a bed assigned",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178",
+      "title": "Remember language for a conversation",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 132,
+      "stale_for": 133,
       "labels": [
         "POC"
       ]
@@ -17412,7 +17489,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 316,
+      "stale_for": 317,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17421,7 +17498,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 329,
+      "stale_for": 330,
       "labels": []
     }
   ],

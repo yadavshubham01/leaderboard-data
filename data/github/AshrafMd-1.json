@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707676210.0,
+  "last_updated": 1708024182.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1708024182.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1947009236",
+      "text": "@nihal467 is there any credentials for \r\nnurse id-1 and nurse id-2 or should I create a new user first "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",

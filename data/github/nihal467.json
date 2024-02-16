@@ -1,6 +1,24 @@
 {
-  "last_updated": 1707897306.0,
+  "last_updated": 1708014657.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7147",
+      "time": 1708014657.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "text": "Minor ui spacing fix",
+      "collaborated_with": [
+        "khavinshankar",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7217",
+      "time": 1707980160.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7217",
+      "text": "Push notification is not working in the care"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707897306.0,
@@ -32760,7 +32778,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "merge conflict",
         "HCX"

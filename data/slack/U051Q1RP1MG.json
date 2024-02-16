@@ -2715,5 +2715,123 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-15 00:00:00": [
+        {
+            "client_msg_id": "7f4ddb69-b02a-4089-bab0-7de0f7a6534d",
+            "type": "message",
+            "text": "EOD 15/02/2023\n\u2022 Added Filter switch to Doctor connect\n\u2022 Made PR <https://github.com/coronasafe/care_fe/pull/7198|#7198> ready for review\n\u2022 Solved merged conflict for PR <https://github.com/coronasafe/care_fe/pull/7136|#7136>",
+            "user": "U051Q1RP1MG",
+            "ts": "1708001230.508609",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "z7B2F",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 15/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Added Filter switch to Doctor connect"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Made PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7198",
+                                            "text": "#7198",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " ready for review"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Solved merged conflict for PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7136",
+                                            "text": "#7136",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "edited": {
+                "user": "U051Q1RP1MG",
+                "ts": "1708001273.000000"
+            },
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1707444899,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7198 Improving Doctor Connect UI",
+                    "title": "#7198 Improving Doctor Connect UI",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1706769566,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7136",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7136 Extend Update Log to bottom of the screen",
+                    "title": "#7136 Extend Update Log to bottom of the screen",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7136",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }

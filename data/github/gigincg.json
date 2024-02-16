@@ -1,6 +1,31 @@
 {
-  "last_updated": 1707399466.0,
+  "last_updated": 1708014658.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7146",
+      "time": 1708014658.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7146",
+      "text": "Bug: spacing: patient list"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7147",
+      "time": 1708014657.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "text": "Minor ui spacing fix",
+      "collaborated_with": [
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708014584.0,
+      "title": "coronasafe/care_fe#7147",
+      "link": "https://github.com/coronasafe/care_fe/pull/7147#pullrequestreview-1883300568",
+      "text": "Minor ui spacing fix"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707399466.0,
@@ -7037,7 +7062,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 58,
+      "stale_for": 65,
       "labels": [
         "In Progress"
       ]

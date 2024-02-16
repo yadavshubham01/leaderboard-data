@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707738890.0,
+  "last_updated": 1708014349.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708014349.0,
+      "title": "coronasafe/care#1894",
+      "link": "https://github.com/coronasafe/care/pull/1894#pullrequestreview-1883291511",
+      "text": "Remove old bed name field and fix bed name validator"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708014254.0,
+      "title": "coronasafe/care#1895",
+      "link": "https://github.com/coronasafe/care/pull/1895#pullrequestreview-1883287971",
+      "text": "Improvements for events module"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707738890.0,

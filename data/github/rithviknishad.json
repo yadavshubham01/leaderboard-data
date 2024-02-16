@@ -1,6 +1,105 @@
 {
-  "last_updated": 1707933889.0,
+  "last_updated": 1708012285.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7155",
+      "time": 1708012285.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7155#issuecomment-1946381963",
+      "text": "Related stale issue: https://github.com/coronasafe/care_fe/issues/6612\r\n\r\ncc: @khavinshankar "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6684",
+      "time": 1708011499.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6684#issuecomment-1946345479",
+      "text": "Unassigning due to no activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708010298.0,
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1883062074",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708007348.0,
+      "title": "coronasafe/care_fe#7147",
+      "link": "https://github.com/coronasafe/care_fe/pull/7147#pullrequestreview-1882934179",
+      "text": "Minor ui spacing fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7221",
+      "time": 1708006141.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7221",
+      "text": "Allows \"MESSAGE\" type push notifications to show notification",
+      "turnaround_time": 3924
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7221",
+      "time": 1708002218.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7221",
+      "text": "Allows \"MESSAGE\" type push notifications to show notification"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7220",
+      "time": 1708000294.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7220",
+      "text": "Doctor Notes are not updated live if device not subscribed. User may not be aware they have to subscribe to notifications for this to work"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7219",
+      "time": 1707992272.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7219",
+      "text": "Limit number of facilities a single user can be linked to."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707991151.0,
+      "title": "coronasafe/care#1896",
+      "link": "https://github.com/coronasafe/care/pull/1896#pullrequestreview-1882324191",
+      "text": "Creating daily round - ensure the patient has a bed assigned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707971008.0,
+      "title": "coronasafe/care_fe#7211",
+      "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1881730705",
+      "text": "Fix edit clipping"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7216",
+      "time": 1707969929.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#issuecomment-1945329131",
+      "text": "Although not recommended, you could set key of the form with a value dependent on the form state (maybe a hash or something), to force update the Form's provider value. Use this as a last resort.\r\n\r\n<img width=\"922\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/5988d89f-c5b0-4019-9535-0a59f8913439\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707969216.0,
+      "title": "coronasafe/care_fe#7216",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#pullrequestreview-1881671404",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707969173.0,
+      "title": "coronasafe/care_fe#7216",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#pullrequestreview-1881671404",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707969173.0,
+      "title": "coronasafe/care_fe#7216",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#pullrequestreview-1881671404",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7152",
@@ -35657,7 +35756,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "need Review",
         "test failed"
@@ -35666,7 +35765,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "need Review",
         "waiting for back end",
@@ -35676,7 +35775,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "changes required"
       ]
@@ -35684,7 +35783,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -35692,7 +35791,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "merge conflict",
         "stale",

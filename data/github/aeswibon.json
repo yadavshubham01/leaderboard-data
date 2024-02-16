@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707885975.0,
+  "last_updated": 1708006167.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1775",
+      "time": 1708006167.0,
+      "link": "https://github.com/coronasafe/care/issues/1775#issuecomment-1946171644",
+      "text": "I would like to work on it..."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7196",
@@ -174,21 +181,19 @@
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "stale_for": 0,
       "labels": [
-        "need Review",
-        "changes required",
-        "merge conflict"
+        "need Review"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1839",
       "title": "fix: Custom Migration to clean no input values as null in Daily Rounds table",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "do not merge",
         "hold",
@@ -199,7 +204,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -209,7 +214,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 89,
+      "stale_for": 90,
       "labels": []
     }
   ],

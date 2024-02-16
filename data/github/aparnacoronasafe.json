@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707299663.0,
+  "last_updated": 1707985675.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7158",
+      "time": 1707985675.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7158#issuecomment-1945585003",
+      "text": "@sainak \r\n\r\nPlease find the updated user access in the required format here: https://docs.google.com/spreadsheets/d/1HFmwBbbzQfeBy6fHkIbeNhrncil6c8fR8xmn7SIw9sU/edit?usp=sharing\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7121",

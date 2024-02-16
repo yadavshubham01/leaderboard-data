@@ -1,6 +1,46 @@
 {
-  "last_updated": 1707914832.0,
+  "last_updated": 1708014657.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7147",
+      "time": 1708014657.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "text": "Minor ui spacing fix",
+      "turnaround_time": 11284
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7147",
+      "time": 1708014657.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7147",
+      "text": "Minor ui spacing fix",
+      "collaborated_with": [
+        "gigincg",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7217",
+      "time": 1708006142.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7217",
+      "text": "Push notification is not working for the notice board"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708006135.0,
+      "title": "coronasafe/care_fe#7221",
+      "link": "https://github.com/coronasafe/care_fe/pull/7221#pullrequestreview-1882878532",
+      "text": "Allows \"MESSAGE\" type push notifications to show notification"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707977267.0,
+      "title": "coronasafe/care#1894",
+      "link": "https://github.com/coronasafe/care/pull/1894#pullrequestreview-1881863087",
+      "text": "Remove old bed name field and fix bed name validator"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707914832.0,
@@ -28776,24 +28816,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "merge conflict",
         "ABDM"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7147",
-      "title": "Minor ui spacing fix",
-      "stale_for": 5,
-      "labels": [
-        "stale"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "need Review"
       ]
@@ -28801,13 +28833,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6990",
       "title": "Events UI",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting for back end"
       ]
@@ -28815,7 +28847,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 70,
+      "stale_for": 71,
       "labels": [
         "waiting-for-review"
       ]
@@ -28823,19 +28855,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 80,
+      "stale_for": 81,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 432,
+      "stale_for": 433,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": [
         "changes required"
       ]
@@ -28843,25 +28875,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 789,
+      "stale_for": 790,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 795,
+      "stale_for": 796,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 796,
+      "stale_for": 797,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 991,
+      "stale_for": 992,
       "labels": []
     }
   ],

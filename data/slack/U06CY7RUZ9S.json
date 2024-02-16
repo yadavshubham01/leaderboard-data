@@ -172,5 +172,67 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-15 00:00:00": [
+        {
+            "client_msg_id": "f8c4dbee-42cd-4369-84d1-0045f26c86e0",
+            "type": "message",
+            "text": "EOD 14/02/2023\n\u2022 Completed the VPC terraform script with remote state \n\u2022 familiarised with middleware update script with ansible \n\u2022 understood how to configure new spoke installation scripts.  ",
+            "user": "U06CY7RUZ9S",
+            "ts": "1708005581.657759",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "XXG5q",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 14/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Completed the VPC terraform script with remote state "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "familiarised with middleware update script with ansible "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "understood how to configure new spoke installation scripts.  "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

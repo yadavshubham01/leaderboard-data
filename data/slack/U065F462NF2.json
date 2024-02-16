@@ -42,5 +42,60 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-15 00:00:00": [
+        {
+            "client_msg_id": "43ef91da-e35d-4801-a434-c945ccc34894",
+            "type": "message",
+            "text": "EOD 15 Feb\nAttempted to implement sort feature for Status in Metabase Manager\n(from issue <https://github.com/coronasafe/metabase_manager/issues/9>)",
+            "user": "U065F462NF2",
+            "ts": "1708024235.767269",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HQ6Fn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 15 Feb\nAttempted to implement sort feature for Status in Metabase Manager\n(from issue "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/metabase_manager/issues/9"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ")"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1707795483,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/metabase_manager/issues/9",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#9 Navigation Limitations for Card Selection",
+                    "text": "Currently, there's no way to group the cards that are being synced across subcollection/instances/name/sync status. This makes navigating the long list of cards from the whole collection that is being synced difficult to navigate through in situations where only certain cards need syncing.\n\nI propose that we add a feature that allows us to group the cards based on sync status, alphabetical order of their name, which sub collection they belong to and finally the instance of the dashboard they belong to. Furthermore, I'd like to add a collapsing/expanding feature to the cards that are being grouped in such a way.",
+                    "title": "#9 Navigation Limitations for Card Selection",
+                    "title_link": "https://github.com/coronasafe/metabase_manager/issues/9",
+                    "footer": "<https://github.com/coronasafe/metabase_manager|coronasafe/metabase_manager>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }

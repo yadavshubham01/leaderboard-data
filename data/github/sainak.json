@@ -1,6 +1,29 @@
 {
-  "last_updated": 1707936414.0,
+  "last_updated": 1708014354.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1894",
+      "time": 1708014354.0,
+      "link": "https://github.com/coronasafe/care/pull/1894",
+      "text": "Remove old bed name field and fix bed name validator",
+      "turnaround_time": 17006
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1895",
+      "time": 1708014260.0,
+      "link": "https://github.com/coronasafe/care/pull/1895",
+      "text": "Improvements for events module",
+      "turnaround_time": 13342
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1707992193.0,
+      "title": "coronasafe/care#1896",
+      "link": "https://github.com/coronasafe/care/pull/1896#pullrequestreview-1882364259",
+      "text": "Creating daily round - ensure the patient has a bed assigned"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7206",
@@ -9223,21 +9246,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1895",
-      "title": "Improvements for events module",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1894",
-      "title": "Remove old bed name field and fix bed name validator",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 80,
+      "stale_for": 81,
       "labels": [
         "blocked",
         "changes required",
@@ -9248,7 +9259,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 155,
+      "stale_for": 156,
       "labels": [
         "In progress"
       ]
@@ -9256,19 +9267,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 134,
+      "stale_for": 135,
       "labels": []
     }
   ],

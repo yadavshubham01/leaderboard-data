@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707227925.0,
+  "last_updated": 1707986389.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#178",
+      "time": 1707986389.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178#issuecomment-1945601260",
+      "text": "@Ashesh3 is this able to be toggled on/off? If I want to change my language mid conversation for some specific use case it should be allowed. Maybe add this to the settings modal"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma#460",

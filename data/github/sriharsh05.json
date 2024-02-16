@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707912717.0,
+  "last_updated": 1707965065.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7216",
+      "time": 1707965065.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#issuecomment-1945278669",
+      "text": "Hey @rithviknishad ,\r\n\r\nIn the useQuery block of the `getPatient` API call, the patient details are not being assigned to the form. I have console logged the data, which is fetched at line no: 448. The data logs properly, but it is not being dispatched at line no: 449.\r\n\r\nCan you please point out what mistake I made?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7216",
+      "time": 1707964312.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7216",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7171",
@@ -921,7 +935,14 @@
       "text": "I want to work on this issue."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7216",
+      "title": "Replace useDispatch with useQuery and request in PatientRegistration form.",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707934261.0,
+  "last_updated": 1708027183.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6684",
+      "time": 1708027183.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6684#issuecomment-1947187971",
+      "text": "\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/981973d1-bdfe-4243-bb4d-97f9bf62fc64)\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/c7805f43-2f59-42c3-8f10-9d56a9f5bad8)\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/7185f76a-ecdb-4a7a-9ff6-6b3eba5b2774)\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/f6264ce2-d3b8-4d52-a61e-27f48445a43e)\r\n\r\n\r\n@aparnacoronasafe @rithviknishad \r\n\r\ncould you please look at these images and see if any changes required?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1708004618.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#issuecomment-1946123421",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/d29ec5ab-3bf8-4b44-aaad-68308ec1b7dd)\r\n\r\n\r\n@nihal467 \r\n\r\nshould I update the readme in this pr\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/f42b4373-cfed-40b4-bce6-d497da75ce7b)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1708003365.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#issuecomment-1946088371",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/101407963/59bddf3b-52bc-4a76-8728-4e90f8e8ebb9)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7152",
@@ -1475,19 +1496,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "draft add insurer name in csv export",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -1495,7 +1516,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "changes required"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707879426.0,
+  "last_updated": 1707970991.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1707970991.0,
+      "title": "coronasafe/care_fe#7211",
+      "link": "https://github.com/coronasafe/care_fe/pull/7211#pullrequestreview-1881730527",
+      "text": "Fix edit clipping"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7211",
@@ -90,7 +97,8 @@
       "title": "Fix edit clipping",
       "stale_for": 0,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     }
   ],
