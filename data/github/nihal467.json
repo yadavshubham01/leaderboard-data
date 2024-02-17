@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708014657.0,
+  "last_updated": 1708074454.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7206",
+      "time": 1708074454.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7206#issuecomment-1948003980",
+      "text": "@konavivekramakrishna Sorry, my bad, the test already exist, so closing this issue and feel free to assign other open issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7206",
+      "time": 1708074453.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7206",
+      "text": "Add Cypress test to verify error thrown for duplicate bed name"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7147",
@@ -32778,7 +32792,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7178",
       "title": "Enable HCX for Demo Purpose",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "merge conflict",
         "HCX"

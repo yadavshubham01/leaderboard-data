@@ -234,5 +234,50 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-16 00:00:00": [
+        {
+            "client_msg_id": "8e4e5f1c-b38b-40a3-80c1-ab63f24ebe10",
+            "type": "message",
+            "text": "EOD 16/02/2023\n\u2022 Started working on db script ",
+            "user": "U06CY7RUZ9S",
+            "ts": "1708112643.749919",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FYH+L",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 16/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Started working on db script "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "offset": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

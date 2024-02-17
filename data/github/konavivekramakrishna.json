@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708027183.0,
+  "last_updated": 1708072430.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7206",
+      "time": 1708072430.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7206#issuecomment-1947957989",
+      "text": "@nihal467 \r\n\r\nhow is this new Cypress test different from the already existing Cypress test for verifying the creation of duplicate beds?\r\n\r\nhttps://github.com/coronasafe/care_fe/blob/develop/cypress/e2e/facility_spec/locations.cy.ts#L87-L94"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6684",
@@ -1496,19 +1503,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "draft add insurer name in csv export",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "changes required"
       ]
@@ -1516,7 +1523,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "changes required"
       ]
