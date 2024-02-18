@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707605619.0,
+  "last_updated": 1708157378.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#450",
+      "time": 1708157378.0,
+      "link": "https://github.com/coronasafe/ayushma/issues/450#issuecomment-1949894869",
+      "text": "It was due to google speech to text not working properly I have fixed OpenAI's whisper STT and is translating speech well."
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma#429",
@@ -1305,13 +1312,13 @@
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/107",
       "title": "v2 ocr addon",
-      "stale_for": 86,
+      "stale_for": 93,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_ocr/pull/9",
       "title": "v2 ocr addon",
-      "stale_for": 109,
+      "stale_for": 116,
       "labels": []
     }
   ],

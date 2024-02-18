@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707392153.0,
+  "last_updated": 1708201765.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7224",
+      "time": 1708201765.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7224",
+      "text": "added warning on doctor notes usage if not subscribed"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6637",
@@ -532,7 +539,14 @@
       "text": "@rithviknishad I'm interested to work on this issue, can you assign this to me."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7224",
+      "title": "added warning on doctor notes usage if not subscribed",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1498",

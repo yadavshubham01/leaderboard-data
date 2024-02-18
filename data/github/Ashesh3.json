@@ -1,6 +1,28 @@
 {
-  "last_updated": 1708006356.0,
+  "last_updated": 1708165881.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#178",
+      "time": 1708165881.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178",
+      "text": "Remember language for a conversation",
+      "turnaround_time": 8211
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#178",
+      "time": 1708159969.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/178#issuecomment-1949905849",
+      "text": "@skks1212 could you review it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1896",
+      "time": 1708159890.0,
+      "link": "https://github.com/coronasafe/care/pull/1896#issuecomment-1949905554",
+      "text": "@vigneshhari could you review this?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7112",
@@ -17473,15 +17495,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/178",
-      "title": "Remember language for a conversation",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 133,
+      "stale_for": 135,
       "labels": [
         "POC"
       ]
@@ -17489,7 +17505,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 317,
+      "stale_for": 319,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17498,7 +17514,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 330,
+      "stale_for": 332,
       "labels": []
     }
   ],

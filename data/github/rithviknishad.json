@@ -1,6 +1,143 @@
 {
-  "last_updated": 1708012285.0,
+  "last_updated": 1708152107.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#221",
+      "time": 1708152107.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/221",
+      "text": "Show contributor activity count specific to activity type beside the filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#227",
+      "time": 1708152106.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/227",
+      "text": "Show activity count of each activity type in filters",
+      "turnaround_time": 46
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#227",
+      "time": 1708152062.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/227",
+      "text": "Show activity count of each activity type in filters"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#222",
+      "time": 1708151375.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/222",
+      "text": "Suggest contributor to update their profile if details are missing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#226",
+      "time": 1708151374.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/226",
+      "text": "Show update profile button on contributors profile",
+      "turnaround_time": 504
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#220",
+      "time": 1708151355.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/220",
+      "text": "Show Slack icon on contributor profile if contributors front matter has slack ID linked"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#225",
+      "time": 1708151355.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/225",
+      "text": "Show slack icon on contributors social list",
+      "turnaround_time": 2481
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#97",
+      "time": 1708151343.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/97",
+      "text": "Bug: Timeline of contribution is not proper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#224",
+      "time": 1708151342.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/224",
+      "text": "fixes improper sorting of slack activities",
+      "turnaround_time": 4304
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#226",
+      "time": 1708150871.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/226",
+      "text": "Show update profile button on contributors profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#225",
+      "time": 1708148874.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/225",
+      "text": "Show slack icon on contributors social list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#224",
+      "time": 1708147039.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/224",
+      "text": "fixes improper sorting of slack activities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#223",
+      "time": 1708146095.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/223",
+      "text": "Auto-approve changes made to the contributor profile if the author of the PR is the same as the profile that is edited"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#222",
+      "time": 1708145937.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/222",
+      "text": "Suggest contributor to update their profile if details are missing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#221",
+      "time": 1708144908.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/221",
+      "text": "Show show contributor activity count specific to activity type beside the filters"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#220",
+      "time": 1708144500.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/220",
+      "text": "Show Slack icon on contributor profile if contributors front matter has slack ID linked"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#51",
+      "time": 1708143994.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/51",
+      "text": "Get historical data of all users"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#219",
+      "time": 1708143825.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/219",
+      "text": "Scaling points for PRs based on size of the PR / complexity of the issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#218",
+      "time": 1708142952.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/218",
+      "text": "Support for tracking commits pushed directly to default branch"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7155",
@@ -35756,7 +35893,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
         "need Review",
         "test failed"
@@ -35765,7 +35902,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "need Review",
         "waiting for back end",
@@ -35775,7 +35912,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "changes required"
       ]
@@ -35783,7 +35920,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": [
         "waiting-for-review"
       ]
@@ -35791,7 +35928,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": [
         "merge conflict",
         "stale",
@@ -35800,6 +35937,18 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/222",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/226"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/221",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/227"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/220",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/225"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
