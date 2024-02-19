@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708024182.0,
+  "last_updated": 1708246966.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1708246966.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1951035549",
+      "text": "@nihal467 can you check this once \r\n\r\ncc: @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",

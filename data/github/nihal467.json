@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708074454.0,
+  "last_updated": 1708258229.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7227",
+      "time": 1708258229.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7227",
+      "text": "Replace All notification and submit function with command function"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7206",
@@ -32788,16 +32795,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7178",
-      "title": "Enable HCX for Demo Purpose",
-      "stale_for": 4,
-      "labels": [
-        "merge conflict",
-        "HCX"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

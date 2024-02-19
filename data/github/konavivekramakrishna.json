@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708072430.0,
+  "last_updated": 1708219973.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1708219973.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1950726092",
+      "text": "@rithviknishad \r\n\r\ncan you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7169",
+      "time": 1708219867.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7169#issuecomment-1950723497",
+      "text": "@rithviknishad \r\n\r\ncan you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7195",
+      "time": 1708219699.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#issuecomment-1950719342",
+      "text": "@Ashesh3 @rithviknishad \r\n\r\ncan you please review it"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7206",
@@ -1496,26 +1517,25 @@
       "title": "Increased the respiratory rate",
       "stale_for": 0,
       "labels": [
-        "need Review",
-        "test failed"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1870",
       "title": "draft add insurer name in csv export",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1869",
       "title": "Track occupation of patient",
-      "stale_for": 5,
+      "stale_for": 7,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7152",
       "title": "Track occupation of patient",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -1523,7 +1543,7 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/198",
       "title": "fix review count",
-      "stale_for": 4,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]

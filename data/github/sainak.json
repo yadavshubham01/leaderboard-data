@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708194106.0,
+  "last_updated": 1708277003.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708277003.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1887289047",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708277002.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1887289047",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708194106.0,
@@ -9269,7 +9283,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": [
         "blocked",
         "changes required",
@@ -9280,7 +9294,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 158,
+      "stale_for": 159,
       "labels": [
         "In progress"
       ]
@@ -9288,19 +9302,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 212,
+      "stale_for": 213,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 137,
+      "stale_for": 138,
       "labels": []
     }
   ],

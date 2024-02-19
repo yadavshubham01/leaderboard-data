@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708152107.0,
+  "last_updated": 1708225289.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708225289.0,
+      "title": "coronasafe/care_fe#7224",
+      "link": "https://github.com/coronasafe/care_fe/pull/7224#pullrequestreview-1887071223",
+      "text": "added warning on doctor notes usage if not subscribed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708225289.0,
+      "title": "coronasafe/care_fe#7224",
+      "link": "https://github.com/coronasafe/care_fe/pull/7224#pullrequestreview-1887071223",
+      "text": "added warning on doctor notes usage if not subscribed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708225103.0,
+      "title": "coronasafe/care_fe#7195",
+      "link": "https://github.com/coronasafe/care_fe/pull/7195#pullrequestreview-1887071114",
+      "text": "Increased the respiratory rate"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#221",
@@ -35893,7 +35914,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "need Review",
         "test failed"
@@ -35902,7 +35923,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "need Review",
         "waiting for back end",
@@ -35912,7 +35933,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "changes required"
       ]
@@ -35920,7 +35941,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "waiting-for-review"
       ]
@@ -35928,9 +35949,8 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 11,
+      "stale_for": 0,
       "labels": [
-        "merge conflict",
         "stale",
         "cypress failed"
       ]

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707444901.0,
+  "last_updated": 1708272689.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7228",
+      "time": 1708272689.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7228",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7226",
+      "time": 1708249991.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7226",
+      "text": "Patient Gender Display Issue in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7186",
+      "time": 1708227394.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7186#issuecomment-1950909096",
+      "text": "Can I take up this issue?\r\n@nihal467 @rithviknishad "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7198",
@@ -455,9 +476,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7228",
+      "title": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7198",
       "title": "Improving Doctor Connect UI",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -469,9 +496,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": [
-        "changes required"
+        "needs testing",
+        "need Review"
       ]
     }
   ],
