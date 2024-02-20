@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708006167.0,
+  "last_updated": 1708351485.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1898",
+      "time": 1708351485.0,
+      "link": "https://github.com/coronasafe/care/pull/1898",
+      "text": "fix: Update validation for Daily Round form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708349655.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1888430209",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1775",
@@ -177,11 +191,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1898",
+      "title": "fix: Update validation for Daily Round form",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7172",
       "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
       "stale_for": 0,
       "labels": [
-        "need Review"
+        "needs testing",
+        "reviewed"
       ]
     },
     {
@@ -193,7 +214,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6512",
       "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 36,
+      "stale_for": 40,
       "labels": [
         "do not merge",
         "hold",
@@ -204,7 +225,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1689",
       "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 38,
+      "stale_for": 42,
       "labels": [
         "do-not-merge",
         "waiting-for-review",
@@ -214,7 +235,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1575",
       "title": "fix: tests for ambulance APIs",
-      "stale_for": 90,
+      "stale_for": 94,
       "labels": []
     }
   ],

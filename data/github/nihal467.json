@@ -1,6 +1,67 @@
 {
-  "last_updated": 1708258229.0,
+  "last_updated": 1708353654.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353101.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#issuecomment-1952570966",
+      "text": "LGTM"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7234",
+      "time": 1708345384.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7234",
+      "text": "Event Module doesn't record the modification of existing log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708335873.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#issuecomment-1952066622",
+      "text": "- [ ] daily round symptoms are shown are numbers\r\n- [ ] UI is breaking for long doctor notes\r\n- [ ] consultation and log update modification are not been shown except IP number"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708335575.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#issuecomment-1952056902",
+      "text": "Fields currently we support : https://github.com/coronasafe/care/blob/master/care/facility/management/commands/load_event_types.py"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7231",
+      "time": 1708322190.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7231",
+      "text": "Add automation to unassign author from stale issues"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6983",
+      "time": 1708321260.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6983#issuecomment-1951738924",
+      "text": "the entire module is getting redesigned "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6983",
+      "time": 1708321259.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6983",
+      "text": "Enhancement to the inventory log entry management"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7227",

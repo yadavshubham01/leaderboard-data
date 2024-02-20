@@ -1,6 +1,47 @@
 {
-  "last_updated": 1708277003.0,
+  "last_updated": 1708369759.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7236",
+      "time": 1708369759.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7236",
+      "text": "add state logo in sidebar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1897",
+      "time": 1708353704.0,
+      "link": "https://github.com/coronasafe/care/pull/1897",
+      "text": "events: fix events create and serilaize choice fields",
+      "turnaround_time": 10064
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI",
+      "collaborated_with": [
+        "rithviknishad",
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1897",
+      "time": 1708343641.0,
+      "link": "https://github.com/coronasafe/care/pull/1897",
+      "text": "events: fix events create and serilaize choice fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7229",
+      "time": 1708318596.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7229",
+      "text": "Upgrade Vite and Storybook"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708277003.0,
@@ -9281,9 +9322,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7236",
+      "title": "add state logo in sidebar",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7229",
+      "title": "Upgrade Vite and Storybook",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": [
         "blocked",
         "changes required",
@@ -9294,7 +9347,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "In progress"
       ]
@@ -9302,19 +9355,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 73,
+      "stale_for": 74,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 213,
+      "stale_for": 214,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 138,
+      "stale_for": 139,
       "labels": []
     }
   ],

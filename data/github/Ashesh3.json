@@ -1,6 +1,69 @@
 {
-  "last_updated": 1708290140.0,
+  "last_updated": 1708376041.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708376041.0,
+      "title": "coronasafe/care_fe#7236",
+      "link": "https://github.com/coronasafe/care_fe/pull/7236#pullrequestreview-1889153256",
+      "text": "add state logo in sidebar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708359802.0,
+      "title": "coronasafe/leaderboard#229",
+      "link": "https://github.com/coronasafe/leaderboard/pull/229#pullrequestreview-1888814915",
+      "text": "Adds gallery view of contributors (`/people`) and minor fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708352547.0,
+      "title": "coronasafe/care#1897",
+      "link": "https://github.com/coronasafe/care/pull/1897#pullrequestreview-1888532812",
+      "text": "events: fix events create and serilaize choice fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708332269.0,
+      "title": "coronasafe/care_fe#7224",
+      "link": "https://github.com/coronasafe/care_fe/pull/7224#pullrequestreview-1887849540",
+      "text": "added warning on doctor notes usage if not subscribed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6276",
+      "time": 1708324925.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6276#issuecomment-1951799766",
+      "text": "We've discussed enhancing the `PatientRegistration` model to support a more flexible patient assignment system. The consensus is to move beyond the initial proposal of capping assignments to up to 3 doctors and 2 nurses per patient. Instead, we will implement a one-to-many relationship that allows for assigning any number of doctors or nurses as needed to a patient, thus removing any specific limitations on the number of care providers. This change will better accommodate the diverse needs of our TeleICU and homecare services and align with the requirements detailed in the discussion.\r\n\r\nIn addition to adjusting the model relationship, this update will necessitate both backend and frontend changes to support the enhanced functionality. This includes updates to authorization, filters, and any other necessary adjustments to ensure a smooth and functional implementation."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708321372.0,
+      "title": "coronasafe/care_fe#6990",
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#pullrequestreview-1887589671",
+      "text": "Events UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708321373.0,
+      "title": "coronasafe/care_fe#6990",
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#pullrequestreview-1887589671",
+      "text": "Events UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708321141.0,
+      "title": "coronasafe/care_fe#7229",
+      "link": "https://github.com/coronasafe/care_fe/pull/7229#pullrequestreview-1887588202",
+      "text": "Upgrade Vite and Storybook"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7230",
+      "time": 1708320543.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7230",
+      "text": "Add Uptime tracking to Location Management"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7120",
@@ -17515,9 +17578,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7230",
+      "title": "Add Uptime tracking to Location Management",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1896",
       "title": "Creating daily round - ensure the patient has a bed assigned",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "waiting-for-review"
       ]
@@ -17525,7 +17597,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 136,
+      "stale_for": 137,
       "labels": [
         "POC"
       ]
@@ -17533,7 +17605,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 320,
+      "stale_for": 321,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17542,7 +17614,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 333,
+      "stale_for": 334,
       "labels": []
     }
   ],

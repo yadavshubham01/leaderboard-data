@@ -2140,5 +2140,52 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-19 00:00:00": [
+        {
+            "client_msg_id": "b1330c95-3f27-4931-a60b-c71c6229a0af",
+            "type": "message",
+            "text": "EODs:\nopenAI whisper STT fix: <https://github.com/coronasafe/ayushma/pull/466>\n\nAdded immediate STT transcribe text display feature:\n<https://github.com/coronasafe/ayushma/pull/472>\n<https://github.com/coronasafe/ayushma_fe/pull/179>",
+            "user": "U02U103J5LG",
+            "ts": "1708368966.542249",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "/mBfJ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EODs:\nopenAI whisper STT fix: "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/ayushma/pull/466"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nAdded immediate STT transcribe text display feature:\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/ayushma/pull/472"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/ayushma_fe/pull/179"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

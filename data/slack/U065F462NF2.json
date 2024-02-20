@@ -97,5 +97,32 @@
                 }
             ]
         }
+    ],
+    "2024-02-19 00:00:00": [
+        {
+            "client_msg_id": "852d3d0b-dd9e-4251-839d-5bf2acd73fc7",
+            "type": "message",
+            "text": "EOD Feb 19\nAdded collapsible sections for cards grouped by sub-collections for Metabase Manager",
+            "user": "U065F462NF2",
+            "ts": "1708365204.450029",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QTLwG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD Feb 19\nAdded collapsible sections for cards grouped by sub-collections for Metabase Manager"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

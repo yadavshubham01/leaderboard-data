@@ -2833,5 +2833,119 @@
                 }
             ]
         }
+    ],
+    "2024-02-19 00:00:00": [
+        {
+            "client_msg_id": "bea43e72-ce2b-498d-9735-8e95b11fe4d8",
+            "type": "message",
+            "text": "EOD 19/02/2024\n\n\u2022 Worked on suggested changes on PR <https://github.com/coronasafe/care_fe/pull/7228|#7228>\n\u2022 Created reusable header for VitalsMonitor\n\u2022 Code refactor and replaced useDispatch with useQuery in DoctorVideoSlideover (PR <https://github.com/coronasafe/care_fe/pull/7198|#7198>)",
+            "user": "U051Q1RP1MG",
+            "ts": "1708351710.789599",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MsEJF",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 19/02/2024\n\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on suggested changes on PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7228",
+                                            "text": "#7228",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Created reusable header for VitalsMonitor"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Code refactor and replaced useDispatch with useQuery in DoctorVideoSlideover (PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7198",
+                                            "text": "#7198",
+                                            "unsafe": true
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ")"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1708272687,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7228",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7228  Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor",
+                    "title": "#7228  Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7228",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1707444899,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7198 Improving Doctor Connect UI",
+                    "title": "#7198 Improving Doctor Connect UI",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ]
+        }
     ]
 }

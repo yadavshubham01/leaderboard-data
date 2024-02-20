@@ -1,6 +1,40 @@
 {
-  "last_updated": 1708236587.0,
+  "last_updated": 1708353654.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI",
+      "turnaround_time": 25531
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI",
+      "collaborated_with": [
+        "sainak",
+        "rithviknishad",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708326476.0,
+      "title": "coronasafe/care_fe#6990",
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#pullrequestreview-1887690930",
+      "text": "Events UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7155",
+      "time": 1708321827.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7155#issuecomment-1951746596",
+      "text": "Discussed the requirements in the engineering call, have to discuss further on how inventory items have to be linked the master list.\r\n\r\nEg: When we track medicines and consumables in inventory, how should they be linked with actual models in the care (polymorphic relations or json meta).\r\n\r\nWhat are other possible items in the inventory that could be linked with models in care?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7225",
@@ -28823,7 +28857,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7225",
       "title": "Enable HCX",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "HCX"
       ]
@@ -28831,7 +28865,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "ABDM"
       ]
@@ -28839,7 +28873,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "need Review"
       ]
@@ -28847,21 +28881,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6990",
-      "title": "Events UI",
-      "stale_for": 5,
-      "labels": [
-        "waiting for back end"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 74,
+      "stale_for": 75,
       "labels": [
         "waiting-for-review"
       ]
@@ -28869,19 +28895,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 436,
+      "stale_for": 437,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 193,
+      "stale_for": 194,
       "labels": [
         "changes required"
       ]
@@ -28889,25 +28915,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 793,
+      "stale_for": 794,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 799,
+      "stale_for": 800,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 800,
+      "stale_for": 801,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 995,
+      "stale_for": 996,
       "labels": []
     }
   ],

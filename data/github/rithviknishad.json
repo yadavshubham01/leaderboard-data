@@ -1,6 +1,153 @@
 {
-  "last_updated": 1708225289.0,
+  "last_updated": 1708368511.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#7",
+      "time": 1708368511.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/7",
+      "text": "Adds missing contributors markdowns",
+      "turnaround_time": 1228
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#228",
+      "time": 1708368429.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/228",
+      "text": "Last 30 days and Last 7 days activity filter shows last activity since the last contribution of the contributor instead of since today"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#229",
+      "time": 1708368428.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/229",
+      "text": "Adds gallery view of contributors (`/people`) and minor fixes",
+      "turnaround_time": 11705
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#7",
+      "time": 1708367283.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/7",
+      "text": "Adds missing contributors markdowns"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#229",
+      "time": 1708357411.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/229",
+      "text": "Adds gallery view of contributors (`/people`) and minor fixes"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#228",
+      "time": 1708356724.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/228",
+      "text": "Last 30 days and Last 7 days activity filter shows last activity since the last contribution of the contributor instead of since today"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#6990",
+      "time": 1708353654.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6990",
+      "text": "Events UI",
+      "collaborated_with": [
+        "sainak",
+        "khavinshankar",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708352505.0,
+      "title": "coronasafe/care#1897",
+      "link": "https://github.com/coronasafe/care/pull/1897#pullrequestreview-1888531006",
+      "text": "events: fix events create and serilaize choice fields"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708336521.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1888010181",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7226",
+      "time": 1708336414.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7226#issuecomment-1952082756",
+      "text": "Related to #7186 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7226",
+      "time": 1708336342.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7226#issuecomment-1952080688",
+      "text": "@thedevildude let's hide the top bar when on the consultation page. We can show the asset information alone in that (i) popover.\r\n\r\nAll details to be shown when this is in CNS"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7232",
+      "time": 1708333174.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7232",
+      "text": "Provision to mention the list of tests which led to the confirmation of the diagnosis"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708332207.0,
+      "title": "coronasafe/care_fe#7224",
+      "link": "https://github.com/coronasafe/care_fe/pull/7224#pullrequestreview-1887847470",
+      "text": "added warning on doctor notes usage if not subscribed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708331956.0,
+      "title": "coronasafe/care_fe#6990",
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#pullrequestreview-1887839422",
+      "text": "Events UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708331956.0,
+      "title": "coronasafe/care_fe#6990",
+      "link": "https://github.com/coronasafe/care_fe/pull/6990#pullrequestreview-1887839422",
+      "text": "Events UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708331783.0,
+      "title": "coronasafe/care_fe#7229",
+      "link": "https://github.com/coronasafe/care_fe/pull/7229#pullrequestreview-1887833550",
+      "text": "Upgrade Vite and Storybook"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#223",
+      "time": 1708322169.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/223",
+      "text": "Auto-approve changes made to the contributor profile if the author of the PR is the same as the profile that is edited"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708314151.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887501305",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708311260.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887465664",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708311260.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887465664",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708225289.0,
@@ -35914,16 +36061,15 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7174",
       "title": "Migrate useDispatch to useQuery for \ud83d\udcc2 File Upload module",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
-        "need Review",
-        "test failed"
+        "needs testing"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "need Review",
         "waiting for back end",
@@ -35933,7 +36079,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "changes required"
       ]
@@ -35941,7 +36087,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -35951,12 +36097,17 @@
       "title": "HCX Communication",
       "stale_for": 0,
       "labels": [
+        "merge conflict",
         "stale",
         "cypress failed"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/228",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/229"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/222",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/226"
@@ -36028,14 +36179,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/183",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/185"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/181",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/182"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/179",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/180"
     }
   ]
 }

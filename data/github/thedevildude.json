@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708272689.0,
+  "last_updated": 1708314675.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708314675.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887506089",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708311426.0,
+      "title": "coronasafe/care_fe#7228",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#pullrequestreview-1887468629",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7228",
@@ -479,24 +493,28 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7228",
       "title": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "work-in-progress"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7198",
       "title": "Improving Doctor Connect UI",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7136",
       "title": "Extend Update Log to bottom of the screen",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "need Review"
