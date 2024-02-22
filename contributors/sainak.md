@@ -1,13 +1,13 @@
 ---
 name: Aakash Singh
-title: GDC Intern
+title: Software Engineer
 github: sainak
-twitter: singhaakash28
+twitter: singhaakash_dev
 linkedin: aakashdsingh
 slack: U02TB8XHZD1
 joining_date: "09/05/2022"
-core: false
-intern: true
+core: true
+intern: false
 operations: false
 courses_completed:
   ["Web Development 101", "Web Development 202", "Web Development 301"]
