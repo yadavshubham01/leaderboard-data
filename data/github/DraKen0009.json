@@ -1,0 +1,42 @@
+{
+  "last_updated": 1708614328.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1708614328.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1959643037",
+      "text": "@Omkar76  If you aren't currently working on this issue , can I work on it? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1906",
+      "time": 1708601950.0,
+      "link": "https://github.com/coronasafe/care/pull/1906#issuecomment-1959272636",
+      "text": "This is my first PR in the organisation, any advice and help will be greatly appreciated "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1906",
+      "time": 1708601817.0,
+      "link": "https://github.com/coronasafe/care/pull/1906",
+      "text": "added constraints to patient consultation for storing unique patient_\u2026"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1805",
+      "time": 1708581964.0,
+      "link": "https://github.com/coronasafe/care/issues/1805#issuecomment-1958765908",
+      "text": "@sainak , I would like to work on this issue , can you help me with some details about this issue \r\n- which endpoint need to be updated/changed ?\r\n- what is the expected output?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1708573993.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1958608549",
+      "text": "I'm trying to reproduce the issue , but i guess this is already resolved as I can see dummy data already populated in the shifting and resource tabs \r\n- I've populated the dummy data using make command\r\n![image](https://github.com/coronasafe/care/assets/115104695/672f9b25-90b2-42bf-95d0-8dfa910e3aa7)\r\n\r\nlet me know if I'm doing something wrong or unable to understand the issue"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

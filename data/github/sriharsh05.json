@@ -1,6 +1,13 @@
 {
-  "last_updated": 1707965065.0,
+  "last_updated": 1708570640.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7216",
+      "time": 1708570640.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#issuecomment-1958568192",
+      "text": "@rithviknishad \r\nPlease review the changes."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7216",
@@ -935,22 +942,6 @@
       "text": "I want to work on this issue."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7216",
-      "title": "Replace useDispatch with useQuery and request in PatientRegistration form.",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7041"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7036",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7084"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

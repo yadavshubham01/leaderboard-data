@@ -332,5 +332,106 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-22 00:00:00": [
+        {
+            "client_msg_id": "13332315-d841-4376-9bd5-d2a835febf54",
+            "type": "message",
+            "text": "EOD 22/02/2023\n\u2022 started working on jumpserver for middlewares\n\u2022 worked more on cleaning up terraform script\n",
+            "user": "U06CY7RUZ9S",
+            "ts": "1708634715.124979",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "OPMfs",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 22/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "started working on jumpserver for middlewares"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "worked more on cleaning up terraform script"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": []
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
+    ],
+    "2024-02-21 00:00:00": [
+        {
+            "client_msg_id": "0ce004d6-51d9-4ebb-a5b2-b829583496fb",
+            "type": "message",
+            "text": "EOD 21/02/2023\n\u2022 finalized db section in terraform",
+            "user": "U06CY7RUZ9S",
+            "ts": "1708553828.089519",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "+wyiI",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 21/02/2023\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finalized db section in terraform"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

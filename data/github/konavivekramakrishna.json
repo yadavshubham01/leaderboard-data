@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708219973.0,
+  "last_updated": 1708625781.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7252",
+      "time": 1708625781.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7252",
+      "text": "Add IP Days"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
@@ -1511,43 +1518,6 @@
       "text": "I'd like to work on this"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7195",
-      "title": "Increased the respiratory rate",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1870",
-      "title": "draft add insurer name in csv export",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1869",
-      "title": "Track occupation of patient",
-      "stale_for": 7,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7152",
-      "title": "Track occupation of patient",
-      "stale_for": 1,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/198",
-      "title": "fix review count",
-      "stale_for": 6,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1833,5 +1833,37 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-22 00:00:00": [
+        {
+            "client_msg_id": "f57f2476-777d-43c0-a0b4-098a8dbe7924",
+            "type": "message",
+            "text": "EOD 22/02/24\nSent PR to keep track of previous consultation <https://github.com/coronasafe/care/pull/1907|care#1907>",
+            "user": "U05MBE2RASD",
+            "ts": "1708628663.527329",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "t12f1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 22/02/24\nSent PR to keep track of previous consultation "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care/pull/1907",
+                                    "text": "care#1907"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }

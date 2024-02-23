@@ -1,6 +1,55 @@
 {
-  "last_updated": 1707688720.0,
+  "last_updated": 1708635714.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1708635714.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1960306506",
+      "text": "@rithviknishad i think we can remove \"waiting for backend\" label. backend pr is merged https://github.com/coronasafe/care/pull/1811"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1907",
+      "time": 1708625801.0,
+      "link": "https://github.com/coronasafe/care/pull/1907#issuecomment-1960006363",
+      "text": "@sainak sorry, what's command to format without the hook."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708624396.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1896496334",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1708617239.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1959742542",
+      "text": "@DraKen0009 make sure to set  variable `export CARE_API=http://localhost:9000` on terminal before you run `npm run dev`. Otherwise the api defaults to `https://careapi.ohc.network` and not your local django server."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1907",
+      "time": 1708615611.0,
+      "link": "https://github.com/coronasafe/care/pull/1907#issuecomment-1959686186",
+      "text": "after running the migration, printed the consultation to verify values. just make sure dummy data is loaded before running this migration.\r\n\r\n```\r\nfrom care.facility.models.patient_consultation import PatientConsultation\r\nimport datetime\r\n\r\npc = PatientConsultation.objects.all()\r\nfor c in pc:\r\n    print([c.id, c.patient.id, None if c.previous_consultation is None else c.previous_consultation.id, c.created_date.strftime(\"%d/%B/%Y\")])\r\n```\r\n\r\n```\r\nconsultationid, patientid, previous_consultation, created_date\r\n[25, 18, None, '06/February/2022']\r\n[24, 18, 25, '06/May/2022']\r\n[1, 1, None, '27/September/2022']\r\n[26, 18, 24, '06/August/2023']\r\n[2, 2, None, '06/December/2023']\r\n[3, 3, None, '06/December/2023']\r\n[4, 4, None, '06/December/2023']\r\n[5, 5, None, '06/December/2023']\r\n[6, 6, None, '06/December/2023']\r\n[7, 7, None, '06/December/2023']\r\n[8, 8, None, '06/December/2023']\r\n[9, 9, None, '06/December/2023']\r\n[10, 10, None, '06/December/2023']\r\n[11, 11, None, '06/December/2023']\r\n[12, 12, None, '06/December/2023']\r\n[13, 13, None, '06/December/2023']\r\n[14, 14, None, '06/December/2023']\r\n[15, 15, None, '06/December/2023']\r\n[16, 16, None, '06/December/2023']\r\n[17, 17, None, '06/December/2023']\r\n[18, 18, 26, '06/December/2023']\r\n[19, 18, 18, '07/December/2023']\r\n[20, 18, 19, '15/December/2023']\r\n[21, 18, 20, '30/January/2024']\r\n[22, 18, 21, '28/February/2024']\r\n[23, 18, 22, '01/April/2024']\r\n```"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1907",
+      "time": 1708615259.0,
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1806",
+      "time": 1708614989.0,
+      "link": "https://github.com/coronasafe/care/issues/1806#issuecomment-1959665682",
+      "text": "Hi @DraKen0009, I'm done implementing the requirements. I was just verifying the migrations locally. I will be sending a PR for this one in few minutes.\r\nFeel free to take unassigned issues from here https://github.com/coronasafe/care/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee :smile: \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7118",
@@ -690,19 +739,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7118",
-      "title": "Replace font-awesome icons by CareIcon component",
+      "link": "https://github.com/coronasafe/care/pull/1907",
+      "title": "track previous consultation",
       "stale_for": 0,
-      "labels": [
-        "changes required",
-        "merge conflict",
-        "reviewed"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6993",
       "title": "Collect postpartum data",
-      "stale_for": 26,
+      "stale_for": 0,
       "labels": [
         "waiting for back end"
       ]

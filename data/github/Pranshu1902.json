@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707730541.0,
+  "last_updated": 1708638942.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708638942.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1897028352",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708638150.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1897009442",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708634272.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1896901367",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
     {
       "type": "pr_reviewed",
       "time": 1707730541.0,
@@ -7581,15 +7602,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/6996",
-      "title": "Add support to delete location",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
       "stale_for": 0,
@@ -7600,7 +7612,7 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 56,
+      "stale_for": 66,
       "labels": []
     }
   ],

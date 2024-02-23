@@ -1,0 +1,111 @@
+{
+  "last_updated": 1708630326.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#234",
+      "time": 1708630326.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960116969",
+      "text": "@Ashesh3 , could you please assign this issue to me? I would like to take ownership of addressing it. Thank you!\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#12",
+      "time": 1708629941.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960107360",
+      "text": "Sorry for misscunderstanding .I shorten my title. Now is it okk?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#234",
+      "time": 1708629672.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960100947",
+      "text": "/assign @dgparmar14 \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#12",
+      "time": 1708629596.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960099257",
+      "text": "@sainak  I don't understand what should i do? Create a new pull request or update in this one?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#234",
+      "time": 1708629321.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/234#issuecomment-1960091694",
+      "text": "Assigne this issue to me. I want to fix it"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#234",
+      "time": 1708629182.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "text": "Next/Image and Next/Link feature "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#12",
+      "time": 1708628451.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12",
+      "text": "Create dgparmar14.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#232",
+      "time": 1708625985.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/232",
+      "text": "Add Git icons to the GithubEvent card title"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708620799.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959861574",
+      "text": "![Screenshot 2024-02-22 222010](https://github.com/coronasafe/leaderboard/assets/99136186/69e62de1-db42-4a52-9a6a-0f80c82e8c27)\r\nIcons looks like this? right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708620518.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959852669",
+      "text": "All icons are not available at react-iconscan i add manually?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708619015.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959803590",
+      "text": "@rithviknishad can you please assign task to me?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708617910.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1959767040",
+      "text": "I want take this task plese provide me this\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": 1708617758.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1959761969",
+      "text": "I want take this task ."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12",
+      "title": "dgparmar14.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/232",
+      "title": "Add Git icons to the GithubEvent card title",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

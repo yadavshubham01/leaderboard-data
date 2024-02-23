@@ -1,6 +1,118 @@
 {
-  "last_updated": 1708369759.0,
+  "last_updated": 1708629704.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#12",
+      "time": 1708629704.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960101675",
+      "text": "Edit this one \r\nExample https://github.com/coronasafe/leaderboard-data/pull/11"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708629238.0,
+      "title": "coronasafe/leaderboard-data#12",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12#pullrequestreview-1896749648",
+      "text": "Create dgparmar14.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708628053.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1896704368",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1907",
+      "time": 1708626746.0,
+      "link": "https://github.com/coronasafe/care/pull/1907#issuecomment-1960029553",
+      "text": "> @sainak sorry, what's command to format without the hook.\r\n\r\n`pre-commit run --files $(git diff --name-only origin/master...HEAD)`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1907",
+      "time": 1708625233.0,
+      "link": "https://github.com/coronasafe/care/pull/1907#issuecomment-1959992814",
+      "text": "and make sure that you have added precommit hook, run `pre-commit install`\r\nit will auto resolve these issue before you make a commit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1907",
+      "time": 1708625081.0,
+      "link": "https://github.com/coronasafe/care/pull/1907#issuecomment-1959988362",
+      "text": "@Omkar76 fix lint issues\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard-data#10",
+      "time": 1708623590.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/issues/10",
+      "text": "Create Readme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708622582.0,
+      "title": "coronasafe/care#1868",
+      "link": "https://github.com/coronasafe/care/pull/1868#pullrequestreview-1896428501",
+      "text": "added user type check before creating new asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708622323.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1896419758",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708622295.0,
+      "title": "coronasafe/care#1906",
+      "link": "https://github.com/coronasafe/care/pull/1906#pullrequestreview-1896418858",
+      "text": "added constraints to patient consultation to avoid duplications"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708621975.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1896405707",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708621974.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1896405707",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708601410.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1895458382",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708601410.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1895458382",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708577097.0,
+      "title": "coronasafe/docs#4",
+      "link": "https://github.com/coronasafe/docs/pull/4#pullrequestreview-1894884335",
+      "text": "Fixes links to Leaderboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708577082.0,
+      "title": "coronasafe/.github#1",
+      "link": "https://github.com/coronasafe/.github/pull/1#pullrequestreview-1894884146",
+      "text": "Fixes links to Leaderboard"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7236",
@@ -9320,57 +9432,7 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7236",
-      "title": "add state logo in sidebar",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7229",
-      "title": "Upgrade Vite and Storybook",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 85,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 160,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 74,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 214,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 139,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1883",

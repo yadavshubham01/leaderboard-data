@@ -1,6 +1,13 @@
 {
-  "last_updated": 1705563541.0,
+  "last_updated": 1708627992.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708627992.0,
+      "title": "coronasafe/.github#1",
+      "link": "https://github.com/coronasafe/.github/pull/1#pullrequestreview-1896701370",
+      "text": "Fixes links to Leaderboard"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma#445",

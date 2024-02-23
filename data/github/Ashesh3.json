@@ -1,6 +1,57 @@
 {
-  "last_updated": 1708376041.0,
+  "last_updated": 1708631294.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5944",
+      "time": 1708631294.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5944#issuecomment-1960149571",
+      "text": "sure @UdaySagar-Git "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708628909.0,
+      "title": "coronasafe/care_fe#7252",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#pullrequestreview-1896740683",
+      "text": "Added IP Days Chip in Patient List and Patient Dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708628909.0,
+      "title": "coronasafe/care_fe#7252",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#pullrequestreview-1896740683",
+      "text": "Added IP Days Chip in Patient List and Patient Dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#11",
+      "time": 1708624544.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/11",
+      "text": "Update Ashesh3.md",
+      "turnaround_time": 245
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#11",
+      "time": 1708624300.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/11",
+      "text": "Update Ashesh3.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#230",
+      "time": 1708600789.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/230",
+      "text": "Fix Select Menu Unreadable in Dark Mode",
+      "turnaround_time": 317
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#230",
+      "time": 1708600473.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/230",
+      "text": "Fix Select Menu Unreadable in Dark Mode"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708376041.0,
@@ -17578,18 +17629,33 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1903",
+      "title": "Migrate consultation's assigned_to to assigned_clinicians",
+      "stale_for": 1,
+      "labels": [
+        "blocked",
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1900",
+      "title": "Add assigned_clinicians field to PatientConsultation model",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7230",
       "title": "Add Uptime tracking to Location Management",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
-        "need Review"
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1896",
       "title": "Creating daily round - ensure the patient has a bed assigned",
-      "stale_for": 2,
+      "stale_for": 5,
       "labels": [
         "waiting-for-review"
       ]
@@ -17597,7 +17663,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 137,
+      "stale_for": 140,
       "labels": [
         "POC"
       ]
@@ -17605,7 +17671,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 321,
+      "stale_for": 324,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17614,7 +17680,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 334,
+      "stale_for": 337,
       "labels": []
     }
   ],

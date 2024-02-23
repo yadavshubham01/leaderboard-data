@@ -1,6 +1,27 @@
 {
-  "last_updated": 1707673381.0,
+  "last_updated": 1708575621.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7200",
+      "time": 1708575621.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7200#issuecomment-1958673708",
+      "text": "Hi @rithviknishad, just wanted to let you know that I have college exams for the next week. I'll make the PR and update the changes suggested, once they're over. Thanks for your understanding!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1708574244.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1958611583",
+      "text": "Hello @rithviknishad, could you please assign me this issue? I'm eager to work on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7200",
+      "time": 1708573904.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7200#issuecomment-1958607330",
+      "text": "@rithviknishad please have a review and suggest changes if some"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7200",
@@ -273,13 +294,6 @@
       "text": "I would like to work on this issue. Could you please assign it to me? @rithviknishad "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7200",
-      "title": "expanded the medical conditions the patient has (comorbidities)",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

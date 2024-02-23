@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708246966.0,
+  "last_updated": 1708625342.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7244",
+      "time": 1708625342.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7244#issuecomment-1959995415",
+      "text": "@rithviknishad can you specify what users I need to keep the condition on \r\nas of now, I have identified 3\r\n- Doctor\r\n- nurse\r\n- staffdev"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",
@@ -1617,42 +1624,6 @@
       "text": "I would like to work on this issue.  "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7197",
-      "title": "Add Cypress test to patient file upload",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6946"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6902",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6910"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6838",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6842"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6837",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6841"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6848"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6632",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6639"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6599",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6614"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,0 +1,21 @@
+{
+  "last_updated": 1708590953.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#169",
+      "time": 1708590953.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/169#issuecomment-1958951242",
+      "text": "working on wsl"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#169",
+      "time": 1708579520.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/169#issuecomment-1958728582",
+      "text": "Hey @rithviknishad,\r\n\r\nI ran the command `./load-fixtures.sh  `, `npm install --legacy-peer-deps` and then `npm run dev` but facing this issue in local dev setup, what can be the reason - \r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/92196705/d3bdfdcb-cdcf-4d04-b44f-12456bc14cfc)\r\n"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

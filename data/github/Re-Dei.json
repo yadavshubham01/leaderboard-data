@@ -1,0 +1,14 @@
+{
+  "last_updated": 1708596900.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6715",
+      "time": 1708596900.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1959121555",
+      "text": "Hi!\nI am Hridaya. Getting straight to the point, I would like to contribute to this open source project by solving this issue for GSOC 2024. I am fairly experienced in Next.js and have more than 1.5 years+ experience working with Next.js and more than 2 years as a web developer. I wouldn't say I am a expert however I am more than an intermediate developer regarding Next.js  and the features such as SSR, SSG, ISR, streaming components as well as optimizing the performance of the website to have at least 90 score on lighthouse which is tough to obtain since Next.js is very heavy on performance in comparison to frameworks like Solid and Astro. So I hope I could get a chance to work on this open source project which aims to contribute towards the health sector."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

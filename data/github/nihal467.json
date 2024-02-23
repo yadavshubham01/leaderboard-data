@@ -1,6 +1,63 @@
 {
-  "last_updated": 1708353654.0,
+  "last_updated": 1708623000.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#8",
+      "time": 1708623000.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/8",
+      "text": "Update nihal467.md",
+      "turnaround_time": 494
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#8",
+      "time": 1708622507.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/8",
+      "text": "Update nihal467.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6715",
+      "time": 1708579597.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1958729788",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1871",
+      "time": 1708579582.0,
+      "link": "https://github.com/coronasafe/care/issues/1871#issuecomment-1958729519",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#212",
+      "time": 1708579563.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/212#issuecomment-1958729165",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#812",
+      "time": 1708579476.0,
+      "link": "https://github.com/coronasafe/care/issues/812#issuecomment-1958727924",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7159",
+      "time": 1708579355.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7159#issuecomment-1958724103",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7156",
+      "time": 1708578686.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7156#issuecomment-1958714263",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled EOD calls on Zoom from Monday to Saturday at 7:30 PM to discuss your work and address any doubts with the core team. Alternatively, feel free to use our #care_general Slack channel.\r\n\r\nThe meeting links will be shared in our #reminder channel in our Slack workspace. Link to join the Slack: https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#6990",

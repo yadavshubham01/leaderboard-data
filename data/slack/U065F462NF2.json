@@ -124,5 +124,32 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-22 00:00:00": [
+        {
+            "client_msg_id": "07f2455e-c839-4fe9-b30d-026f516c0458",
+            "type": "message",
+            "text": "EOD 20 Feb :\nSet up a record of all the variables available in CARE for ICMR proposal\n\nEOD 21 Feb :\nSet up a metabase query to get daily reports on patients registered and consultations filed in Karnataka",
+            "user": "U065F462NF2",
+            "ts": "1708577773.319049",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "5sDIg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 20 Feb :\nSet up a record of all the variables available in CARE for ICMR proposal\n\nEOD 21 Feb :\nSet up a metabase query to get daily reports on patients registered and consultations filed in Karnataka"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6"
+        }
     ]
 }
