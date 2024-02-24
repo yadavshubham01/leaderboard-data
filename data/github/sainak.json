@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708629704.0,
+  "last_updated": 1708714652.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7265",
+      "time": 1708714652.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7265",
+      "text": "Asset filters malfunctioning when we delete an asset"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#12",
@@ -9432,7 +9439,45 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6457",
+      "title": "add support for webrtc stream",
+      "stale_for": 89,
+      "labels": [
+        "blocked",
+        "changes required",
+        "merge conflict",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1579",
+      "title": "refactor all files as per ruff rules",
+      "stale_for": 164,
+      "labels": [
+        "In progress"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1559",
+      "title": "feat: use ruff",
+      "stale_for": 78,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/medibase/pull/7",
+      "title": "Update dependencies",
+      "stale_for": 218,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1349",
+      "title": "use signals to update patient and bed count of facilities",
+      "stale_for": 143,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1883",

@@ -1,6 +1,362 @@
 {
-  "last_updated": 1708627997.0,
+  "last_updated": 1708699492.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": 1708699492.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-1961460268",
+      "text": "I agree with @Ashesh3 \r\n\r\n@nihal467 / @gigincg / @aparnacoronasafe "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708699326.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1961455719",
+      "text": "Feel free to come up with your own design \ud83d\ude04 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708699232.0,
+      "title": "coronasafe/care_fe#7264",
+      "link": "https://github.com/coronasafe/care_fe/pull/7264#pullrequestreview-1898268454",
+      "text": "Fix Translations in login page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708699232.0,
+      "title": "coronasafe/care_fe#7264",
+      "link": "https://github.com/coronasafe/care_fe/pull/7264#pullrequestreview-1898268454",
+      "text": "Fix Translations in login page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1866",
+      "time": 1708698671.0,
+      "link": "https://github.com/coronasafe/care/pull/1866#issuecomment-1961437934",
+      "text": "@sainak @vigneshhari \r\n\r\nPermissions were updated as per requirements specified in https://github.com/coronasafe/care_fe/pull/7148#issuecomment-1953474181"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": 1708690581.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-1961224895",
+      "text": "@Ashesh3 I think @Keshav-0907 meant more like a \"Confirm Navigate Away\" popup to prevent accidental navigations. Yes, we can always enable form restorations too on top of this.\r\n\r\n<img width=\"372\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/4c4636c3-6618-43b4-8708-91471d7ed395\">\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708685844.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163",
+      "text": "Add git icons for events and contributor activity in event title"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708685843.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235",
+      "text": "Add git icons",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708685828.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897854547",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708685756.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961116128",
+      "text": "> @rithviknishad can you tell me how to create symlink i tried many times to undo it but it still remain file now convert in symlink\r\n\r\nHey, the symbolic link could've been restored by the following command:\r\n\r\n```bash\r\nln -s data-repo/contributors contributors\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6715",
+      "time": 1708684046.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6715#issuecomment-1961076929",
+      "text": "Hey @itxsoumya \r\n\r\nThis is a GSoC issue. It'll be assigned once your proposal is approved."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7111",
+      "time": 1708683857.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#issuecomment-1961072283",
+      "text": "Yes @kshitijv256 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708683829.0,
+      "title": "coronasafe/care#1868",
+      "link": "https://github.com/coronasafe/care/pull/1868#pullrequestreview-1897798537",
+      "text": "added user type check before creating new asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708683815.0,
+      "title": "coronasafe/care#1868",
+      "link": "https://github.com/coronasafe/care/pull/1868#pullrequestreview-1897798132",
+      "text": "added user type check before creating new asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708681828.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897736624",
+      "text": "Add git icons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708681777.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897734996",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7111",
+      "time": 1708681202.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#issuecomment-1961006317",
+      "text": "@kshitijv256 still not followed up on the backend PR\r\nhttps://github.com/coronasafe/care/pull/1868#pullrequestreview-1896428501"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708681167.0,
+      "title": "coronasafe/care_fe#7111",
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#pullrequestreview-1897714294",
+      "text": "Added authorization on route for asset creation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708681155.0,
+      "title": "coronasafe/care_fe#7111",
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#pullrequestreview-1897716529",
+      "text": "Added authorization on route for asset creation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708681100.0,
+      "title": "coronasafe/care_fe#7111",
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#pullrequestreview-1897714294",
+      "text": "Added authorization on route for asset creation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7256",
+      "time": 1708680353.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7256#issuecomment-1960986042",
+      "text": "@kshitijv256 feel free to take this up once the changes requested 3 weeks ago for https://github.com/coronasafe/care_fe/pull/7111 has been addressed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708680260.0,
+      "title": "coronasafe/care_fe#7235",
+      "link": "https://github.com/coronasafe/care_fe/pull/7235#pullrequestreview-1897689888",
+      "text": "removed unused filters from notifications slideover"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708680076.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960979908",
+      "text": "Failed to build. There is changes in the package-lock. But why are there no changes in the `package.json`?\r\n\r\n<img width=\"1235\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/32b60d67-7472-4f15-bca3-d4ed2dca91df\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708678200.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897631977",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708677043.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960914394",
+      "text": "@dgparmar14 kindly request for review once all the changes requested are handled.\r\n\r\nStill unresolved: https://github.com/coronasafe/leaderboard/pull/235#discussion_r1500287289"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708676989.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1960913339",
+      "text": "AFAIK, there is no REST API to list releases at an organization level and only available at repository level.\r\n\r\nYou could instead use the GraphQL endpoint to fetch the recent releases of the recent repositories of the org."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708673901.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897516272",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708673814.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1960857106",
+      "text": "@parthksingh1 Feel free to take this up once two of your other assigned issues are approved\r\n\r\n- https://github.com/coronasafe/leaderboard/issues/219\r\n- https://github.com/coronasafe/care_fe/issues/6974"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7254",
+      "time": 1708673616.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#issuecomment-1960852485",
+      "text": "Refer: https://github.com/coronasafe/care_fe/blob/develop/src/Components/Facility/LocationManagement.tsx"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708673580.0,
+      "title": "coronasafe/care_fe#7254",
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#pullrequestreview-1897504304",
+      "text": "Bed Management System Redesign"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708673403.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897497390",
+      "text": "Add git icons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708673403.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897497390",
+      "text": "Add git icons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708672324.0,
+      "title": "coronasafe/care_fe#7250",
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#pullrequestreview-1897478092",
+      "text": "Improves Input Field UI for phone number input"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708670665.0,
+      "title": "coronasafe/care#1900",
+      "link": "https://github.com/coronasafe/care/pull/1900#pullrequestreview-1897452231",
+      "text": "Add assigned_clinicians field to PatientConsultation model"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708670321.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1960804052",
+      "text": "You could create a server component that makes a graphql call to fetch all the release events happening in for the configured GitHub organization (this is configured in the env).\r\n\r\nThis component could be shown in the home page."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708669624.0,
+      "title": "coronasafe/care_fe#7253",
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#pullrequestreview-1897438029",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708669616.0,
+      "title": "coronasafe/care_fe#7253",
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#pullrequestreview-1897437927",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708669484.0,
+      "title": "coronasafe/leaderboard#232",
+      "link": "https://github.com/coronasafe/leaderboard/pull/232#pullrequestreview-1897435297",
+      "text": "Add Git icons to the GithubEvent card title"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708669484.0,
+      "title": "coronasafe/leaderboard#232",
+      "link": "https://github.com/coronasafe/leaderboard/pull/232#pullrequestreview-1897435297",
+      "text": "Add Git icons to the GithubEvent card title"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708669459.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1960792144",
+      "text": "Kindly link the PR with the issue. Refer: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666698.0,
+      "title": "coronasafe/care_fe#7250",
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#pullrequestreview-1897401693",
+      "text": "Improves Input Field UI for phone number input"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7244",
+      "time": 1708665535.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7244#issuecomment-1960745882",
+      "text": "Just clarified the permissions with @nihal467 \r\n\r\n- State Admin has access to create a patient to facilities that belong to their state. (irrespective of their home facility)\r\n- District Admin has access to create a patient to facilities that belong to their district. (irrespective of their home facility)\r\n- Users below this user type have access to create patients only in their home facility.\r\n\r\n**Additional context:**\r\n\r\nUsers will still have access to view existing patient records on all their linked facilities (non-home facilities).\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#13",
+      "time": 1708664719.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
+      "text": "Update dgparmar14.md",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#12",
+      "time": 1708664632.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/12#issuecomment-1960736870",
+      "text": "Closing as duplicate of #13"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708664585.0,
+      "title": "coronasafe/leaderboard-data#13",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/13#pullrequestreview-1897379794",
+      "text": "Update dgparmar14.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7244",
+      "time": 1708663733.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7244#issuecomment-1960728215",
+      "text": "Instead of adding a condition, how about fetching only the permitted facilities in the facility select dropdown in the first place?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708658359.0,
+      "title": "coronasafe/care_fe#7216",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#pullrequestreview-1897321196",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708658033.0,
+      "title": "coronasafe/care_fe#6993",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#pullrequestreview-1897318392",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708657852.0,
+      "title": "coronasafe/care_fe#7253",
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#pullrequestreview-1897316772",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708656827.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1897308359",
+      "text": "track previous consultation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/.github#1",
@@ -36248,6 +36604,126 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/docs/pull/4",
+      "title": "Fixes links to Leaderboard",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7237",
+      "title": "Fixes issues with redirection on login",
+      "stale_for": 3,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7148",
+      "title": "Adds support for viewing discharged patients of a facility",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "waiting for back end"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "title": "Adds view for listing discharged patients of a facility",
+      "stale_for": 0,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "title": "Adds authz for Prescription & Medicine Administrations",
+      "stale_for": 13,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5681",
+      "title": "HCX Communication",
+      "stale_for": 4,
+      "labels": [
+        "merge conflict",
+        "stale",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/228",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/229"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/222",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/226"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/221",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/227"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/220",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/225"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/215",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/214"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7170",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7174"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/460",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/461"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7151",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/209",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/211"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1851",
+      "pr_link": "https://github.com/coronasafe/care/pull/1852"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7042",
+      "pr_link": "https://github.com/coronasafe/care/pull/1823"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7008",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7009"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7005",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7006"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
+    }
+  ]
 }

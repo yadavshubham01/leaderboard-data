@@ -1,6 +1,161 @@
 {
-  "last_updated": 1708630326.0,
+  "last_updated": 1708714394.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708714394.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1961831263",
+      "text": "Could you please assign this issue to me i want to fix this."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708714210.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "text": "Home page users limitation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708710143.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1961738601",
+      "text": "@rithviknishad please review my pr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708710073.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708685843.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235",
+      "text": "Add git icons",
+      "turnaround_time": 66917
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708685843.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235",
+      "text": "Add git icons",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708684901.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961096586",
+      "text": "@rithviknishad can you tell me how to create symlink i tried many times to undo it but it still remain file now convert in symlink"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708681462.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961012526",
+      "text": "@rithviknishad Okay all changes are done"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708681329.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1961009389",
+      "text": "Wait i will do last final commit\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708680437.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960988148",
+      "text": "Maybe this occurs because I use \"fa\" so it is not available in the older react-icons versions.\r\nI will update the react-icons version and then commit again."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708679232.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960961426",
+      "text": "@rithviknishad Okk i undo my changes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708678090.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897629133",
+      "text": "Add git icons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708676875.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897595149",
+      "text": "Add git icons"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708673803.0,
+      "title": "coronasafe/leaderboard#235",
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#pullrequestreview-1897514507",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708673075.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235#issuecomment-1960844204",
+      "text": "@rithviknishad I create new pull request for issue #163 Please review my pull request."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#235",
+      "time": 1708672689.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/235",
+      "text": "Add git icons"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#232",
+      "time": 1708670108.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/232#issuecomment-1960801208",
+      "text": "Okay i will do it\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#163",
+      "time": 1708665187.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/163#issuecomment-1960742075",
+      "text": "I create one pull request for this issue can the mentor please review and if any changes are required please instruct me."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#13",
+      "time": 1708664719.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
+      "text": "Update dgparmar14.md",
+      "turnaround_time": 1013
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#13",
+      "time": 1708664719.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
+      "text": "Update dgparmar14.md",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#13",
+      "time": 1708663707.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/13",
+      "text": "Update dgparmar14.md"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#234",
@@ -95,14 +250,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/12",
-      "title": "dgparmar14.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/232",
-      "title": "Add Git icons to the GithubEvent card title",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236",
+      "title": "Change all anchor and img tag with next?Link and next/Image tags",
       "stale_for": 0,
       "labels": []
     }

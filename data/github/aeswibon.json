@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708351485.0,
+  "last_updated": 1708681168.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1911",
+      "time": 1708681168.0,
+      "link": "https://github.com/coronasafe/care/pull/1911#issuecomment-1961005533",
+      "text": "@sainak Can you check the PR?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1911",
+      "time": 1708680361.0,
+      "link": "https://github.com/coronasafe/care/pull/1911",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7257",
+      "time": 1708680211.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7257",
+      "text": "fix: Limit number of facilities a single user can be linked to"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7219",
+      "time": 1708675815.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7219#issuecomment-1960890285",
+      "text": "As discussed in EOD, would be adding pagination...\r\n\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1898",
@@ -189,128 +217,6 @@
       "text": "fix(asset_location): added duty_staff endpoint"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1898",
-      "title": "fix: Update validation for Daily Round form",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7172",
-      "title": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1839",
-      "title": "fix: Custom Migration to clean no input values as null in Daily Rounds table",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6512",
-      "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 40,
-      "labels": [
-        "do not merge",
-        "hold",
-        "waiting for back end",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1689",
-      "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 42,
-      "labels": [
-        "do-not-merge",
-        "waiting-for-review",
-        "Hold"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1575",
-      "title": "fix: tests for ambulance APIs",
-      "stale_for": 94,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1376",
-      "pr_link": "https://github.com/coronasafe/care/pull/1431"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1217",
-      "pr_link": "https://github.com/coronasafe/care/pull/1218"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1164",
-      "pr_link": "https://github.com/coronasafe/care/pull/1165"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1154",
-      "pr_link": "https://github.com/coronasafe/care/pull/1155"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1142",
-      "pr_link": "https://github.com/coronasafe/care/pull/1143"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4322",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4321",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4320",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1111",
-      "pr_link": "https://github.com/coronasafe/care/pull/1112"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3968",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3974"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1089",
-      "pr_link": "https://github.com/coronasafe/care/pull/1090"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/936",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3217"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/930",
-      "pr_link": "https://github.com/coronasafe/care/pull/931"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3145",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3146"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3114",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3115"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2907",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2908"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2769",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2770"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/827",
-      "pr_link": "https://github.com/coronasafe/care/pull/822"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

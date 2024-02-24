@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708623000.0,
+  "last_updated": 1708693932.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7263",
+      "time": 1708693932.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7263#issuecomment-1961305083",
+      "text": "LGTM"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#8",
@@ -32913,6 +32920,16 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7246",
+      "title": "New Cypress Test | All Combination of Patient Consultation Creation | Patient Consultation Module (#7165)",
+      "stale_for": 0,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708353654.0,
+  "last_updated": 1708694011.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708694011.0,
+      "title": "coronasafe/care_fe#7263",
+      "link": "https://github.com/coronasafe/care_fe/pull/7263#pullrequestreview-1898089351",
+      "text": "Remove extra text from Sample Card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5907",
+      "time": 1708661586.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5907#issuecomment-1960708977",
+      "text": "@UdaySagar-Git this issue seems to need more discussion at the product end, please feel free to pick another issue. Thanks."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#5907",
+      "time": 1708661489.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5907#issuecomment-1960708170",
+      "text": "This is an intended behavior, if the policy is already eligible, the `check eligibility` button is disabled.\r\n\r\n\r\n@ajitsingh2603  Closing this issue, if the flow needs to be different i.e., if the policy should be verified before each claim or if there is an expiration for the policy's eligibility, please file a new issue with the respective context and details."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#5907",
+      "time": 1708661488.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/5907",
+      "text": "Coverage eligibility request after creating consultation"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6990",
@@ -28857,23 +28885,26 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7225",
       "title": "Enable HCX",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
+        "needs testing",
+        "need Review",
         "HCX"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
+        "merge conflict",
         "ABDM"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 19,
+      "stale_for": 23,
       "labels": [
         "need Review"
       ]
@@ -28881,13 +28912,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 13,
+      "stale_for": 17,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 75,
+      "stale_for": 79,
       "labels": [
         "waiting-for-review"
       ]
@@ -28895,19 +28926,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 85,
+      "stale_for": 89,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 437,
+      "stale_for": 441,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 194,
+      "stale_for": 198,
       "labels": [
         "changes required"
       ]
@@ -28915,25 +28946,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 794,
+      "stale_for": 798,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 800,
+      "stale_for": 804,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 801,
+      "stale_for": 805,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 996,
+      "stale_for": 1000,
       "labels": []
     }
   ],

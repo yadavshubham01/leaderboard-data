@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708635714.0,
+  "last_updated": 1708667632.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1708667632.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1960768694",
+      "text": "Looks like after merging develop into this a test if failing. Will look into it."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6993",
@@ -737,30 +744,6 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1907",
-      "title": "track previous consultation",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6993",
-      "title": "Collect postpartum data",
-      "stale_for": 0,
-      "labels": [
-        "waiting for back end"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

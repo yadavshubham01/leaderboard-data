@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708363883.0,
+  "last_updated": 1708683594.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7111",
+      "time": 1708683594.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7111#issuecomment-1961065738",
+      "text": "@rithviknishad I have made the requested changes in backed PR as well, can I take on other issues or wait for that to be closed first ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7256",
+      "time": 1708678858.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7256#issuecomment-1960953315",
+      "text": "I would like to work on it"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7235",
@@ -1034,28 +1048,6 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7235",
-      "title": "removed unused filters from notifications slideover",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1868",
-      "title": "added user type check before creating new asset",
-      "stale_for": 18,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7111",
-      "title": "Added authorization on route for asset creation",
-      "stale_for": 13,
-      "labels": [
-        "changes required",
-        "waiting for back end"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

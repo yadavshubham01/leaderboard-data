@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708625342.0,
+  "last_updated": 1708664491.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7244",
+      "time": 1708664491.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7244#issuecomment-1960735407",
+      "text": "@rithviknishad I have figured out another issue that is if I paste the URL of a non-home facility patient addition page  and paste it then it does open the  page and has the same issue as above "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7244",

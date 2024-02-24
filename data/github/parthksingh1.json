@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708634821.0,
+  "last_updated": 1708674031.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7254",
+      "time": 1708674031.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#issuecomment-1960860514",
+      "text": "Hi @rithviknishad ,Thanks for the reference! I'll review the card-based grid layout on the location management page and aim to maintain it in Bed Managment, Appreciate your input!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708673657.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1960853641",
+      "text": "Hey @rithviknishad , I'm interested to work on this issue, can I please get it assigned?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7254",
+      "time": 1708673408.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7254",
+      "text": "Bed Management System Redesign"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",

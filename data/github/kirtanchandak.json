@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708590953.0,
+  "last_updated": 1708690758.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708690758.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1961229126",
+      "text": "hey i've fetched the latest 10 releases form graphql API endpoint, do you have any specific design idea for the section that is to be added in the home page?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708676094.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1960895652",
+      "text": "https://docs.github.com/en/rest/orgs/orgs?apiVersion=2022-11-28#get-an-organization - I went through this documentation but there is no specific mention of releases of an organization \r\n\r\nBut I tried to fetch the specific repositories releases and I am getting a 200OK - \r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/92196705/bc057fb1-8c05-4d8f-863d-7cefdbcf117d)\r\n\r\nthoughts?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1708668627.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233#issuecomment-1960782556",
+      "text": "Hey, I can give this issue a try! Can you give me the approach to how can I start?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#169",

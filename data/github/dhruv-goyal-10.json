@@ -1,6 +1,48 @@
 {
-  "last_updated": 1708633444.0,
+  "last_updated": 1708712207.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1336",
+      "time": 1708712207.0,
+      "link": "https://github.com/coronasafe/care/issues/1336#issuecomment-1961785592",
+      "text": "@sainak @rithviknishad @vigneshhari Can you please assign this issue to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1708683869.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1961072549",
+      "text": "@sainak @rithviknishad @vigneshhari Can you please review this PR?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708683862.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1961072406",
+      "text": "@sainak @rithviknishad @vigneshhari Can you please review this PR?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1909",
+      "time": 1708659379.0,
+      "link": "https://github.com/coronasafe/care/pull/1909",
+      "text": "Fixed N+1 queries issue in /api/v1/consultationbed/"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1339",
+      "time": 1708653705.0,
+      "link": "https://github.com/coronasafe/care/issues/1339#issuecomment-1960635266",
+      "text": "@sainak @vigneshhari @nikhilagastya I want to work on this issue.\r\nCan you please assign this issue to me?\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1908",
+      "time": 1708647046.0,
+      "link": "https://github.com/coronasafe/care/pull/1908",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1335",
@@ -10,6 +52,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1909",
+      "title": "Fixed N+1 queries issue in /api/v1/consultationbed/",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/coronasafe/care/pull/1908",
       "title": "Fixed N+1 queries issue in /api/v1/bed/",

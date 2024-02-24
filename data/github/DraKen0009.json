@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708614328.0,
+  "last_updated": 1708675265.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1708675265.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1960879504",
+      "text": "@Omkar76  Thanks for help"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1910",
+      "time": 1708675173.0,
+      "link": "https://github.com/coronasafe/care/pull/1910#issuecomment-1960878634",
+      "text": "after loading the dummy data in db -\r\n\r\n![image](https://github.com/coronasafe/care/assets/115104695/9bbd37c2-cc58-4fe9-a767-6a7428eb2f28)\r\n![image](https://github.com/coronasafe/care/assets/115104695/b39c98c5-0459-4fa0-ab75-8a6fdc3d3ceb)\r\n\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1910",
+      "time": 1708675062.0,
+      "link": "https://github.com/coronasafe/care/pull/1910",
+      "text": "Added dummy data for shifting and Resource"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1806",

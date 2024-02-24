@@ -1,6 +1,48 @@
 {
-  "last_updated": 1708641998.0,
+  "last_updated": 1708730162.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708730162.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1962124175",
+      "text": "@rithviknishad I was looking over this issue but I found that it is working properly on system.\r\n\r\nThis image is assets page showing location:\r\n<img width=\"1426\" alt=\"Screenshot 2024-02-24 at 4 42 38\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4f06bd98-83fb-455c-b64c-1a8377af8624\">\r\n\r\n\r\nThis image on update page showing location correctly:\r\n<img width=\"1412\" alt=\"Screenshot 2024-02-24 at 4 42 50\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/52df7bdd-1aa4-4f56-908f-3f325da17d29\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7266",
+      "time": 1708719357.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7266",
+      "text": "fix: Irregular flow of responsive design in patient details #7262"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7239",
+      "time": 1708701069.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7239#issuecomment-1961505067",
+      "text": "If I assigned over this issue, I can work on the code part."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7239",
+      "time": 1708701022.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7239#issuecomment-1961503761",
+      "text": "Hey, I was looking over the solution for this and find out closing tab after one minute will not have good UX. \r\nIt will be better to close the tab if it is not in 'Active' state."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7262",
+      "time": 1708691639.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7262#issuecomment-1961248701",
+      "text": "Please assign me as I would to like to fix this issue.\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7262",
+      "time": 1708691521.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7262",
+      "text": "Irregular flow of responsive design in patient "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7156",
@@ -9,6 +51,13 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7266",
+      "title": "fix: Irregular flow of responsive design in patient details",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

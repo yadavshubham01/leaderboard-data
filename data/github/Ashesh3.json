@@ -1,6 +1,154 @@
 {
-  "last_updated": 1708631294.0,
+  "last_updated": 1708706184.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": 1708706184.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-1961644287",
+      "text": "> > @Ashesh3 I think @Keshav-0907 meant more like a \"Confirm Navigate Away\" popup to prevent accidental navigations. Yes, we can always enable form restorations too on top of this.\r\n> > <img alt=\"image\" width=\"372\" src=\"https://private-user-images.githubusercontent.com/25143503/307317400-4c4636c3-6618-43b4-8708-91471d7ed395.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg3MDQ5MDYsIm5iZiI6MTcwODcwNDYwNiwicGF0aCI6Ii8yNTE0MzUwMy8zMDczMTc0MDAtNGM0NjM2YzMtNjYxOC00M2I0LTg3MDgtOTE0NzFkN2VkMzk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIzVDE2MTAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhYzRmYjI3MjRiZmUyNmQyNDE0NjI0ZGI1ZjQ4ZjkwY2UwZTlmNTE2OWI5MTljYmNlOWY1YTNjMjVjNmNjYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FvftSzpvxOMivsjOmG59J34oAxQeeUyr8cW7O5_YI0w\">\r\n> \r\n> @rithviknishad Sir, I actually meant to address the unintentional data loss concern by adding a 'Discard Changes' confirmation modal. However, following @Ashesh3's suggestion, I think upgrading the form for draft support can be a better approach.\r\n> \r\n> I want to work on this issue. Can you please assign this to me?\r\n\r\nHey, remember that our higher order <Form component already has drafts support, you just need to convert the shifting form to use that higher order <Form component.\r\nbasically to convert basic html <form> to our custom <Form implementation which we already have."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7239",
+      "time": 1708701488.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7239#issuecomment-1961516781",
+      "text": "Hey, checking for the active state is a good idea! Before working on this issue let's first discuss this on monday's EOD call then I will let you know what we have planned for this."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708699662.0,
+      "title": "coronasafe/care_fe#7264",
+      "link": "https://github.com/coronasafe/care_fe/pull/7264#pullrequestreview-1898288004",
+      "text": "Fix Translations in login page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7263",
+      "time": 1708694018.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7263",
+      "text": "Remove extra text from Sample Card",
+      "turnaround_time": 619
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7263",
+      "time": 1708693399.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7263",
+      "text": "Remove extra text from Sample Card"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": 1708690744.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-1961228826",
+      "text": "> @Ashesh3 I think @Keshav-0907 meant more like a \"Confirm Navigate Away\" popup to prevent accidental navigations. Yes, we can always enable form restorations too on top of this.\r\n> \r\n> <img alt=\"image\" width=\"372\" src=\"https://private-user-images.githubusercontent.com/25143503/307317400-4c4636c3-6618-43b4-8708-91471d7ed395.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2OTA5MDcsIm5iZiI6MTcwODY5MDYwNywicGF0aCI6Ii8yNTE0MzUwMy8zMDczMTc0MDAtNGM0NjM2YzMtNjYxOC00M2I0LTg3MDgtOTE0NzFkN2VkMzk1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIzVDEyMTY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNjN2VhYzJlZjIxNmU0MDlhOTE1NTE5NjEwM2RiYzRkMDk2OTk3YTA4OTUxMGZjNzVmNWViZjdiZDZlMzVmYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jU5PbTOcNA3ZArJaWT6F28XQeRu8cMIYJ4mEBFvdWKg\">\r\n\r\nYep, I got that, but since we don't have it anywhere else, even for the more imp and longer forms like consultation, patient etc. Instead of adding this popup for all existing long forms, I feel we should just upgrade this form to support drafts, that serves the same purpose to get users back their data in case they navigate away unintentionally. Just my thoughts, open to discussions!\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": 1708690041.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-1961213078",
+      "text": "We already have support for auto saving drafts for our <Form component, I think converting this basic html form to our higher order <Form component should resolve this issue alongside. \r\n\r\ncc: @rithviknishad "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708689925.0,
+      "title": "coronasafe/care_fe#7235",
+      "link": "https://github.com/coronasafe/care_fe/pull/7235#pullrequestreview-1897962355",
+      "text": "removed unused filters from notifications slideover"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4558",
+      "time": 1708672731.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1960838159",
+      "text": "Sure @UdaySagar-Git "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1708671466.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#issuecomment-1960819409",
+      "text": "> @rithviknishad @Ashesh3 ![image](https://private-user-images.githubusercontent.com/111575806/307240211-1a401884-4389-475b-b894-06ae9aa950f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg2NzE3MDMsIm5iZiI6MTcwODY3MTQwMywicGF0aCI6Ii8xMTE1NzU4MDYvMzA3MjQwMjExLTFhNDAxODg0LTQzODktNDc1Yi1iODk0LTA2YWU5YWE5NTBmMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyM1QwNjU2NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYjBhOWI5OWI1NTEzMjUzMzNlZDI4ZTAxZTE4YTgwMDk3NWY5NmRmMjk0ZTRkODEyMzBlMjdjZDAwNTRkZmM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uCityIjUR9hREN18n4LVjEkft04TCBtuicbO8nu8xC0)\r\n> \r\n> Thanks for the suggestion\r\n> \r\n> should I decrease more or this looks fine?\r\n\r\nLooks the perfect width to me. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708671159.0,
+      "title": "coronasafe/care#1900",
+      "link": "https://github.com/coronasafe/care/pull/1900#pullrequestreview-1897459537",
+      "text": "Add assigned_clinicians field to PatientConsultation model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708669674.0,
+      "title": "coronasafe/care_fe#7253",
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#pullrequestreview-1897438678",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4705",
+      "time": 1708669635.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4705#issuecomment-1960795439",
+      "text": "Hey, after revisiting this issue, it appears that this is already covered under one of our GSOC projects as a part of a bigger issue: https://github.com/coronasafe/care_fe/issues/7159 . Closing this in favor of the larger issue. Feel free to pick up other issues to work on!"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#4705",
+      "time": 1708669635.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4705",
+      "text": "we can customise editor for writing notes so that user can customise text properties as he likes"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1708666920.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#issuecomment-1960760759",
+      "text": "This looks really neat!"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666866.0,
+      "title": "coronasafe/care_fe#7250",
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#pullrequestreview-1897403487",
+      "text": "Improves Input Field UI for phone number input"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1900",
+      "time": 1708666526.0,
+      "link": "https://github.com/coronasafe/care/pull/1900#issuecomment-1960756735",
+      "text": "@vigneshhari could you review this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666483.0,
+      "title": "coronasafe/care#1907",
+      "link": "https://github.com/coronasafe/care/pull/1907#pullrequestreview-1897399216",
+      "text": "track previous consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666444.0,
+      "title": "coronasafe/care_fe#7252",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#pullrequestreview-1897398839",
+      "text": "Added IP Days Chip in Patient List and Patient Dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666425.0,
+      "title": "coronasafe/care_fe#6993",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#pullrequestreview-1897398659",
+      "text": "Collect postpartum data"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708666405.0,
+      "title": "coronasafe/care_fe#7216",
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#pullrequestreview-1897398442",
+      "text": "Replace useDispatch with useQuery and request in PatientRegistration form."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5944",
@@ -17631,7 +17779,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "blocked",
         "waiting-for-review"
@@ -17640,13 +17788,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1900",
       "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7230",
       "title": "Add Uptime tracking to Location Management",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "reviewed"
@@ -17655,7 +17803,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1896",
       "title": "Creating daily round - ensure the patient has a bed assigned",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "waiting-for-review"
       ]
@@ -17663,7 +17811,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 140,
+      "stale_for": 141,
       "labels": [
         "POC"
       ]
@@ -17671,7 +17819,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 324,
+      "stale_for": 325,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17680,7 +17828,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 337,
+      "stale_for": 338,
       "labels": []
     }
   ],

@@ -1,6 +1,48 @@
 {
-  "last_updated": 1708643572.0,
+  "last_updated": 1708692738.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4558",
+      "time": 1708692738.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1961275058",
+      "text": "Hey @Ashesh3, could you please help me navigate to the camera feed page? I am having difficulty in pointing its exact location.\r\n\r\nhow ever i reached to feed page from \r\nhttp://localhost:4000/facility/64c2be92-47fd-47c3-9d3d-7891245f4611/patient/a4b86382-8998-4d66-a448-dbd2ce40da6b/consultation/ab765f7b-79a4-4e49-be88-2cdd63c834ca/feed\r\n\r\ni just placed /feed at the end however i am not able to find any way to navigate to feed from \r\nhttp://localhost:4000/facility/64c2be92-47fd-47c3-9d3d-7891245f4611/patient/a4b86382-8998-4d66-a448-dbd2ce40da6b/consultation/ab765f7b-79a4-4e49-be88-2cdd63c834ca/\r\n\r\nAm I on the wrong page ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#231",
+      "time": 1708682469.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/231#issuecomment-1961038363",
+      "text": "I want to work on this issue , can you please assign me !"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#14",
+      "time": 1708680973.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/14",
+      "text": "Update UdaySagar-Git.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4558",
+      "time": 1708672687.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1960837547",
+      "text": "Is this issue still open ? can I work on this @Ashesh3 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1708671209.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#issuecomment-1960815765",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/1a401884-4389-475b-b894-06ae9aa950f3)\r\n\r\nThanks for the suggestion \r\n\r\nshould I decrease more or this looks fine?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1708669530.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1960793001",
+      "text": "[Screencast from 23-02-24 11:52:34 AM IST.webm](https://github.com/coronasafe/care_fe/assets/111575806/4144fef3-6186-4f65-a283-6a861b19db11)\r\n\r\n@rithviknishad I hope this fixes the issue , let me know if it requires any more changes "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#5907",
@@ -63,13 +105,19 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7253",
       "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "title": "Improves Input Field UI for phone number input",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "reviewed"
+      ]
     }
   ],
   "authored_issue_and_pr": []

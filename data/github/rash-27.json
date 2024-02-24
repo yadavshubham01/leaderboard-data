@@ -1,0 +1,38 @@
+{
+  "last_updated": 1708698980.0,
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7264",
+      "time": 1708698980.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7264",
+      "text": "Fix Translations in login page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7260",
+      "time": 1708690878.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7260#issuecomment-1961231835",
+      "text": "i would like to work on this"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7260",
+      "time": 1708690743.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7260",
+      "text": "Translations are not made properly in some places"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7264",
+      "title": "Fix Translations in login page",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}
