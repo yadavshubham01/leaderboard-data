@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708705634.0,
+  "last_updated": 1708745746.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708745746.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1962236986",
+      "text": "@rithviknishad @Ashutosh0602 \r\nIndeed, I've also thoroughly checked for all the Assets, and everything appears to be in good working order.\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7255",

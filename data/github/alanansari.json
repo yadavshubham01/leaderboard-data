@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708691134.0,
+  "last_updated": 1708779075.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#239",
+      "time": 1708779075.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/239",
+      "text": "Content overflowing from the edges of the window on certain screen resolutions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708776127.0,
+      "title": "coronasafe/care_fe#7261",
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1899406682",
+      "text": "fix: overflow of fields in the user management cards"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7261",
@@ -28,7 +42,10 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7261",
       "title": "fix: overflow of fields in the user management cards",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
     }
   ],
   "authored_issue_and_pr": []

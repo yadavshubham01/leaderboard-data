@@ -1,6 +1,105 @@
 {
-  "last_updated": 1708714394.0,
+  "last_updated": 1708798302.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708798302.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962443999",
+      "text": "@rithviknishad Please check and if there any cahnges suggest . "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708798249.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708796817.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962435176",
+      "text": "### Before: it takes 81.5kb Resource size 2.3 MB\r\n![Screenshot 2024-02-24 231113](https://github.com/coronasafe/leaderboard/assets/99136186/1011c28c-73db-4216-ba2f-8895c357ae15)\r\n\r\n### After: It takes 15.5kb and Resource size is 130kb\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/402dccb0-e0af-4c3e-aabd-b6b07bd449b4)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708795474.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962428725",
+      "text": "### Before: It fetches all the contributors it will take too much time to load home page.\r\n![Screenshot 2024-02-24 224934](https://github.com/coronasafe/leaderboard/assets/99136186/63c90217-a45a-4dda-83da-d175d344879d)\r\n\r\n### After: Now it will take only 8 contributors' profile info \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/e7942138-2f0f-4630-9e19-774577e1a1ea)\r\n\r\n@rithviknishad \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708789094.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962404076",
+      "text": "@rithviknishad  Sure, I will do it "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708788069.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags",
+      "turnaround_time": 70953
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708776335.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962340862",
+      "text": "@rithviknishad Can you please review agai.Thank you."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708767195.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962310915",
+      "text": "@gsoc @rithviknishad \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/28c46e68-3edb-41a7-96a2-3aa1d7364bde)\r\n\r\nSee this is looks good?\r\n\r\nand i have one idea that on mobile size only icons showen and event name will be removed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708765983.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962306830",
+      "text": "Okk i will resolve it i want take this\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708765891.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962306434",
+      "text": "Okk, all done as per your instruction. If still any cahnges please guide me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708764536.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962301740",
+      "text": "it will now merged or any changes reuired?\r\n@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708764114.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962300373",
+      "text": "@rithviknishad @gsoc Okay I push all changes as per your instructions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708758167.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899230487",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708755965.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962273929",
+      "text": "@rithviknishad I removed all eslint errors please review it"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#237",
@@ -250,11 +349,16 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/236",
-      "title": "Change all anchor and img tag with next?Link and next/Image tags",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241",
+      "title": "home page users limit till 8 it",
       "stale_for": 0,
       "labels": []
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
+    }
+  ]
 }

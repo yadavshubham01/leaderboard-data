@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708690758.0,
+  "last_updated": 1708802227.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708802227.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899556369",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1708792280.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#issuecomment-1962416699",
+      "text": "Hey @rithviknishad we need to add a personal access token in the env file. I accidentally pushed my access token in the commit thanks to git-guardian it automatically got deleted from my GitHub profile. We can add GitHub personal access token, this is to call the graphql API endpoint. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1708792079.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240",
+      "text": "Feature/release section"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#233",
@@ -37,6 +58,13 @@
       "text": "Hey @rithviknishad,\r\n\r\nI ran the command `./load-fixtures.sh  `, `npm install --legacy-peer-deps` and then `npm run dev` but facing this issue in local dev setup, what can be the reason - \r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/92196705/d3bdfdcb-cdcf-4d04-b44f-12456bc14cfc)\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/240",
+      "title": "Feature/release section",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708165882.0,
+  "last_updated": 1708760809.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708760809.0,
+      "title": "coronasafe/ayushma_fe#180",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/180#pullrequestreview-1899235160",
+      "text": "Feat/stt immediate display fix"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/ayushma#459",

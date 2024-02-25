@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708714652.0,
+  "last_updated": 1708803047.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/docs#5",
+      "time": 1708803047.0,
+      "link": "https://github.com/coronasafe/docs/pull/5",
+      "text": "blog: new post aws service connect"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708759163.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1899232338",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708751797.0,
+      "title": "coronasafe/care_fe#7267",
+      "link": "https://github.com/coronasafe/care_fe/pull/7267#pullrequestreview-1899217948",
+      "text": "Fixes abort controller not working in `useQuery`"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7265",
@@ -9441,9 +9462,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/docs/pull/5",
+      "title": "new blog post: aws service connect",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 89,
+      "stale_for": 90,
       "labels": [
         "blocked",
         "changes required",
@@ -9454,7 +9481,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 164,
+      "stale_for": 165,
       "labels": [
         "In progress"
       ]
@@ -9462,19 +9489,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 78,
+      "stale_for": 79,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 218,
+      "stale_for": 219,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 143,
+      "stale_for": 144,
       "labels": []
     }
   ],

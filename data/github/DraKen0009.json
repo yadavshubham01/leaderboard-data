@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708675265.0,
+  "last_updated": 1708811408.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1912",
+      "time": 1708811408.0,
+      "link": "https://github.com/coronasafe/care/pull/1912",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1541",
+      "time": 1708805154.0,
+      "link": "https://github.com/coronasafe/care/issues/1541#issuecomment-1962684746",
+      "text": "@sainak  I would like to work on this issue.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1817",
+      "time": 1708763463.0,
+      "link": "https://github.com/coronasafe/care/issues/1817#issuecomment-1962298046",
+      "text": "@sainak I would like to work on this issue , please assign it to me"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
@@ -58,6 +79,19 @@
       "text": "I'm trying to reproduce the issue , but i guess this is already resolved as I can see dummy data already populated in the shifting and resource tabs \r\n- I've populated the dummy data using make command\r\n![image](https://github.com/coronasafe/care/assets/115104695/672f9b25-90b2-42bf-95d0-8dfa910e3aa7)\r\n\r\nlet me know if I'm doing something wrong or unable to understand the issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1912",
+      "title": "converted investigation and investigation group data into JSON",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1910",
+      "title": "Added dummy data for shifting and Resource",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

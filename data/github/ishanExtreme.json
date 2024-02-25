@@ -1,6 +1,14 @@
 {
-  "last_updated": 1708366866.0,
+  "last_updated": 1708760813.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#180",
+      "time": 1708760813.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/180",
+      "text": "Feat/stt immediate display fix",
+      "turnaround_time": 60684
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/ayushma_fe#179",
@@ -1338,31 +1346,23 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/179",
-      "title": "immediate display transcribed text added: frontend changes",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/ayushma/pull/472",
-      "title": "immediate display transcribed text added",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/107",
       "title": "v2 ocr addon",
-      "stale_for": 95,
+      "stale_for": 100,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_ocr/pull/9",
       "title": "v2 ocr addon",
-      "stale_for": 118,
+      "stale_for": 123,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/470",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/472"
+    },
     {
       "issue_link": "https://github.com/coronasafe/ayushma/issues/87",
       "pr_link": "https://github.com/coronasafe/ayushma/pull/88"

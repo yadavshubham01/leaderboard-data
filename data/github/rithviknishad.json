@@ -1,6 +1,174 @@
 {
-  "last_updated": 1708699492.0,
+  "last_updated": 1708796890.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708796890.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962435493",
+      "text": "Awesome \ud83d\ude80"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708795648.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962429445",
+      "text": "<img width=\"525\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/f7fed4c2-3357-465d-af00-e335dcea25b0\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708795578.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962429177",
+      "text": "By page size I meant the bytes the size of the `/` routes html"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708792690.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899531297",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708792690.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899531297",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708788372.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962401056",
+      "text": "The normal view looks good!\r\n\r\nFor the mobile view, I don't think icons alone would be readable. We could hide the org name. and make the relative time text smaller. it feels larger than the title"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708788103.0,
+      "title": "coronasafe/care_fe#7261",
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1899514744",
+      "text": "fix: overflow of fields in the user management cards"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#234",
+      "time": 1708788070.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "text": "Next/Image and Next/Link feature "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708787058.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899512431",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708764603.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899303917",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708764602.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899303917",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708764506.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238",
+      "text": "Feed: Event title is not responsive "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708762771.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899250667",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708757193.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899228915",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708757193.0,
+      "title": "coronasafe/leaderboard#236",
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#pullrequestreview-1899228915",
+      "text": "Change all anchor and img tag with next?Link and next/Image tags"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708757131.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962277482",
+      "text": "@dgparmar14 although deployed, there's a client-side error happening. Check the deploy preview link\r\n\r\n<img width=\"1708\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/22b47352-06e0-4df3-9c45-49215be7ee8e\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7267",
+      "time": 1708751123.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7267",
+      "text": "Fixes abort controller not working in `useQuery`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708747044.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962241834",
+      "text": "Do drop a screenshot of the page size before and after"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708747007.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237#issuecomment-1962241702",
+      "text": "That'd be nice!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#236",
+      "time": 1708746893.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/236#issuecomment-1962241218",
+      "text": "@dgparmar14 fix the prettier issues\r\n\r\n<img width=\"1284\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/4778f4ab-5e9b-442b-a54f-077a7caa21ab\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708746548.0,
+      "title": "coronasafe/care_fe#7261",
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1899203890",
+      "text": "fix: overflow of fields in the user management cards"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708746548.0,
+      "title": "coronasafe/care_fe#7261",
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1899203890",
+      "text": "fix: overflow of fields in the user management cards"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708746135.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1962238595",
+      "text": "Seems to be not reproducible right now."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6773",
+      "time": 1708746134.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6773",
+      "text": "Asset Update: Selected location not being shown for some cases"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7255",
@@ -36606,15 +36774,24 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7267",
+      "title": "Fixes abort controller not working in `useQuery`",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "need Review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/docs/pull/4",
       "title": "Fixes links to Leaderboard",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7237",
       "title": "Fixes issues with redirection on login",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "need Review"
@@ -36623,7 +36800,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "waiting for back end"
@@ -36640,7 +36817,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -36648,7 +36825,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "merge conflict",
         "stale",
