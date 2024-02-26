@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708788651.0,
+  "last_updated": 1708874293.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": 1708874293.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-1962972101",
+      "text": "@rithviknishad The way I completed it is if you are a doctor it directly searches for the home facility but the problem is that the facility names are not unique so it may become a problem \r\n\r\nOne way is directly searching by ID but the backend doesn't have any query related to that "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7268",
@@ -1648,7 +1655,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7197",
       "title": "Add Cypress test to patient file upload",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

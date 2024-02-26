@@ -1,6 +1,230 @@
 {
-  "last_updated": 1708796890.0,
+  "last_updated": 1708875687.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#248",
+      "time": 1708875687.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1962978572",
+      "text": "Anyone willing to take this up, feel free to pitch in simpler solutions. Let's keep it as simple as possible."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708875518.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249",
+      "text": "Support for Personalizing the Leaderboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#242",
+      "time": 1708874937.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/242",
+      "text": "Creating typesafe environment variables for better developer experience"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708874775.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899700481",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708871247.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689977",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708871217.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689900",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1906",
+      "time": 1708870813.0,
+      "link": "https://github.com/coronasafe/care/pull/1906#issuecomment-1962956004",
+      "text": "@sainak As @aparnacoronasafe mentioned in the issue, having the same `patient_no` for 2 consultations within a facility is NOT ALLOWED. Are we missing some context?\r\n\r\n<img width=\"1008\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/25143503/6d678125-2579-4250-b76c-9eb4c1c36cf8\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708870089.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1962952834",
+      "text": "@dgparmar14 We could simply use `inline-flex` to create an inline-flex container that flows with text. This way what needs to go in new line and what not is automatically handled.\r\n\r\nRefer: https://tailwindcss.com/docs/display#inline-flex"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708869325.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899682529",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708869326.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899682529",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708868757.0,
+      "title": "coronasafe/leaderboard#243",
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#pullrequestreview-1899681656",
+      "text": "make all icons responsive for mobile and dekstop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708868586.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899681073",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#237",
+      "time": 1708868193.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "text": "Home page user's profile card limitation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1708862003.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1962909135",
+      "text": "> @rithviknishad as of now i only implemented single select filter by role  \n> and will work on multi select , since it requires custom select component to be implemented first \n\n@UdaySagar-Git feel free to use headlessui multiselect. We've already one implemented one in CARE, we could reuse that or create one  from scratch\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708861918.0,
+      "title": "coronasafe/leaderboard#245",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1899660918",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708861918.0,
+      "title": "coronasafe/leaderboard#245",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1899660918",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708858493.0,
+      "title": "coronasafe/leaderboard#241",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#pullrequestreview-1899651434",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708858221.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1899649364",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708858221.0,
+      "title": "coronasafe/care_fe#6223",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#pullrequestreview-1899649364",
+      "text": "Live Camera Feed Enhancement(Review, QA and testing)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708857197.0,
+      "title": "coronasafe/leaderboard#243",
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#pullrequestreview-1899648274",
+      "text": "make all icons responsive for mobile and dekstop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708857197.0,
+      "title": "coronasafe/leaderboard#243",
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#pullrequestreview-1899648274",
+      "text": "make all icons responsive for mobile and dekstop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708856882.0,
+      "title": "coronasafe/leaderboard#241",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#pullrequestreview-1899647567",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708856882.0,
+      "title": "coronasafe/leaderboard#241",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#pullrequestreview-1899647567",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708856765.0,
+      "title": "coronasafe/care_fe#7269",
+      "link": "https://github.com/coronasafe/care_fe/pull/7269#pullrequestreview-1899647287",
+      "text": "create a workflow to track issue etc and unassign assignees when stale"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708856512.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962884933",
+      "text": "Yup!"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708852411.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899634222",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708852411.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899634222",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708852040.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962864650",
+      "text": "No, just a link that'll navigate to the `/people` page."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708851901.0,
+      "title": "coronasafe/care#1912",
+      "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1899633499",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708851761.0,
+      "title": "coronasafe/leaderboard#241",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#pullrequestreview-1899633083",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708851152.0,
+      "title": "coronasafe/leaderboard#241",
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#pullrequestreview-1899631521",
+      "text": "home page users limit till 8 it"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708850578.0,
+      "title": "coronasafe/docs#5",
+      "link": "https://github.com/coronasafe/docs/pull/5#pullrequestreview-1899630002",
+      "text": "new blog post: aws service connect"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#237",
@@ -36776,7 +37000,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7267",
       "title": "Fixes abort controller not working in `useQuery`",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "need Review"
@@ -36785,13 +37009,13 @@
     {
       "link": "https://github.com/coronasafe/docs/pull/4",
       "title": "Fixes links to Leaderboard",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7237",
       "title": "Fixes issues with redirection on login",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "need Review"
@@ -36800,7 +37024,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "waiting for back end"
@@ -36809,7 +37033,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -36817,7 +37041,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "waiting-for-review"
       ]
@@ -36825,7 +37049,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "merge conflict",
         "stale",

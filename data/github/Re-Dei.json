@@ -1,6 +1,91 @@
 {
-  "last_updated": 1708596900.0,
+  "last_updated": 1708874936.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#244",
+      "time": 1708874936.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/244",
+      "text": "feat!: added typesafe environment variables",
+      "turnaround_time": 20190
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#248",
+      "time": 1708874759.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/248",
+      "text": "Using a third party fetcher such as tanstack query in /feed route and create an API for it and fix crashing of that page in 4th page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#247",
+      "time": 1708873907.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/247#issuecomment-1962970219",
+      "text": "could anyone assign me this issue?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#247",
+      "time": 1708873875.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/247",
+      "text": "Optimizing the /leaderboard route by using Suspense component and fetching the data inside a child component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708873244.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899695949",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708871632.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899691075",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708871335.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899690239",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708871227.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689928",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708870926.0,
+      "title": "coronasafe/leaderboard#244",
+      "link": "https://github.com/coronasafe/leaderboard/pull/244#pullrequestreview-1899689053",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#244",
+      "time": 1708860554.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/244",
+      "text": "feat!: added typesafe environment variables"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#242",
+      "time": 1708854480.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/242#issuecomment-1962875659",
+      "text": "Could anyone assign me this issue?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#242",
+      "time": 1708854311.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/242",
+      "text": "Creating typesafe environment variables for better developer experience"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",
@@ -10,5 +95,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/242",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/244"
+    }
+  ]
 }

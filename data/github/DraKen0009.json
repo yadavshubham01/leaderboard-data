@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708811408.0,
+  "last_updated": 1708854292.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708854292.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1962874751",
+      "text": "@rithviknishad  made the required changes , please have a look "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1912",
@@ -89,7 +96,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1910",
       "title": "Added dummy data for shifting and Resource",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],

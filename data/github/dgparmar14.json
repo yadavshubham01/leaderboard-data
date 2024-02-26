@@ -1,6 +1,105 @@
 {
-  "last_updated": 1708798302.0,
+  "last_updated": 1708889414.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#248",
+      "time": 1708889414.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1963037584",
+      "text": "@rithviknishad \r\nI already think this and occur same problem and\r\nI think there is no need to use a third party. We can add a pagination feature that will fetch only the necessary feed data to load at a time. and it makes good UX and we can add filters to the filter-out feed data for forked or push or comment etc."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708889116.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1963036334",
+      "text": "@rithviknishad  I like to implement this new exciting feature."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708879564.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1962996399",
+      "text": "@rithviknishad In mobile view is it better to below line?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708869543.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1962950211",
+      "text": "> Even though there is enough space for time to be shown in same line, it's going to the next line. Let's keep it in a single line if we have the space\r\n> \r\n> <img alt=\"image\" width=\"1510\" src=\"https://private-user-images.githubusercontent.com/25143503/307595500-884235b8-7e99-49d8-b63d-36f2e945e9ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg4Njk2MDIsIm5iZiI6MTcwODg2OTMwMiwicGF0aCI6Ii8yNTE0MzUwMy8zMDc1OTU1MDAtODg0MjM1YjgtN2U5OS00OWQ4LWI2M2QtMzZmMmU5NDVlOWZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI1VDEzNTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2NDA2ZmFhODE5OTRiNDdjZmJjNjc2YzI0MjQxZmZmZDBjNmVjNDg3ZWNkMTY5ZDdiM2U3ODRkOWU0NmQ3NWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tWoiWcAi0atnLZPEwSBugbcBwRh9OYcs9xNXrh1W-U0\">\r\n\r\nYes,There is a space but I do it because time will be shown below for both Mobile and desktop view .In mobile view there is need to in below line because there is no space.So, I do it same change in the desktop."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#238",
+      "time": 1708868825.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/238#issuecomment-1962946329",
+      "text": "@rithviknishad Yup,there is a space so I will do it "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708868192.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241",
+      "text": "home page users limit till 8 it",
+      "turnaround_time": 34780
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#246",
+      "time": 1708862699.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/246#issuecomment-1962913134",
+      "text": "Please assign it to me. I love to enhance UI/UX"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#246",
+      "time": 1708862665.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "text": "Nabar for Better UX"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708856857.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962886416",
+      "text": "@rithviknishad All done as per your instruction please review ir"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708856011.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962882511",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/41ba575d-33ff-45e8-abbb-f4682a86d58f)\r\n\r\n@rithviknishad Is it okk now?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708855065.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243",
+      "text": "make all icons responsive for mobile and dekstop view"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708853474.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962871154",
+      "text": "> No, just a link that'll navigate to the `/people` page.\r\n\r\nOkay understood i will do it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708852786.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962868063",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/5b6014af-b1d5-4f1f-9fc5-1fd0c133d4dc)\r\n\r\nThere is already gallery option"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#241",
+      "time": 1708851946.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/241#issuecomment-1962864175",
+      "text": "Sorry, I didn't get it please explain.\r\nAre you talking about to add more button and then load other's on home page?\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#241",
@@ -349,13 +448,17 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/241",
-      "title": "home page users limit till 8 it",
+      "link": "https://github.com/coronasafe/leaderboard/pull/243",
+      "title": "make all icons responsive for mobile and dekstop view",
       "stale_for": 0,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"

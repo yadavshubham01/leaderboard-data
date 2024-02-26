@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708779075.0,
+  "last_updated": 1708842275.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7256",
+      "time": 1708842275.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7256",
+      "text": "Overflow of some fields such as district in the user management page"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#239",
@@ -37,16 +44,6 @@
       "text": "Overflow of some fields such as district in the user management page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7261",
-      "title": "fix: overflow of fields in the user management cards",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

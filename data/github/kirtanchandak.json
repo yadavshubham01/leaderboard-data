@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708802227.0,
+  "last_updated": 1708864168.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708864168.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1899667974",
+      "text": "Feature/release section"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708802227.0,

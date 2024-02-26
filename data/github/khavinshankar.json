@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708694011.0,
+  "last_updated": 1708857473.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": 1708857473.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1962889009",
+      "text": "@Pranshu1902 please fix the cypress tests, it seems only boundary tests are failing\r\n\r\ncc: @nihal467 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7269",
+      "time": 1708841233.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7269",
+      "text": "create a workflow to track issue etc and unassign assignees when stale"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708694011.0,
@@ -28883,9 +28897,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7269",
+      "title": "create a workflow to track issue etc and unassign assignees when stale",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7225",
       "title": "Enable HCX",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "need Review",
@@ -28895,7 +28915,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "merge conflict",
         "ABDM"
@@ -28904,7 +28924,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7124",
       "title": "use team for tagging in stale reminder",
-      "stale_for": 23,
+      "stale_for": 25,
       "labels": [
         "need Review"
       ]
@@ -28912,13 +28932,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 17,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 79,
+      "stale_for": 81,
       "labels": [
         "waiting-for-review"
       ]
@@ -28926,19 +28946,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 89,
+      "stale_for": 91,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 441,
+      "stale_for": 443,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 198,
+      "stale_for": 200,
       "labels": [
         "changes required"
       ]
@@ -28946,25 +28966,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 798,
+      "stale_for": 800,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 804,
+      "stale_for": 806,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 805,
+      "stale_for": 807,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 1000,
+      "stale_for": 1002,
       "labels": []
     }
   ],
