@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708854292.0,
+  "last_updated": 1708978374.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1917",
+      "time": 1708978374.0,
+      "link": "https://github.com/coronasafe/care/pull/1917",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708948864.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963982477",
+      "text": "135-145 ( what i have currently noticed)\r\n\r\n- like in line 135 \r\nMin should be 11 and max should be 18\r\nBut given 0 and 25\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708946848.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963918794",
+      "text": "Also the data at the bottom of the table is not accurate (min, max values)\r\n![image](https://github.com/coronasafe/care/assets/115104695/125c32e3-e4c6-47ad-bd67-f8b4bcf948b3)\r\n\r\nI can update them accordingly and update the json file with it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708946454.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963903706",
+      "text": "@sainak  do we need to update the data according to comment before ?\r\n![image](https://github.com/coronasafe/care/assets/115104695/26250113-f289-4e35-a3c6-20bc06e2c651)\r\n\r\nUpdated to - \r\n![image](https://github.com/coronasafe/care/assets/115104695/e6f0ce4e-d190-42de-baf4-78e041474cca)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1912",
@@ -88,6 +116,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1917",
+      "title": "added contraints in consultations and custom migrations",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1912",
       "title": "converted investigation and investigation group data into JSON",
       "stale_for": 0,
@@ -96,7 +130,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1910",
       "title": "Added dummy data for shifting and Resource",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": []
     }
   ],

@@ -1,6 +1,23 @@
 {
-  "last_updated": 1707970991.0,
+  "last_updated": 1708960763.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1707970991.0,
@@ -91,21 +108,6 @@
       "text": "Can I take this up? \r\n\r\nSo as I understand the issue, We have to log the error response instead of sending them as response in places like these in the abdm API?:\r\n```python\r\n        try:\r\n            AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n        except Exception as e:\r\n            return Response({\"error\": str(e)}, status=status.HTTP_400_BAD_REQUEST)\r\n```\r\n\r\n#### Questions:\r\n- What should be sent instead of the `e` object to the client instead?\r\n- This is how we should log instead right?\r\n```python\r\nlogger = logging.getLogger(__nane__)\r\n\r\n\r\ndef post(self, request, *args, **kwargs):\r\n    data = request.data\r\n\r\n    try:\r\n        AbdmGateway().init(data[\"resp\"][\"requestId\"])\r\n    except Exception as e:\r\n        logger.warning(f\"Error while initialising ABDM Gateway: {e}\", exc_info=True)\r\n        return Response({ \"error\": \"Something went wrong.\" }, status=status.HTTP_400_BAD_REQUEST)\r\n\r\n    return Response({}, status=status.HTTP_202_ACCEPTED)\r\n\r\n```\r\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7211",
-      "title": "Fix edit clipping",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/dashboard/issues/137",
-      "pr_link": "https://github.com/coronasafe/dashboard/pull/140"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

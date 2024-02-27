@@ -1,6 +1,23 @@
 {
-  "last_updated": 1708201765.0,
+  "last_updated": 1708960763.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7224",
@@ -539,30 +556,6 @@
       "text": "@rithviknishad I'm interested to work on this issue, can you assign this to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7224",
-      "title": "added warning on doctor notes usage if not subscribed",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1498",
-      "pr_link": "https://github.com/coronasafe/care/pull/1507"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1444",
-      "pr_link": "https://github.com/coronasafe/care/pull/1445"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5820",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5821"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5533",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5539"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

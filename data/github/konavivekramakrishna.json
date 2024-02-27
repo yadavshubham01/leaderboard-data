@@ -1,6 +1,37 @@
 {
-  "last_updated": 1708671098.0,
+  "last_updated": 1708960763.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7276",
+      "time": 1708955004.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#issuecomment-1964179715",
+      "text": " \r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/d3a2c736-66d1-42bb-83a0-cf62879668b2)\r\n![image](https://github.com/coronasafe/care_fe/assets/101407963/98f55cd2-ff6d-4931-810c-410eab3475ce)\r\n\r\n\r\n@rithviknishad \r\n\r\n The getDailyReport function returns a paginated response. However, we are accessing res.data directly, which causes the patient category to always be undefined. Every time we enter a log update, we have to select the patient category, which is a bug.\r\n\r\nNow, the patient category to be set as it was previously."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7276",
+      "time": 1708954021.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7276",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6917",

@@ -1,6 +1,45 @@
 {
-  "last_updated": 1708619017.0,
+  "last_updated": 1708963728.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#252",
+      "time": 1708963728.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/252",
+      "text": "fixes text overflow issue  fixes #251",
+      "turnaround_time": 22396
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#252",
+      "time": 1708963728.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/252",
+      "text": "fixes text overflow issue  fixes #251",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#252",
+      "time": 1708954378.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#issuecomment-1964158203",
+      "text": "<img width=\"520\" alt=\"Screenshot 2024-02-26 at 7 02 26\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/115660976/598a7a0c-0f2e-42fb-8e49-80bacdc69e77\">\r\nis this fine @rithviknishad ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#252",
+      "time": 1708943673.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#issuecomment-1963800633",
+      "text": "@rithviknishad  hi please look into the pr thanks"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708943639.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1900507954",
+      "text": "fixes text overflow issue  fixes #251"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#153",
@@ -17,5 +56,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/251",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/252"
+    }
+  ]
 }

@@ -1,6 +1,37 @@
 {
-  "last_updated": 1708667632.0,
+  "last_updated": 1708960763.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7275",
+      "time": 1708942826.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#issuecomment-1963772604",
+      "text": "I wrote all plugin code in vite config itself. let me know if I should move it so separate file. (where? :sweat_smile: )"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7275",
+      "time": 1708941631.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7275",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6993",

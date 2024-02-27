@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708874936.0,
+  "last_updated": 1708957359.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708957359.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964263815",
+      "text": "@rithviknishad please try deploying again. The new commit should have fixed the previous issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708953476.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964126018",
+      "text": "Thats weird it ran without an issue on development. Is there any more error logs associated with it? @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708952315.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964089511",
+      "text": "Could you recommend me any changes that reduces the number of merge conflicts?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708944045.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254",
+      "text": "Refactor: made /leaderboard fully SSR"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#244",
@@ -95,10 +123,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/242",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/244"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

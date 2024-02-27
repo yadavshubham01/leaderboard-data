@@ -1,0 +1,35 @@
+{
+  "last_updated": 1708978493.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1708978493.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1965170915",
+      "text": "@rithviknishad Could you explain to me why this issue is throwing a 403 error?\r\n```\r\nGET /api/v1/facility/42d0dbbd-e3e1-4d64-88ff-f606b90975b0/asset_location/6ee4cae3-f9e3-40d4-9b47-337ac8052f76/\r\nHTTP 403 Forbidden\r\nAllow: GET, PUT, PATCH, DELETE, HEAD, OPTIONS\r\nContent-Type: application/json\r\nVary: Accept\r\n\r\n{\r\n    \"detail\": \"Authentication credentials were not provided.\"\r\n}\r\n```"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7280",
+      "time": 1708976718.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7280",
+      "text": "feat: added minimum quantity in inventory list"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6612",
+      "time": 1708976439.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6612#issuecomment-1965113511",
+      "text": "@nihal467 I would like to work on this issue."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7280",
+      "title": "feat: added minimum quantity in inventory list",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

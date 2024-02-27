@@ -1,6 +1,65 @@
 {
-  "last_updated": 1708759286.0,
+  "last_updated": 1708979815.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7230",
+      "time": 1708979815.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7230#issuecomment-1965223143",
+      "text": "> @Ashesh3 ![image](https://private-user-images.githubusercontent.com/57055998/307936610-c4c371b4-2de6-47fc-8bb4-666b7535ac4f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5Nzg3OTgsIm5iZiI6MTcwODk3ODQ5OCwicGF0aCI6Ii81NzA1NTk5OC8zMDc5MzY2MTAtYzRjMzcxYjQtMmRlNi00N2ZjLThiYjQtNjY2Yjc1MzVhYzRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDIwMTQ1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliYWMyNDJjNmQ5MjEwMjJhY2RmMzc0ZjQ2YWFiNmU5ZjE5YWI4YTcxMWIxYzQ1MzVkODcwMTA3NzhiYjRjZmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xlHuU_o-_VRJdvOYdnqkhqPwT0vJgQ54KvFRBryuSYI)\r\n> \r\n> the UI is breaking\r\n\r\nHey, fixed.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/bffd402b-01ea-496c-8b26-e16e438d66bf)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708974222.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1901764192",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "konavivekramakrishna",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708959334.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1901097846",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7240",
+      "time": 1708957055.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7240#issuecomment-1964252276",
+      "text": "EOD discussion - PDF File previews are a must and a file preview package is to be used to display the same in the same tab. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708948369.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1900685982",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708948364.0,
+      "title": "coronasafe/care#1910",
+      "link": "https://github.com/coronasafe/care/pull/1910#pullrequestreview-1900685844",
+      "text": "Added dummy data for shifting and Resource"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708759286.0,
@@ -17793,7 +17852,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 3,
+      "stale_for": 5,
       "labels": [
         "blocked",
         "waiting-for-review"
@@ -17802,13 +17861,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1900",
       "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7230",
       "title": "Add Uptime tracking to Location Management",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "reviewed"
@@ -17817,7 +17876,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1896",
       "title": "Creating daily round - ensure the patient has a bed assigned",
-      "stale_for": 7,
+      "stale_for": 9,
       "labels": [
         "waiting-for-review"
       ]
@@ -17825,7 +17884,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 142,
+      "stale_for": 144,
       "labels": [
         "POC"
       ]
@@ -17833,7 +17892,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 326,
+      "stale_for": 328,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17842,7 +17901,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 339,
+      "stale_for": 341,
       "labels": []
     }
   ],

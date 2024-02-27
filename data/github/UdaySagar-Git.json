@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708862148.0,
+  "last_updated": 1708981283.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1708981283.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1965261788",
+      "text": "There is definitely something wrong in the sorting order. I will raise a different pull request for it or commit to this directly"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1708981078.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1965253689",
+      "text": "@rithviknishad this pr is ready for review , \r\nby extension just sorted the tailwind classes causing merge conflicts"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7278",
+      "time": 1708955512.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7278#issuecomment-1964197119",
+      "text": "I want to work on this please assign me \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708952127.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964083866",
+      "text": "i think this will cause a lot of merge conflicts?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
@@ -138,7 +166,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7253",
       "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "need Review"
@@ -147,7 +175,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "title": "Improves Input Field UI for phone number input",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "reviewed"

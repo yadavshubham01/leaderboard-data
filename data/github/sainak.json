@@ -1,6 +1,238 @@
 {
-  "last_updated": 1708803047.0,
+  "last_updated": 1708975629.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708975629.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1901816906",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708975558.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1965063939",
+      "text": "> @sainak I later realised this, commenting out the is_occupied property will although not affect the results in case of list method, but it will affect the result in case of retrieve method (fetching a particular object using id), coz we aren't annotating is_occupied property in that case and it will always corresponds to False (the default value).\n> Isn't it?\n\nCurrently we are not using bed retrieve on Fe but you are correct that will give inconsistent results, It won't affect the performance so lets remove the if condition "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708971035.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1901660682",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708959029.0,
+      "title": "coronasafe/leaderboard#255",
+      "link": "https://github.com/coronasafe/leaderboard/pull/255#pullrequestreview-1901084414",
+      "text": "fix: fixes sorting container"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708958828.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1901074754",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708958828.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1901074754",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708958501.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1901062894",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708958408.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1901059088",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1898",
+      "time": 1708958307.0,
+      "link": "https://github.com/coronasafe/care/pull/1898#issuecomment-1964301168",
+      "text": "@aeswibon missing validation for other fields "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708958273.0,
+      "title": "coronasafe/care#1898",
+      "link": "https://github.com/coronasafe/care/pull/1898#pullrequestreview-1901053510",
+      "text": "fix: Update validation for Daily Round form"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/teleicu_middleware#22",
+      "time": 1708958065.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/22",
+      "text": "Setup Sentry with Environment"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708956331.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1900558153",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708956331.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1900558153",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708954353.0,
+      "title": "coronasafe/care#1906",
+      "link": "https://github.com/coronasafe/care/pull/1906#pullrequestreview-1896418858",
+      "text": "added constraints to patient consultation to avoid duplications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/docs#5",
+      "time": 1708952761.0,
+      "link": "https://github.com/coronasafe/docs/pull/5",
+      "text": "new blog post: aws service connect",
+      "turnaround_time": 63315
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/docs#4",
+      "time": 1708952554.0,
+      "link": "https://github.com/coronasafe/docs/pull/4",
+      "text": "Fixes links to Leaderboard",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#255",
+      "time": 1708950119.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/255#issuecomment-1964022557",
+      "text": "@Ashutosh0602 make all the filters occupy max width on mobile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708949698.0,
+      "title": "coronasafe/care#1916",
+      "link": "https://github.com/coronasafe/care/pull/1916#pullrequestreview-1900729873",
+      "text": "Production Release | February Week 4 2024"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708949171.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963992606",
+      "text": "> 135-145 ( what i have currently noticed)\r\n> \r\n>     * like in line 135\r\n>       Min should be 11 and max should be 18\r\n>       But given 0 and 25\r\n\r\nI think what you are referring to is ideal value, that is its mentioned in the col just before min, which needs to be added in the model as well, min and max look okay to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708947842.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963951226",
+      "text": "@DraKen0009 the rows marked yellow needs to be updated, and the ones marked red needs to be deleted\r\n\r\n>Also the data at the bottom of the table is not accurate (min, max values)\r\nwhich rows are you referring to?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1708947104.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1963928736",
+      "text": "https://github.com/coronasafe/care/pull/1908#issuecomment-1963925609"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708947033.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1963925609",
+      "text": "hey @dhruv-goyal-10 thanks for the pr,\r\nafter looking at the bed model i can see that the is_occupied property on the model is not being used\r\nhttps://github.com/coronasafe/care/blob/6cb4b3f26c03bece09f818299f4dccfb321ab86b/care/facility/models/bed.py#L43-L45\r\n\r\nso we can just annotate the queryset with is_occupied directly if `self.action == list`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946110.0,
+      "title": "coronasafe/care#1900",
+      "link": "https://github.com/coronasafe/care/pull/1900#pullrequestreview-1900600905",
+      "text": "Add assigned_clinicians field to PatientConsultation model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946102.0,
+      "title": "coronasafe/care#1900",
+      "link": "https://github.com/coronasafe/care/pull/1900#pullrequestreview-1900600674",
+      "text": "Add assigned_clinicians field to PatientConsultation model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708945954.0,
+      "title": "coronasafe/care#1910",
+      "link": "https://github.com/coronasafe/care/pull/1910#pullrequestreview-1900595633",
+      "text": "Added dummy data for shifting and Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708945916.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900594037",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708945916.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1900594037",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1912",
+      "time": 1708943516.0,
+      "link": "https://github.com/coronasafe/care/pull/1912#issuecomment-1963795374",
+      "text": "@DraKen0009 the changes look, one final step is to update the data from [this](https://docs.google.com/spreadsheets/d/1hN13p-BDbb1Pkl3a8tcVdWFsFxncju2QPfeOEkKh51E/edit#gid=169054315) sheet"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708943123.0,
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1900483487",
+      "text": "Prescription: Titrated drug dose"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1913",
+      "time": 1708942964.0,
+      "link": "https://github.com/coronasafe/care/pull/1913",
+      "text": "Fix facility delete method",
+      "turnaround_time": 1949
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/docs#5",
@@ -9462,15 +9694,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/docs/pull/5",
-      "title": "new blog post: aws service connect",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 90,
+      "stale_for": 92,
       "labels": [
         "blocked",
         "changes required",
@@ -9481,7 +9707,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 165,
+      "stale_for": 167,
       "labels": [
         "In progress"
       ]
@@ -9489,19 +9715,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 79,
+      "stale_for": 81,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 219,
+      "stale_for": 221,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 144,
+      "stale_for": 146,
       "labels": []
     }
   ],

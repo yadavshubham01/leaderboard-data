@@ -1,6 +1,20 @@
 {
-  "last_updated": 1707985675.0,
+  "last_updated": 1708953892.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1880",
+      "time": 1708953892.0,
+      "link": "https://github.com/coronasafe/care/issues/1880#issuecomment-1964139557",
+      "text": "@Omkar76 @sainak \r\n\r\nSorry if my comment above was confusing.\r\n\r\nWhat I mean was:\r\nEvery hospital gives sequence of numbers as IP number to every patient admission. This number is never repeated within the hospital.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1708947514.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1963942148",
+      "text": "@nihal467 Good point Nihal!\r\n\r\n- [ ] On the patient dashboard (https://care.coronasafe.in/facility/997c7f30-8e2f-4d62-8b58-2a8771e658d6/patient/8ac01387-84ce-4bc6-b836-b2e2387804d3/consultation/7ee96a05-556d-44ff-af20-d326e1a24baf) show labels for both \"Antenatal\"  and \"Post-partum\". This label should be added to the banner on top with patient name and basic details.\r\n\r\n- [ ] Add a card in patient dashboard \"update\" tab, under Basic information, before \"Symptoms\" . Title of the card must be \"Perinatal Status\" containing the information on whether the patient is antenatal (date of last menstruation) and post-partum (with date of delivery)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7158",

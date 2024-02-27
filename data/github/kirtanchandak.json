@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708864168.0,
+  "last_updated": 1708971261.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1708971261.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#issuecomment-1964819553",
+      "text": "> Let's also have a dedicated `/releases` page which will show more number of releases along with their markdown contents, like how we have in [`/projects`](https://contributors.ohc.network/projects)\r\n> \r\n> And in the home page, let's show only recent 5 releases, the page feels like there's so much vertical content that needed.\r\n\r\n- added releases page with a similar markdown as the projects section \r\n- reduced releases on home page to 4 (was looking more clean instead of 5)"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708864168.0,
@@ -70,7 +77,9 @@
       "link": "https://github.com/coronasafe/leaderboard/pull/240",
       "title": "Feature/release section",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": []

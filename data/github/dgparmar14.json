@@ -1,6 +1,76 @@
 {
-  "last_updated": 1708889414.0,
+  "last_updated": 1708973980.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708973980.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964943430",
+      "text": "> We can make it responsive by simplifying the component event title to be as shown in the example [here](https://tailwindcss.com/docs/display#inline-flex) regardless of what window size it is.\r\n\r\nI already use it but there is also need of flex-wrap so i add it also can you please review and there is still not fixed i will do it \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708970828.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964807668",
+      "text": "Okk, Let me clear for clicking link .\r\nIt is an already in main repo code. So whenever link on user name it will navigate to the user's profile\r\n\r\n> > <img alt=\"image\" width=\"1029\" src=\"https://private-user-images.githubusercontent.com/25143503/307890987-45fa83d1-d058-430d-8cb0-72bf6591762f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NzA1NzEsIm5iZiI6MTcwODk3MDI3MSwicGF0aCI6Ii8yNTE0MzUwMy8zMDc4OTA5ODctNDVmYTgzZDEtZDA1OC00MzBkLThjYjAtNzJiZjY1OTE3NjJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDE3NTc1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMzBkYTI3NjA5MjNhMjcwYzZjYWJmOGVjNGY4MDBiMmE1NjU4NGViZTk5OTMxNmJhMzMyNjk5MjZhNTIwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.snsPE-wV7fWdp5TZA3eMp-RbeiuQI0BBSWTfsSi9lMI\">\r\n> \r\n> This issue is still present\r\n\r\nIn which screen size it occurs because i try all device on chrome for responsive ness and it is working fine"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708969682.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964745063",
+      "text": "@rithviknishad I think now it is done."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708967631.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964678670",
+      "text": "> Yup, revert changes to the link. Not in the scope of this issue/PR\r\n\r\nResponsiveness is done or any changes needed?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708967449.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964672701",
+      "text": "> Why? shouldn't it open something related to the event?\r\n\r\nI will change it according to the main leader board repo link will be same as per previous?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965719.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964609836",
+      "text": "Okay, you are trying to say that,  rather than creating a GUI for setting up custom color palettes, the system could rely on configuration files or environment variables that the engineer can modify directly. right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965401.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964594789",
+      "text": "@rithviknishad Okay, I think  One way to achieve this is by providing a user interface where organizations can input their custom color values. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965023.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964582159",
+      "text": "\r\n### Themes suggestion:\r\n\r\n**Techy Blue Theme:**\r\nPrimary Accent Color: #0366d6 (Blue)\r\nSecondary Accent Color: #24292e (Dark Gray)\r\nNeutral Color: #f6f8fa (Light Gray)\r\nText Color: #24292e (Dark Gray)\r\n\r\n**Data-driven Green Theme:**\r\nPrimary Accent Color: #28a745 (Green)\r\nSecondary Accent Color: #6cb2eb (Light Blue)\r\nNeutral Color: #f8f9fa (Off-White)\r\nText Color: #333333 (Dark Gray)\r\n\r\n**Code-friendly Dark Theme:**\r\nPrimary Accent Color: #6f42c1 (Purple)\r\nSecondary Accent Color: #586069 (Gray)\r\nNeutral Color: #1e1e1e (Dark Gray)\r\nText Color: #e1e4e8 (Light Gray)\r\n\r\n**Corporate Navy Theme:**\r\nPrimary Accent Color: #0366d6 (Navy Blue)\r\nSecondary Accent Color: #586069 (Gray)\r\nNeutral Color: #f6f8fa (Light Gray)\r\nText Color: #24292e (Dark Gray)\r\n\r\n**Minimalistic Monochrome Theme:**\r\nPrimary Accent Color: #333333 (Dark Gray)\r\nSecondary Accent Color: #666666 (Medium Gray)\r\nNeutral Color: #f8f9fa (Off-White)\r\nText Color: #24292e (Dark Gray)\r\n\r\n@rithviknishad Hey, I think it is the best theme .5 themes are good number ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708963662.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964526700",
+      "text": "Okay try to fix it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708963527.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964518023",
+      "text": "@rithviknishad Yes it will open related repo. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#248",
@@ -451,7 +521,9 @@
       "link": "https://github.com/coronasafe/leaderboard/pull/243",
       "title": "make all icons responsive for mobile and dekstop view",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": [

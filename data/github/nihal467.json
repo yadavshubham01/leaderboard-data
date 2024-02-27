@@ -1,6 +1,142 @@
 {
-  "last_updated": 1708693932.0,
+  "last_updated": 1708978224.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7230",
+      "time": 1708978224.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7230#issuecomment-1965164200",
+      "text": "@Ashesh3 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c4c371b4-2de6-47fc-8bb4-666b7535ac4f)\r\n\r\nthe UI is breaking"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7264",
+      "time": 1708977782.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7264#issuecomment-1965153438",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7279",
+      "time": 1708974098.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7279",
+      "text": "Modified Cypress Test | Facility delete test | Facility Module "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1708972437.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1964863535",
+      "text": "Test 1: Record an Audio and download the file.\r\n\r\nRecord an audio.\r\nVerify its success through notification and reflection in the list.\r\nVerify the file and ensure its reflection in the list as well as notification.\r\nTry to download the file and verify its success using API response with cy.intercept.\r\n\r\nBy performing the above tasks, you can remove the following tests:\r\n\r\n\"Verify uploaded file can be edited by author\"\r\n\"Verify that file download is possible for district admin and above\"\r\n\"Verify that file download is possible for author\"\r\n\r\nTest 2: Upload a File and archive it\r\n\r\nUpload a file and verify its reflection in the list.\r\nArchive the file and verify the file list along with the reason.\r\n\r\nBy performing the above tasks, you can remove the test \"Archive file and verify it.\"\r\n\r\nTest 3: User-level Based Permission for File Modification\r\n\r\nUpload a file using Nurse ID-1 and download it.\r\nEdit the file using Nurse ID-1.\r\nLog in as Nurse ID-2 and verify that the file can't be edited.\r\nLog in as district admin and verify that the file can be edited.\r\n\r\nYou can remove the test \"Verify that file download is possible for users below district admin.\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708972211.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901678645",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708972211.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901678645",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708970461.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901642462",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708970461.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901642462",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708970280.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901625653",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708970280.0,
+      "title": "coronasafe/care_fe#7197",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#pullrequestreview-1901625653",
+      "text": "Add Cypress test to patient file upload"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1708969630.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1964743572",
+      "text": "@aeswibon the cypress is fully failing, fix it"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "rithviknishad",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1708957907.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#issuecomment-1964285242",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1866",
+      "time": 1708957893.0,
+      "link": "https://github.com/coronasafe/care/pull/1866#issuecomment-1964284672",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1708947067.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1963926955",
+      "text": "@Omkar76 once the aparna mentions the reflection, make the necessary change and add a single cypress test to the patient_registration.cy.ts file, covering all this data recording and reflection "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": 1708946701.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-1963912837",
+      "text": "@aparnacoronasafe the data are currently only recorded in the patient registration form, but it's not being reflected anywhere on the patient details page, where should we be reflecting it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1708946178.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#issuecomment-1963893087",
+      "text": "@aeswibon clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7228",
+      "time": 1708946063.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7228#issuecomment-1963888703",
+      "text": "LGTM"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7263",
@@ -32920,16 +33056,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7246",
-      "title": "New Cypress Test | All Combination of Patient Consultation Creation | Patient Consultation Module (#7165)",
-      "stale_for": 0,
-      "labels": [
-        "work-in-progress",
-        "merge conflict"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,289 @@
 {
-  "last_updated": 1708875687.0,
+  "last_updated": 1708970974.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708970974.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964811578",
+      "text": "We can make it responsive by simplifying the component event title to be as shown in the example [here](https://tailwindcss.com/docs/display#inline-flex) regardless of what window size it is."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708970459.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964791053",
+      "text": "Also, clicking on these is taking to the author's page.\r\n\r\n<img width=\"192\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/09f9d197-9916-4044-b8ed-99f7cf07db39\">\r\n\r\n\r\n<img width=\"183\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/86f432e0-e419-4752-b1d6-e26029e3f061\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708970350.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964780163",
+      "text": "> <img alt=\"image\" width=\"1029\" src=\"https://private-user-images.githubusercontent.com/25143503/307890987-45fa83d1-d058-430d-8cb0-72bf6591762f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg5NzA1NzEsIm5iZiI6MTcwODk3MDI3MSwicGF0aCI6Ii8yNTE0MzUwMy8zMDc4OTA5ODctNDVmYTgzZDEtZDA1OC00MzBkLThjYjAtNzJiZjY1OTE3NjJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI2VDE3NTc1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMzBkYTI3NjA5MjNhMjcwYzZjYWJmOGVjNGY4MDBiMmE1NjU4NGViZTk5OTMxNmJhMzMyNjk5MjZhNTIwN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.snsPE-wV7fWdp5TZA3eMp-RbeiuQI0BBSWTfsSi9lMI\">\r\n\r\nThis issue is still present"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708969003.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964725255",
+      "text": "<img width=\"1029\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/45fa83d1-d058-430d-8cb0-72bf6591762f\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708967552.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964676065",
+      "text": "Yup, revert changes to the link. Not in the scope of this issue/PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965908.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964620591",
+      "text": "We could build a GUI to configure/generate environment variables as an easy step for devs, but that's a separate issue of its own."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965495.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964597954",
+      "text": "We could add a user interface for configuring various environments along with this at a later stage. Let's keep it simple now assuming the one deploying and configuring this is an engineer."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1708965162.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1964587009",
+      "text": "@dgparmar14 Let's make it in such a way that organization can set their color palette instead of choosing from a pre-defined theme.\r\n\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#251",
+      "time": 1708963729.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/251",
+      "text": "leader board page's leader card  overlaps in md and lg screen"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#252",
+      "time": 1708963728.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/252",
+      "text": "fixes text overflow issue  fixes #251",
+      "collaborated_with": [
+        "rhithesh"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1708963574.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1964521321",
+      "text": "Why? shouldn't it open something related to the event?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708963374.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1901321397",
+      "text": "fixes text overflow issue  fixes #251"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708963374.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1901321397",
+      "text": "fixes text overflow issue  fixes #251"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708963171.0,
+      "title": "coronasafe/leaderboard#243",
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#pullrequestreview-1901308903",
+      "text": "make all icons responsive for mobile and dekstop view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708962996.0,
+      "title": "coronasafe/care_fe#7276",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#pullrequestreview-1901271619",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708962980.0,
+      "title": "coronasafe/care_fe#7276",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#pullrequestreview-1901271619",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708962972.0,
+      "title": "coronasafe/care_fe#7276",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#pullrequestreview-1901271619",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708962972.0,
+      "title": "coronasafe/care_fe#7276",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#pullrequestreview-1901271619",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7271",
+      "time": 1708960763.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7271",
+      "text": "Production Release | February Week 4 2024",
+      "collaborated_with": [
+        "ProCode2",
+        "Ashesh3",
+        "konavivekramakrishna",
+        "nihal467",
+        "sainak",
+        "Pranshu1902",
+        "Omkar76",
+        "Bhavik-ag"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708960720.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964398378",
+      "text": "> Thats weird it ran without an issue on development. Is there any more error logs associated with it? @rithviknishad\r\n\r\n`pnpm dev` runs a development server so pre-rendering does not happen there.\r\n\r\n`pnpm build` does pre-render pages at build time and those can be previewed using `pnpm start`"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#253",
+      "time": 1708960588.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/253",
+      "text": "Issue in overflow of  leaderboard sorting porints container"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#255",
+      "time": 1708960542.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/255#issuecomment-1964386437",
+      "text": "@Ashutosh0602 you can link issues in the PR using closing keywords, so that it's easier to track and issue will get auto closed upon linked PR merge.\r\n\r\nRefer: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708960450.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1901145339",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708957510.0,
+      "title": "coronasafe/leaderboard#255",
+      "link": "https://github.com/coronasafe/leaderboard/pull/255#pullrequestreview-1901018560",
+      "text": "fix: fixes sorting container"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708955719.0,
+      "title": "coronasafe/leaderboard#245",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1900943724",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708955699.0,
+      "title": "coronasafe/leaderboard#245",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1900943082",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708955684.0,
+      "title": "coronasafe/leaderboard#245",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#pullrequestreview-1900942518",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7278",
+      "time": 1708955398.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7278",
+      "text": "Inline view of selected options of Multiselect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7277",
+      "time": 1708954795.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7277",
+      "text": "Support for global search and filters in CARE"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1708953336.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1964121627",
+      "text": "@Re-Dei failed to pre-render `/leaderboard`. \r\n\r\n<img width=\"1354\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/bad7abbc-5085-43eb-a0c3-c8dac272c368\">\r\n\r\n\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/docs#4",
+      "time": 1708952554.0,
+      "link": "https://github.com/coronasafe/docs/pull/4",
+      "text": "Fixes links to Leaderboard",
+      "turnaround_time": 30200
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/docs#4",
+      "time": 1708952554.0,
+      "link": "https://github.com/coronasafe/docs/pull/4",
+      "text": "Fixes links to Leaderboard",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946555.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1900617224",
+      "text": "fixes text overflow issue  fixes #251"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946445.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1900612781",
+      "text": "fixes text overflow issue  fixes #251"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946445.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1900612781",
+      "text": "fixes text overflow issue  fixes #251"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946384.0,
+      "title": "coronasafe/care#1910",
+      "link": "https://github.com/coronasafe/care/pull/1910#pullrequestreview-1900610378",
+      "text": "Added dummy data for shifting and Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708946349.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1900609320",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708944926.0,
+      "title": "coronasafe/leaderboard#252",
+      "link": "https://github.com/coronasafe/leaderboard/pull/252#pullrequestreview-1900559854",
+      "text": "fixes text overflow issue  fixes #251"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#248",
@@ -37000,22 +37283,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7267",
       "title": "Fixes abort controller not working in `useQuery`",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "need Review"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/docs/pull/4",
-      "title": "Fixes links to Leaderboard",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7237",
       "title": "Fixes issues with redirection on login",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "needs testing",
         "need Review"
@@ -37024,16 +37301,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
+        "tested",
         "waiting for back end"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -37041,7 +37318,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "waiting-for-review"
       ]
@@ -37049,7 +37326,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "merge conflict",
         "stale",

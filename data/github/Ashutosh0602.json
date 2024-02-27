@@ -1,6 +1,35 @@
 {
-  "last_updated": 1708800585.0,
+  "last_updated": 1708960587.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#255",
+      "time": 1708960587.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/255",
+      "text": "fix: fixes sorting container",
+      "turnaround_time": 16315
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#255",
+      "time": 1708957453.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/255#issuecomment-1964267660",
+      "text": "@sainak I hope this looks better now. \r\n\r\nWide screen view:\r\n<img width=\"1366\" alt=\"Screenshot 2024-02-26 at 7 53 11\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/9f2b112c-cef1-480f-ab86-e23dcf576b2a\">\r\n\r\nMobile screen view:\r\n<img width=\"409\" alt=\"Screenshot 2024-02-26 at 7 53 20\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/1edfc590-fe61-4a0c-8f56-d73b0fb0c368\">\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#255",
+      "time": 1708944272.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/255",
+      "text": "fix: fixes sorting container"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#253",
+      "time": 1708943698.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/253",
+      "text": "Issue in overflow of  leaderboard sorting porints container"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7234",
@@ -58,16 +87,6 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7266",
-      "title": "fix: Irregular flow of responsive design in patient details",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

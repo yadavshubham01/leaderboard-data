@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708014349.0,
+  "last_updated": 1708952755.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1708952755.0,
+      "title": "coronasafe/docs#5",
+      "link": "https://github.com/coronasafe/docs/pull/5#pullrequestreview-1900829146",
+      "text": "new blog post: aws service connect"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1708942950.0,
+      "title": "coronasafe/care#1913",
+      "link": "https://github.com/coronasafe/care/pull/1913#pullrequestreview-1900477450",
+      "text": "Fix facility delete method"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708014349.0,

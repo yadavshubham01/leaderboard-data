@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708902901.0,
+  "last_updated": 1708983191.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1915",
+      "time": 1708983191.0,
+      "link": "https://github.com/coronasafe/care/issues/1915#issuecomment-1965330364",
+      "text": "I would like to work on this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1918",
+      "time": 1708982080.0,
+      "link": "https://github.com/coronasafe/care/pull/1918",
+      "text": "Fix Facility.DoesNotExist error in Resource request"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1914",
+      "time": 1708958089.0,
+      "link": "https://github.com/coronasafe/care/issues/1914#issuecomment-1964292975",
+      "text": "i would like to work on this issue "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1840",
@@ -32,12 +53,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1918",
+      "title": "Fix Facility.DoesNotExist error in Resource request",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7264",
       "title": "Fix Translations in login page",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "tested",
+        "reviewed"
       ]
     }
   ],

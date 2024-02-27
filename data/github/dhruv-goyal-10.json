@@ -1,6 +1,41 @@
 {
-  "last_updated": 1708712207.0,
+  "last_updated": 1708978239.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1708978239.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1965164606",
+      "text": "@sainak In this particular case, although commenting out is_property field of Bed Model will not affect the results of **ConsultationBedSerializer**, as we are going to handle the is_occupied property of Bed in this serializer.\r\n\r\nBut in other serializers like **AssetBedSerializer, PatientAssetBedSerializer**, which are also using **BedSerializer**, since we are not handling the is_occupied property of Bed in these serializers, so it will always correspond to the False (the default value).\r\n\r\nWhat are your thoughts?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708976274.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1965105277",
+      "text": "@sainak Made the changes as suggested by you.\r\nAlso, thanks for an insightful discussion."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708973950.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964907225",
+      "text": "@sainak I later realised this, commenting out the is_occupied property will although not affect the results in case of list method, but it will affect the result in case of retrieve method (fetching a particular object using id), coz we aren't annotating is_occupied property in that case and it will always corresponds to False (the default value).\r\nIsn't it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708967256.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964666744",
+      "text": "Hey @sainak! I have done changes suggested by you. Can you please have a look at my PR now?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1908",
+      "time": 1708956878.0,
+      "link": "https://github.com/coronasafe/care/pull/1908#issuecomment-1964245710",
+      "text": "@sainak @rithviknishad @vigneshhari I have completed the changes as suggested by @sainak. Can you review my PR now?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1336",
