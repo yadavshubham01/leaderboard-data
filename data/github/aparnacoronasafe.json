@@ -1,6 +1,90 @@
 {
-  "last_updated": 1708953892.0,
+  "last_updated": 1709035070.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7297",
+      "time": 1709035070.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7297",
+      "text": "Facility registration form- cover photo upload"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7296",
+      "time": 1709034593.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7296",
+      "text": "Bed Capacity- facilities"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709032784.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295",
+      "text": "Improving Facility type options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7285",
+      "time": 1709029223.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7285#issuecomment-1966227665",
+      "text": "@kshitijv256 Awesome!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7290",
+      "time": 1709029114.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1966223599",
+      "text": "@saloni0419 done!"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7290",
+      "time": 1709028609.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7290",
+      "text": "Log update- vitals"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7289",
+      "time": 1709028120.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7289",
+      "text": "Improving Tabs in patient dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7288",
+      "time": 1709027722.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7288",
+      "text": "re-arrange tabs in patient dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7286",
+      "time": 1709026140.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7286",
+      "text": "Events (Beta"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7285",
+      "time": 1709026020.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7285",
+      "text": "Improving UI of Facility dashboard"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7284",
+      "time": 1709024936.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7284",
+      "text": "Live feed viewing and camera controls- inconsistency"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7281",
+      "time": 1709017459.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7281",
+      "text": "Inconsistency in details of user"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1880",

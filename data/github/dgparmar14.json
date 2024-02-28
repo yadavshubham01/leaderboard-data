@@ -1,6 +1,62 @@
 {
-  "last_updated": 1708973980.0,
+  "last_updated": 1709050902.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#266",
+      "time": 1709050902.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/266#issuecomment-1966939913",
+      "text": "@rithviknishad Hey, Rithvik can you review it?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#266",
+      "time": 1709050853.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/266",
+      "text": "New feature navbar added"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#243",
+      "time": 1709040846.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/243#issuecomment-1966563744",
+      "text": "@rithviknishad it's now finally done i checked all possible way can you please review if there is still issue then please telll me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709009609.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965783228",
+      "text": "Okay, So final decision is to move t.config file in data repo file . what if for future flexibility create there theme folder"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709008767.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965773469",
+      "text": "Yes  it's almost like that approach, \r\nlet me give you clear view\r\none org try to use our leadrboard tool\r\nthey add their json file for their preferred 2 or 3 themes and we can add that themes selection foe that in our page. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709008139.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965765605",
+      "text": "Okay it is great to move tailwind.config file ,\r\nBut i have one more idea ,  we add theme folder in leaderboard data repo and create there files like theme1.json \r\ntheme2.json theme3.json .?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709007781.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965761527",
+      "text": "We can implant this using configuration file also \r\n\r\n{\r\n  \"customBlue\": \"#4C8BF5\",\r\n  \"customRed\": \"#F87171\",\r\n  \"customGreen\": \"#34D399\"\r\n}\r\n\r\nconst customColors = require('./customColors.json');\r\n\r\nmodule.exports = {\r\n  theme: {\r\n    extend: {\r\n      colors: {\r\n        ...customColors,\r\n      },\r\n    },\r\n  },\r\n};"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709007548.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965758775",
+      "text": "Okay as per my understanding on this Idea ,\r\n\r\n### env file \r\n\r\nNEXT_PUBLIC_CUSTOM_BLUE=#4C8BF5\r\nNEXT_PUBLIC_CUSTOM_RED=#F87171\r\nNEXT_PUBLIC_CUSTOM_GREEN=#34D399\r\n\r\n### tailwind configuration file\r\nmodule.exports = {\r\n  theme: {\r\n    extend: {\r\n      colors: {\r\n        customBlue: process.env.NEXT_PUBLIC_CUSTOM_BLUE,\r\n        customRed: process.env.NEXT_PUBLIC_CUSTOM_RED,\r\n        customGreen: process.env.NEXT_PUBLIC_CUSTOM_GREEN,\r\n        // Add more custom colors as needed\r\n      },\r\n    },\r\n  },\r\n};\r\n\r\nIt is just an example how I understand and how can we do it .Is it right approach?\r\n@rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
@@ -517,6 +573,12 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/266",
+      "title": "New feature navbar added",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/243",
       "title": "make all icons responsive for mobile and dekstop view",

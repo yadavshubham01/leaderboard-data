@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708983191.0,
+  "last_updated": 1709028729.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7281",
+      "time": 1709028729.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1966209840",
+      "text": "@aparnacoronasafe I have noticed there is no field for date of birth in the user model. There is only the age field. Now, should I convert the date of birth field while creating the user to the age field, or need to change the backend?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7281",
+      "time": 1709018816.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7281#issuecomment-1965937827",
+      "text": "I would like to work on this issue. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1922",
+      "time": 1709015568.0,
+      "link": "https://github.com/coronasafe/care/pull/1922",
+      "text": "Add validationCheck in PatientDetailSerializer"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1915",
@@ -51,22 +72,6 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1918",
-      "title": "Fix Facility.DoesNotExist error in Resource request",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7264",
-      "title": "Fix Translations in login page",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

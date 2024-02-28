@@ -1,0 +1,28 @@
+{
+  "last_updated": 1709057064.0,
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7300",
+      "time": 1709057064.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7300",
+      "text": "fix: Bed Capacity- facilities"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7296",
+      "time": 1709042163.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7296#issuecomment-1966605652",
+      "text": "Can you please assign me this issue"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7300",
+      "title": "fix: Bed Capacity- facilities",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

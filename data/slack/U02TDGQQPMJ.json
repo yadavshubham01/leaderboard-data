@@ -25672,5 +25672,171 @@
                 "ts": "1707232642.000000"
             }
         }
+    ],
+    "2024-02-27 00:00:00": [
+        {
+            "client_msg_id": "0ad66a30-413e-4f86-8021-1dc5bb551f49",
+            "type": "message",
+            "text": "*EOD 27/02/2024*\n\n*How did the day go?*\n- Made a PR: fixes absolute date range pagination not working in contributors activity timeline (<https://github.com/coronasafe/leaderboard/pull/263><https://github.com/coronasafe/leaderboard/pull/263)|)>\n- Made a PR: Add slack EOD Reminder Bot workflow (<https://github.com/coronasafe/leaderboard-data/pull/15><https://github.com/coronasafe/leaderboard-data/pull/15)|)>\n- Made a PR: Adds workflow to trigger Slack EOD Updates Bot (<https://github.com/coronasafe/leaderboard/pull/261>)\n- Made a PR: Adds workflow to test run github scraper on pull requests (<https://github.com/coronasafe/leaderboard/pull/258><https://github.com/coronasafe/leaderboard/pull/258)|)>\n- Comitted <https://github.com/coronasafe/leaderboard/commit/902bb96cf93580c2ac116969e8ef4f4ee04d2ee1|leaderboard#902bb96>: fixes scrapper not fetching co-authors\n- Comitted <https://github.com/coronasafe/leaderboard/commit/066146e0e8b482c6a494afb04b856eb7cacc5853|leaderboard#066146e>: fixes missing shadow animation in leaderboard user image\n- Comitted <https://github.com/coronasafe/leaderboard/commit/dc183d71867706b96d5f6c5a3c2174f91fa6b033|leaderboard#dc183d7>: GitHub scraper: `mkdir` if `dir` doesn\u2019t exist\n- Comitted <https://github.com/coronasafe/leaderboard/commit/3b11ce29437e040681044c5177d74e5892e63585|leaderboard#3b11ce2>: fixes infinite requests in feed page",
+            "user": "U02TDGQQPMJ",
+            "ts": "1709041097.866629",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "z8jw9",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 27/02/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Made a PR: fixes absolute date range pagination not working in contributors activity timeline ("
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/263"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/263)",
+                                    "text": ")"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Made a PR: Add slack EOD Reminder Bot workflow ("
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard-data/pull/15"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard-data/pull/15)",
+                                    "text": ")"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Made a PR: Adds workflow to trigger Slack EOD Updates Bot ("
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/261"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ")\n- Made a PR: Adds workflow to test run github scraper on pull requests ("
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/258"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/258)",
+                                    "text": ")"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Comitted "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/commit/902bb96cf93580c2ac116969e8ef4f4ee04d2ee1",
+                                    "text": "leaderboard#902bb96"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": fixes scrapper not fetching co-authors\n- Comitted "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/commit/066146e0e8b482c6a494afb04b856eb7cacc5853",
+                                    "text": "leaderboard#066146e"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": fixes missing shadow animation in leaderboard user image\n- Comitted "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/commit/dc183d71867706b96d5f6c5a3c2174f91fa6b033",
+                                    "text": "leaderboard#dc183d7"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": GitHub scraper: "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "mkdir",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "dir",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " doesn\u2019t exist\n- Comitted "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/commit/3b11ce29437e040681044c5177d74e5892e63585",
+                                    "text": "leaderboard#3b11ce2"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": fixes infinite requests in feed page"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "team": "TC99SV7B6",
+            "reactions": [
+                {
+                    "name": "rocket",
+                    "users": [
+                        "U05MBE2RASD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "raised_hands",
+                    "users": [
+                        "U065F462NF2"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
     ]
 }

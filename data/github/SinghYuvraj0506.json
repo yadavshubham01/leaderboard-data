@@ -1,0 +1,21 @@
+{
+  "last_updated": 1709050251.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7289",
+      "time": 1709050251.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7289#issuecomment-1966912839",
+      "text": "Or we can mark a new tag on the tabs \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7289",
+      "time": 1709050062.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7289#issuecomment-1966906189",
+      "text": "Hi @aparnacoronasafe , i have a suggestion regarding the issue, you idea of fading the tabs with no patients is good but how would the user come to know about this feature until informed, instead the tabs already show occupancy and if there are no patients then occupancy is by default zero and hence I think we can give all these 0 occupancy tags a separate color or add certain fields in filters tags.\r\n\r\n"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

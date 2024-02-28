@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708963728.0,
+  "last_updated": 1709044308.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#265",
+      "time": 1709044308.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/265",
+      "text": "clicking on commit link on  /feed. redirects to github api page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#153",
+      "time": 1709044168.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/153#issuecomment-1966677787",
+      "text": "@rithviknishad  please check and let me know if any changes are needed."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#264",
+      "time": 1709043751.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/264",
+      "text": "adding new Contributors option."
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#252",
@@ -55,7 +76,14 @@
       "text": "@rithviknishad  how can I get  the icon links."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/264",
+      "title": "adding new Contributors option.",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/251",

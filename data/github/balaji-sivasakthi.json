@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708978493.0,
+  "last_updated": 1709037668.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": 1709037668.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1966459978",
+      "text": "> Have you set the Authorization headers when making the request?\r\n\r\nI'm not sure, this is the stuff  I cached from the browser."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
@@ -23,13 +30,6 @@
       "text": "@nihal467 I would like to work on this issue."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7280",
-      "title": "feat: added minimum quantity in inventory list",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

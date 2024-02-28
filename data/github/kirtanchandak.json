@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708971261.0,
+  "last_updated": 1709040953.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709040953.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#issuecomment-1966566873",
+      "text": "When are we going to merge this? \r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709037545.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1903385093",
+      "text": "Feature/release section"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#240",
@@ -72,15 +86,6 @@
       "text": "Hey @rithviknishad,\r\n\r\nI ran the command `./load-fixtures.sh  `, `npm install --legacy-peer-deps` and then `npm run dev` but facing this issue in local dev setup, what can be the reason - \r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/92196705/d3bdfdcb-cdcf-4d04-b44f-12456bc14cfc)\r\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/240",
-      "title": "Feature/release section",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

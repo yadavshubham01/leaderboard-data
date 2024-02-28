@@ -1,6 +1,49 @@
 {
-  "last_updated": 1708978224.0,
+  "last_updated": 1709031539.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709031539.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1966295486",
+      "text": "@UdaySagar-Git the cypress test is failing, can you fix it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7237",
+      "time": 1709031182.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7237#issuecomment-1966285239",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7230",
+      "time": 1709030332.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7230#issuecomment-1966261141",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7216",
+      "time": 1709029744.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7216#issuecomment-1966243304",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7282",
+      "time": 1709020729.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7282",
+      "text": "Modified Cypress Flaky Test | Facility Home test | Facility Module",
+      "turnaround_time": 630
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7282",
+      "time": 1709020100.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7282",
+      "text": "Modified Cypress Flaky Test | Facility Home test | Facility Module"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7230",

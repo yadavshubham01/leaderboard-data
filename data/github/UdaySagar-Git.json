@@ -1,6 +1,55 @@
 {
-  "last_updated": 1708981283.0,
+  "last_updated": 1709069192.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709069192.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1967619553",
+      "text": "@nihal467 \r\nI think \"Dummy Facility 40\" is not present causing tests to fail \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/fc6739a1-c762-4142-b23c-d11f53ebca00)\r\n![Screenshot from 2024-02-28 02-35-59](https://github.com/coronasafe/care_fe/assets/111575806/34c26716-d863-458f-9d3c-de7ea7bd2549)\r\n\r\nhttps://github.com/coronasafe/care_fe/blob/bda15df327003b9bf741edc004fe1eb5d111f463/cypress/e2e/patient_spec/patient_consultation.cy.ts#L22\r\nI ran tests locally by changing \"Dummy Facility 40\" to \"James\" and able to pass all the tests \r\n![Screenshot from 2024-02-28 02-49-02](https://github.com/coronasafe/care_fe/assets/111575806/208745ed-03c7-4286-a467-09a56ea52c5a)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709068856.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1967610886",
+      "text": "@nihal467 \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/6be159a3-eb4c-47ec-bba0-300f9d6c4b58)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/9beb1aea-63a4-4a23-afca-f48ac5e0e835)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/79ad13e7-7d3e-45c6-9d30-d8d4b5307663)\r\n\r\nI think Dummy Facility 40 is not present and creating tests to fail \r\n\r\nafter running tests locally by changing Dummy Facility 40 to James , I was able to pass all tests  \r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/6b70e6a6-b10a-4b31-a3d2-f7e5890fde60)\r\n\r\n\r\nreference https://github.com/coronasafe/care_fe/blob/bda15df327003b9bf741edc004fe1eb5d111f463/cypress/e2e/patient_spec/patient_consultation.cy.ts#L22"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#267",
+      "time": 1709056090.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/267",
+      "text": "Added Tailwind Classes Sorting Plugin"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1709046408.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1966763942",
+      "text": "@rithviknishad done "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1709026191.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1966131243",
+      "text": "@rithviknishad can you please review "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#257",
+      "time": 1709010665.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/257#issuecomment-1965798677",
+      "text": "I would like to work on this issue "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#257",
+      "time": 1709010615.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/257",
+      "text": "Add Tailwind Classes Sorting Plugin to ESLint Config"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#245",
@@ -158,6 +207,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/267",
+      "title": "Added Tailwind Classes Sorting Plugin",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/245",
       "title": "select filter for leaderboard contributors role",
       "stale_for": 0,
@@ -166,16 +221,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7253",
       "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "changes required",
+        "cypress failed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7250",
       "title": "Improves Input Field UI for phone number input",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "reviewed"

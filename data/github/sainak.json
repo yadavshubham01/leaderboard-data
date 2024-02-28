@@ -1,6 +1,76 @@
 {
-  "last_updated": 1708975629.0,
+  "last_updated": 1709049052.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709049052.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1903950259",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709047776.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1903865590",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709041245.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#issuecomment-1966575885",
+      "text": "looks to me like a lint error\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709041073.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#issuecomment-1966570680",
+      "text": "@kirtanchandak build failed\r\n<img width=\"1313\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/46787056/47049d31-467c-429f-ad99-a3a61d525223\">\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709029107.0,
+      "title": "coronasafe/leaderboard#261",
+      "link": "https://github.com/coronasafe/leaderboard/pull/261#pullrequestreview-1903101770",
+      "text": "Adds workflow to trigger Slack EOD Updates Bot"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709029040.0,
+      "title": "coronasafe/leaderboard-data#15",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/15#pullrequestreview-1903098955",
+      "text": "Add slack EOD Reminder Bot workflow"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709028990.0,
+      "title": "coronasafe/care_fe#7291",
+      "link": "https://github.com/coronasafe/care_fe/pull/7291#pullrequestreview-1903097083",
+      "text": "License update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/teleicu_middleware#119",
+      "time": 1709026685.0,
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
+      "text": "add ability to fetch config from care"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709011141.0,
+      "title": "coronasafe/leaderboard#258",
+      "link": "https://github.com/coronasafe/leaderboard/pull/258#pullrequestreview-1902542107",
+      "text": "Adds workflow to test run github scraper on pull requests"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1709010199.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1965792348",
+      "text": "> @sainak In this particular case, although commenting out is_property field of Bed Model will not affect the results of **ConsultationBedSerializer**, as we are going to handle the is_occupied property of Bed in this serializer.\r\n> \r\n> But in other serializers like **AssetBedSerializer, PatientAssetBedSerializer**, which are also using **BedSerializer**, since we are not handling the is_occupied property of Bed in these serializers, so it will always correspond to the False (the default value).\r\n> \r\n> What are your thoughts?\r\n\r\nyou can use the double underscore syntax `__` to annotate the is_occupied property on the bed model it should be picked up by the serializer field"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708975629.0,
@@ -9694,9 +9764,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
+      "title": "add ability to fetch config from care",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 92,
+      "stale_for": 93,
       "labels": [
         "blocked",
         "changes required",
@@ -9707,7 +9783,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": [
         "In progress"
       ]
@@ -9715,19 +9791,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 81,
+      "stale_for": 82,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 221,
+      "stale_for": 222,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 146,
+      "stale_for": 147,
       "labels": []
     }
   ],

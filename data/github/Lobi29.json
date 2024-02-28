@@ -1,0 +1,56 @@
+{
+  "last_updated": 1709064576.0,
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#268",
+      "time": 1709064576.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/268",
+      "text": "Changing the UI of Dark/Light Mode Button to a more interactive and modern UI"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#185",
+      "time": 1709060872.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/185",
+      "text": " Adding Copy to Clipboard Feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#184",
+      "time": 1709059828.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/184#issuecomment-1967386441",
+      "text": "![Screenshot from 2024-02-28 00-00-41](https://github.com/coronasafe/ayushma_fe/assets/108052802/850747c0-2164-4b6b-b857-e6172305a88e)\r\n\r\n<h1 align=\"center\">Updates</h1>\r\n\r\n- I have updated the UI as per your requirements.\r\n\r\n- Managed to integrate both the audio feature and feedback feature within a single flex div\r\n\r\n- Successfully mitigated excess white space by strategically arranging elements within the layout.\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#184",
+      "time": 1709051923.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/184",
+      "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#182",
+      "time": 1709031756.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/182#issuecomment-1966301359",
+      "text": "I am happy to work on it, thank you for assigning this issue to me \ud83d\ude80"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#182",
+      "time": 1709019702.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/182",
+      "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/184",
+      "title": "Improve User Experience by Delaying and Repositioning Interaction Buttons.",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

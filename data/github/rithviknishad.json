@@ -1,6 +1,195 @@
 {
-  "last_updated": 1708970974.0,
+  "last_updated": 1709047766.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709047766.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1903863225",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709047766.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1903863225",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7298",
+      "time": 1709047075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7298",
+      "text": "test cypress split"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#245",
+      "time": 1709040050.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/245#issuecomment-1966539306",
+      "text": "@UdaySagar-Git could you clear the conflicts?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709039482.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1903464342",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709039482.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1903464342",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#262",
+      "time": 1709038817.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/262",
+      "text": "Bug: Contributor Activity not working for month specific"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#263",
+      "time": 1709038816.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/263",
+      "text": "fixes absolute date range pagination not working in contributors activity timeline",
+      "turnaround_time": 9972
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#263",
+      "time": 1709038556.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/263",
+      "text": "fixes absolute date range pagination not working in contributors activity timeline"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709034477.0,
+      "title": "coronasafe/care_fe#7287",
+      "link": "https://github.com/coronasafe/care_fe/pull/7287#pullrequestreview-1903284698",
+      "text": "feat:Inline view of selected options of Multiselect"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#261",
+      "time": 1709031844.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/261",
+      "text": "Adds workflow to trigger Slack EOD Updates Bot",
+      "turnaround_time": 3958
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#261",
+      "time": 1709031844.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/261",
+      "text": "Adds workflow to trigger Slack EOD Updates Bot",
+      "collaborated_with": [
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#15",
+      "time": 1709030111.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/15",
+      "text": "Add slack EOD Reminder Bot workflow",
+      "turnaround_time": 1658
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#262",
+      "time": 1709028845.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/262",
+      "text": "Bug: Contributor Activity not working for month specific"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709028571.0,
+      "title": "coronasafe/leaderboard-data#15",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/15#pullrequestreview-1903077584",
+      "text": "Add slack EOD Reminder Bot workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#15",
+      "time": 1709028454.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/15",
+      "text": "Add slack EOD Reminder Bot workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#261",
+      "time": 1709027887.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/261",
+      "text": "Adds workflow to trigger Slack EOD Updates Bot"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709027837.0,
+      "title": "coronasafe/care_fe#7287",
+      "link": "https://github.com/coronasafe/care_fe/pull/7287#pullrequestreview-1903050505",
+      "text": "feat:Inline view of selected options of Multiselect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#260",
+      "time": 1709014097.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/260",
+      "text": "Configure Error Monitoring with Sentry for Scraper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#259",
+      "time": 1709011953.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/259",
+      "text": "Test workflow: dry run github scraper"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#256",
+      "time": 1709011689.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/256",
+      "text": "Workflow to dry run github scrapper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#258",
+      "time": 1709011689.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/258",
+      "text": "Adds workflow to test run github scraper on pull requests",
+      "turnaround_time": 1454
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#258",
+      "time": 1709011070.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/258",
+      "text": "Adds workflow to test run github scraper on pull requests"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709008958.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965775620",
+      "text": "Nice idea, we can do those as enhancements as separate issues. Let's get this out while keeping it as simple as possible for the first version."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709008293.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965767357",
+      "text": "And to allow the page visitor to select a theme?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709007865.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1965762522",
+      "text": "Wouldn't it be much simpler to just keep the `tailwind.config.js` inside the data-repo itself and symlink it here?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#243",
@@ -37281,9 +37470,23 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7298",
+      "title": "test cypress split",
+      "stale_for": 0,
+      "labels": [
+        "do not merge"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/259",
+      "title": "Test workflow: dry run github scraper",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7267",
       "title": "Fixes abort controller not working in `useQuery`",
-      "stale_for": 2,
+      "stale_for": 0,
       "labels": [
         "needs testing",
         "need Review"
@@ -37292,16 +37495,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7237",
       "title": "Fixes issues with redirection on login",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "needs testing",
-        "need Review"
+        "tested",
+        "reviewed"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
         "waiting for back end"
@@ -37318,7 +37521,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": [
         "waiting-for-review"
       ]
@@ -37326,7 +37529,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "merge conflict",
         "stale",
@@ -37335,6 +37538,14 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/262",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/263"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/256",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/258"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/228",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/229"
@@ -37398,10 +37609,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7005",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7006"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6896",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6897"
     }
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708957359.0,
+  "last_updated": 1709028693.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709028693.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1966208766",
+      "text": "Do I need to do anything to handle the merge conflict or will the maintainers handle it?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",

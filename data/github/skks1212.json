@@ -1,6 +1,73 @@
 {
-  "last_updated": 1708760809.0,
+  "last_updated": 1709043807.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7291",
+      "time": 1709043807.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7291",
+      "text": "License update",
+      "turnaround_time": 14847
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7291",
+      "time": 1709043807.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7291",
+      "text": "License update",
+      "collaborated_with": [
+        "gigincg"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709030915.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183",
+      "text": "Clean chatbot code and references"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#182",
+      "time": 1709030784.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/182#issuecomment-1966274249",
+      "text": "@Lobi29 I have assigned this issue to you. If you do not wish to take it, feel free to unassign yourself"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#83",
+      "time": 1709030634.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/83",
+      "text": "Add documentation for env variables"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#83",
+      "time": 1709030631.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/83#issuecomment-1966269982",
+      "text": "@varunsh17 seems like the env variables have already been added in a recent commit. Do keep looking out for other issues to take up!"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7293",
+      "time": 1709030261.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7293",
+      "text": "Flicker when loading new page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7292",
+      "time": 1709029970.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7292",
+      "text": "Update Security Policy to redirect to issue page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7291",
+      "time": 1709028961.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7291",
+      "text": "License update"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708760809.0,
@@ -7307,6 +7374,13 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7292",
+      "title": "Update Security Policy to redirect to issue page",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708952755.0,
+  "last_updated": 1709023510.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1893",
+      "time": 1709023510.0,
+      "link": "https://github.com/coronasafe/care/issues/1893",
+      "text": "Restrict Log Updates to Patients Assigned to Beds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709023503.0,
+      "title": "coronasafe/care#1896",
+      "link": "https://github.com/coronasafe/care/pull/1896#pullrequestreview-1902876132",
+      "text": "Creating daily round - ensure the patient has a bed assigned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709023389.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1902862317",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709023389.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1902862317",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
     {
       "type": "pr_reviewed",
       "time": 1708952755.0,

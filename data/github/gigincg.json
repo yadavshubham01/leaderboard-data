@@ -1,6 +1,16 @@
 {
-  "last_updated": 1708014658.0,
+  "last_updated": 1709043807.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7291",
+      "time": 1709043807.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7291",
+      "text": "License update",
+      "collaborated_with": [
+        "skks1212"
+      ]
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care_fe#7146",
@@ -7058,15 +7068,6 @@
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6670",
-      "title": "Add Medispeak for Preview on Care",
-      "stale_for": 65,
-      "labels": [
-        "In Progress"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
