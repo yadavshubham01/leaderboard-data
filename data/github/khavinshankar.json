@@ -1,6 +1,83 @@
 {
-  "last_updated": 1709038780.0,
+  "last_updated": 1709115987.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709115987.0,
+      "title": "coronasafe/care_fe#7304",
+      "link": "https://github.com/coronasafe/care_fe/pull/7304#pullrequestreview-1905879312",
+      "text": "reworded thank you"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7248",
+      "time": 1709105814.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7248",
+      "text": "Improve Input Field UI for Phone Number"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105800.0,
+      "title": "coronasafe/care_fe#7250",
+      "link": "https://github.com/coronasafe/care_fe/pull/7250#pullrequestreview-1905504369",
+      "text": "Improves Input Field UI for phone number input"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7256",
+      "time": 1709105785.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7256",
+      "text": "Overflow of some fields such as district in the user management page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105771.0,
+      "title": "coronasafe/care_fe#7261",
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#pullrequestreview-1905503664",
+      "text": "fix: overflow of fields in the user management cards"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7262",
+      "time": 1709105752.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7262",
+      "text": "Irregular flow of responsive design in patient details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105737.0,
+      "title": "coronasafe/care_fe#7266",
+      "link": "https://github.com/coronasafe/care_fe/pull/7266#pullrequestreview-1905502823",
+      "text": "fix: Irregular flow of responsive design in patient details"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7168",
+      "time": 1709105698.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7168",
+      "text": "Replace `useDispatch` w. `useQuery`/`request`: Investigations (`src/Components/Facility/Investigations`)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105680.0,
+      "title": "coronasafe/care_fe#7172",
+      "link": "https://github.com/coronasafe/care_fe/pull/7172#pullrequestreview-1905501069",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7265",
+      "time": 1709105645.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7265",
+      "text": "Asset filters malfunctioning when we delete an asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105628.0,
+      "title": "coronasafe/care_fe#7267",
+      "link": "https://github.com/coronasafe/care_fe/pull/7267#pullrequestreview-1905496666",
+      "text": "Fixes abort controller not working in `useQuery`"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709038780.0,

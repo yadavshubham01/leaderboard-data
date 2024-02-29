@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709044308.0,
+  "last_updated": 1709154296.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#285",
+      "time": 1709154296.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#issuecomment-1969914786",
+      "text": "@rithviknishad hey please check if any changes are required thanks."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#285",
+      "time": 1709154141.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/285",
+      "text": "added new Contributor"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#265",
@@ -78,8 +92,8 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/264",
-      "title": "adding new Contributors option.",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285",
+      "title": "added new Contributor",
       "stale_for": 0,
       "labels": []
     }

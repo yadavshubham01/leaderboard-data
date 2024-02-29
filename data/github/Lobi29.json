@@ -1,6 +1,77 @@
 {
-  "last_updated": 1709064576.0,
+  "last_updated": 1709150671.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#281",
+      "time": 1709150671.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/281#issuecomment-1969775472",
+      "text": "It's functioning well on my device.\n\nHowever, by incorporating a dynamic page for specific project details, such as projects/[id], we can distinctly separate the project page from the projects page. \n\nThis way, in the future, we can modify the projects page according to our needs without affecting the specific project page. \n\nIntegrating a dynamic page for specific project details will definitely reduce the loading time. By focusing on just one project instead of loading all the projects at once, we can optimize the performance significantly."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#281",
+      "time": 1709147121.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/281",
+      "text": "Redirect Inconsistency: View Button Links to Projects Page Instead of Specific Project Details"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#279",
+      "time": 1709133709.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/279",
+      "text": "Enhance Scrollbar Design for Improved User Experience"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#278",
+      "time": 1709132856.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/278",
+      "text": "Change the UI of the Navbar to a more modern and interactive navbar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#276",
+      "time": 1709128955.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/276#issuecomment-1969050770",
+      "text": "> Awesome! LGTM\n\nYup \ud83e\udd70"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#276",
+      "time": 1709126584.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/276",
+      "text": "Updating the UI of Theme Changing button",
+      "turnaround_time": 720
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#276",
+      "time": 1709125865.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/276",
+      "text": "Updating the UI of Theme Changing button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709111740.0,
+      "title": "coronasafe/leaderboard#272",
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905705912",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#272",
+      "time": 1709111593.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#issuecomment-1968542721",
+      "text": "Thank your for suggestions,"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#272",
+      "time": 1709104995.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/272",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#268",
@@ -44,13 +115,15 @@
       "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
     }
   ],
-  "open_prs": [
+  "open_prs": [],
+  "authored_issue_and_pr": [
     {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/184",
-      "title": "Improve User Experience by Delaying and Repositioning Interaction Buttons.",
-      "stale_for": 0,
-      "labels": []
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/268",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/276"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/182",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/184"
     }
-  ],
-  "authored_issue_and_pr": []
+  ]
 }

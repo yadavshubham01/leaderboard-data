@@ -1,6 +1,49 @@
 {
-  "last_updated": 1709028693.0,
+  "last_updated": 1709127400.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#277",
+      "time": 1709127400.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/277#issuecomment-1969001234",
+      "text": "Can anyone assign me this issue?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#277",
+      "time": 1709127238.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/277",
+      "text": "Allocating a separate file for constants"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709126804.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254",
+      "text": "Refactor: made /leaderboard fully SSR",
+      "turnaround_time": 9959
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709126262.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968966185",
+      "text": "@rithviknishad I did not find any difference in the after(filter) image and the layout in the previous push. The top contributors has been fixed.\r\n![Screenshot (46)](https://github.com/coronasafe/leaderboard/assets/97937213/cea3a057-7965-4036-99c3-693b0caa8841)\r\nIs this intentional? When someone is searched the top contributors update based on that result."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709121192.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968821871",
+      "text": "@rithviknishad please review this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709114539.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968632896",
+      "text": "@rithviknishad I will be merging the latest main branch to this branch right now."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#254",

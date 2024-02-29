@@ -481,5 +481,69 @@
             ],
             "team": "TC99SV7B6"
         }
+    ],
+    "2024-02-28 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1709155783.397079",
+            "edited": {
+                "user": "U06CY7RUZ9S",
+                "ts": "1709155875.000000"
+            },
+            "client_msg_id": "b7c2bbaa-a70b-43e3-ba5f-7c908e73542d",
+            "text": "*EOD* 28/1/2024\n\u2022 tried debugging the terraform statebucket config.\n\u2022 deployed metabase / care dbs to newly migrated instance.",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KryT7",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "28/1/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "tried debugging the terraform statebucket config."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "deployed metabase / care dbs to newly migrated instance."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

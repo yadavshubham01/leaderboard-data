@@ -1,6 +1,59 @@
 {
-  "last_updated": 1709043807.0,
+  "last_updated": 1709140305.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/ayushma_fe#187",
+      "time": 1709140305.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/187",
+      "text": "Enhancements to Pagination and Other Fixes",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#187",
+      "time": 1709118505.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/187#issuecomment-1968751133",
+      "text": "@Ashesh3 can you make the changes? \ud83d\ude00"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709118447.0,
+      "title": "coronasafe/ayushma_fe#187",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/187#pullrequestreview-1905964547",
+      "text": "Enhancements to Pagination and Other Fixes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709118447.0,
+      "title": "coronasafe/ayushma_fe#187",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/187#pullrequestreview-1905964547",
+      "text": "Enhancements to Pagination and Other Fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7304",
+      "time": 1709115998.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7304",
+      "text": "reworded thank you",
+      "turnaround_time": 788
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7304",
+      "time": 1709115211.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7304",
+      "text": "reworded thank you"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7284",
+      "time": 1709111071.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7284#issuecomment-1968527800",
+      "text": "Will work on as soon as middleware is online\r\n\r\ncc. @gigincg "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7291",
@@ -7374,13 +7427,6 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7292",
-      "title": "Update Security Policy to redirect to issue page",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

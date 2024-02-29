@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708745746.0,
+  "last_updated": 1709113854.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7272",
+      "time": 1709113854.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7272#issuecomment-1968611694",
+      "text": "Absolutely, @nihal467 ! Having frontend validation instead of relying solely on browser validation is a great idea. It provides a more seamless and user-friendly experience."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6773",

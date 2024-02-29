@@ -1,6 +1,31 @@
 {
-  "last_updated": 1709035963.0,
+  "last_updated": 1709119681.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7297",
+      "time": 1709119681.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1968782851",
+      "text": "Hi, can you include the steps to reproduce the above mentioned details such as:\r\n- the account where this can be accesed by.\r\n- The UI required to be implemented. (design or image)\r\n- Image of the current faculty dashboard where the option to upload image is present."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7261",
+      "time": 1709105784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7261",
+      "text": "fix: overflow of fields in the user management cards",
+      "turnaround_time": 76817
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7261",
+      "time": 1709105784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7261",
+      "text": "fix: overflow of fields in the user management cards",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",

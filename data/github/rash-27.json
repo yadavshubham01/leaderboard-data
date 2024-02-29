@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709028729.0,
+  "last_updated": 1709156786.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1929",
+      "time": 1709156786.0,
+      "link": "https://github.com/coronasafe/care/pull/1929",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1928",
+      "time": 1709156227.0,
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709127472.0,
+      "title": "coronasafe/care#1925",
+      "link": "https://github.com/coronasafe/care/pull/1925#pullrequestreview-1906292983",
+      "text": "Add validation checks in Resource Request serializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1925",
+      "time": 1709124276.0,
+      "link": "https://github.com/coronasafe/care/pull/1925",
+      "text": "Add validation checks in Resource Request serializer"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7281",
@@ -72,6 +100,24 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1929",
+      "title": "Add age validation in PatientDetailSerializer",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "title": "Add validation checks in ResourceRequestSerializer",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
+    }
+  ]
 }

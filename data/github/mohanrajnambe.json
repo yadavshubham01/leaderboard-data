@@ -1,0 +1,28 @@
+{
+  "last_updated": 1709130951.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7303",
+      "time": 1709130951.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#issuecomment-1969121394",
+      "text": "@rithviknishad Please let me know if anything else needs to be updated on this PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7132",
+      "time": 1709115355.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7132#issuecomment-1968659670",
+      "text": "@rithviknishad I have created a PR on this issue #7303. Please review it!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7303",
+      "time": 1709115189.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7303",
+      "text": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

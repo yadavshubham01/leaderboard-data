@@ -1,0 +1,42 @@
+{
+  "last_updated": 1709127708.0,
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#77",
+      "time": 1709127708.0,
+      "link": "https://github.com/coronasafe/10bedicu/issues/77#issuecomment-1969012299",
+      "text": "Assign this issue to me i want to work on it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/10bedicu#77",
+      "time": 1709127475.0,
+      "link": "https://github.com/coronasafe/10bedicu/issues/77",
+      "text": "Enhancement: Opening tag must close after hover"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7306",
+      "time": 1709127002.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7306#issuecomment-1968987854",
+      "text": "I would like to work on this issue if it get's assigned to me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7306",
+      "time": 1709126981.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7306",
+      "text": "Enhancement: Add hover effects on navbar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709126654.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1968977758",
+      "text": "Hi, @aeswibon  can i work on this issue it seems like it has to change the frontend as well as backend for from options to selects items from."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

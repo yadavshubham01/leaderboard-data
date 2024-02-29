@@ -1,6 +1,94 @@
 {
-  "last_updated": 1709069192.0,
+  "last_updated": 1709157863.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#286",
+      "time": 1709157863.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/286",
+      "text": "Fixes sorting logic"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#284",
+      "time": 1709152726.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/284#issuecomment-1969879089",
+      "text": "have made branch from exisiting brach because of changed types in pr #280"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#284",
+      "time": 1709152552.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/284",
+      "text": "Improves Top Contributors Display Logic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#282",
+      "time": 1709151018.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/282",
+      "text": "UI improvements"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#280",
+      "time": 1709146076.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1969620516",
+      "text": "@rithviknishad this pr is ready for review"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#17",
+      "time": 1709146061.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/17#issuecomment-1969620014",
+      "text": "@rithviknishad can you please review "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#17",
+      "time": 1709145970.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/17",
+      "text": "updated markdowns "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#280",
+      "time": 1709145931.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/280",
+      "text": "update user role field to be single role "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1709105813.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250",
+      "text": "Improves Input Field UI for phone number input",
+      "turnaround_time": 83199
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1709105813.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250",
+      "text": "Improves Input Field UI for phone number input",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#271",
+      "time": 1709104825.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/271#issuecomment-1968374702",
+      "text": "please assign this to me\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#271",
+      "time": 1709104808.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/271",
+      "text": "Update user role field to be a single role "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7253",
@@ -207,14 +295,32 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/267",
-      "title": "Added Tailwind Classes Sorting Plugin",
+      "link": "https://github.com/coronasafe/leaderboard/pull/286",
+      "title": "Fixes sorting logic",
       "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/245",
-      "title": "select filter for leaderboard contributors role",
+      "link": "https://github.com/coronasafe/leaderboard/pull/284",
+      "title": "Improves Top Contributors Display Logic",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/282",
+      "title": "UI improvements",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/17",
+      "title": "updated markdowns ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/280",
+      "title": "update user role field to be single role ",
       "stale_for": 0,
       "labels": []
     },
@@ -226,16 +332,16 @@
         "changes required",
         "cypress failed"
       ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7250",
-      "title": "Improves Input Field UI for phone number input",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
     }
   ],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/257",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/267"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7248",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7250"
+    }
+  ]
 }

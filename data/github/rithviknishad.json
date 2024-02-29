@@ -1,6 +1,264 @@
 {
-  "last_updated": 1709047766.0,
+  "last_updated": 1709149449.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#281",
+      "time": 1709149449.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/281#issuecomment-1969722898",
+      "text": "@Lobi29 when you click on the view button of a project, it auto scrolls to the desired project in the `/projects` page.\r\n\r\nWas it not scrolling to the desired project for you?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709141368.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1969491790",
+      "text": "Update the `load-fixtures.sh` itself. Let's also rename the `load-fixtures.sh` to `load-org-data.sh` as that'd be more appropriate going forward"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#268",
+      "time": 1709135480.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/268#issuecomment-1969279717",
+      "text": "Closing as completed in ab428212639427fe3da8f6cb32225d0be99d68fe"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#268",
+      "time": 1709135480.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/268",
+      "text": "Changing the UI of Dark/Light Mode Button to a more interactive and modern UI"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7306",
+      "time": 1709127315.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7306#issuecomment-1968997088",
+      "text": "@pankaj-2503 The site https://ohc.network/ does not belong to this repository. Managing this site is out of the scope of contributors.\r\n\r\nCheckout https://care.ohc.network/ which is this repository."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7306",
+      "time": 1709127314.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7306",
+      "text": "Enhancement: Add hover effects on navbar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#247",
+      "time": 1709126805.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/247",
+      "text": "Optimizing the /leaderboard route by using Suspense component and fetching the data inside a child component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709126517.0,
+      "title": "coronasafe/leaderboard#254",
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#pullrequestreview-1906258412",
+      "text": "Refactor: made /leaderboard fully SSR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709126393.0,
+      "title": "coronasafe/leaderboard#276",
+      "link": "https://github.com/coronasafe/leaderboard/pull/276#pullrequestreview-1906254058",
+      "text": "Updating the UI of Theme Changing button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709126332.0,
+      "title": "coronasafe/care_fe#7305",
+      "link": "https://github.com/coronasafe/care_fe/pull/7305#pullrequestreview-1906251738",
+      "text": "Improve File Preview"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#275",
+      "time": 1709124790.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/275",
+      "text": "Slack EOD Reminder: Adds support for reporting review events",
+      "turnaround_time": 2177
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709123508.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968886231",
+      "text": "> @rithviknishad please review this. Also, I recommend creating a separate file for constants in root directory since importing a constant from a client component to server component could cause an error while compiling a server component because the constant is unaccessible to the server component since the constant is in the uncompiled client component. I hope my explanation is understandable. If it is not, then sorry since I am not that great in explaining.\r\n> \r\n> Edit: making a separate file for constant in server will make that file available for server component.\r\n\r\nMakes sense @Re-Dei, that's a good idea. File a separate issue for it!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709123406.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968883462",
+      "text": "@Re-Dei there are some changes in the responsiveness and layouts in your PR which might be unintentional...\r\n\r\n### Before (filters)\r\n\r\n<img width=\"1708\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/d0a0167a-2b1d-4c71-9403-4b77291eb271\">\r\n\r\n### After (filters)\r\n\r\n<img width=\"1705\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/1d842b80-4f8a-43aa-9dfe-a35c8fda0abb\">\r\n\r\n\r\n### Before (Top contributors of the Week)\r\n\r\n<img width=\"1706\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/b17c0fba-7fb0-4f2e-a8e5-45000b87988f\">\r\n\r\n### After (Top contributors of the Week)\r\n\r\n<img width=\"1709\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/21f419f2-f632-4063-9941-61680ca51298\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709122855.0,
+      "title": "coronasafe/care#1924",
+      "link": "https://github.com/coronasafe/care/pull/1924#pullrequestreview-1906116468",
+      "text": "Fix failing test cases and shuffle case before run"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#275",
+      "time": 1709122613.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/275",
+      "text": "Slack EOD Reminder: Adds support for reporting review events"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709113237.0,
+      "title": "coronasafe/leaderboard#272",
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905769537",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709113164.0,
+      "title": "coronasafe/leaderboard#272",
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905766889",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#274",
+      "time": 1709113066.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/274",
+      "text": "Fixes `GITHUB_PAT` not configured error in local development",
+      "turnaround_time": 410
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#274",
+      "time": 1709112656.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/274",
+      "text": "Fixes `GITHUB_PAT` not configured error in local development"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#246",
+      "time": 1709108986.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "text": "Navbar for Better UX"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709108970.0,
+      "title": "coronasafe/leaderboard#273",
+      "link": "https://github.com/coronasafe/leaderboard/pull/273#pullrequestreview-1905597323",
+      "text": "adding navbar feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#250",
+      "time": 1709107638.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/250#issuecomment-1968435027",
+      "text": "Yup! That'd be great.\r\n\r\nWe can also show the growth of the community as a separate graph too (maybe in `/people` page)."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#254",
+      "time": 1709107271.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/254#issuecomment-1968425658",
+      "text": "> Do I need to do anything to handle the merge conflict or will the maintainers handle it?\r\n\r\nYup, you can resolve the conflicts now. Let's get this merged ASAP once resolved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#272",
+      "time": 1709107036.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#issuecomment-1968421072",
+      "text": "> For future, you can also configure [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) in your code editor and auto format the file as you are working on it.\r\n\r\n@Lobi29 support for that has been added in https://github.com/coronasafe/leaderboard/commit/6e12824aba7ed5d1cfdd68f59028c909e4c2e672\r\n\r\nPulling the latest main to this branch should help"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#272",
+      "time": 1709105834.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#issuecomment-1968395752",
+      "text": "@Lobi29 deploy failing due to lint errors, could you run `pnpm lint-fix` along with the upcoming changes?\r\n\r\n<img width=\"1345\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/fdeff5fc-a8ab-44a5-b4a4-69ba748dd57e\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105800.0,
+      "title": "coronasafe/leaderboard#272",
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905494961",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105800.0,
+      "title": "coronasafe/leaderboard#272",
+      "link": "https://github.com/coronasafe/leaderboard/pull/272#pullrequestreview-1905494961",
+      "text": "Updating the UI of Dark/Light mode button"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1709105697.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
+      "collaborated_with": [
+        "aeswibon",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7267",
+      "time": 1709105644.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7267",
+      "text": "Fixes abort controller not working in `useQuery`",
+      "turnaround_time": 8717
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7267",
+      "time": 1709105644.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7267",
+      "text": "Fixes abort controller not working in `useQuery`",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709105535.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240",
+      "text": "Feature/release section",
+      "collaborated_with": [
+        "kirtanchandak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709105488.0,
+      "title": "coronasafe/leaderboard#240",
+      "link": "https://github.com/coronasafe/leaderboard/pull/240#pullrequestreview-1905492706",
+      "text": "Feature/release section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7272",
+      "time": 1709105435.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7272#issuecomment-1968386872",
+      "text": "@Keshav-0907 re-request for review once the changes are done."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709103710.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1905452234",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709103581.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1905449438",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709047766.0,
@@ -37470,41 +37728,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7298",
-      "title": "test cypress split",
-      "stale_for": 0,
-      "labels": [
-        "do not merge"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/259",
-      "title": "Test workflow: dry run github scraper",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7267",
-      "title": "Fixes abort controller not working in `useQuery`",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7237",
-      "title": "Fixes issues with redirection on login",
-      "stale_for": 0,
-      "labels": [
-        "tested",
-        "reviewed"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "tested",
         "waiting for back end"
@@ -37521,7 +37747,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "waiting-for-review"
       ]
@@ -37529,7 +37755,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "merge conflict",
         "stale",

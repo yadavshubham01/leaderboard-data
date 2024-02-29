@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709056613.0,
+  "last_updated": 1709148297.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7289",
+      "time": 1709148297.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7289#issuecomment-1969691546",
+      "text": "@aparnacoronasafe , Can you please assign me this issue?\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7301",
+      "time": 1709111069.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7301",
+      "text": "Log update vital feature modified  #7290"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7290",
+      "time": 1709108331.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1968451304",
+      "text": " I am just new to rescript files and just wanted to know, that I have changed the code in .res file, now how it will reflect the change in js and overall . can anyone please help in this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7290",
+      "time": 1709102035.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1968323264",
+      "text": "okay I am doing it"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7290",
@@ -44,6 +72,13 @@
       "text": "@aparnacoronasafe can you please assign me this issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7301",
+      "title": "Log update vital feature modified ",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

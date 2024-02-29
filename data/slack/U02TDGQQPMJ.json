@@ -25675,11 +25675,12 @@
     ],
     "2024-02-27 00:00:00": [
         {
-            "client_msg_id": "0ad66a30-413e-4f86-8021-1dc5bb551f49",
-            "type": "message",
-            "text": "*EOD 27/02/2024*\n\n*How did the day go?*\n- Made a PR: fixes absolute date range pagination not working in contributors activity timeline (<https://github.com/coronasafe/leaderboard/pull/263><https://github.com/coronasafe/leaderboard/pull/263)|)>\n- Made a PR: Add slack EOD Reminder Bot workflow (<https://github.com/coronasafe/leaderboard-data/pull/15><https://github.com/coronasafe/leaderboard-data/pull/15)|)>\n- Made a PR: Adds workflow to trigger Slack EOD Updates Bot (<https://github.com/coronasafe/leaderboard/pull/261>)\n- Made a PR: Adds workflow to test run github scraper on pull requests (<https://github.com/coronasafe/leaderboard/pull/258><https://github.com/coronasafe/leaderboard/pull/258)|)>\n- Comitted <https://github.com/coronasafe/leaderboard/commit/902bb96cf93580c2ac116969e8ef4f4ee04d2ee1|leaderboard#902bb96>: fixes scrapper not fetching co-authors\n- Comitted <https://github.com/coronasafe/leaderboard/commit/066146e0e8b482c6a494afb04b856eb7cacc5853|leaderboard#066146e>: fixes missing shadow animation in leaderboard user image\n- Comitted <https://github.com/coronasafe/leaderboard/commit/dc183d71867706b96d5f6c5a3c2174f91fa6b033|leaderboard#dc183d7>: GitHub scraper: `mkdir` if `dir` doesn\u2019t exist\n- Comitted <https://github.com/coronasafe/leaderboard/commit/3b11ce29437e040681044c5177d74e5892e63585|leaderboard#3b11ce2>: fixes infinite requests in feed page",
             "user": "U02TDGQQPMJ",
+            "type": "message",
             "ts": "1709041097.866629",
+            "client_msg_id": "0ad66a30-413e-4f86-8021-1dc5bb551f49",
+            "text": "*EOD 27/02/2024*\n\n*How did the day go?*\n- Made a PR: fixes absolute date range pagination not working in contributors activity timeline (<https://github.com/coronasafe/leaderboard/pull/263><https://github.com/coronasafe/leaderboard/pull/263)|)>\n- Made a PR: Add slack EOD Reminder Bot workflow (<https://github.com/coronasafe/leaderboard-data/pull/15><https://github.com/coronasafe/leaderboard-data/pull/15)|)>\n- Made a PR: Adds workflow to trigger Slack EOD Updates Bot (<https://github.com/coronasafe/leaderboard/pull/261>)\n- Made a PR: Adds workflow to test run github scraper on pull requests (<https://github.com/coronasafe/leaderboard/pull/258><https://github.com/coronasafe/leaderboard/pull/258)|)>\n- Comitted <https://github.com/coronasafe/leaderboard/commit/902bb96cf93580c2ac116969e8ef4f4ee04d2ee1|leaderboard#902bb96>: fixes scrapper not fetching co-authors\n- Comitted <https://github.com/coronasafe/leaderboard/commit/066146e0e8b482c6a494afb04b856eb7cacc5853|leaderboard#066146e>: fixes missing shadow animation in leaderboard user image\n- Comitted <https://github.com/coronasafe/leaderboard/commit/dc183d71867706b96d5f6c5a3c2174f91fa6b033|leaderboard#dc183d7>: GitHub scraper: `mkdir` if `dir` doesn\u2019t exist\n- Comitted <https://github.com/coronasafe/leaderboard/commit/3b11ce29437e040681044c5177d74e5892e63585|leaderboard#3b11ce2>: fixes infinite requests in feed page",
+            "team": "TC99SV7B6",
             "blocks": [
                 {
                     "type": "rich_text",
@@ -25820,7 +25821,6 @@
                     ]
                 }
             ],
-            "team": "TC99SV7B6",
             "reactions": [
                 {
                     "name": "rocket",
@@ -25835,6 +25835,87 @@
                         "U065F462NF2"
                     ],
                     "count": 1
+                }
+            ]
+        }
+    ],
+    "2024-02-28 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1709127778.630759",
+            "client_msg_id": "796ba758-b8ea-4b6b-be2b-69a438a76e88",
+            "text": "*EOD* 28/1/2024\n\n*How did the day go?*\n- Made a PR: Slack EOD Reminder: Adds support for reporting review events : <https://github.com/coronasafe/leaderboard/pull/275>\n- Made a PR: Fixes `GITHUB_PAT` not configured error in local development : <https://github.com/coronasafe/leaderboard/pull/274>\n- Committed <https://github.com/coronasafe/leaderboard/commit/6e12824aba7ed5d1cfdd68f59028c909e4c2e672|leaderboard#6e12824>: Adds support for sorting TailwindCSS classnames using prettier\n- Worked on reporting commits made by contributor for Slack EOD reminder\n- Reviewed 7 pull request(s).",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EF/Co",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "28/1/2024\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Made a PR: Slack EOD Reminder: Adds support for reporting review events : "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/275"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Made a PR: Fixes "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "GITHUB_PAT",
+                                    "style": {
+                                        "code": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " not configured error in local development : "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/pull/274"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Committed "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/leaderboard/commit/6e12824aba7ed5d1cfdd68f59028c909e4c2e672",
+                                    "text": "leaderboard#6e12824"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ": Adds support for sorting TailwindCSS classnames using prettier\n- Worked on reporting commits made by contributor for Slack EOD reminder\n- Reviewed 7 pull request(s)."
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

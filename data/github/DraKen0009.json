@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708978374.0,
+  "last_updated": 1709157703.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1917",
+      "time": 1709157703.0,
+      "link": "https://github.com/coronasafe/care/pull/1917#issuecomment-1969993351",
+      "text": "updated the dummy data as it was not following the constraints. And the load_dummy_data command wasn't working"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1927",
+      "time": 1709154615.0,
+      "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1969921833",
+      "text": "please let me know if i missed any use of external_id in reference to `MedibaseMedicine` model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1927",
+      "time": 1709153651.0,
+      "link": "https://github.com/coronasafe/care/pull/1927",
+      "text": "Loading medibase and icd11 static json"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1917",
+      "time": 1709140872.0,
+      "link": "https://github.com/coronasafe/care/pull/1917#issuecomment-1969477576",
+      "text": "Here are the screenshots -\r\n- When trying to create consultation with same patient_no within facility\r\n\r\n![Screenshot from 2024-02-28 16-32-20](https://github.com/coronasafe/care/assets/115104695/ea3082cb-919a-4c87-b92c-cfcca1dc79bc)\r\n\r\n- When trying to create consultation with same patient_no in different facility\r\n![Screenshot from 2024-02-28 16-32-36](https://github.com/coronasafe/care/assets/115104695/d8cfaf05-1686-43fc-8332-7f874ff774b5)\r\n![Screenshot from 2024-02-28 16-32-43](https://github.com/coronasafe/care/assets/115104695/74a309ec-c012-485b-b85a-a121f5cd78f0)\r\n"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1917",
@@ -116,6 +144,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1927",
+      "title": "Loading medibase and icd11 static json",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1917",
       "title": "added contraints in consultations and custom migrations",
       "stale_for": 0,
@@ -124,13 +158,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1912",
       "title": "converted investigation and investigation group data into JSON",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1910",
       "title": "Added dummy data for shifting and Resource",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1708745979.0,
+  "last_updated": 1709139021.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1926",
+      "time": 1709139021.0,
+      "link": "https://github.com/coronasafe/care/pull/1926",
+      "text": "added validate on ResetPasswordUserSerializer for username issue #1434"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1434",

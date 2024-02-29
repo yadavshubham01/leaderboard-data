@@ -1,6 +1,127 @@
 {
-  "last_updated": 1709031539.0,
+  "last_updated": 1709151249.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7309",
+      "time": 1709151249.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7309",
+      "text": "\"Set average weekly working hour\" button in user tab is not responsive "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7308",
+      "time": 1709144432.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7308",
+      "text": "Back to Login button in forget password overlapping with CARE Icon"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7225",
+      "time": 1709117754.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7225#issuecomment-1968730244",
+      "text": "@khavinshankar \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c061e46c-2fd2-47c8-9217-a20240205003)\r\n\r\nits failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709115743.0,
+      "title": "coronasafe/care_fe#7294",
+      "link": "https://github.com/coronasafe/care_fe/pull/7294#pullrequestreview-1905870148",
+      "text": "Use Cypress split for forked prs"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7250",
+      "time": 1709105813.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7250",
+      "text": "Improves Input Field UI for phone number input",
+      "collaborated_with": [
+        "UdaySagar-Git"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7261",
+      "time": 1709105784.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7261",
+      "text": "fix: overflow of fields in the user management cards",
+      "collaborated_with": [
+        "alanansari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7266",
+      "time": 1709105751.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7266",
+      "text": "fix: Irregular flow of responsive design in patient details",
+      "collaborated_with": [
+        "Ashutosh0602"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7172",
+      "time": 1709105697.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7172",
+      "text": "fix: Replace useDispatch w. useQuery/request for Investigations module (src/Components/Facility/Investigations)",
+      "collaborated_with": [
+        "aeswibon",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7267",
+      "time": 1709105644.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7267",
+      "text": "Fixes abort controller not working in `useQuery`",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7272",
+      "time": 1709105445.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7272#issuecomment-1968387070",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/6be836fb-9bdc-46fa-bdfa-e313f750c885)\r\n\r\n@rithviknishad @Keshav-0907 can we have frontend validation like this rather than the browser validation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7278",
+      "time": 1709104870.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7278#issuecomment-1968375563",
+      "text": "@creator79 To avoid multiple authors raising duplicate PRs, it's a recommended best practice to first get the issue assigned to yourself before pushing a PR.\r\n\r\n@UdaySagar-Git feel free to take other open unassigned issues"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7267",
+      "time": 1709104334.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7267#issuecomment-1968364909",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7266",
+      "time": 1709103730.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7266#issuecomment-1968353204",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7261",
+      "time": 1709101631.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7261#issuecomment-1968316922",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7252",
+      "time": 1709101494.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#issuecomment-1968314624",
+      "text": "@konavivekramakrishna \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/c18bd520-1390-4741-8e08-50badb4a8cb9)\r\n\r\n- [ ] Make the IP Days a circle badge on the consultation page similar to the MEWS score. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7253",

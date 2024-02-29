@@ -1,6 +1,24 @@
 {
-  "last_updated": 1709040953.0,
+  "last_updated": 1709105535.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709105535.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240",
+      "text": "Feature/release section",
+      "turnaround_time": 54257
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#240",
+      "time": 1709105535.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/240",
+      "text": "Feature/release section",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#240",

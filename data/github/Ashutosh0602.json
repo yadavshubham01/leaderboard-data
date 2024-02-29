@@ -1,6 +1,66 @@
 {
-  "last_updated": 1708960587.0,
+  "last_updated": 1709156116.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#18",
+      "time": 1709156116.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
+      "text": "Update Ashutosh0602.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7309",
+      "time": 1709155250.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1969940700",
+      "text": "Please assign me I will try to fix this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7310",
+      "time": 1709155184.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7310#issuecomment-1969939205",
+      "text": "fixes #7307 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7310",
+      "time": 1709154862.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7310",
+      "text": "Fix: Fixes the validation of Username in add new Users section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7307",
+      "time": 1709130047.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7307#issuecomment-1969085656",
+      "text": "I would like to work on this please assign me."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7307",
+      "time": 1709129972.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7307",
+      "text": "Issue in adding new user in users section"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7266",
+      "time": 1709105751.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7266",
+      "text": "fix: Irregular flow of responsive design in patient details",
+      "turnaround_time": 60862
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7266",
+      "time": 1709105751.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7266",
+      "text": "fix: Irregular flow of responsive design in patient details",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#255",
@@ -87,6 +147,28 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
+      "title": "Update Ashutosh0602.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7310",
+      "title": "Fix: Fixes the validation of Username in add new Users section",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/253",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/255"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7262",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7266"
+    }
+  ]
 }

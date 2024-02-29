@@ -1,6 +1,63 @@
 {
-  "last_updated": 1709050902.0,
+  "last_updated": 1709152151.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709152151.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1969864499",
+      "text": "@rithviknishad Hey, rithvik it is right solution or any changes needed?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709152019.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#16",
+      "time": 1709145178.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16#issuecomment-1969596322",
+      "text": "@rithviknishad Hey, rithvik please review it. is it okk ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#16",
+      "time": 1709145129.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
+      "text": "tailwind.config.js for organization personalized dashobard color"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709139184.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249#issuecomment-1969418468",
+      "text": "@rithviknishad for the updation script \r\n\r\ncan I go for a change in load-fixtures.sh or create a new one?\r\n\r\n: \"${FIXTURES_SOURCE:=https://github.com/coronasafe/leaderboard-data.git}\"\r\n\r\nrm -rf data-repo\r\nmkdir data-repo\r\ncd data-repo\r\n\r\ngit init\r\ngit remote add --mirror=fetch origin ${FIXTURES_SOURCE}\r\ngit config core.sparseCheckout true\r\n\r\necho \"data/\" >> .git/info/sparse-checkout\r\necho \"contributors/\" >> .git/info/sparse-checkout\r\necho \"tailwind.config.js\" >> .git/info/sparse-checkout\r\n\r\ngit pull origin main"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#273",
+      "time": 1709108986.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/273",
+      "text": "adding navbar feature",
+      "turnaround_time": 73376
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#273",
+      "time": 1709108374.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/273#issuecomment-1968452319",
+      "text": "@rithviknishad Please review it\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#273",
+      "time": 1709108356.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/273",
+      "text": "adding navbar feature"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#266",
@@ -574,21 +631,23 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/266",
-      "title": "New feature navbar added",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283",
+      "title": "add a symlink for tailwind.config.js",
       "stale_for": 0,
       "labels": []
     },
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/243",
-      "title": "make all icons responsive for mobile and dekstop view",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
+      "title": "tailwind.config.js for organization personalized dashobard color",
       "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
