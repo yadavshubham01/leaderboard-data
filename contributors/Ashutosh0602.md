@@ -1,9 +1,9 @@
 ---
 name: Ashutosh Rai
-title: Contributor
+title: GSOC Participant
 github: Ashutosh0602
 twitter: ""
-linkedin: ""
+linkedin: ashutosh-rai-b75aa622a
 slack: ""
 joining_date: ""
 core: false
