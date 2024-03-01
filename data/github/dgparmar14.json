@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709152151.0,
+  "last_updated": 1709235310.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#219",
+      "time": 1709235310.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/219#issuecomment-1971827541",
+      "text": "@rithviknishad  I want to resolve this issue .\r\nAfter fetching issues length from pr . How it will show up in UI?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709226822.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1971595161",
+      "text": "@rithviknishad Hey, Rithvik now check it is it ok?\r\n\r\n![Screenshot 2024-02-29 224137](https://github.com/coronasafe/leaderboard/assets/99136186/f40c945c-dad5-4f31-a8ec-447c39d5a864)\r\n![Screenshot 2024-02-29 224158](https://github.com/coronasafe/leaderboard/assets/99136186/69524277-f9f8-415f-ba1d-52066795e1bd)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#283",

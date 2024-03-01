@@ -1,6 +1,48 @@
 {
-  "last_updated": 1709116061.0,
+  "last_updated": 1709212570.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7314",
+      "time": 1709212570.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7314#issuecomment-1971117308",
+      "text": "Hi, I have already raised a backend pull request https://github.com/coronasafe/care/pull/1932"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1931",
+      "time": 1709212241.0,
+      "link": "https://github.com/coronasafe/care/issues/1931#issuecomment-1971108248",
+      "text": "Hi, this is the backend changed required for the fix of an issue raised in the frontend repo of CARE. I have already merged opened a PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1932",
+      "time": 1709212112.0,
+      "link": "https://github.com/coronasafe/care/pull/1932",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1931",
+      "time": 1709211706.0,
+      "link": "https://github.com/coronasafe/care/issues/1931",
+      "text": "Migration of new facility types"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7314",
+      "time": 1709210929.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7314",
+      "text": "Fix: Improving Facility type options"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709199530.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1970756167",
+      "text": "Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes. \r\n\r\n<img width=\"954\" alt=\"Screenshot 2024-02-29 at 3 05 53\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/98007961/28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f\">\r\n<img width=\"1141\" alt=\"Screenshot 2024-02-29 at 3 06 30\u202fPM\" src=\"https://github.com/coronasafe/care_fe/assets/98007961/0ccc7546-9cfb-446d-ab0f-d21449320fa3\">\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7277",

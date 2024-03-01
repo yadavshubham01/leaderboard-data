@@ -545,5 +545,65 @@
                 }
             ]
         }
+    ],
+    "2024-02-29 00:00:00": [
+        {
+            "user": "U06CY7RUZ9S",
+            "type": "message",
+            "ts": "1709241565.284339",
+            "client_msg_id": "02971081-1c76-4ab9-b286-4baeccce7daa",
+            "text": "*EOD* 29/1/2024\n\u2022 finished setting up the K8s Cluster \n\u2022 working on translating infra_template to terraform. ",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "B1cxZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "29/1/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "finished setting up the K8s Cluster "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "working on translating infra_template to terraform. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

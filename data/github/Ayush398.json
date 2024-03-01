@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709057064.0,
+  "last_updated": 1709218383.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1933",
+      "time": 1709218383.0,
+      "link": "https://github.com/coronasafe/care/pull/1933",
+      "text": "fix: Update bed types"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7300",
@@ -18,10 +25,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1933",
+      "title": "fix: Update bed types",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7300",
       "title": "fix: Bed Capacity- facilities",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "waiting for backend"
+      ]
     }
   ],
   "authored_issue_and_pr": []

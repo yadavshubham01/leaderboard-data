@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709137171.0,
+  "last_updated": 1709209269.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709209269.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1971023002",
+      "text": "> Is this issue still open? If not i would love to work on this issue\r\n\r\nThis issue is already taken. You can work on other issues. There are plenty of them..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709209212.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1971021375",
+      "text": "> Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes.\r\n> <img alt=\"Screenshot 2024-02-29 at 3 05 53\u202fPM\" width=\"954\" src=\"https://private-user-images.githubusercontent.com/98007961/308872460-28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NjAtMjhmYjZmZmEtMzQ0YS00YmE2LTgyZGQtZWQ3M2VlYTFkYzlmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MzVmMmE4OGNmMmQ2Yzc0ZjlkMTljNzNmMjk5MDY0ZDdhNDg3ZmQ2MzgwNGU1ODIwMTc3MDNmMjlmNDY5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mTbIiLKb3CAokjwLj2zGGrX9s2C6BedeWtTxaBDuRvM\"> <img alt=\"Screenshot 2024-02-29 at 3 06 30\u202fPM\" width=\"1141\" src=\"https://private-user-images.githubusercontent.com/98007961/308872476-0ccc7546-9cfb-446d-ab0f-d21449320fa3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NzYtMGNjYzc1NDYtOWNmYi00NDZkLWFiMGYtZDIxNDQ5MzIwZmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNDc0Y2M0MDMzZDdkNjlhZmMwZWI1YTg5OTE1YzNmOTg2YWY1Y2RiZWZkMzgwMTIwMDA0ODk3ODQwOWEzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XoQosSAP_W8-u_jhHkmQFL4EPB9WUeaIr4dcp0ofCSw\">\r\n\r\nYou can use makemigrations utility from django. \r\nRead this: https://docs.djangoproject.com/en/5.0/topics/migrations/"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7295",
+      "time": 1709172137.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1970263837",
+      "text": "> Hi @sainak @aeswibon i want to work on the issue, if its free as the frontend part is very easy and its done should I create a pull request. For the already created data we need to change it from backend for permanent resolution should I create a pull request on backend repo.\r\n\r\nHave assigned the issue to you. You can open the PR now..."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",
@@ -285,134 +306,6 @@
       "text": "fix(asset_location): added duty_staff endpoint"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1911",
-      "title": "fix: Adds pagination to Facility linked list API",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7257",
-      "title": "fix: Limit number of facilities a single user can be linked to",
-      "stale_for": 0,
-      "labels": [
-        "waiting for back end",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1898",
-      "title": "fix: Update validation for Daily Round form",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1839",
-      "title": "fix: Custom Migration to clean no input values as null in Daily Rounds table",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6512",
-      "title": "fix(location): duty doctors and staff for each location in a facility",
-      "stale_for": 49,
-      "labels": [
-        "do not merge",
-        "hold",
-        "waiting for back end",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1689",
-      "title": "fix(asset_location): added duty_staff endpoint",
-      "stale_for": 51,
-      "labels": [
-        "do-not-merge",
-        "waiting-for-review",
-        "Hold"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1575",
-      "title": "fix: tests for ambulance APIs",
-      "stale_for": 103,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1376",
-      "pr_link": "https://github.com/coronasafe/care/pull/1431"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1217",
-      "pr_link": "https://github.com/coronasafe/care/pull/1218"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1164",
-      "pr_link": "https://github.com/coronasafe/care/pull/1165"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1154",
-      "pr_link": "https://github.com/coronasafe/care/pull/1155"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1142",
-      "pr_link": "https://github.com/coronasafe/care/pull/1143"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4322",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4321",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4320",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1111",
-      "pr_link": "https://github.com/coronasafe/care/pull/1112"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3968",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3974"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1089",
-      "pr_link": "https://github.com/coronasafe/care/pull/1090"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/936",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3217"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/930",
-      "pr_link": "https://github.com/coronasafe/care/pull/931"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3145",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3146"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3114",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3115"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2907",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2908"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2769",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2770"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/827",
-      "pr_link": "https://github.com/coronasafe/care/pull/822"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

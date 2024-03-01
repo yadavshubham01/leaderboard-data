@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709113854.0,
+  "last_updated": 1709182490.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7272",
+      "time": 1709182490.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7272#issuecomment-1970394912",
+      "text": "@nihal467 @rithviknishad @Ashesh3 \r\n\r\nSir I have updated the PR #7273 by implementing frontend validation instead of browser validation. \r\n\r\n<img width=\"1422\" alt=\"Screenshot 2024-02-29 at 10 22 04\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/91189139/a4a0869a-9bcb-4d06-8aba-79c236ef9a60\">\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7272",

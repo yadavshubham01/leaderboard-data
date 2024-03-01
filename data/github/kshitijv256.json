@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709026537.0,
+  "last_updated": 1709212997.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7315",
+      "time": 1709212997.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7315",
+      "text": "Rearranged facility home layout"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7285",

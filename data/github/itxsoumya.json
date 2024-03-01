@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709139021.0,
+  "last_updated": 1709176266.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1926",
+      "time": 1709176266.0,
+      "link": "https://github.com/coronasafe/care/pull/1926#issuecomment-1970317934",
+      "text": "@sainak got it. I would be fixing that. Though it is not the fix for that issue But still don't you think this can be also merged for the validation issue. "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1926",

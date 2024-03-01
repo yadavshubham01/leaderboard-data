@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709156786.0,
+  "last_updated": 1709223738.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709223738.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1909325834",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709188774.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1908077302",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1929",

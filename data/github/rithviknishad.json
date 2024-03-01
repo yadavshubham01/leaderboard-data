@@ -1,6 +1,119 @@
 {
-  "last_updated": 1709149449.0,
+  "last_updated": 1709226255.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#291",
+      "time": 1709226255.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/291#issuecomment-1971578534",
+      "text": "There are more valuable issues in CARE that can be taken up \ud83d\ude04 \r\n\r\nhttps://github.com/coronasafe/care_fe/issues?q=is%3Aissue+is%3Aopen+no%3Aassignee"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7277",
+      "time": 1709224581.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7277",
+      "text": "Support for global search and filters in CARE"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6648",
+      "time": 1709224537.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6648#issuecomment-1971520489",
+      "text": "Closing as duplicate of #7316"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6648",
+      "time": 1709224537.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6648",
+      "text": "Design Enhancement Scope in Header Part of all tab in CARE"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7313",
+      "time": 1709207360.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7313",
+      "text": "Fixes missing path param error in update asset bed request",
+      "turnaround_time": 521
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7313",
+      "time": 1709206839.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7313",
+      "text": "Fixes missing path param error in update asset bed request"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709195219.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1908249979",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709190163.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1908106158",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709190163.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1908106158",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709188881.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1908076862",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709188881.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1908076862",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#280",
+      "time": 1709188331.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1970494924",
+      "text": "> @rithviknishad this pr is ready for review\r\n\r\nAwesome, will review. It'd be great if you could request for review from here \ud83d\ude04 so that we don't accidentally miss out.\r\n\r\n<img width=\"365\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/ec388adc-f025-4d99-aee0-79ec3af7ac4b\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709188108.0,
+      "title": "coronasafe/leaderboard#282",
+      "link": "https://github.com/coronasafe/leaderboard/pull/282#pullrequestreview-1908061189",
+      "text": "UI improvements"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#288",
+      "time": 1709187558.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/288",
+      "text": "Improve mobile responsiveness of Contributors page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#281",
+      "time": 1709187449.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/281#issuecomment-1970481394",
+      "text": "The idea of `/projects` page is to allow contributors to quickly get an idea of all the active ongoing projects in this organization. I don't think there's so much content on the `/projects` page enough to be concerned about load times.\r\n\r\nMaybe we could add filters on top (filter by project category / repository) or `/projects` could show a minimal view of projects grouped by the repository."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#279",
+      "time": 1709187018.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/279#issuecomment-1970473514",
+      "text": "Could you explain how you are intending to enhance the scrollbar design? "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#281",
@@ -37730,16 +37843,16 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "tested",
-        "waiting for back end"
+        "waiting for backend"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -37747,7 +37860,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "waiting-for-review"
       ]
@@ -37755,7 +37868,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         "merge conflict",
         "stale",

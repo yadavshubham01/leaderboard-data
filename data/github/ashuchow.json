@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709037234.0,
+  "last_updated": 1709215892.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#13",
+      "time": 1709215892.0,
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#issuecomment-1971227462",
+      "text": "Completed incorporating the sorting by status feature. Should be good to review in entirety now. @gigincg @Ashesh3 "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/metabase_manager#13",
@@ -37,6 +44,19 @@
       "text": "Log for Failed Syncs"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13",
+      "title": "Consolidated features from Issue 9",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/metabase_manager/pull/12",
+      "title": "Added sorting feature for Card and Path columns",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

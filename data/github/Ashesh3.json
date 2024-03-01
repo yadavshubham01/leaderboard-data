@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709141947.0,
+  "last_updated": 1709213755.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709213755.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1908902679",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709213645.0,
+      "title": "coronasafe/care_fe#7315",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#pullrequestreview-1908900895",
+      "text": "Rearranged facility home layout"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709212766.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1971122855",
+      "text": "> just a query that while i am adding the question post request is not responding and !storage?.user?.is_staff since this is false i am unable to access some things can you guide me a little how to test apis and everything should work? ![Screenshot 2024-02-28 235953](https://private-user-images.githubusercontent.com/98794736/308671704-724add19-65b1-4ce1-a50a-caa24324609d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMTI4MDYsIm5iZiI6MTcwOTIxMjUwNiwicGF0aCI6Ii85ODc5NDczNi8zMDg2NzE3MDQtNzI0YWRkMTktNjViMS00Y2UxLWE1MGEtY2FhMjQzMjQ2MDlkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEzMTUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhNTUzMTFiNTgzZDFjZWI0Y2Y3MjkyZGIxYzNkOGMyZmQ0MmViNzhkNjZjM2JiMmZkYzJlOWEzMDFmOTk3MmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VWonTiZsd6DPlpiXQbbyfAfMRP7rhtcdtKMOx25htwY)\r\n\r\nHey, that area is restricted to admins only. To access that i recommend that you self host the backend ( https://github.com/coronasafe/ayushma ) where you can act as the staff user. Otherwise, you can still try to add the logic and I'll test it out for you.\r\n\r\nHere's the files of interest:\r\n\" Add Question Logic \" : https://github.com/coronasafe/ayushma_fe/blob/master/src/app/admin/tests/%5Btestsuite_id%5D/page.tsx#L905C17-L909C19\r\n\r\nYou need to make a button that says \"Import from csv\", when clicked, it will show an importing status, and just call the above add question logic in a loop for each of the rows.\r\n\r\n```\r\nfor row in csv_data:\r\n\thandleAddQuestion(\r\n                  row .question,\r\n                  row .human_answer,\r\n                  row .language,\r\n                );\r\n```\r\nAfter this is done, just show a success message. Let me know if you want me to host the backend for you and provide you with staff account access. I will be happy to."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -17979,119 +18000,6 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7305",
-      "title": "Improve File Preview",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1903",
-      "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 7,
-      "labels": [
-        "blocked",
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1900",
-      "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1657",
-      "title": "POC: AI discharge summary",
-      "stale_for": 146,
-      "labels": [
-        "POC"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5147",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 330,
-      "labels": [
-        "work-in-progress",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1227",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 343,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1893",
-      "pr_link": "https://github.com/coronasafe/care/pull/1896"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1283",
-      "pr_link": "https://github.com/coronasafe/care/pull/1286"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

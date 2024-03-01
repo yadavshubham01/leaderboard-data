@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709157703.0,
+  "last_updated": 1709203282.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1927",
+      "time": 1709203282.0,
+      "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1970861078",
+      "text": "- made some changes to load_icd11_diagnose_data file.\r\n- updated migrations field for removing external_id before populating data"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1917",
@@ -142,31 +149,6 @@
       "text": "I'm trying to reproduce the issue , but i guess this is already resolved as I can see dummy data already populated in the shifting and resource tabs \r\n- I've populated the dummy data using make command\r\n![image](https://github.com/coronasafe/care/assets/115104695/672f9b25-90b2-42bf-95d0-8dfa910e3aa7)\r\n\r\nlet me know if I'm doing something wrong or unable to understand the issue"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1927",
-      "title": "Loading medibase and icd11 static json",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1917",
-      "title": "added contraints in consultations and custom migrations",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1912",
-      "title": "converted investigation and investigation group data into JSON",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1910",
-      "title": "Added dummy data for shifting and Resource",
-      "stale_for": 2,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

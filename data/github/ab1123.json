@@ -1,6 +1,34 @@
 {
-  "last_updated": 1708675343.0,
+  "last_updated": 1709241565.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7317",
+      "time": 1709241565.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7317#issuecomment-1971979666",
+      "text": "I would like to work on this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7317",
+      "time": 1709241487.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7317",
+      "text": "VIsual Bug"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7293",
+      "time": 1709233538.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7293#issuecomment-1971785359",
+      "text": "Hello @skks1212 if you haven't already fixed the bug, can I work on the bug??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709232982.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971770367",
+      "text": "I would like to work on this issue. I will focus on making the header a separate component. In order to make the header reusable I would like to use the concept of barrel export with the header component. If you kindly allow me to work on this issue @sainak @aparnacoronasafe @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",

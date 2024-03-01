@@ -1,6 +1,125 @@
 {
-  "last_updated": 1709140797.0,
+  "last_updated": 1709225919.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709225919.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971567694",
+      "text": "@saloni0419 wait for a thumbs up from @aparnacoronasafe "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709224438.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316",
+      "text": "Redesign the header to be consistent across all pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1927",
+      "time": 1709204067.0,
+      "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1970882680",
+      "text": "@DraKen0009 extract the logic from the management command to a common utils file\r\n\r\nthe migrations will be complex\r\n- clear the migration where we are loading the medicines\r\n- create the unique id fields but dont make them primary key\r\n- add the load_medicine_data migration, make sure the external_id remains consistent\r\n- create new nullable foreign key relations to the id field wherever we are referencing the external_id\r\n- populate the new foreign key fields\r\n- remove the old fk fields \r\n- rename the new fk fields to the old name so the other code does not break\r\n- make id primary key\r\n- remove external_id"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7300",
+      "time": 1709203348.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7300#issuecomment-1970862970",
+      "text": "@arnit-coder comment on https://github.com/coronasafe/care/issues/1930"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1930",
+      "time": 1709203324.0,
+      "link": "https://github.com/coronasafe/care/issues/1930",
+      "text": "Update bed types"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#280",
+      "time": 1709196456.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1970673369",
+      "text": "@UdaySagar-Git just tag us for reviews"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709196403.0,
+      "title": "coronasafe/leaderboard#280",
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#pullrequestreview-1908289235",
+      "text": "update user role field to be single role "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#79",
+      "time": 1709196152.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/79#issuecomment-1970665527",
+      "text": "@pankaj-2503 now I can't click the items in the dropdown"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709180966.0,
+      "title": "coronasafe/care#1927",
+      "link": "https://github.com/coronasafe/care/pull/1927#pullrequestreview-1907904241",
+      "text": "Loading medibase and icd11 static json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709180453.0,
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1907897946",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709180230.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1907894216",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709180229.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1907894216",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709179875.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1907891260",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1926",
+      "time": 1709179777.0,
+      "link": "https://github.com/coronasafe/care/pull/1926#issuecomment-1970360900",
+      "text": ">Though it is not the fix for that issue But still don't you think this can be also merged for the validation issue.\r\n\r\nWe intentionally removed that validation."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709179403.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1907885869",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709179349.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1907884950",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709179349.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1907884950",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1926",
@@ -9794,7 +9913,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1924",
       "title": "Fix failing test cases and shuffle case before run",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -9806,7 +9925,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 94,
+      "stale_for": 95,
       "labels": [
         "blocked",
         "changes required",
@@ -9817,7 +9936,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 169,
+      "stale_for": 170,
       "labels": [
         "In progress"
       ]
@@ -9825,19 +9944,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 223,
+      "stale_for": 224,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 148,
+      "stale_for": 149,
       "labels": []
     }
   ],

@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709127708.0,
+  "last_updated": 1709197638.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#77",
+      "time": 1709197638.0,
+      "link": "https://github.com/coronasafe/10bedicu/issues/77#issuecomment-1970705055",
+      "text": "Now you can verify this issue @sainak "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#79",
+      "time": 1709196793.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/79#issuecomment-1970682169",
+      "text": "> @pankaj-2503 now I can't click the items in the dropdown and link the issue this pr is fixing\r\n\r\nok , i am working on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#77",
+      "time": 1709190010.0,
+      "link": "https://github.com/coronasafe/10bedicu/issues/77#issuecomment-1970526266",
+      "text": "Hey @sainak  would you please review this Pr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#79",
+      "time": 1709189766.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/79",
+      "text": "Added automatically open/close navbar links on hover"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/10bedicu#78",
+      "time": 1709188636.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/78",
+      "text": "feat: updated dropdown in navbar on hover"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/10bedicu#77",

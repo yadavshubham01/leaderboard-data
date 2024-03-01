@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709115987.0,
+  "last_updated": 1709207351.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709207351.0,
+      "title": "coronasafe/care_fe#7313",
+      "link": "https://github.com/coronasafe/care_fe/pull/7313#pullrequestreview-1908665579",
+      "text": "Fixes missing path param error in update asset bed request"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709204450.0,
+      "title": "coronasafe/teleicu_middleware#119",
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119#pullrequestreview-1908578536",
+      "text": "add ability to fetch config from care"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709115987.0,

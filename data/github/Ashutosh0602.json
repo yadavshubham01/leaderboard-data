@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709156116.0,
+  "last_updated": 1709205378.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7310",
+      "time": 1709205378.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7310#issuecomment-1970860278",
+      "text": "@nihal467  Fixes #7309 \r\n<img width=\"371\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4e52c67a-ddc8-4832-8ab9-751e78edec26\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7309",
+      "time": 1709203422.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1970864883",
+      "text": "@nihal467 I have solved this issue with another issue related to the Users Section.\r\nIs it right or do I make another pull request for this issue."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#18",
@@ -147,28 +161,6 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
-      "title": "Update Ashutosh0602.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7310",
-      "title": "Fix: Fixes the validation of Username in add new Users section",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/253",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/255"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7262",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7266"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

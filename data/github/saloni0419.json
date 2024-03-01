@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709148297.0,
+  "last_updated": 1709226073.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7297",
+      "time": 1709226073.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1971573155",
+      "text": "@aparnacoronasafe Can you please assign me this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709225980.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971569800",
+      "text": "Sure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709225449.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1971553124",
+      "text": "@sainak @rithviknishad  can you please assign this issue to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7290",
+      "time": 1709197567.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7290#issuecomment-1970702843",
+      "text": "I have linked a PR yesterday. \r\nPlease review it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7309",
+      "time": 1709178704.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7309#issuecomment-1970348567",
+      "text": "@nihal467 can you assign me this issue "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7289",
@@ -77,7 +112,10 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7301",
       "title": "Log update vital feature modified ",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
     }
   ],
   "authored_issue_and_pr": []
