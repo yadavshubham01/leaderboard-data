@@ -1,6 +1,55 @@
 {
-  "last_updated": 1709145192.0,
+  "last_updated": 1709324563.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709324563.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973861678",
+      "text": "hey @skks1212 i have raised the pr [https://github.com/coronasafe/ayushma_fe/pull/189](#183) please review the pr and merge it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#189",
+      "time": 1709324484.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
+      "text": "closes #183 unnecessary packages removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#188",
+      "time": 1709324134.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/188",
+      "text": "#183 removed chatbot which was added for testing only"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709300931.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973237883",
+      "text": "@skks1212 src/app also contains a chatbot folder i have removed it as well because it is using that /chatbot folder and removed the scripts as well and build is also succeeding is it fine?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709299731.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973206475",
+      "text": "hey @skks1212 i am doing this assign this to me i will raise the pr by today"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709298778.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1973175247",
+      "text": "Hiiii @Ashesh3 i have completed the logic part, please host the backend so that i can test it.\r\nWhat happens if there is some error while uploading the question? does handle add question throws any error or any confirmation that the data is successfully uploaded??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709286220.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1972852345",
+      "text": "@Ashesh3 yes please host the backend and provide the staff account access as i also need to check on the frontend part whether its working or not"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -37,6 +86,13 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
+      "title": "closes #183 unnecessary packages removed",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

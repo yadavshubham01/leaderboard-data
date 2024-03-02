@@ -1,6 +1,112 @@
 {
-  "last_updated": 1709235310.0,
+  "last_updated": 1709318948.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#295",
+      "time": 1709318948.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973743245",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/8410b7f5-5b5a-4d60-962f-7650ff78685e)\r\nIs this looks good?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#295",
+      "time": 1709317625.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973714555",
+      "text": "@rithviknishad What type of rank like? On a weekly basis ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#295",
+      "time": 1709311751.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/295#issuecomment-1973529362",
+      "text": "@rithviknishad  \r\nI want to work up on this"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709310738.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283",
+      "text": "Adds support for organisation specific theme",
+      "turnaround_time": 72320
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709310738.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283",
+      "text": "Adds support for organisation specific theme",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709307840.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#issuecomment-1973415337",
+      "text": "@rithviknishad Hey,rithvik can you verify it?\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709290379.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910861809",
+      "text": "Adds support for organisation specific theme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709290160.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910855400",
+      "text": "Adds support for organisation specific theme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709288879.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910817218",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709288343.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910793838",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#16",
+      "time": 1709287853.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
+      "text": "tailwind.config.js for organization personalized dashobard color",
+      "turnaround_time": 56325
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#16",
+      "time": 1709287853.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
+      "text": "tailwind.config.js for organization personalized dashobard color",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#292",
+      "time": 1709279063.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/292#issuecomment-1972681817",
+      "text": "@rithviknishad Hey, rithvik I want to take this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#292",
+      "time": 1709279041.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/292",
+      "text": "Client side exception in feed page "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#219",
@@ -643,20 +749,7 @@
       "text": "I want take this task ."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/283",
-      "title": "add a symlink for tailwind.config.js",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
-      "title": "tailwind.config.js for organization personalized dashobard color",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",

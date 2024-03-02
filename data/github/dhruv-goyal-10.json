@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709172770.0,
+  "last_updated": 1709302852.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1709302852.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1973290377",
+      "text": "@sainak But since **Bed** is the related object, how can we annotate the property of Bed while fetching the objects of **ConsultationBed**.\r\nBecause, as per my knowledge, we can only annotate the property of the objects present in the queryset and not of the related object, present in the queryset."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1908",

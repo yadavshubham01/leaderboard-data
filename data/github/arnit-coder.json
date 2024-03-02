@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709233827.0,
+  "last_updated": 1709296099.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1930",
+      "time": 1709296099.0,
+      "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1973103855",
+      "text": "Yaa sure, I may give it a try.\r\nBut There may be the delay because my mid semester exams are coming.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7297",
+      "time": 1709286462.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1972859248",
+      "text": "@aeswibon Sir, I had raised a PR in which i had solved 2 issues this one and #7309 ."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7297",
+      "time": 1709272325.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7297#issuecomment-1972558035",
+      "text": "> @aparnacoronasafe Can you please assign me this issue\r\n\r\nActually I had raised a PR for this issue.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7308",
@@ -51,13 +72,6 @@
       "text": "\"Set average weekly working hour\" button in user tab made responsive "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7311",
-      "title": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

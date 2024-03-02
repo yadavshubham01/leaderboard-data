@@ -1,6 +1,24 @@
 {
-  "last_updated": 1709205378.0,
+  "last_updated": 1709283735.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#18",
+      "time": 1709283735.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
+      "text": "Update Ashutosh0602.md",
+      "turnaround_time": 41220
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#18",
+      "time": 1709283735.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
+      "text": "Update Ashutosh0602.md",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7310",

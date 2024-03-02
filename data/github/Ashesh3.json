@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709213755.0,
+  "last_updated": 1709305100.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709305100.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1973345819",
+      "text": "@vishisht-dubey Backend is hosted here `https://ayushma.ashsec.us.to` , Update the same in your .env file following the existing format"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709302508.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1911273533",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709299347.0,
+      "title": "coronasafe/care#1912",
+      "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1911143877",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709299321.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1973191542",
+      "text": "Hey @vishisht-dubey I'll host the backend for you by tonight.\r\nUser should be clearly made aware of any errors while importing, show the error but skip that question and continue import."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709270920.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1910344646",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709213755.0,

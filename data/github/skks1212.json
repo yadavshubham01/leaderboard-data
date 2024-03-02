@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709140305.0,
+  "last_updated": 1709307108.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709307108.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973393657",
+      "text": "Yes @vishisht-dubey that is fine"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709300722.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183#issuecomment-1973232466",
+      "text": "@vishisht-dubey issue assigned!"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/ayushma_fe#187",

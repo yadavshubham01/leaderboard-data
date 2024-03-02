@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709212997.0,
+  "last_updated": 1709308544.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1868",
+      "time": 1709308544.0,
+      "link": "https://github.com/coronasafe/care/pull/1868#issuecomment-1973437655",
+      "text": "> add test cases\r\n\r\n@sainak \r\nI am unable to create a test case as different user type is needed, can you give some idea how"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7315",
@@ -1062,6 +1069,28 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7315",
+      "title": "Rearranged facility home layout",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1868",
+      "title": "added user type check before creating new asset",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7111",
+      "title": "Added authorization on route for asset creation",
+      "stale_for": 7,
+      "labels": [
+        "changes required",
+        "waiting for backend"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

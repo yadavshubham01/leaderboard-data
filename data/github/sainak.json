@@ -1,6 +1,195 @@
 {
-  "last_updated": 1709225919.0,
+  "last_updated": 1709313996.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1709313996.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1973592016",
+      "text": "@dhruv-goyal-10 \r\n```python\r\nConsultationBed.objects.all().annotate(\r\n    bed__is_occupied=Exists(\r\n        ConsultationBed.objects.filter(bed__id=OuterRef(\"id\"), end_date__isnull=True)\r\n    )\r\n).values_list(\"bed__is_occupied\", flat=True)\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709305333.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973351019",
+      "text": "if you want to fix types, you can create a new issue with a relevant title"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709305083.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319",
+      "text": "Change type of token from any to avoid security risks"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709305049.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973344705",
+      "text": "> [typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#any](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#any) Here's the official docs explaining why \"any\" shouldn't be used as it simply means turning off safety inside TS. It looses type safety which shouldn't be ideal for sensitive infos like tokens. Here's one more article suggesting it should only used in case of flexibility [totaltypescript.com/concepts/any-type](https://www.totaltypescript.com/concepts/any-type)\r\n\r\nType safety is only relevant for development, once the code is transpiled, there is no role of typescript in browsers, so how would replacing 'any' help?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#293",
+      "time": 1709304613.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#issuecomment-1973335163",
+      "text": "<img width=\"1561\" alt=\"Screenshot 2024-03-01 at 8 19 09\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/46787056/df96283b-35d6-4c0e-a131-19cb6828bd85\">\r\n<img width=\"1556\" alt=\"Screenshot 2024-03-01 at 8 19 49\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/46787056/00bca7c0-ea58-4f0e-8191-5c603d92e1b6\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#293",
+      "time": 1709304008.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#issuecomment-1973320551",
+      "text": "there is a more standard approach for scrollbar customization\r\nhttps://developer.chrome.com/docs/css-ui/scrollbar-styling"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1909",
+      "time": 1709303364.0,
+      "link": "https://github.com/coronasafe/care/pull/1909#issuecomment-1973302995",
+      "text": "> @sainak But since **Bed** is the related object, how can we annotate the property of Bed while fetching the objects of **ConsultationBed**. Because, as per my knowledge, we can only annotate the property of the objects present in the queryset and not of the related object, present in the queryset.\r\n\r\nive seen some examples, and i think it should work, give it a try"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709303139.0,
+      "title": "coronasafe/care#1934",
+      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1911295648",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709303139.0,
+      "title": "coronasafe/care#1934",
+      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1911295648",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709300589.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973229104",
+      "text": "Also make sure to link the docs where this is described as a vulnerability."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709300498.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973226913",
+      "text": "lets get it resolved asap\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709296444.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1911010691",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709296444.0,
+      "title": "coronasafe/care#1757",
+      "link": "https://github.com/coronasafe/care/pull/1757#pullrequestreview-1911010691",
+      "text": "Feature: Lock asset & Patient privacy & Boundary based validation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295758.0,
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1911007710",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1868",
+      "time": 1709295700.0,
+      "link": "https://github.com/coronasafe/care/pull/1868#issuecomment-1973094354",
+      "text": "add test cases"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295688.0,
+      "title": "coronasafe/care#1868",
+      "link": "https://github.com/coronasafe/care/pull/1868#pullrequestreview-1911005957",
+      "text": "added user type check before creating new asset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295471.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910995859",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295471.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910995859",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295070.0,
+      "title": "coronasafe/care#1912",
+      "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1910989700",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1930",
+      "time": 1709294892.0,
+      "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1973074399",
+      "text": "@arnit-coder will you be able to work on this?\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709269130.0,
+      "title": "coronasafe/care#1932",
+      "link": "https://github.com/coronasafe/care/pull/1932#pullrequestreview-1910323151",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709269130.0,
+      "title": "coronasafe/care#1932",
+      "link": "https://github.com/coronasafe/care/pull/1932#pullrequestreview-1910323151",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1930",
+      "time": 1709269071.0,
+      "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1972509525",
+      "text": "@arnit-coder a PR has already been raised for this issue, feel free to take a different issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1930",
+      "time": 1709268999.0,
+      "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1972508292",
+      "text": "@Ayush398\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1933",
+      "time": 1709268931.0,
+      "link": "https://github.com/coronasafe/care/pull/1933#issuecomment-1972507412",
+      "text": "@Ayush398 as you did not respond on the fe issue, we had decided to file a be issue for someone else.\r\nMake sure to get the issue assigned before working on the changes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709268710.0,
+      "title": "coronasafe/care#1933",
+      "link": "https://github.com/coronasafe/care/pull/1933#pullrequestreview-1910312782",
+      "text": "fix: Update bed types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709268402.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910309390",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7316",
@@ -9913,19 +10102,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1924",
       "title": "Fix failing test cases and shuffle case before run",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
       "title": "add ability to fetch config from care",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 95,
+      "stale_for": 96,
       "labels": [
         "blocked",
         "changes required",
@@ -9936,7 +10125,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 170,
+      "stale_for": 171,
       "labels": [
         "In progress"
       ]
@@ -9944,19 +10133,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 224,
+      "stale_for": 225,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 149,
+      "stale_for": 150,
       "labels": []
     }
   ],

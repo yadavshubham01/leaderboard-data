@@ -1,6 +1,111 @@
 {
-  "last_updated": 1709222029.0,
+  "last_updated": 1709328409.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#294",
+      "time": 1709328409.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/294#issuecomment-1973943043",
+      "text": "Given my prior experience working on the contribution activity section's filter \ud83d\udee0\ufe0f, I believe I'm well-equipped to tackle this particular issue. Would you kindly assign it to me?\ud83d\ude0a"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#302",
+      "time": 1709327446.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/302",
+      "text": "Update GitHub acitvity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#301",
+      "time": 1709324364.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/301",
+      "text": "solving the layout issue of Image"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709323069.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973826762",
+      "text": "color is updated\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709316758.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973678651",
+      "text": "Got it \ud83d\ude01\ud83d\udc4d, "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#299",
+      "time": 1709309361.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/299",
+      "text": "Solving legacy prop \"layout\" issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#293",
+      "time": 1709301396.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#issuecomment-1973251198",
+      "text": "Color theme applied, with emphasis on the primary theme"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#287",
+      "time": 1709300507.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#issuecomment-1973227129",
+      "text": "<h1 align=\"center\">Updates</h1>\r\n\r\n- Added `.env` variable to the contribution link's href\r\n- Color theme applied, with emphasis on the primary theme\r\n- 'use client' feature removed from redundant components\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295950.0,
+      "title": "coronasafe/leaderboard#293",
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#pullrequestreview-1911012541",
+      "text": "Update thumb"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295910.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911011481",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295868.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911010501",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295848.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911010006",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295792.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911008531",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709295762.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911007823",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#293",
+      "time": 1709280360.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/293",
+      "text": "Update thumb"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#281",
@@ -151,6 +256,24 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/302",
+      "title": "Update GitHub acitvity",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/301",
+      "title": "solving the layout issue of Image",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/293",
+      "title": "Update thumb",
+      "stale_for": 0,
+      "labels": []
+    },
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/287",
       "title": "updating UI of Navbar",

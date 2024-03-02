@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709220831.0,
+  "last_updated": 1709320879.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709320879.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320",
+      "text": "Rearrange tabs in patient dashboard"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7288",
@@ -16,6 +23,13 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7320",
+      "title": "Rearrange tabs in patient dashboard",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

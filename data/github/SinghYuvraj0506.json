@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709212570.0,
+  "last_updated": 1709302077.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709302077.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1973269829",
+      "text": "Hi, @sainak can I work on the issue, I would create a new general header component that would fit most of the types shown, for any extra case we can create a separate functional component  in the same component file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709301752.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973260864",
+      "text": "Hi, can i work on the issue\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7101",
+      "time": 1709282004.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7101#issuecomment-1972744137",
+      "text": "Hey @Sunilsubba , can you tell me if I'm correct or not, If the user is a StateAdmin then it may add patients of any district in the state, whereas if it is a district admin then the patient allowed should be of same district, and the rest other cases would throw an error.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7101",
+      "time": 1709281728.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7101#issuecomment-1972737265",
+      "text": "Hey, @jainvedant392 are you working on the issue, or can I proceed with it.\r\n\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7314",

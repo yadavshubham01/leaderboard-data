@@ -1,6 +1,20 @@
 {
-  "last_updated": 1708874293.0,
+  "last_updated": 1709318193.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1709318193.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1973727177",
+      "text": "@nihal467 can u check once "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1709279566.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1972691308",
+      "text": "@nihal467 \r\nfor \r\n> Test 1: Record an Audio and download the file.\r\n> - Try to download the file and verify its success using API response with cy.intercept.\r\n\r\nIts a anchor tag so verifying with API is not possible so what if I change the tests in this format \r\n\r\nhow about this \r\n\r\n> test1 : Upload a file and download file\r\n\r\n>test2 : record a audio and archive it \r\n\r\n \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7268",
@@ -1655,8 +1669,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7197",
       "title": "Add Cypress test to patient file upload",
-      "stale_for": 1,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": [

@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709218383.0,
+  "last_updated": 1709290995.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1933",
+      "time": 1709290995.0,
+      "link": "https://github.com/coronasafe/care/pull/1933#issuecomment-1972982994",
+      "text": "I apologize for the delayed response; my mid-semester exams are currently underway, which is why I was unable to address the issue. Please assign this matter to someone else, as I do not possess proper knowledge of Django."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1933",
@@ -23,21 +30,6 @@
       "text": "Can you please assign me this issue"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1933",
-      "title": "fix: Update bed types",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7300",
-      "title": "fix: Bed Capacity- facilities",
-      "stale_for": 0,
-      "labels": [
-        "waiting for backend"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

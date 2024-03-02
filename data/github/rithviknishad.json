@@ -1,6 +1,355 @@
 {
-  "last_updated": 1709226255.0,
+  "last_updated": 1709337467.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709337467.0,
+      "title": "coronasafe/care_fe#7268",
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#pullrequestreview-1912293137",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709337436.0,
+      "title": "coronasafe/care_fe#7268",
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#pullrequestreview-1912293137",
+      "text": "Restrict Unauthorized Users from Accessing Facility's Patient Registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#300",
+      "time": 1709312989.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/300",
+      "text": "Switch to using CSS Variables for configurable theme",
+      "turnaround_time": 124
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#300",
+      "time": 1709312865.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/300",
+      "text": "Switch to using CSS Variables for configurable theme"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#249",
+      "time": 1709310739.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/249",
+      "text": "Support for Personalizing the Leaderboard colors"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#283",
+      "time": 1709310738.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/283",
+      "text": "Adds support for organisation specific theme",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709310724.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1911544030",
+      "text": "Adds support for organisation specific theme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709310631.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911537771",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709310590.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911537771",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709310522.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1911537771",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1868",
+      "time": 1709310086.0,
+      "link": "https://github.com/coronasafe/care/pull/1868#issuecomment-1973482038",
+      "text": "@kshitijv256 example: https://github.com/coronasafe/care/pull/1866/files#diff-6e69c1bec5735c00ad8c3637de1e270b87399c4a6958c4496a9d145e3025d333R90"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7319",
+      "time": 1709304235.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7319#issuecomment-1973326599",
+      "text": "> https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html#any Here's the official docs explaining why \"any\" shouldn't be used as it simply means turning off safety inside TS. It looses type safety which shouldn't be ideal for sensitive infos like tokens. Here's one more article suggesting it should only used in case of flexibility https://www.totaltypescript.com/concepts/any-type\r\n\r\nI still couldn't understand how this is a security risk.\r\n\r\ncc: @sainak "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#20",
+      "time": 1709300776.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/20",
+      "text": "migrate github data timestamps"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7063",
+      "time": 1709298805.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7063",
+      "text": "Add support for caching specific useQuery routes (such as ICD11's retrieve by ID API)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#270",
+      "time": 1709294595.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/270",
+      "text": "Improve Top Contributors Display Logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709294585.0,
+      "title": "coronasafe/leaderboard#296",
+      "link": "https://github.com/coronasafe/leaderboard/pull/296#pullrequestreview-1910972145",
+      "text": "Improves top contributors display logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709294055.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910958713",
+      "text": "Adds support for organisation specific theme"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#298",
+      "time": 1709293868.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/298",
+      "text": "UI improvements to Contributor Badge Popup"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709293016.0,
+      "title": "coronasafe/leaderboard#297",
+      "link": "https://github.com/coronasafe/leaderboard/pull/297#pullrequestreview-1910932949",
+      "text": "improves sorting logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289656.0,
+      "title": "coronasafe/leaderboard#293",
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#pullrequestreview-1910840870",
+      "text": "Update thumb"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289656.0,
+      "title": "coronasafe/leaderboard#293",
+      "link": "https://github.com/coronasafe/leaderboard/pull/293#pullrequestreview-1910840870",
+      "text": "Update thumb"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289563.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1910820039",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289562.0,
+      "title": "coronasafe/leaderboard#287",
+      "link": "https://github.com/coronasafe/leaderboard/pull/287#pullrequestreview-1910820039",
+      "text": "updating UI of Navbar"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289441.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910834671",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289401.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910833408",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709289251.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910828586",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#284",
+      "time": 1709288831.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/284#issuecomment-1972927774",
+      "text": "@UdaySagar-Git related #280 has been merged. Could you rebase?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709288714.0,
+      "title": "coronasafe/leaderboard-data#19",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/19#pullrequestreview-1910812066",
+      "text": "Updated markdowns"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#271",
+      "time": 1709288483.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/271",
+      "text": "Update user role field to be a single role "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#280",
+      "time": 1709288482.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/280",
+      "text": "update user role field to be single role ",
+      "collaborated_with": [
+        "UdaySagar-Git"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709288225.0,
+      "title": "coronasafe/leaderboard#280",
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#pullrequestreview-1910790322",
+      "text": "update user role field to be single role "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#16",
+      "time": 1709287853.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16",
+      "text": "tailwind.config.js for organization personalized dashobard color",
+      "collaborated_with": [
+        "dgparmar14"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709287785.0,
+      "title": "coronasafe/leaderboard-data#16",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16#pullrequestreview-1910776915",
+      "text": "tailwind.config.js for organization personalized dashobard color"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709287784.0,
+      "title": "coronasafe/leaderboard-data#16",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/16#pullrequestreview-1910776915",
+      "text": "tailwind.config.js for organization personalized dashobard color"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709287594.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910757946",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709287594.0,
+      "title": "coronasafe/leaderboard#283",
+      "link": "https://github.com/coronasafe/leaderboard/pull/283#pullrequestreview-1910757946",
+      "text": "add a symlink for tailwind.config.js"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#295",
+      "time": 1709287175.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/295",
+      "text": "Show rank of contributor inside the contributor profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709287025.0,
+      "title": "coronasafe/leaderboard#286",
+      "link": "https://github.com/coronasafe/leaderboard/pull/286#pullrequestreview-1910747010",
+      "text": "Fixes sorting logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709286744.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1910736544",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709286744.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1910736544",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709286715.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1910656854",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709286715.0,
+      "title": "coronasafe/leaderboard#285",
+      "link": "https://github.com/coronasafe/leaderboard/pull/285#pullrequestreview-1910656854",
+      "text": "added new Contributor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#294",
+      "time": 1709286127.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/294",
+      "text": "Support for custom date range filter in Contributor Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709284077.0,
+      "title": "coronasafe/leaderboard#280",
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#pullrequestreview-1910636415",
+      "text": "update user role field to be single role "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709284077.0,
+      "title": "coronasafe/leaderboard#280",
+      "link": "https://github.com/coronasafe/leaderboard/pull/280#pullrequestreview-1910636415",
+      "text": "update user role field to be single role "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard-data#18",
+      "time": 1709283735.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18",
+      "text": "Update Ashutosh0602.md",
+      "collaborated_with": [
+        "Ashutosh0602"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709283714.0,
+      "title": "coronasafe/leaderboard-data#18",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18#pullrequestreview-1910633986",
+      "text": "Update Ashutosh0602.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709283711.0,
+      "title": "coronasafe/leaderboard-data#18",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/18#pullrequestreview-1910633883",
+      "text": "Update Ashutosh0602.md"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#291",
@@ -37841,9 +38190,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/20",
+      "title": "migrate github data timestamps",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7148",
       "title": "Adds support for viewing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "tested",
         "waiting for backend"
@@ -37852,7 +38207,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1866",
       "title": "Adds view for listing discharged patients of a facility",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "waiting-for-review"
       ]
@@ -37860,7 +38215,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1704",
       "title": "Adds authz for Prescription & Medicine Administrations",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "waiting-for-review"
       ]
@@ -37868,7 +38223,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "merge conflict",
         "stale",
@@ -37944,10 +38299,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7008",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7009"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7005",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7006"
     }
   ]
 }

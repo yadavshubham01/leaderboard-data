@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709176266.0,
+  "last_updated": 1709310985.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709310985.0,
+      "title": "coronasafe/care#1934",
+      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1911552775",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1934",
+      "time": 1709302326.0,
+      "link": "https://github.com/coronasafe/care/pull/1934",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1926",
@@ -37,6 +51,19 @@
       "text": "hello maintainers please assign this issue to me \r\n "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1934",
+      "title": "reset password schema for API docs swagger updated #1434",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1926",
+      "title": "added validate on ResetPasswordUserSerializer for username ",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

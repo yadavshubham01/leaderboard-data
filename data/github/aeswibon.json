@@ -1,6 +1,21 @@
 {
-  "last_updated": 1709209269.0,
+  "last_updated": 1709293415.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1911",
+      "time": 1709293415.0,
+      "link": "https://github.com/coronasafe/care/pull/1911",
+      "text": "fix: Adds pagination to Facility linked list API",
+      "turnaround_time": 8254
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7308",
+      "time": 1709280144.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7308#issuecomment-1972701242",
+      "text": "> hi @nihal467 I would also like to work on this issue and where can i find the link to join the community\r\n\r\n@Huzaif-Ahmed This issue is already assigned. You can work on different issue. As for the communtiy link, you can join our slack channel: https://slack.ohc.network/"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7295",

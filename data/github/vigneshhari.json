@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709023510.0,
+  "last_updated": 1709296222.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/docs#6",
+      "time": 1709296222.0,
+      "link": "https://github.com/coronasafe/docs/pull/6",
+      "text": "CEP 4 initial spec"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709293786.0,
+      "title": "coronasafe/care#1866",
+      "link": "https://github.com/coronasafe/care/pull/1866#pullrequestreview-1910952084",
+      "text": "Adds view for listing discharged patients of a facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709293409.0,
+      "title": "coronasafe/care#1911",
+      "link": "https://github.com/coronasafe/care/pull/1911#pullrequestreview-1910942864",
+      "text": "fix: Adds pagination to Facility linked list API"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1893",

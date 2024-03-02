@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709223738.0,
+  "last_updated": 1709335788.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7322",
+      "time": 1709335788.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1935",
+      "time": 1709335649.0,
+      "link": "https://github.com/coronasafe/care/pull/1935",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709298523.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1911094695",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1929",
+      "time": 1709278357.0,
+      "link": "https://github.com/coronasafe/care/pull/1929#issuecomment-1972669177",
+      "text": "@sainak here in the tests part I have only considered the case where it gonna fail(dob) , review it and mention if an further changes needed "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709274292.0,
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1910396110",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709223738.0,
@@ -116,6 +151,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "title": "Replace age field with DOB while Updating User",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1935",
+      "title": "Replace age field with DOB in users model",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
       "stale_for": 0,
@@ -125,7 +172,9 @@
       "link": "https://github.com/coronasafe/care/pull/1928",
       "title": "Add validation checks in ResourceRequestSerializer",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required"
+      ]
     }
   ],
   "authored_issue_and_pr": [

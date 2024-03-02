@@ -25919,5 +25919,58 @@
                 }
             ]
         }
+    ],
+    "2024-03-01 00:00:00": [
+        {
+            "user": "U02TDGQQPMJ",
+            "type": "message",
+            "ts": "1709300939.785309",
+            "client_msg_id": "200ea849-04f3-4420-9fc8-00ef1ad5563a",
+            "text": "*EOD 01/02/2024*\n\n*How did the day go?*\n\n- Made a PR: Fixes missing path param error in update asset bed request : <https://github.com/coronasafe/care_fe/pull/7313>\n- Reviewed 11 pull request(s).\n- Worked on migrating leaderbord\u2019s github timestamp data to be of ISO string rather than number in order for flat github explorer to parse the timestamp",
+            "team": "TC99SV7B6",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yldCW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 01/02/2024",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "How did the day go?",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n- Made a PR: Fixes missing path param error in update asset bed request : "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://github.com/coronasafe/care_fe/pull/7313"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n- Reviewed 11 pull request(s).\n- Worked on migrating leaderbord\u2019s github timestamp data to be of ISO string rather than number in order for flat github explorer to parse the timestamp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }
