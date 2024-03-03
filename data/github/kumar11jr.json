@@ -1,0 +1,21 @@
+{
+  "last_updated": 1709399475.0,
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7325",
+      "time": 1709399475.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7325",
+      "text": "fix: consistent header across all pages"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709353469.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1974284033",
+      "text": "Hii @sainak can i work on this issue."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

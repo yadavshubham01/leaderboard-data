@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709290995.0,
+  "last_updated": 1709369017.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#298",
+      "time": 1709369017.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/298#issuecomment-1974732468",
+      "text": "Please assign me this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1933",

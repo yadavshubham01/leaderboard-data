@@ -1,6 +1,104 @@
 {
-  "last_updated": 1709313996.0,
+  "last_updated": 1709400844.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1937",
+      "time": 1709400844.0,
+      "link": "https://github.com/coronasafe/care/issues/1937",
+      "text": "Configurable storage provider"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1347",
+      "time": 1709400029.0,
+      "link": "https://github.com/coronasafe/care/issues/1347",
+      "text": "TypeError: unhashable type: 'list' at `/api/v1/patient/{patient_external_id}/test_sample/{external_id}/icmr_sample/`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1928",
+      "time": 1709399862.0,
+      "link": "https://github.com/coronasafe/care/pull/1928#issuecomment-1974856138",
+      "text": "@rash-27 fix lint issues https://github.com/coronasafe/care/blob/master/CONTRIBUTING.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1889",
+      "time": 1709399742.0,
+      "link": "https://github.com/coronasafe/care/issues/1889#issuecomment-1974855673",
+      "text": "@DraKen0009 link the issue to pr "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709399687.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1974855444",
+      "text": "sure"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709381123.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1912649555",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709381006.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649203",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380997.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649182",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380938.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912649073",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380860.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912648130",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380860.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1912648130",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709380269.0,
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1912647989",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709365162.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912596678",
+      "text": "update of scrollbar for pages"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709365162.0,
+      "title": "coronasafe/leaderboard#305",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#pullrequestreview-1912596678",
+      "text": "update of scrollbar for pages"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",
@@ -10098,57 +10196,7 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1924",
-      "title": "Fix failing test cases and shuffle case before run",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
-      "title": "add ability to fetch config from care",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 96,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 171,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 85,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 225,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 150,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1883",

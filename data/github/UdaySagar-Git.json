@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709294594.0,
+  "last_updated": 1709411495.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709411495.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327#issuecomment-1974901639",
+      "text": "I would like to work on this issue\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7327",
+      "time": 1709411479.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7327",
+      "text": "Enhance File Upload with Drag and Drop Feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": 1709397364.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1974845788",
+      "text": "I would like to work on this , can you please assign me "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#296",
@@ -420,6 +441,33 @@
       "text": "Improve Input Field UI for Phone Number"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7253",
+      "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
+      "stale_for": 1,
+      "labels": [
+        "changes required",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/271",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/280"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/270",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/296"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/257",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/267"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7248",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7250"
+    }
+  ]
 }

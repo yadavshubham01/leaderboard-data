@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709305100.0,
+  "last_updated": 1709386234.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709386234.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1912660991",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709386227.0,
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1912660979",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709360857.0,
+      "title": "coronasafe/care_fe#7320",
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#pullrequestreview-1912588816",
+      "text": "Rearrange tabs in patient dashboard"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
