@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709395272.0,
+  "last_updated": 1709451266.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": 1709451266.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1975073985",
+      "text": "@nihal467 can you check once why Cypress is failing \r\nbecause it works perfectly on my computer \r\n\r\nI feel it's due to not having the nurse logins "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": 1709448297.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-1975064725",
+      "text": "@rithviknishad can u check once"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7268",

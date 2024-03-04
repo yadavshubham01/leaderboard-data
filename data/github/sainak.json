@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709400844.0,
+  "last_updated": 1709463647.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1702",
+      "time": 1709463647.0,
+      "link": "https://github.com/coronasafe/care/issues/1702",
+      "text": "Fix cors headers in prod"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1702",
+      "time": 1709463626.0,
+      "link": "https://github.com/coronasafe/care/issues/1702",
+      "text": "Fix cors headers in prod"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709463500.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1975121608",
+      "text": "> @sainak just wanted to confirm this will have\r\n> \r\n>     1. a migration file for the addition of two fields in class BaseModel\r\n> \r\n>     2. all the changes where any object of a class extended by BaseModel is either created or modified right ?\r\n\r\nYes, and also override perform create/update function of viewsets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1937",
+      "time": 1709453506.0,
+      "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1975081772",
+      "text": "@balaji-sivasakthi you will have to use local development tools like localstack and arureite"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care#1937",
@@ -10197,82 +10225,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1883",
-      "pr_link": "https://github.com/coronasafe/care/pull/1888"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1681",
-      "pr_link": "https://github.com/coronasafe/care/pull/1682"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1658",
-      "pr_link": "https://github.com/coronasafe/care/pull/1788"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1645",
-      "pr_link": "https://github.com/coronasafe/care/pull/1646"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1627",
-      "pr_link": "https://github.com/coronasafe/care/pull/1628"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1610",
-      "pr_link": "https://github.com/coronasafe/care/pull/1611"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1594",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1593",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care/pull/1546"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
-      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1419",
-      "pr_link": "https://github.com/coronasafe/care/pull/1420"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1417",
-      "pr_link": "https://github.com/coronasafe/care/pull/1418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1351",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1350",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

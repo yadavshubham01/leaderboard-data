@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709407785.0,
+  "last_updated": 1709490907.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#314",
+      "time": 1709490907.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/314",
+      "text": "fixes-client-side-exception"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
@@ -786,9 +793,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/314",
+      "title": "fixes-client-side-exception",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/309",
       "title": "Add rank of contributor on the weeklybasis in profile page",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

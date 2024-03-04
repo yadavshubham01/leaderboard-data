@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709349723.0,
+  "last_updated": 1709465922.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1934",
+      "time": 1709465922.0,
+      "link": "https://github.com/coronasafe/care/pull/1934#issuecomment-1975131299",
+      "text": "@sainak review please "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1934",

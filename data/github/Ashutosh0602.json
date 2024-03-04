@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709408224.0,
+  "last_updated": 1709495493.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7332",
+      "time": 1709495493.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7332",
+      "text": "Search option"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7326",
@@ -202,9 +209,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7332",
+      "title": "Search option",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7310",
       "title": "Fix: Fixes the validation of Username in add new Users section",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "merge conflict"
       ]

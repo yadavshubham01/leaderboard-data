@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709407021.0,
+  "last_updated": 1709468053.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709468053.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1975140709",
+      "text": "@sainak will the migrations files be a separate pr ?\r\n "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
@@ -79,15 +86,6 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7320",
-      "title": "Rearrange tabs in patient dashboard",
-      "stale_for": 0,
-      "labels": [
-        "work-in-progress"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
