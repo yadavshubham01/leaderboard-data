@@ -1,6 +1,56 @@
 {
-  "last_updated": 1709468811.0,
+  "last_updated": 1709572352.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709572352.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1977076258",
+      "text": "@Ashesh3 can i open a pr so that you can review my code and also check whether the import from csv is working fine or not??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709560106.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976621236",
+      "text": "> > Hiii @Ashesh3 just want a quick review I have used react-csv-reader for reading the data from csv currently the UI is looking like this I will change to look more better ![Screenshot 2024-03-04 180626](https://private-user-images.githubusercontent.com/98794736/309755722-e9eb3434-a85e-4532-86e0-2e5c5e14f0bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1NTkyMzcsIm5iZiI6MTcwOTU1ODkzNywicGF0aCI6Ii85ODc5NDczNi8zMDk3NTU3MjItZTllYjM0MzQtYTg1ZS00NTMyLTg2ZTAtMmU1YzVlMTRmMGJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA0VDEzMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDMzNDgzNzk2MTY3MWFlMTcwODdlY2NmNjI3YjY0YTNlYjgyMTU5YjljOTk4YTU5YTNkOTA4YzBmMGNlNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lObAoWVq9kRrCI0thtTO6xfw840JcNJB-B6U_PcyeXE) So when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......\r\n> \r\n> Approach sounds good, let's get the design ready now!\r\n\r\none more query like if the api fails to upload a question, what does it return because while running a loop it may be possible that at some point or due to network, api may get fail so that's why i am asking"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709556091.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976498198",
+      "text": "Hiii @Ashesh3 \r\njust want a quick review \r\nI have used react-csv-reader for reading the data from csv \r\ncurrently the UI is looking like this\r\nI will change to look more better\r\n![Screenshot 2024-03-04 180626](https://github.com/coronasafe/ayushma_fe/assets/98794736/e9eb3434-a85e-4532-86e0-2e5c5e14f0bf)\r\nSo when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709553848.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976430240",
+      "text": "> > hey @Ashesh3 i am unable to login using dummy email do i need to use some other email ??\r\n> \r\n> You can just create a user by yourself too by visiting the registration page.\r\n> \r\n> I've created an account for you, try this:\r\n> \r\n> ```\r\n> Email: admin@admin.com\r\n> Username: admin\r\n> Password: admin\r\n> ```\r\n\r\nok i got it"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#189",
+      "time": 1709551729.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
+      "text": "closes #183 unnecessary packages removed",
+      "turnaround_time": 78224
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709549491.0,
+      "title": "coronasafe/ayushma_fe#189",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1914001628",
+      "text": "closes #183 unnecessary packages removed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709549040.0,
+      "title": "coronasafe/ayushma_fe#189",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1913986093",
+      "text": "closes #183 unnecessary packages removed"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -100,13 +150,6 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/189",
-      "title": "closes #183 unnecessary packages removed",
-      "stale_for": 2,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

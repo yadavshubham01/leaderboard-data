@@ -1,6 +1,53 @@
 {
-  "last_updated": 1709399711.0,
+  "last_updated": 1709587454.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1927",
+      "time": 1709587454.0,
+      "link": "https://github.com/coronasafe/care/pull/1927#issuecomment-1977483323",
+      "text": "contd. #1941 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1941",
+      "time": 1709587146.0,
+      "link": "https://github.com/coronasafe/care/pull/1941",
+      "text": "Loading medibase and icd11 static json and migrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#24",
+      "time": 1709571879.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
+      "text": "Update DraKen0009.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1917",
+      "time": 1709559578.0,
+      "link": "https://github.com/coronasafe/care/pull/1917",
+      "text": "added contraints in consultations and custom migrations",
+      "turnaround_time": 62805
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1917",
+      "time": 1709559578.0,
+      "link": "https://github.com/coronasafe/care/pull/1917",
+      "text": "added contraints in consultations and custom migrations",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1910",
+      "time": 1709558839.0,
+      "link": "https://github.com/coronasafe/care/pull/1910",
+      "text": "Added dummy data for shifting and Resource",
+      "turnaround_time": 19776
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1889",
@@ -156,6 +203,27 @@
       "text": "I'm trying to reproduce the issue , but i guess this is already resolved as I can see dummy data already populated in the shifting and resource tabs \r\n- I've populated the dummy data using make command\r\n![image](https://github.com/coronasafe/care/assets/115104695/672f9b25-90b2-42bf-95d0-8dfa910e3aa7)\r\n\r\nlet me know if I'm doing something wrong or unable to understand the issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1941",
+      "title": "Loading medibase and icd11 static json and migrations",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
+      "title": "Update DraKen0009.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1912",
+      "title": "converted investigation and investigation group data into JSON",
+      "stale_for": 0,
+      "labels": [
+        "blocked"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

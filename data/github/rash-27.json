@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709417657.0,
+  "last_updated": 1709590426.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#26",
+      "time": 1709590426.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
+      "text": "Update rash-27.md"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1937",
+      "time": 1709567041.0,
+      "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1976878949",
+      "text": "- for this already the security checks are made in the serializers \r\n- So , my idea is to create a class and use it where presently the s3 bucket is used (i.e the methods of the models that return URL and etc, in case of file storage) so that multiple storage providers can be accessed via it, \r\n- the basic idea of the class : \r\nclass StorageProvider:\r\ndef __init__(self , provider ,bucket_type  ):\r\n if provider == \"s3\":\r\n self.client = boto3.client(\"s3\", **config) \r\n//similarly we can provide the options for remaining storage providers \r\n// Here implementing the methods required ,  like signed_url , put_object , get_object , etc , \r\n- regarding private and public buckets is we can decide with the help of bucket type and we can change the upload url accordingly \r\n@sainak This is the basic idea of my implementation, and mention if I am wrong somewhere or suggest any changes need to done  "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1928",
@@ -165,10 +200,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
+      "title": "Update rash-27.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7322",
       "title": "Replace age field with DOB while Updating User",
       "stale_for": 0,
       "labels": [
+        "needs testing",
         "waiting for backend"
       ]
     },
@@ -181,13 +223,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 1,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1928",
       "title": "Add validation checks in ResourceRequestSerializer",
-      "stale_for": 0,
+      "stale_for": 2,
       "labels": []
     }
   ],

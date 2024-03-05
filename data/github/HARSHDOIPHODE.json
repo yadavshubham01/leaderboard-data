@@ -1,6 +1,60 @@
 {
-  "last_updated": 1709377096.0,
+  "last_updated": 1709548123.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#317",
+      "time": 1709548123.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/317#issuecomment-1976259205",
+      "text": "can you please assign me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#318",
+      "time": 1709548099.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/318#issuecomment-1976258503",
+      "text": "can you please assign me\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#306",
+      "time": 1709537779.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/306",
+      "text": "Configurable secondary color ",
+      "turnaround_time": 77674
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#306",
+      "time": 1709537779.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/306",
+      "text": "Configurable secondary color ",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#21",
+      "time": 1709537533.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21",
+      "text": "Configure secondary colors in theme",
+      "turnaround_time": 81526
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#21",
+      "time": 1709535744.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#issuecomment-1975859656",
+      "text": "Done @rithviknishad "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534573.0,
+      "title": "coronasafe/leaderboard-data#21",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#pullrequestreview-1913478806",
+      "text": "Configure secondary colors in theme"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard-data#21",

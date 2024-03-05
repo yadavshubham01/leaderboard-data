@@ -1,6 +1,70 @@
 {
-  "last_updated": 1709499986.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#325",
+      "time": 1709557755.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/325",
+      "text": "fixes incorrect display of rank on search",
+      "turnaround_time": 20941
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#325",
+      "time": 1709553952.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/325#issuecomment-1976433353",
+      "text": "@rithviknishad can you please review this pr "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#325",
+      "time": 1709552922.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/325",
+      "text": "fixes incorrect display of rank on search"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#324",
+      "time": 1709551376.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/324#issuecomment-1976360006",
+      "text": "can you please assign me ! "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7305",
+      "time": 1709539341.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7305#issuecomment-1975936269",
+      "text": "> > Hey @Ashesh3 ,\r\n> > Does a file preview for CSV and XLSX files already exist? Or is that open for work? I'm currently working on a similar issue, and I would like to implement a file preview for CSV and XLSX files. I just wanted to confirm before starting the work.\r\n> \r\n> Currently we do not have file preview for CSV and XLSX, you can work on it if you want but remember that we cannot send our document to a third party service to get the render, i.e Google Doc Embed, Office365 embeds won't work for our case, if you can render csv and xlsx files without iframe'ing these third party sites, then sure, take it up!\r\n\r\nI will use the existing packages, read-excel-file and react-csv-reader, for implementation. Is that okay?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7305",
+      "time": 1709538301.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7305#issuecomment-1975911771",
+      "text": "Hey @Ashesh3 ,\r\n\r\nDoes a file preview for CSV and XLSX files already exist? Or is that open for work? I'm currently working on a similar issue, and I would like to implement a file preview for CSV and XLSX files. I just wanted to confirm before starting the work."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7333",
@@ -539,51 +603,6 @@
       "text": "Improve Input Field UI for Phone Number"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/22",
-      "title": "Update UdaySagar-Git.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/313",
-      "title": "Added indication for option selected in Date Range picker",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/310",
-      "title": "Changes Default Values of Roles for Initial Page Load on Leaderboard Page ",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7253",
-      "title": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
-      "stale_for": 0,
-      "labels": [
-        "changes required",
-        "cypress failed"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/271",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/280"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/270",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/296"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/257",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/267"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7248",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7250"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

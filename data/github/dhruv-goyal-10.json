@@ -1,6 +1,24 @@
 {
-  "last_updated": 1709302852.0,
+  "last_updated": 1709558719.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1908",
+      "time": 1709558719.0,
+      "link": "https://github.com/coronasafe/care/pull/1908",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/",
+      "turnaround_time": 47673
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1908",
+      "time": 1709558719.0,
+      "link": "https://github.com/coronasafe/care/pull/1908",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1909",

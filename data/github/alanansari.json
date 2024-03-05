@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709119681.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7297",

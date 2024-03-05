@@ -1,6 +1,83 @@
 {
-  "last_updated": 1709495493.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#322",
+      "time": 1709565288.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#issuecomment-1976815147",
+      "text": "@rithviknishad I have made changes please review it."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709551809.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1914075759",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#322",
+      "time": 1709548823.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#issuecomment-1976281825",
+      "text": "@rithviknishad Is this okay or do you want to suggest some changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#322",
+      "time": 1709548664.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/322",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#321",
+      "time": 1709548050.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/321",
+      "text": "Added new fork and star count feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#320",
+      "time": 1709542004.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/320#issuecomment-1976030448",
+      "text": "@rithviknishad I have created this issue as we discussed.\r\nIf it look okay to you assign me and I will raise PR."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#320",
+      "time": 1709541909.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/320",
+      "text": "feature: Adding new container to show forked and starred count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#319",
+      "time": 1709541632.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/319#issuecomment-1976019001",
+      "text": "I would to like to work this issue, please assign me"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7332",
@@ -207,30 +284,6 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7332",
-      "title": "Search option",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7310",
-      "title": "Fix: Fixes the validation of Username in add new Users section",
-      "stale_for": 1,
-      "labels": [
-        "merge conflict"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/253",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/255"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7262",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7266"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709308544.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#318",
+      "time": 1709546804.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/318#issuecomment-1976214842",
+      "text": "I would like to work on this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1868",
@@ -1069,28 +1097,6 @@
       "text": "Is someone already working on this issue?, if not can you assign it to me"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7315",
-      "title": "Rearranged facility home layout",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1868",
-      "title": "added user type check before creating new asset",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7111",
-      "title": "Added authorization on route for asset creation",
-      "stale_for": 7,
-      "labels": [
-        "changes required",
-        "waiting for backend"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

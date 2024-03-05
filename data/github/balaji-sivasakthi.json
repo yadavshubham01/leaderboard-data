@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709500119.0,
+  "last_updated": 1709583613.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6989",
+      "time": 1709583613.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/6989#issuecomment-1977386673",
+      "text": "i will work this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7280",
+      "time": 1709583314.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7280#issuecomment-1977379392",
+      "text": "Okay, I'll wait for this PR, https://github.com/coronasafe/care/pull/1763, to merge."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1803",
+      "time": 1709582754.0,
+      "link": "https://github.com/coronasafe/care/issues/1803#issuecomment-1977365789",
+      "text": "@sainak, does the Makefile help spin up the container? If so, why would we need to run arm and x86 builds? Could you explain in more detail where we should use it?"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#23",
@@ -66,12 +87,6 @@
     }
   ],
   "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/23",
-      "title": "Update balaji-sivasakthi.md",
-      "stale_for": 0,
-      "labels": []
-    },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7280",
       "title": "feat: added minimum quantity in inventory list",

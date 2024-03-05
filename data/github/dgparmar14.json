@@ -1,6 +1,34 @@
 {
-  "last_updated": 1709490907.0,
+  "last_updated": 1709575374.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#307",
+      "time": 1709575374.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/307",
+      "text": "Different logic of Leaderboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709575225.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1977159924",
+      "text": "I want take this issue can you please assign me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709574595.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1977142881",
+      "text": "I do not remove isRank props because it indicates to show the ranking in the profile page and if we don't add it the ranking will also show in the home page info cards does it right?\r\nOne more thing is that I fetched leaderboard data and use index as ranking only .And for contributor data i don't chnage previous logic."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709543689.0,
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1913794528",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#314",
@@ -791,32 +819,6 @@
       "text": "I want take this task ."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/314",
-      "title": "fixes-client-side-exception",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/309",
-      "title": "Add rank of contributor on the weeklybasis in profile page",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

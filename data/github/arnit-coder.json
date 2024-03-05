@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709296099.0,
+  "last_updated": 1709536561.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709536561.0,
+      "title": "coronasafe/care_fe#7311",
+      "link": "https://github.com/coronasafe/care_fe/pull/7311#pullrequestreview-1913517548",
+      "text": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1930",

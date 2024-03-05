@@ -1,6 +1,55 @@
 {
-  "last_updated": 1709307108.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#189",
+      "time": 1709551745.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189#issuecomment-1976370501",
+      "text": "@vishisht-dubey PR merged, thank you for contributing!"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#183",
+      "time": 1709551730.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/183",
+      "text": "Clean chatbot code and references"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548462.0,
+      "title": "coronasafe/ayushma_fe#189",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1913965619",
+      "text": "closes #183 unnecessary packages removed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548462.0,
+      "title": "coronasafe/ayushma_fe#189",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/189#pullrequestreview-1913965619",
+      "text": "closes #183 unnecessary packages removed"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#183",

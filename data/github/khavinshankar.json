@@ -1,6 +1,41 @@
 {
-  "last_updated": 1709207351.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#4678",
+      "time": 1709559548.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/4678",
+      "text": "Access to discharged patient file"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559539.0,
+      "title": "coronasafe/care_fe#7148",
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#pullrequestreview-1914335453",
+      "text": "Adds support for viewing discharged patients of a facility"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709207351.0,

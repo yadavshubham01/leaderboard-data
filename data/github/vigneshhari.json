@@ -1,6 +1,160 @@
 {
-  "last_updated": 1709296222.0,
+  "last_updated": 1709573246.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/docs#7",
+      "time": 1709573246.0,
+      "link": "https://github.com/coronasafe/docs/issues/7#issuecomment-1977103546",
+      "text": "Keep this as a completely separate section from care. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559623.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1914338427",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1880",
+      "time": 1709559579.0,
+      "link": "https://github.com/coronasafe/care/issues/1880",
+      "text": "Duplicate IP(In Patient) numbers are allowed in consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559568.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1914336450",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559526.0,
+      "title": "coronasafe/care#1917",
+      "link": "https://github.com/coronasafe/care/pull/1917#pullrequestreview-1914335035",
+      "text": "added contraints in consultations and custom migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559333.0,
+      "title": "coronasafe/care#1912",
+      "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1914328578",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559258.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1914325898",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559170.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1914322861",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559006.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1914316868",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559006.0,
+      "title": "coronasafe/care#1901",
+      "link": "https://github.com/coronasafe/care/pull/1901#pullrequestreview-1914316868",
+      "text": "Track Occupation of Patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558833.0,
+      "title": "coronasafe/care#1910",
+      "link": "https://github.com/coronasafe/care/pull/1910#pullrequestreview-1914310901",
+      "text": "Added dummy data for shifting and Resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558794.0,
+      "title": "coronasafe/care#1924",
+      "link": "https://github.com/coronasafe/care/pull/1924#pullrequestreview-1914309509",
+      "text": "Fix failing test cases and shuffle case before run"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558713.0,
+      "title": "coronasafe/care#1908",
+      "link": "https://github.com/coronasafe/care/pull/1908#pullrequestreview-1914306552",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558603.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1914301960",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558603.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1914301960",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558493.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1914298184",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558493.0,
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1914298184",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1866",
+      "time": 1709558258.0,
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "text": "Adds view for listing discharged patients of a facility",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1695",
+      "time": 1709558185.0,
+      "link": "https://github.com/coronasafe/care/issues/1695",
+      "text": "Authz missing for Prescriptions viewset"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1704",
+      "time": 1709558184.0,
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "text": "Adds authz for Prescription & Medicine Administrations",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709558141.0,
+      "title": "coronasafe/care#1704",
+      "link": "https://github.com/coronasafe/care/pull/1704#pullrequestreview-1914287126",
+      "text": "Adds authz for Prescription & Medicine Administrations"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/docs#6",

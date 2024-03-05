@@ -1,6 +1,27 @@
 {
-  "last_updated": 1708314675.0,
+  "last_updated": 1709574817.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1708314675.0,
@@ -488,51 +509,6 @@
       "text": "Added infinite scrolling for chat history #25"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7228",
-      "title": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor",
-      "stale_for": 0,
-      "labels": [
-        "work-in-progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7198",
-      "title": "Improving Doctor Connect UI",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7136",
-      "title": "Extend Update Log to bottom of the screen",
-      "stale_for": 0,
-      "labels": [
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6901",
-      "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 4,
-      "labels": [
-        "needs testing",
-        "need Review"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6530",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6596"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6305",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6405"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

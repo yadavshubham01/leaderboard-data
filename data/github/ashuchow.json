@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709215892.0,
+  "last_updated": 1709561910.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/metabase_manager#14",
+      "time": 1709561910.0,
+      "link": "https://github.com/coronasafe/metabase_manager/issues/14",
+      "text": "Embedded views of dashboards from all instances"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/metabase_manager#13",
@@ -44,19 +51,6 @@
       "text": "Log for Failed Syncs"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/metabase_manager/pull/13",
-      "title": "Consolidated features from Issue 9",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/metabase_manager/pull/12",
-      "title": "Added sorting feature for Card and Path columns",
-      "stale_for": 3,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

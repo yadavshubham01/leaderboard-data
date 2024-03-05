@@ -1,6 +1,55 @@
 {
-  "last_updated": 1709471161.0,
+  "last_updated": 1709571155.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#326",
+      "time": 1709571155.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#issuecomment-1977036640",
+      "text": "Hey @rithviknishad,\r\n\r\nI've cut down the delay of motion.div to just 0.2 seconds and switched the background color to our secondary base"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#330",
+      "time": 1709563934.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/330",
+      "text": "Adding Framer Motion Animation to Feed Page and Home Page Feed Section"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#329",
+      "time": 1709563499.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/329",
+      "text": "Request for Website Architecture and Documentation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#304",
+      "time": 1709559390.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#issuecomment-1976598525",
+      "text": "Hey @rithviknishad \ud83d\ude0a\r\nHere is the new PR link: #326  \r\nI have updated the PR with all your recommendations.\ud83d\udc4d"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#326",
+      "time": 1709559219.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/326",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709556870.0,
+      "title": "coronasafe/leaderboard#304",
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914245655",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709556848.0,
+      "title": "coronasafe/leaderboard#304",
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914244957",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#305",
@@ -343,38 +392,6 @@
       "text": "Improve User Experience by Delaying and Repositioning Interaction Buttons."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/305",
-      "title": "update of scrollbar for pages",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/304",
-      "title": "updating the contributor activity section",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/301",
-      "title": "solving the layout issue of Image",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/278",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/287"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/268",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/276"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma_fe/issues/182",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/184"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

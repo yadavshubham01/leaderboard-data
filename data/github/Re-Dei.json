@@ -1,6 +1,36 @@
 {
-  "last_updated": 1709397923.0,
+  "last_updated": 1709567566.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#331",
+      "time": 1709567566.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/331",
+      "text": "refactor: added debounce to search",
+      "turnaround_time": 2926
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#331",
+      "time": 1709564642.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/331",
+      "text": "refactor: added debounce to search"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#323",
+      "time": 1709553497.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/323#issuecomment-1976419230",
+      "text": "can u assign me this issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#308",
+      "time": 1709550163.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/308",
+      "text": "chore: allocated types, consts and utility functions to separate files",
+      "turnaround_time": 73765
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#248",

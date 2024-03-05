@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709468053.0,
+  "last_updated": 1709584224.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709584224.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1977401636",
+      "text": "> > as in as far as i know its good to have ids while mapping it in the front end also CONSULTATION_TABS is of type Array so id is a compulsory field so what do you think should we remove it ? thoughts @rithviknishad ?\r\n> \r\n> It doesn't serve any purpose. It's purely a front-end and thing and has nothing to do with backend. Let's drop ID, it's also not being referenced anywhere else. Also you can drop the type `Array<OptionsType>` for CONSULTATION_TABS and simply do `as const` which should take care of the type safety.\r\n\r\nchanges are done ptal"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1697",
+      "time": 1709583547.0,
+      "link": "https://github.com/coronasafe/care/issues/1697#issuecomment-1977385110",
+      "text": "@sainak can you pls take a look at the initial pr just wanted to confirm if im in the right direction or not.\r\nmade the migration field and updated the created_by and updated_by fields for some viewsets, once you approve the approach will do it for all the other viewsets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1940",
+      "time": 1709583410.0,
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "text": "Add created_by and updated_by fields to base model"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
@@ -86,6 +107,21 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "title": "Add created_by and updated_by fields to base model",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7320",
+      "title": "Rearrange tabs in patient dashboard",
+      "stale_for": 0,
+      "labels": [
+        "work-in-progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,551 @@
 {
-  "last_updated": 1709374657.0,
+  "last_updated": 1709576458.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709576458.0,
+      "title": "coronasafe/leaderboard-data#25",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/25#pullrequestreview-1914997247",
+      "text": "cleanup"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#332",
+      "time": 1709569086.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/332",
+      "text": "Explicitly specify revalidate duration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709568162.0,
+      "title": "coronasafe/leaderboard#326",
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#pullrequestreview-1914699960",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709568162.0,
+      "title": "coronasafe/leaderboard#326",
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#pullrequestreview-1914699960",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#323",
+      "time": 1709567607.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/323",
+      "text": "Leaderboard Search Filter: Search instantly with debounce"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#331",
+      "time": 1709567597.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/331#issuecomment-1976900067",
+      "text": "@Re-Dei repeating multiple times... kindly link issue in the PR using closing tags"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#329",
+      "time": 1709564409.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/329#issuecomment-1976779153",
+      "text": "https://github.com/coronasafe/docs/issues/7"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/docs#7",
+      "time": 1709563301.0,
+      "link": "https://github.com/coronasafe/docs/issues/7",
+      "text": "Add documentation on leaderboards architecture"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#328",
+      "time": 1709562608.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/328",
+      "text": "Create API's to fetch daily reports of a contributor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709562579.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327",
+      "text": "Show organization \"weeks from start\" in home page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709560793.0,
+      "title": "coronasafe/care_fe#7280",
+      "link": "https://github.com/coronasafe/care_fe/pull/7280#pullrequestreview-1914382424",
+      "text": "feat: added minimum quantity in inventory list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7148",
+      "time": 1709559547.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7148",
+      "text": "Adds support for viewing discharged patients of a facility",
+      "turnaround_time": 86069
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1866",
+      "time": 1709558258.0,
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "text": "Adds view for listing discharged patients of a facility",
+      "turnaround_time": 6761
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1866",
+      "time": 1709558258.0,
+      "link": "https://github.com/coronasafe/care/pull/1866",
+      "text": "Adds view for listing discharged patients of a facility",
+      "collaborated_with": [
+        "vigneshhari"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1704",
+      "time": 1709558184.0,
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "text": "Adds authz for Prescription & Medicine Administrations",
+      "turnaround_time": 23121
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1704",
+      "time": 1709558184.0,
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "text": "Adds authz for Prescription & Medicine Administrations",
+      "collaborated_with": [
+        "vigneshhari",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709557868.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1914278134",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#311",
+      "time": 1709557756.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/311",
+      "text": "Incorrect rank display upon search "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709557747.0,
+      "title": "coronasafe/leaderboard#325",
+      "link": "https://github.com/coronasafe/leaderboard/pull/325#pullrequestreview-1914274237",
+      "text": "fixes incorrect display of rank on search"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#105",
+      "time": 1709551116.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/105",
+      "text": "Bug in the reviews count"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#105",
+      "time": 1709551117.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/105#issuecomment-1976352475",
+      "text": "Closing in favour of #324"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#324",
+      "time": 1709551091.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/324",
+      "text": "Multiple duplicate review events captured by scraper"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#198",
+      "time": 1709550732.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/198#issuecomment-1976341535",
+      "text": "Closing this PR due to no activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709550349.0,
+      "title": "coronasafe/leaderboard#304",
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914026953",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709550349.0,
+      "title": "coronasafe/leaderboard#304",
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914026953",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709550221.0,
+      "title": "coronasafe/leaderboard#304",
+      "link": "https://github.com/coronasafe/leaderboard/pull/304#pullrequestreview-1914026042",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#277",
+      "time": 1709550164.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/277",
+      "text": "Allocating a separate file for constants"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709550155.0,
+      "title": "coronasafe/leaderboard#308",
+      "link": "https://github.com/coronasafe/leaderboard/pull/308#pullrequestreview-1914023981",
+      "text": "chore: allocated types, consts and utility functions to separate files"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#265",
+      "time": 1709549726.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/265#issuecomment-1976309670",
+      "text": "@rhithesh any updates on this?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#323",
+      "time": 1709549697.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/323",
+      "text": "Leaderboard Search Filter: Search instantly with debounce"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7324",
+      "time": 1709549000.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1976287561",
+      "text": "Yup! That's the easy way to make the design consistent and easier to maintain as per the issues requirements."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548908.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1913981626",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548908.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1913981626",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548832.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1913976492",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709548832.0,
+      "title": "coronasafe/leaderboard#322",
+      "link": "https://github.com/coronasafe/leaderboard/pull/322#pullrequestreview-1913976492",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7324",
+      "time": 1709548619.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1976275178",
+      "text": "> @bishwas-10 Create a reusable component that can be used by all pages instead. This way it'd be way easier to ensure all main pages have consistent design.\r\n\r\nThis is still not addressed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709544081.0,
+      "title": "coronasafe/leaderboard#314",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#pullrequestreview-1913808179",
+      "text": "fixes-client-side-exception"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709544080.0,
+      "title": "coronasafe/leaderboard#314",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#pullrequestreview-1913808179",
+      "text": "fixes-client-side-exception"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#233",
+      "time": 1709542032.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/233",
+      "text": "Show recent release events in a seperate section"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#231",
+      "time": 1709542010.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/231",
+      "text": "Multi-select filter for leaderboard contributors role"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7324",
+      "time": 1709541852.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1976025925",
+      "text": "> can i work on the requested changes you ask to change ?\r\nyup!"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709541808.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1913712778",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#319",
+      "time": 1709541478.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/319",
+      "text": "Bottom Border of Navbar is not sticky"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#318",
+      "time": 1709541399.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/318",
+      "text": "Issue with z-index of navbar and contributor badge level"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#317",
+      "time": 1709541222.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/317",
+      "text": "Enhancements to size of filters in Leaderboard page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#316",
+      "time": 1709541047.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/316#issuecomment-1975998148",
+      "text": "Completed in 0d5784d3ee09f03419316f3da7b946f7f35f5a90"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#316",
+      "time": 1709541047.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/316",
+      "text": "Specify a max-width for the navbar"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#303",
+      "time": 1709537780.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/303",
+      "text": "Configurable secondary color"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#306",
+      "time": 1709537779.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/306",
+      "text": "Configurable secondary color ",
+      "collaborated_with": [
+        "HARSHDOIPHODE"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709537768.0,
+      "title": "coronasafe/leaderboard#306",
+      "link": "https://github.com/coronasafe/leaderboard/pull/306#pullrequestreview-1913545393",
+      "text": "Configurable secondary color "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#21",
+      "time": 1709537527.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#issuecomment-1975894867",
+      "text": "Awesome @HARSHDOIPHODE "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709537512.0,
+      "title": "coronasafe/leaderboard-data#21",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#pullrequestreview-1913539432",
+      "text": "Configure secondary colors in theme"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#311",
+      "time": 1709536916.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/311#issuecomment-1975881826",
+      "text": "@UdaySagar-Git nope, ordering should not affect ranks. If order is reversed, last item should have rank 1"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#314",
+      "time": 1709536644.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#issuecomment-1975876399",
+      "text": "@dgparmar14 repeating again kindly link the related issue using closing keywords https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7331",
+      "time": 1709536229.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7331#issuecomment-1975868522",
+      "text": "Closing as duplicate of #7330"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709536102.0,
+      "title": "coronasafe/care_fe#7330",
+      "link": "https://github.com/coronasafe/care_fe/pull/7330#pullrequestreview-1913507611",
+      "text": "fix mobile view button (Set average weekly working hour) problem."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709536032.0,
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1913506232",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535989.0,
+      "title": "coronasafe/care#1938",
+      "link": "https://github.com/coronasafe/care/pull/1938#pullrequestreview-1913505384",
+      "text": "Add django filter for patient review missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7324",
+      "time": 1709535841.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1975861470",
+      "text": "@bishwas-10 Kindly request/wait for issue to be assigned before working on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7325",
+      "time": 1709535814.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7325#issuecomment-1975860926",
+      "text": "Closing as duplicate of #7324\r\n\r\nKindly request for the issue to be assigned before working on it."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535632.0,
+      "title": "coronasafe/care_fe#7324",
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#pullrequestreview-1913498335",
+      "text": "fix #7316 : header is redesigned to be consistent in all pages "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535535.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1913496364",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535535.0,
+      "title": "coronasafe/care#1935",
+      "link": "https://github.com/coronasafe/care/pull/1935#pullrequestreview-1913496364",
+      "text": "Replace age field with DOB in users model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535278.0,
+      "title": "coronasafe/care_fe#7322",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#pullrequestreview-1913491467",
+      "text": "Replace age field with DOB while Updating User"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535182.0,
+      "title": "coronasafe/care_fe#7321",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#pullrequestreview-1913489513",
+      "text": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709535182.0,
+      "title": "coronasafe/care_fe#7321",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#pullrequestreview-1913489513",
+      "text": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709535076.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1975847490",
+      "text": "> as in as far as i know its good to have ids while mapping it in the front end also CONSULTATION_TABS is of type Array so id is a compulsory field so what do you think should we remove it ? thoughts @rithviknishad ?\r\n\r\nIt doesn't serve any purpose. It's purely a front-end and thing and has nothing to do with backend. Let's drop ID, it's also not being referenced anywhere else. Also you can drop the type `Array<OptionsType>` for CONSULTATION_TABS and simply do `as const` which should take care of the type safety."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534887.0,
+      "title": "coronasafe/care_fe#7314",
+      "link": "https://github.com/coronasafe/care_fe/pull/7314#pullrequestreview-1913484371",
+      "text": "Fix: Improving Facility type options"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534868.0,
+      "title": "coronasafe/care_fe#7315",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#pullrequestreview-1913484026",
+      "text": "Rearranged facility home layout"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534693.0,
+      "title": "coronasafe/leaderboard-data#21",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#pullrequestreview-1913480899",
+      "text": "Configure secondary colors in theme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534677.0,
+      "title": "coronasafe/leaderboard-data#21",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/21#pullrequestreview-1913480627",
+      "text": "Configure secondary colors in theme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534581.0,
+      "title": "coronasafe/care#1936",
+      "link": "https://github.com/coronasafe/care/pull/1936#pullrequestreview-1913478953",
+      "text": "Fix:Migration of new facility types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709534489.0,
+      "title": "coronasafe/care_fe#7311",
+      "link": "https://github.com/coronasafe/care_fe/pull/7311#pullrequestreview-1913474027",
+      "text": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",

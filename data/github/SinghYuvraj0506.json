@@ -1,6 +1,31 @@
 {
-  "last_updated": 1709363260.0,
+  "last_updated": 1709569938.0,
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1931",
+      "time": 1709569938.0,
+      "link": "https://github.com/coronasafe/care/issues/1931",
+      "text": "Migration of new facility types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1936",
+      "time": 1709559628.0,
+      "link": "https://github.com/coronasafe/care/pull/1936",
+      "text": "Fix:Migration of new facility types",
+      "turnaround_time": 27859
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1936",
+      "time": 1709559628.0,
+      "link": "https://github.com/coronasafe/care/pull/1936",
+      "text": "Fix:Migration of new facility types",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": 1709363260.0,

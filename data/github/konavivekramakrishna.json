@@ -1,6 +1,14 @@
 {
-  "last_updated": 1708960763.0,
+  "last_updated": 1709559277.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1901",
+      "time": 1709559277.0,
+      "link": "https://github.com/coronasafe/care/pull/1901",
+      "text": "Track Occupation of Patient",
+      "turnaround_time": 86383
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7271",
