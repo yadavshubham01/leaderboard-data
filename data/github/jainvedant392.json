@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709575129.0,
+  "last_updated": 1709632503.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7339",
+      "time": 1709632503.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7101",

@@ -1,6 +1,21 @@
 {
-  "last_updated": 1709574817.0,
+  "last_updated": 1709634753.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#338",
+      "time": 1709634753.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/338",
+      "text": "changed z-index of badge to not clash with navbar",
+      "turnaround_time": 86222
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#338",
+      "time": 1709633971.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/338",
+      "text": "changed z-index of badge to not clash with navbar"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",

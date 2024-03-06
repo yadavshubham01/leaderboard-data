@@ -1,6 +1,67 @@
 {
-  "last_updated": 1709590426.0,
+  "last_updated": 1709644106.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#26",
+      "time": 1709644106.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
+      "text": "Update rash-27.md",
+      "turnaround_time": 53680
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635246.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px",
+      "turnaround_time": 4028
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635246.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635201.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978460771",
+      "text": "Okay, just enabled it thank you "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709633350.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978399655",
+      "text": "Ok I'll fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709631218.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#333",
+      "time": 1709621436.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/333#issuecomment-1978072307",
+      "text": "i would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#239",
+      "time": 1709597101.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/239#issuecomment-1977701485",
+      "text": "I would like to work on this issue "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard-data#26",
@@ -198,45 +259,6 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
-      "title": "Update rash-27.md",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7322",
-      "title": "Replace age field with DOB while Updating User",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "waiting for backend"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1935",
-      "title": "Replace age field with DOB in users model",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1929",
-      "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 3,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1928",
-      "title": "Add validation checks in ResourceRequestSerializer",
-      "stale_for": 2,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709197638.0,
+  "last_updated": 1709653310.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7344",
+      "time": 1709653310.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7344#issuecomment-1979064611",
+      "text": "i would like to work on this would you assign me this issue @aparnacoronasafe "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7344",
+      "time": 1709652231.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7344",
+      "text": "Add footer with copyright <date> next to logo"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/10bedicu#79",
+      "time": 1709649318.0,
+      "link": "https://github.com/coronasafe/10bedicu/pull/79#issuecomment-1978913785",
+      "text": "Hey @sainak  it's been a week , this pr is not merged yet i have improved the changes that you have said in review."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/10bedicu#77",

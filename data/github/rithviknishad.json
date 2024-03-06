@@ -1,6 +1,270 @@
 {
-  "last_updated": 1709576458.0,
+  "last_updated": 1709650217.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709650217.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1978946558",
+      "text": "We could maybe show it below what we do section"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709650081.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1978941744",
+      "text": "Let's not clutter the nav bar. This can be shown in home page alone."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709646654.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978818819",
+      "text": "Oh yea, makes sense. If you think the `minimal` is not used anywhere, let's remove it and keep `showRank` prop instead"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#328",
+      "time": 1709645505.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/328",
+      "text": "Create API's to fetch daily reports of a contributor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#339",
+      "time": 1709645505.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/339",
+      "text": "Adds API for contributor daily reports",
+      "turnaround_time": 82897
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#27",
+      "time": 1709644178.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/27",
+      "text": "Migrate github timestamps"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709644157.0,
+      "title": "coronasafe/leaderboard-data#24",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/24#pullrequestreview-1916856264",
+      "text": "Update DraKen0009.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709644099.0,
+      "title": "coronasafe/leaderboard-data#26",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26#pullrequestreview-1916852805",
+      "text": "Update rash-27.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709643506.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978723889",
+      "text": "> @rithviknishad If use minimal to show rank it will create logical conflicts in info card page beacause the default value of minimal is true\r\n\r\nWe also don't want to show the rank in `minmal=true` situations either right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7341",
+      "time": 1709643420.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7341#issuecomment-1978721276",
+      "text": "@Sagarjari01 make it as a reusable component under CareUI so that it can be used in other places."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709643253.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916821895",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709642397.0,
+      "title": "coronasafe/care#1946",
+      "link": "https://github.com/coronasafe/care/pull/1946#pullrequestreview-1916789383",
+      "text": "Merge migrations"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/docs#13",
+      "time": 1709638504.0,
+      "link": "https://github.com/coronasafe/docs/issues/13",
+      "text": "CARE Billing Module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#339",
+      "time": 1709637305.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/339",
+      "text": "Adds API for contributor daily reports"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#239",
+      "time": 1709635260.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/239",
+      "text": "Content overflowing from the edges of the window on certain screen resolutions"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635246.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px",
+      "collaborated_with": [
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709634920.0,
+      "title": "coronasafe/leaderboard#337",
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#pullrequestreview-1916520743",
+      "text": "Fix overflow in home at 1280px"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709634898.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978451471",
+      "text": "<img width=\"1256\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/97fc7411-ce60-45e7-85a0-67956f55f737\">\r\n\r\n@rash-27 ensure prettier is configured\r\n\r\n<img width=\"689\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/69a7c185-de11-4f0a-bb4a-5d4b0c90b6b9\">\r\n\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#318",
+      "time": 1709634754.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/318",
+      "text": "Issue with z-index of navbar and contributor badge level"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709634746.0,
+      "title": "coronasafe/leaderboard#338",
+      "link": "https://github.com/coronasafe/leaderboard/pull/338#pullrequestreview-1916514763",
+      "text": "changed z-index of badge to not clash with navbar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#336",
+      "time": 1709634218.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/336#issuecomment-1978426358",
+      "text": "Done https://github.com/coronasafe/leaderboard/commit/c9076d550ed42883396ba6ba4e9ec51a71a4978e"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#334",
+      "time": 1709634014.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/334",
+      "text": "Optimize `load-org-data.sh` script to skip cloning if already cloned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709633916.0,
+      "title": "coronasafe/leaderboard#336",
+      "link": "https://github.com/coronasafe/leaderboard/pull/336#pullrequestreview-1916481188",
+      "text": "Updated script to skip cloning if already cloned"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709633134.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978392756",
+      "text": "@rash-27 \r\n\r\n<img width=\"1246\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/a191057f-ed96-4a47-8c58-a19ed73899f0\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709631812.0,
+      "title": "coronasafe/leaderboard#337",
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#pullrequestreview-1916394927",
+      "text": "Fix overflow in home at 1280px"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709628425.0,
+      "title": "coronasafe/leaderboard#335",
+      "link": "https://github.com/coronasafe/leaderboard/pull/335#pullrequestreview-1916261671",
+      "text": "Community Engagement Graph/Trendline  "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709628418.0,
+      "title": "coronasafe/leaderboard#335",
+      "link": "https://github.com/coronasafe/leaderboard/pull/335#pullrequestreview-1916261671",
+      "text": "Community Engagement Graph/Trendline  "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709628418.0,
+      "title": "coronasafe/leaderboard#335",
+      "link": "https://github.com/coronasafe/leaderboard/pull/335#pullrequestreview-1916261671",
+      "text": "Community Engagement Graph/Trendline  "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#334",
+      "time": 1709622007.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/334",
+      "text": "Optimize `load-org-data.sh` script to skip cloning if already cloned"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709619336.0,
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1915944279",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709619336.0,
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1915944279",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#333",
+      "time": 1709619059.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/333",
+      "text": "Adding search bar to `/people` and popover on hover to show contributor details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#332",
+      "time": 1709617296.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/332",
+      "text": "Explicitly specify revalidate duration",
+      "turnaround_time": 48211
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709617148.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1978004206",
+      "text": "Put a dummy date for now, let's update the env just before merge."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709610887.0,
+      "title": "coronasafe/leaderboard#326",
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#pullrequestreview-1915823803",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709610887.0,
+      "title": "coronasafe/leaderboard#326",
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#pullrequestreview-1915823803",
+      "text": "Enhancements: Animated GitHub Activity, Responsive Contributor Section, Improved Design Elements "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709609955.0,
+      "title": "coronasafe/care_fe#7320",
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#pullrequestreview-1915812997",
+      "text": "Rearrange tabs in patient dashboard"
+    },
     {
       "type": "pr_reviewed",
       "time": 1709576458.0,

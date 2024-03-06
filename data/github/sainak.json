@@ -1,6 +1,105 @@
 {
-  "last_updated": 1709576468.0,
+  "last_updated": 1709651562.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1949",
+      "time": 1709651562.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1",
+      "turnaround_time": 1026
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1949",
+      "time": 1709650537.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1948",
+      "time": 1709645191.0,
+      "link": "https://github.com/coronasafe/care/issues/1948",
+      "text": "Convert all tuples to choice classes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709644150.0,
+      "title": "coronasafe/leaderboard#339",
+      "link": "https://github.com/coronasafe/leaderboard/pull/339#pullrequestreview-1916855816",
+      "text": "Adds API for contributor daily reports"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1947",
+      "time": 1709643756.0,
+      "link": "https://github.com/coronasafe/care/pull/1947#issuecomment-1978731672",
+      "text": "test the workflows on your repo and share the action logs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709643660.0,
+      "title": "coronasafe/care#1947",
+      "link": "https://github.com/coronasafe/care/pull/1947#pullrequestreview-1916835925",
+      "text": "build: enable parallel Docker builds for multiple platforms"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": 1709643560.0,
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1978725498",
+      "text": "initial changes look good, you can proceed with adding created_by updated_by to other models as well\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709643250.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916821780",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1946",
+      "time": 1709642268.0,
+      "link": "https://github.com/coronasafe/care/pull/1946",
+      "text": "Merge migrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#336",
+      "time": 1709634070.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/336#issuecomment-1978421801",
+      "text": "Add shebang \n#!/usr/bin/env bash"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1944",
+      "time": 1709619457.0,
+      "link": "https://github.com/coronasafe/care/issues/1944#issuecomment-1978039769",
+      "text": "Noticed that it's a pro feature"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1944",
+      "time": 1709619456.0,
+      "link": "https://github.com/coronasafe/care/issues/1944",
+      "text": "Add persistance to localstack image"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1944",
+      "time": 1709619172.0,
+      "link": "https://github.com/coronasafe/care/issues/1944",
+      "text": "Add persistance to localstack image"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1803",
+      "time": 1709613436.0,
+      "link": "https://github.com/coronasafe/care/issues/1803#issuecomment-1977953700",
+      "text": "> @sainak, does the Makefile help spin up the container? If so, why would we need to run arm and x86 builds? Could you explain in more detail where we should use it?\r\n\r\nthis is regarding the ci pipelines that we have in github actions, https://github.com/coronasafe/care/blob/master/.github/workflows/deployment.yaml"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#25",
@@ -10319,86 +10418,5 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1883",
-      "pr_link": "https://github.com/coronasafe/care/pull/1888"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1702",
-      "pr_link": "https://github.com/coronasafe/care/pull/1703"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1681",
-      "pr_link": "https://github.com/coronasafe/care/pull/1682"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1658",
-      "pr_link": "https://github.com/coronasafe/care/pull/1788"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1645",
-      "pr_link": "https://github.com/coronasafe/care/pull/1646"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1627",
-      "pr_link": "https://github.com/coronasafe/care/pull/1628"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1610",
-      "pr_link": "https://github.com/coronasafe/care/pull/1611"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1594",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1593",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care/pull/1546"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
-      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1419",
-      "pr_link": "https://github.com/coronasafe/care/pull/1420"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1417",
-      "pr_link": "https://github.com/coronasafe/care/pull/1418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1351",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1350",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    }
-  ]
+  "authored_issue_and_pr": []
 }

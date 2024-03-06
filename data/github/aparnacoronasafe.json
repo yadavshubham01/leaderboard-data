@@ -1,6 +1,20 @@
 {
-  "last_updated": 1709035070.0,
+  "last_updated": 1709647199.0,
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7343",
+      "time": 1709647199.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7343",
+      "text": "Change WhatsApp message: doctor connect"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7342",
+      "time": 1709645126.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7342",
+      "text": "Preset save- need to refresh's"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7297",

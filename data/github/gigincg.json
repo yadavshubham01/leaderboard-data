@@ -1,6 +1,51 @@
 {
-  "last_updated": 1709043807.0,
+  "last_updated": 1709651562.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1949",
+      "time": 1709651562.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/docs#14",
+      "time": 1709646303.0,
+      "link": "https://github.com/coronasafe/docs/issues/14",
+      "text": "HMIS Roadmap"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/docs#9",
+      "time": 1709645828.0,
+      "link": "https://github.com/coronasafe/docs/issues/9#issuecomment-1978793741",
+      "text": "@khavinshankar \r\n\r\nPractically speaking this would be a rewrite of [coronasafe/citizen](https://github.com/coronasafe/citizen) as an ABDM enabled Next App on Typescript"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709645439.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916934871",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709645011.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916907656",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709645010.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916907656",
+      "text": "Fix bed assignment validation for admission"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7291",

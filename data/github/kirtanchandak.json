@@ -1,6 +1,13 @@
 {
-  "last_updated": 1709105535.0,
+  "last_updated": 1709625590.0,
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#335",
+      "time": 1709625590.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/335",
+      "text": "Community Engagement Graph/Trendline  "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#240",

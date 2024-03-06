@@ -1,6 +1,48 @@
 {
-  "last_updated": 1709572352.0,
+  "last_updated": 1709657540.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": 1709657540.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1979213078",
+      "text": "Hey @aparnacoronasafe @rithviknishad i am going through the issue i think this message would be correct **Dear Dr. B,\r\n\r\nI trust this message finds you well. I am writing to seek your professional consultation regarding a patient under my care named patient_name. Patient [patient_name] is currently being treated for [disease_name]. I am attaching relevant medical records, test results, and any other important information for your review.\r\nYour insights and recommendations would be highly valued in ensuring the best possible care for Patient. Please let me know a convenient time for you to discuss this case further or if you require any additional information.\r\npatient_details: [patient_details]**\r\n\r\napart from it i waas thinking that see below image\r\n![Screenshot 2024-03-05 222020](https://github.com/coronasafe/care_fe/assets/98794736/fd02d5ca-e13c-4d50-b1d8-e749f5277ec0)\r\nWhen we click on this whole div it routes to whatsapp, if we only provide routing on whatsapp phone by clicking on the icons only it would be much better as sometimes we by mistake click the whole card, what are your suggestions on this please let me  know......"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": 1709647848.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1978860332",
+      "text": "hey @aparnacoronasafe  can i work on this?? please assign this to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/dashboard#123",
+      "time": 1709646223.0,
+      "link": "https://github.com/coronasafe/dashboard/issues/123#issuecomment-1978805582",
+      "text": "@aparnacoronasafe please assign this to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#185",
+      "time": 1709640722.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/185#issuecomment-1978624973",
+      "text": "Hiii @Lobi29 are you still working on this ??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709640600.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1978621527",
+      "text": "Hii @Ashesh3 I have created a pr [#186](https://github.com/coronasafe/ayushma_fe/pull/190) please let me know once you test it."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": 1709640519.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190",
+      "text": "Closes #186 Support for bulk question import from csv "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -150,6 +192,13 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190",
+      "title": "Closes #186 Support for bulk question import from csv ",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

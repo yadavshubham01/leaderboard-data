@@ -1,6 +1,21 @@
 {
-  "last_updated": 1709587454.0,
+  "last_updated": 1709665282.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1948",
+      "time": 1709665282.0,
+      "link": "https://github.com/coronasafe/care/issues/1948#issuecomment-1979447004",
+      "text": "I would like to work on this issue."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#24",
+      "time": 1709644163.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
+      "text": "Update DraKen0009.md",
+      "turnaround_time": 72286
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1927",
@@ -207,19 +222,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1941",
       "title": "Loading medibase and icd11 static json and migrations",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard-data/pull/24",
-      "title": "Update DraKen0009.md",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1912",
       "title": "converted investigation and investigation group data into JSON",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "blocked"
       ]

@@ -1,6 +1,80 @@
 {
-  "last_updated": 1709579667.0,
+  "last_updated": 1709673363.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709673363.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918149032",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709673258.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918143613",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709673145.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918143613",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#12",
+      "time": 1709671109.0,
+      "link": "https://github.com/coronasafe/metabase_manager/pull/12#issuecomment-1979597179",
+      "text": "Hey, are the changes in this PR also there in PR https://github.com/coronasafe/metabase_manager/pull/13 ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7340",
+      "time": 1709654290.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7340#issuecomment-1979100011",
+      "text": "Fixed by https://github.com/coronasafe/care/pull/1945"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7340",
+      "time": 1709654289.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7340",
+      "text": "Unable to create a log update for domiciliary care patient"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1949",
+      "time": 1709651562.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1",
+      "collaborated_with": [
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1945",
+      "time": 1709645445.0,
+      "link": "https://github.com/coronasafe/care/pull/1945",
+      "text": "Fix bed assignment validation for admission",
+      "turnaround_time": 10058
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709642901.0,
+      "title": "coronasafe/care#1946",
+      "link": "https://github.com/coronasafe/care/pull/1946#pullrequestreview-1916808482",
+      "text": "Merge migrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1945",
+      "time": 1709638915.0,
+      "link": "https://github.com/coronasafe/care/pull/1945",
+      "text": "Fix bed assignment validation for admission"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -18136,120 +18210,6 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7305",
-      "title": "Improve File Preview",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1903",
-      "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 12,
-      "labels": [
-        "blocked",
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1900",
-      "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 7,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1657",
-      "title": "POC: AI discharge summary",
-      "stale_for": 151,
-      "labels": [
-        "POC"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5147",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 335,
-      "labels": [
-        "work-in-progress",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1227",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 348,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1893",
-      "pr_link": "https://github.com/coronasafe/care/pull/1896"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1283",
-      "pr_link": "https://github.com/coronasafe/care/pull/1286"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

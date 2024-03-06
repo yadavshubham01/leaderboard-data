@@ -1,6 +1,62 @@
 {
-  "last_updated": 1709583613.0,
+  "last_updated": 1709660359.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1947",
+      "time": 1709660359.0,
+      "link": "https://github.com/coronasafe/care/pull/1947#issuecomment-1979300789",
+      "text": "@sainak https://github.com/balaji-sivasakthi/care/actions/runs/8160557773"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1950",
+      "time": 1709658663.0,
+      "link": "https://github.com/coronasafe/care/pull/1950",
+      "text": "Check parallel"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1947",
+      "time": 1709652202.0,
+      "link": "https://github.com/coronasafe/care/pull/1947#issuecomment-1979023358",
+      "text": "@sainak Is this expected? https://github.com/balaji-sivasakthi/care/actions/runs/8158452073/job/22300432336"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1947",
+      "time": 1709644274.0,
+      "link": "https://github.com/coronasafe/care/pull/1947#issuecomment-1978747612",
+      "text": "@sainak How do I check my forked repository? Does it require any settings?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1947",
+      "time": 1709643511.0,
+      "link": "https://github.com/coronasafe/care/pull/1947",
+      "text": "build: enable parallel Docker builds for multiple platforms"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1803",
+      "time": 1709640015.0,
+      "link": "https://github.com/coronasafe/care/issues/1803#issuecomment-1978600982",
+      "text": "@sainak Got it! Thank you."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/docs#9",
+      "time": 1709634750.0,
+      "link": "https://github.com/coronasafe/docs/issues/9#issuecomment-1978446831",
+      "text": "React Native?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1937",
+      "time": 1709612727.0,
+      "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1977945043",
+      "text": "To decouple the storage provider from specific use cases like patient and facility, we can introduce more flexibility by allowing the specification of bucket types and access controls through parameters. We'll utilize enums for access control and provide the bucket name as a parameter.\r\n\r\n```py\r\n\r\nclass ClientConfig(TypedDict):\r\n    region_name: str\r\n    aws_access_key_id: str\r\n    aws_secret_access_key: str\r\n    endpoint_url: str\r\n\r\nclass CSProvider(enum.Enum):\r\n    AWS = \"AWS\"\r\n    GCP = \"GCP\"\r\n    AZURE = 'AZURE'\r\n    DOCKER = \"DOCKER\"  # localstack in docker\r\n    LOCAL = \"LOCAL\"  # localstack on host\r\n\r\nclass AccessControl(enum.Enum):\r\n    PUBLIC = \"PUBLIC\"\r\n    PRIVATE = \"PRIVATE\"\r\n\r\nclass BucketType(enum.Enum):\r\n    PATIENT = \"PATIENT\"\r\n    FACILITY = \"FACILITY\"\r\n```\r\nThen we will create a factory method for storages based on the `CSProvider` enum, and also initialise the clientConfig and bucket name for getting the signed url\r\n\r\nI will add a class method named from_provider inside the ConfigurableStorageProvider class. This method acts as a factory method to create instances of ConfigurableStorageProvider based on the specified CSProvider. When calling the from_provider method, you provide the desired CSProvider, account_url, and credential. It internally creates a ClientConfig object and initialises the ConfigurableStorageProvider instance accordingly. This approach makes it easier to instantiate the ConfigurableStorageProvider class by encapsulating the logic of creating the ClientConfig object based on the specified provider\r\n\r\n##  LLD\r\n\r\n```py\r\ndef __init__(self, provider: CSProvider, client_config: ClientConfig):\r\n```\r\n```py\r\ndef from_provider(cls, provider: CSProvider, account_url: str, credential: str) -> 'ConfigurableStorageProvider':\r\n```\r\n```py\r\ndef get_signed_url(self, bucket_name: BucketName, object_key: str, expiration: int, access_control: AccessControl) -> str:\r\n```\r\n```py\r\ndef check_mime_type(self, file_path: str, expected_mime_type: str) -> bool:\r\n```\r\n\r\ncc @sainak @rash-27 "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6989",
@@ -88,9 +144,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/1947",
+      "title": "build: enable parallel Docker builds for multiple platforms",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7280",
       "title": "feat: added minimum quantity in inventory list",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

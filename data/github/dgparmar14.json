@@ -1,6 +1,48 @@
 {
-  "last_updated": 1709575374.0,
+  "last_updated": 1709648862.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709648862.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978898235",
+      "text": "> Oh yea, makes sense. If you think the `minimal` is not used anywhere, let's remove it and keep `showRank` prop instead\r\n\r\nSo, I need to change my previous commit?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709647736.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1978854816",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/72081a54-65c1-4667-8f94-ed0504af971e)\r\n\r\nIs it something like this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709644352.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978750074",
+      "text": "Yes, right but deefault value of minimal in info card is false .\r\nAnd if we pass `miminal=false` than it will create problem for below code in info card?\r\nSo the solution is the change the logic or comment down below unused code because we are not using any where info card's below code like github name, linkedin name, slack id right?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#314",
+      "time": 1709643448.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#issuecomment-1978722078",
+      "text": "@rithviknishad Rithvik can you please review it?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": 1709643417.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1978721168",
+      "text": "@rithviknishad  If use minimal to show rank it will create logical conflicts in info card page beacause the default value of minimal is true"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": 1709614303.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1977964447",
+      "text": "@rithviknishad  Could you please provide the starting date of CoronaSafe?\r\n"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#307",

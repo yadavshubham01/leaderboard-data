@@ -1,6 +1,27 @@
 {
-  "last_updated": 1709459790.0,
+  "last_updated": 1709662839.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709662839.0,
+      "title": "coronasafe/care_fe#7301",
+      "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917806860",
+      "text": "Log update vital feature modified "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709658497.0,
+      "title": "coronasafe/care_fe#7301",
+      "link": "https://github.com/coronasafe/care_fe/pull/7301#pullrequestreview-1917634732",
+      "text": "Log update vital feature modified "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": 1709648450.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1978883065",
+      "text": "@aparnacoronasafe please assign me this issue "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#4500",
@@ -114,6 +135,17 @@
       "text": "@aparnacoronasafe can you please assign me this issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7301",
+      "title": "Log update vital feature modified ",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "cypress passed",
+        "reviewed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

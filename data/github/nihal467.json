@@ -1,6 +1,104 @@
 {
-  "last_updated": 1709574817.0,
+  "last_updated": 1709657785.0,
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709657785.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown ",
+      "collaborated_with": [
+        "UdaySagar-Git"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7287",
+      "time": 1709657740.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7287",
+      "text": "feat:Inline view of selected options of Multiselect",
+      "collaborated_with": [
+        "creator79",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": 1709655246.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-1979135419",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/1a121b68-69b6-4bd6-8fa5-3c7583a98423)\r\n\r\n@aparnacoronasafe feel like there are a lot of white spacing issues occurring, can you look into the UI once again"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7314",
+      "time": 1709655075.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7314#issuecomment-1979129638",
+      "text": "@SinghYuvraj0506 fix the failing cypress test"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709654888.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320#issuecomment-1979123092",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7321",
+      "time": 1709654489.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#issuecomment-1979107171",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/b31745bb-f6d1-497f-b504-b13d572acaee)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1945",
+      "time": 1709643059.0,
+      "link": "https://github.com/coronasafe/care/pull/1945#issuecomment-1978710572",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7303",
+      "time": 1709636002.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#issuecomment-1978484945",
+      "text": "@mohanrajnambe \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/ac59612c-26f9-4d3a-8bf5-10a647b1caa9)\r\n\r\nthe add consultation update button is still not working after assigning a bed\r\n\r\n**Steps to replicate the bug** \r\n\r\n- when i click on the add consultation update button for an admission patient with no bed assigned\r\n- the pop-up for assigning bed came in, and I assigned a bed to the patient\r\n- then again try clicking the add consultation update button, it still asks me to assign the bed ( bug)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7340",
+      "time": 1709635255.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7340",
+      "text": "Unable to create a log update for domiciliary care patient"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7301",
+      "time": 1709627283.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7301#issuecomment-1978205788",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": 1709626283.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-1978179032",
+      "text": "@rash-27 you need to modify the cypress test, as it's failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709625876.0,
+      "title": "coronasafe/care_fe#7253",
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#pullrequestreview-1916122066",
+      "text": "Auto-close dropdown when single select option is selected in a multi select dropdown "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7253",
+      "time": 1709625531.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7253#issuecomment-1978160396",
+      "text": "LGTM"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",

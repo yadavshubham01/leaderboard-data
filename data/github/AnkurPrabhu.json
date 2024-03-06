@@ -1,6 +1,21 @@
 {
-  "last_updated": 1709584224.0,
+  "last_updated": 1709670546.0,
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": 1709670546.0,
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1979584252",
+      "text": "> initial changes look good, you can proceed with adding created_by updated_by to other models as well\r\n\r\nHey i made the changes at all the places but i realised that perform_update does not need to update created_by field while saving so i have done all the changes will test it locally and then push it for review "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7320",
+      "time": 1709656805.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7320",
+      "text": "Rearrange tabs in patient dashboard",
+      "turnaround_time": 9307
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7320",
@@ -107,21 +122,6 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1940",
-      "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7320",
-      "title": "Rearrange tabs in patient dashboard",
-      "stale_for": 0,
-      "labels": [
-        "work-in-progress"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
