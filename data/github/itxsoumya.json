@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-03-03T11:38:42.000Z",
+  "last_updated": "2024-03-06T13:42:01+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-06T13:42:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352#issuecomment-1980902951",
+      "text": "file: `src/Components/Patient/FileUpload.tsx/FileUpload/uploadAudiofile`\r\n```js\r\nconst config = {\r\n      headers: {\r\n        \"Content-type\": newFile?.type,\r\n        \"Content-disposition\": \"inline\",\r\n      },\r\n      onUploadProgress: (progressEvent: any) => {\r\n        const percentCompleted = Math.round(\r\n          (progressEvent.loaded * 100) / progressEvent.total\r\n        );\r\n        setUploadPercent(percentCompleted);\r\n      },\r\n    };\r\n```\r\nfetch does not have any `onUploadProgress` handler. It's limited to `axios` . What should I do here?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-06T12:31:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352#issuecomment-1980768663",
+      "text": "Can I work on this issue??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1434",
+      "time": "2024-03-06T09:11:20+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1434#issuecomment-1980406622",
+      "text": "@sainak any update?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1948",
+      "time": "2024-03-06T05:15:23+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1948#issuecomment-1980102953",
+      "text": "Could you plz assign this issue to me ."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1934",

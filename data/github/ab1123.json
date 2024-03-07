@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-02T20:40:34.000Z",
+  "last_updated": "2024-03-06T16:16:10+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7321",
+      "time": "2024-03-06T16:16:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#issuecomment-1981242558",
+      "text": "> @ab1123 can we make it full-width / grow to use available space in smaller than desktop sizes?\r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/57055998/310189337-b31745bb-f6d1-497f-b504-b13d572acaee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NDIwMTcsIm5iZiI6MTcwOTc0MTcxNywicGF0aCI6Ii81NzA1NTk5OC8zMTAxODkzMzctYjMxNzQ1YmItZjZkMS00OTdmLWI1MDQtYjEzZDU3MmFjYWVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDE2MTUxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0MDBhODliMTRiYzA4OWUzNzIzZDk2OGY2ZGVkZmEzNTk3OGIxMTNmZDU0YzcwNmVmYThlYjNmYmE5Y2MxNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4ZB7trTb8oPPCwW9gAiNszdWMXIpV8AIq2LFQ5s2VO0)\r\n\r\nYes sure sir, I will edit the necessary changes"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1937",
@@ -65,13 +72,6 @@
       "text": "Hello, Myself Harsheet Sharma, and I am willing to work on this project. "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7321",
-      "title": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page ",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

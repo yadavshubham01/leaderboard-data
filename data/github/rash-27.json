@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-03-05T13:08:26.000Z",
+  "last_updated": "2024-03-06T06:27:35+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7347",
+      "time": "2024-03-06T06:27:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7347",
+      "text": "Production Release 24.10.1 | Hotfix | `cherrypicked`",
+      "collaborated_with": [
+        "Ashutosh0602",
+        "gigincg",
+        "kshitijv256",
+        "alanansari",
+        "rithviknishad",
+        "sriharsh05",
+        "thedevildude",
+        "Ashesh3",
+        "skks1212",
+        "UdaySagar-Git",
+        "khavinshankar",
+        "aeswibon",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7346",
+      "time": "2024-03-06T06:22:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7346",
+      "text": "Production Release | Revert | Hotfix",
+      "collaborated_with": [
+        "Ashutosh0602",
+        "kshitijv256",
+        "alanansari",
+        "rithviknishad",
+        "sriharsh05",
+        "thedevildude",
+        "Ashesh3",
+        "skks1212",
+        "UdaySagar-Git",
+        "khavinshankar",
+        "aeswibon",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard-data#26",

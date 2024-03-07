@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-05T20:29:06.000Z",
+  "last_updated": "2024-03-06T21:19:32+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-06T21:19:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1981804405",
+      "text": "> Has anyone checked with a different account? I believe the account listed below may be broken in terms of roles.\r\n> \r\n> ```\r\n> Username: district_lab123\r\n> Password: Lilo@123\r\n> ```\r\n\r\ni tried on my local using devdistrict admin, staff and doc everything works fine, i feel like this is some sort of configuration or firewall setting for some apis"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-06T20:50:55+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1981758442",
+      "text": "@sainak i have updated the pr, please take a look and let me know if there are any changes i have tested for some of the models it works fine for me "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1940",
@@ -112,7 +126,7 @@
       "title": "coronasafe/care_fe#7288",
       "time": "2024-02-29T15:33:51.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971395852",
-      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> —\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+      "text": "Yes I am\r\n\r\nOn Thu, 29 Feb 2024, 20:53 Arnit Gupta, ***@***.***> wrote:\r\n\r\n> Hi!\r\n> Is there anyone working on this issue?\r\n> If not may i proceed with the task?\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/coronasafe/care_fe/issues/7288#issuecomment-1971374292>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/AUPCOKCK6HQAHAMN7GEAOYDYV5DXJAVCNFSM6AAAAABD3Y2NZ2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMYTSNZRGM3TIMRZGI>\r\n> .\r\n> You are receiving this because you were assigned.Message ID:\r\n> ***@***.***>\r\n>\r\n"
     },
     {
       "type": "comment_created",
@@ -122,6 +136,13 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "title": "Add created_by and updated_by fields to base model",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,91 @@
 {
-  "last_updated": "2024-03-04T17:53:37.000Z",
+  "last_updated": "2024-03-06T22:04:55+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7332",
+      "time": "2024-03-06T22:04:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#issuecomment-1981883248",
+      "text": "@rithviknishad I fix the previous mentioned changes. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-06T21:19:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1981804195",
+      "text": "@rithviknishad I have made this new PR please review and please drop any changes you want."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-06T21:18:16+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1981802706",
+      "text": "@rithviknishad I have to close the previous PR because of the conflict between commits. Closed PR: #322 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-06T21:16:35+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-06T13:38:47+00:00",
+      "title": "coronasafe/care_fe#7332",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#pullrequestreview-1919789518",
+      "text": "Search option"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-06T13:38:03+00:00",
+      "title": "coronasafe/care_fe#7332",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#pullrequestreview-1919787819",
+      "text": "Search option"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7347",
+      "time": "2024-03-06T06:27:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7347",
+      "text": "Production Release 24.10.1 | Hotfix | `cherrypicked`",
+      "collaborated_with": [
+        "gigincg",
+        "kshitijv256",
+        "alanansari",
+        "rithviknishad",
+        "sriharsh05",
+        "rash-27",
+        "thedevildude",
+        "Ashesh3",
+        "skks1212",
+        "UdaySagar-Git",
+        "khavinshankar",
+        "aeswibon",
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7346",
+      "time": "2024-03-06T06:22:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7346",
+      "text": "Production Release | Revert | Hotfix",
+      "collaborated_with": [
+        "kshitijv256",
+        "alanansari",
+        "rithviknishad",
+        "sriharsh05",
+        "rash-27",
+        "thedevildude",
+        "Ashesh3",
+        "skks1212",
+        "UdaySagar-Git",
+        "khavinshankar",
+        "aeswibon",
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7337",
@@ -211,7 +296,7 @@
       "title": "coronasafe/leaderboard#255",
       "time": "2024-02-26T14:24:13.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/255#issuecomment-1964267660",
-      "text": "@sainak I hope this looks better now. \r\n\r\nWide screen view:\r\n<img width=\"1366\" alt=\"Screenshot 2024-02-26 at 7 53 11 PM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/9f2b112c-cef1-480f-ab86-e23dcf576b2a\">\r\n\r\nMobile screen view:\r\n<img width=\"409\" alt=\"Screenshot 2024-02-26 at 7 53 20 PM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/1edfc590-fe61-4a0c-8f56-d73b0fb0c368\">\r\n"
+      "text": "@sainak I hope this looks better now. \r\n\r\nWide screen view:\r\n<img width=\"1366\" alt=\"Screenshot 2024-02-26 at 7 53 11\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/9f2b112c-cef1-480f-ab86-e23dcf576b2a\">\r\n\r\nMobile screen view:\r\n<img width=\"409\" alt=\"Screenshot 2024-02-26 at 7 53 20\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/1edfc590-fe61-4a0c-8f56-d73b0fb0c368\">\r\n"
     },
     {
       "type": "pr_opened",
@@ -239,7 +324,7 @@
       "title": "coronasafe/care_fe#6773",
       "time": "2024-02-23T23:16:02.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6773#issuecomment-1962124175",
-      "text": "@rithviknishad I was looking over this issue but I found that it is working properly on system.\r\n\r\nThis image is assets page showing location:\r\n<img width=\"1426\" alt=\"Screenshot 2024-02-24 at 4 42 38 AM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4f06bd98-83fb-455c-b64c-1a8377af8624\">\r\n\r\n\r\nThis image on update page showing location correctly:\r\n<img width=\"1412\" alt=\"Screenshot 2024-02-24 at 4 42 50 AM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/52df7bdd-1aa4-4f56-908f-3f325da17d29\">\r\n"
+      "text": "@rithviknishad I was looking over this issue but I found that it is working properly on system.\r\n\r\nThis image is assets page showing location:\r\n<img width=\"1426\" alt=\"Screenshot 2024-02-24 at 4 42 38\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/4f06bd98-83fb-455c-b64c-1a8377af8624\">\r\n\r\n\r\nThis image on update page showing location correctly:\r\n<img width=\"1412\" alt=\"Screenshot 2024-02-24 at 4 42 50\u202fAM\" src=\"https://github.com/coronasafe/care_fe/assets/85889617/52df7bdd-1aa4-4f56-908f-3f325da17d29\">\r\n"
     },
     {
       "type": "pr_opened",
@@ -284,6 +369,36 @@
       "text": "Hello @nihal467 ,\r\nMy name is Ashutosh Rai. Currently, I am pre-final year student in NSUT(formerly NSIT). Being curious about tech I learnt and done projects in  MERN stack and also worked on tech stack like NextJs, NestJs and python based web framework(django, flask). I also worked for startup ArualApp helping them to add new features and improving UX alos and OG (OG raised funds) developed whole website from scratch. \r\n\r\nI am not only committed to participating in GSoC but also genuinely enthusiastic about contributing substantially to your project, aiming to create a significant and positive influence. And this eventually help me to gain better experience and valuable learning. \r\n\r\nI would appreciate your assistance throughout this opportunity."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/348",
+      "title": "Added new Forked and Star count feature",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7332",
+      "title": "Adds support for searching user type in user creation form",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7310",
+      "title": "Fix: Fixes the validation of Username in add new Users section",
+      "stale_for": 4,
+      "labels": [
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/253",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/255"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7262",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7266"
+    }
+  ]
 }

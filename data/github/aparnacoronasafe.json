@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-05T13:59:59.000Z",
+  "last_updated": "2024-03-06T15:02:25+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-06T15:02:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354",
+      "text": "prescription- Log of change"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-06T14:58:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1981057553",
+      "text": "Please go ahead. \r\n\r\nHowever, the suggested design is missing some elements. like the \"Live / Discharge\" tabs. \r\n\r\nPlease be mindful of retaining all the elements in the headers"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-03-06T11:31:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351",
+      "text": "Inconsistency in page design- normal and critical log update"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7350",
+      "time": "2024-03-06T11:29:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7350#issuecomment-1980666913",
+      "text": "@nihal467 please check if Log update is mentioned as \"Daily Round\" or \"consultation update\" anywhere else and add it to the list above"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7350",
+      "time": "2024-03-06T11:29:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7350",
+      "text": "\"Log Update\"- consistency in terminology"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7349",
+      "time": "2024-03-06T11:13:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7349",
+      "text": "Rewording Telemedicine- consultation form"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": "2024-03-06T06:13:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1980157948",
+      "text": "@vishisht-dubey \r\n\r\nThe message that you suggested would be great when a Local doctor is trying to reach a doctor at the hub.\r\n\r\nHowever, the Doctor Connect feature allows communication between different stakeholders. For eg:\r\n- Local doctor to hub doctor\r\n- Hub doctor to local doctor\r\n- Hub doctor to the local nurse\r\n- local nurse to the local doctor\r\n\r\nSo we need a message that holds good in all these above scenarios. A simple message like the one below works well for all.\r\n\"Dr/ms/mr <name of doctor/nurse>\r\n\r\nI have a query regarding a patient.\r\n\r\n< link to patient file >\"\r\n\r\nKeeping the above scenarios in mind, can you see how to improve the message?\r\n\r\n2) The feature to allow WhatsApp routing when the user clicks on the card was introduced after studying user patterns. Doctors generally prefer using communication over WhatsApp. Especially when using CARE on phones, it's very difficult to click precisely on the icon. So allowing users to click anywhere in the card makes it easier. My recommendation is we leave it as is.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-06T06:01:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-1980142929",
+      "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/310193391-1a121b68-69b6-4bd6-8fa5-3c7583a98423.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3MDUxMzUsIm5iZiI6MTcwOTcwNDgzNSwicGF0aCI6Ii81NzA1NTk5OC8zMTAxOTMzOTEtMWExMjFiNjgtNjliNi00YmQ2LThmYTUtM2M3NTgzYTk4NDIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA2VDA2MDAzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmZTI0ODk1YmIzYjNlZWE4ZTkxOGZiZTFiNDgwMDRlNmRiZTdiZTkwZTBlNjQ5YmQwZTViNjg1MDExMTA5YWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dRcWyMyd_ioE1g8ooPEhIZWfGHFA_PKdIUFOvdQhWaE)\r\n> \r\n> @aparnacoronasafe feel like there are a lot of white spacing issues occurring, can you look into the UI once again\r\n\r\n@nihal467 whats your screen size? I am on a 13inch mac.\r\n\r\nThis is what I am seeing at 100% screen size\r\n![Uploading Screenshot 2024-03-06 at 11.30.18 AM.png\u2026]()\r\n\r\nI think it is good to go"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7343",
@@ -2512,14 +2568,14 @@
       "title": "coronasafe/care_fe#3455",
       "time": "2022-08-30T12:09:50.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3455#issuecomment-1231578644",
-      "text": "Tamil: டிஜிட்டல் கருவிகளைப் பயன்படுத்தி பொது சுகாதார சேவைகளின் தரம் மற்றும் அணுகல்தன்மையை தொடர்ந்து மேம்படுத்துவதே எங்கள் குறிக்கோள்."
+      "text": "Tamil: \u0b9f\u0bbf\u0b9c\u0bbf\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd \u0b95\u0bb0\u0bc1\u0bb5\u0bbf\u0b95\u0bb3\u0bc8\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bbf \u0baa\u0bca\u0ba4\u0bc1 \u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bbe\u0bb0 \u0b9a\u0bc7\u0bb5\u0bc8\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bb0\u0bae\u0bcd \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0b85\u0ba3\u0bc1\u0b95\u0bb2\u0bcd\u0ba4\u0ba9\u0bcd\u0bae\u0bc8\u0baf\u0bc8 \u0ba4\u0bca\u0b9f\u0bb0\u0bcd\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bc7 \u0b8e\u0b99\u0bcd\u0b95\u0bb3\u0bcd \u0b95\u0bc1\u0bb1\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0bb3\u0bcd."
     },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#3455",
       "time": "2022-08-30T09:30:00.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3455#issuecomment-1231410004",
-      "text": "kannada:\r\nಡಿಜಿಟಲ್ ಉಪಕರಣಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಸೇವೆಗಳ ಗುಣಮಟ್ಟ ಮತ್ತು ಪ್ರವೇಶವನ್ನು ನಿರಂತರವಾಗಿ ಸುಧಾರಿಸುವುದು ನಮ್ಮ ಗುರಿಯಾಗಿದೆ."
+      "text": "kannada:\r\n\u0ca1\u0cbf\u0c9c\u0cbf\u0c9f\u0cb2\u0ccd \u0c89\u0caa\u0c95\u0cb0\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0cac\u0cb3\u0cb8\u0cbf\u0c95\u0cca\u0c82\u0ca1\u0cc1 \u0cb8\u0cbe\u0cb0\u0ccd\u0cb5\u0c9c\u0ca8\u0cbf\u0c95 \u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf \u0cb8\u0cc7\u0cb5\u0cc6\u0c97\u0cb3 \u0c97\u0cc1\u0ca3\u0cae\u0c9f\u0ccd\u0c9f \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0caa\u0ccd\u0cb0\u0cb5\u0cc7\u0cb6\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0c82\u0ca4\u0cb0\u0cb5\u0cbe\u0c97\u0cbf \u0cb8\u0cc1\u0ca7\u0cbe\u0cb0\u0cbf\u0cb8\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1 \u0ca8\u0cae\u0ccd\u0cae \u0c97\u0cc1\u0cb0\u0cbf\u0caf\u0cbe\u0c97\u0cbf\u0ca6\u0cc6."
     },
     {
       "type": "comment_created",
@@ -2610,7 +2666,7 @@
       "title": "coronasafe/care_fe#3455",
       "time": "2022-08-24T14:41:01.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3455#issuecomment-1225820700",
-      "text": "Marathi: डिजिटल साधनांचा वापर करून सार्वजनिक आरोग्य सेवांची गुणवत्ता आणि सुलभता सतत सुधारणे हे आमचे ध्येय आहे.\r\n"
+      "text": "Marathi: \u0921\u093f\u091c\u093f\u091f\u0932 \u0938\u093e\u0927\u0928\u093e\u0902\u091a\u093e \u0935\u093e\u092a\u0930 \u0915\u0930\u0942\u0928 \u0938\u093e\u0930\u094d\u0935\u091c\u0928\u093f\u0915 \u0906\u0930\u094b\u0917\u094d\u092f \u0938\u0947\u0935\u093e\u0902\u091a\u0940 \u0917\u0941\u0923\u0935\u0924\u094d\u0924\u093e \u0906\u0923\u093f \u0938\u0941\u0932\u092d\u0924\u093e \u0938\u0924\u0924 \u0938\u0941\u0927\u093e\u0930\u0923\u0947 \u0939\u0947 \u0906\u092e\u091a\u0947 \u0927\u094d\u092f\u0947\u092f \u0906\u0939\u0947.\r\n"
     },
     {
       "type": "issue_opened",
@@ -2652,7 +2708,7 @@
       "title": "coronasafe/care_fe#3455",
       "time": "2022-08-23T08:07:09.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3455#issuecomment-1223709296",
-      "text": "Malayalm : ഡിജിറ്റൽ ടൂളുകൾ ഉപയോഗിച്ച് പൊതുജനാരോഗ്യ സേവനങ്ങളുടെ ഗുണനിലവാരവും പ്രവേശനക്ഷമതയും തുടർച്ചയായി മെച്ചപ്പെടുത്തുകയാണ് ഞങ്ങളുടെ ലക്ഷ്യം.\r\n\r\n"
+      "text": "Malayalm : \u0d21\u0d3f\u0d1c\u0d3f\u0d31\u0d4d\u0d31\u0d7d \u0d1f\u0d42\u0d33\u0d41\u0d15\u0d7e \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d1a\u0d4d\u0d1a\u0d4d \u0d2a\u0d4a\u0d24\u0d41\u0d1c\u0d28\u0d3e\u0d30\u0d4b\u0d17\u0d4d\u0d2f \u0d38\u0d47\u0d35\u0d28\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d17\u0d41\u0d23\u0d28\u0d3f\u0d32\u0d35\u0d3e\u0d30\u0d35\u0d41\u0d02 \u0d2a\u0d4d\u0d30\u0d35\u0d47\u0d36\u0d28\u0d15\u0d4d\u0d37\u0d2e\u0d24\u0d2f\u0d41\u0d02 \u0d24\u0d41\u0d1f\u0d7c\u0d1a\u0d4d\u0d1a\u0d2f\u0d3e\u0d2f\u0d3f \u0d2e\u0d46\u0d1a\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d41\u0d15\u0d2f\u0d3e\u0d23\u0d4d \u0d1e\u0d19\u0d4d\u0d19\u0d33\u0d41\u0d1f\u0d46 \u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2f\u0d02.\r\n\r\n"
     },
     {
       "type": "comment_created",
@@ -2960,7 +3016,7 @@
       "title": "coronasafe/care_fe#3333",
       "time": "2022-08-12T12:08:58.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/3333#issuecomment-1213044392",
-      "text": "A quick clarification on the content of the Patient registration form and consultation form\r\n![Uploading Screenshot 2022-08-12 at 5.22.32 PM.png…]()\r\n"
+      "text": "A quick clarification on the content of the Patient registration form and consultation form\r\n![Uploading Screenshot 2022-08-12 at 5.22.32 PM.png\u2026]()\r\n"
     },
     {
       "type": "comment_created",

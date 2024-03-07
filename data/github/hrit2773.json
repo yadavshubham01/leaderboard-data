@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-03T16:39:42.000Z",
+  "last_updated": "2024-03-06T13:22:09+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-03-06T13:22:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351#issuecomment-1980863667",
+      "text": "@aparnacoronasafe what account credentials should we use to reproduce the issue I would like to work on this issue plz assign me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7349",
+      "time": "2024-03-06T11:35:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7349#issuecomment-1980676441",
+      "text": "@aparnacoronasafe assign this issue to me I will merge a PR after rewording it"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",

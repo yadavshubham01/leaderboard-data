@@ -1,6 +1,70 @@
 {
-  "last_updated": "2024-03-05T14:27:42.000Z",
+  "last_updated": "2024-03-06T17:28:07+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#314",
+      "time": "2024-03-06T17:28:07+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314",
+      "text": "fixes-client-side-exception",
+      "turnaround_time": 34658
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-06T16:47:35+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1981323340",
+      "text": "> resolve conflicts\r\n\r\nHave you resolve conflicts? I don't know why my closed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-06T13:04:17+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1980830450",
+      "text": "> The spacing issue is still not solved. Kindly test before requesting for review\r\n\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/7bfeaea8-ff33-43de-83dc-616e7e7cee73)\r\nIs it fine now?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-06T12:49:50+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1980799340",
+      "text": "@rithviknishad  Now it's better?\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/da979f86-0c3c-4d81-8434-9352ab5c0301)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-06T07:23:42+00:00",
+      "title": "coronasafe/leaderboard#314",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#pullrequestreview-1918943679",
+      "text": "fixes-client-side-exception"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-06T05:44:06+00:00",
+      "title": "coronasafe/leaderboard#314",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#pullrequestreview-1918791623",
+      "text": "fixes-client-side-exception"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-06T05:16:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1980103508",
+      "text": "@rithviknishad  All your suggested changes are done please review it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-06T04:30:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1980069156",
+      "text": "@rithviknishad Can you please review it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#314",
+      "time": "2024-03-06T04:29:30+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/314#issuecomment-1980068780",
+      "text": "@rithviknishad Can you please merge and close the issue "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",
