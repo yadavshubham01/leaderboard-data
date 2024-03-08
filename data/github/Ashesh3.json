@@ -1,6 +1,52 @@
 {
-  "last_updated": "2024-03-06T17:16:39+00:00",
+  "last_updated": "2024-03-07T16:38:51+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T16:38:51+00:00",
+      "title": "coronasafe/care_fe#7275",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#pullrequestreview-1922977502",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T12:33:20+00:00",
+      "title": "coronasafe/care_fe#7357",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357#pullrequestreview-1922318067",
+      "text": "Rewording Telemedicine-consultation form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T11:59:16+00:00",
+      "title": "coronasafe/care#1954",
+      "link": "https://github.com/coronasafe/care/pull/1954#pullrequestreview-1922253082",
+      "text": "Allow empty op number"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T11:57:43+00:00",
+      "title": "coronasafe/care#1953",
+      "link": "https://github.com/coronasafe/care/pull/1953#pullrequestreview-1922250136",
+      "text": "Fix patient viewset distinct issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#8",
+      "time": "2024-03-07T08:11:46+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/issues/8#issuecomment-1982867349",
+      "text": "This can be done in 3 phases :-\r\n\r\n1. Adding a new Table for storing logs : - here first make a structure you want to have for the table which will be storing all records, column names, their types and the table name. [ This will go into `prisma/schema.prisma`  file]\r\n\r\n2. Writing database helper functions that store the data: [Refer to `app/api/database/mapping/utils.ts` for an example on how to interact with the database and store entries in a table using code], then create a new folder `app/api/database/logging/utils.ts` and write the equivalent logic there for adding a log entry / updating it when something changes, no need to add support for deleting a log.\r\n\r\n3. Triggering this api call when the proceed button is pressed, and subsequently calling it again as and when the status changes (This can be discussed after step 1 and 2 are done), this involves making a fetch request to that newly added api endpoint. [ Example for api endpoint code `app/api/database/mapping/route.ts` , `app/api.ts` ]"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7314",
+      "time": "2024-03-07T01:37:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7314",
+      "text": "Fix: Improving Facility type options",
+      "collaborated_with": [
+        "SinghYuvraj0506",
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1936",
@@ -17697,6 +17743,124 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7353",
+      "title": "Improve District filter in User Management",
+      "stale_for": 1,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "Deploy-Failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1903",
+      "title": "Migrate consultation's assigned_to to assigned_clinicians",
+      "stale_for": 15,
+      "labels": [
+        "blocked",
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1900",
+      "title": "Add assigned_clinicians field to PatientConsultation model",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1657",
+      "title": "POC: AI discharge summary",
+      "stale_for": 154,
+      "labels": [
+        "POC"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5147",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 338,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1227",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 351,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7240",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7305"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1893",
+      "pr_link": "https://github.com/coronasafe/care/pull/1896"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1283",
+      "pr_link": "https://github.com/coronasafe/care/pull/1286"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
+    }
+  ]
 }

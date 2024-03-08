@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-06T22:04:55+00:00",
+  "last_updated": "2024-03-07T18:58:08+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-07T18:58:08+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1984224511",
+      "text": "I am not so good with UI but let me try.\r\nAnd your suggestion about the changes in UI would be appreciated."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#349",
+      "time": "2024-03-07T10:57:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349#issuecomment-1983262434",
+      "text": "@rithviknishad fixed the fullscreen navbar border.\r\n<img width=\"894\" alt=\"Screenshot 2024-03-07 at 4 27 29\u202fPM\" src=\"https://github.com/coronasafe/leaderboard/assets/85889617/4d090147-82fa-4fe2-be0a-eb909c38e83d\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-07T10:32:19+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1983215502",
+      "text": "@rithviknishad I have added reducer function in count and used proper octokit now.\r\nAny more suggestion?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#346",
+      "time": "2024-03-07T09:05:34+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/346#issuecomment-1983035226",
+      "text": "@rithviknishad I would like to work on this issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#349",
+      "time": "2024-03-07T08:40:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349",
+      "text": "Fix: Bottom Border of Navbar is not sticky"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7332",
+      "time": "2024-03-07T07:01:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#issuecomment-1982644433",
+      "text": "No, 3 out of 7 cypress test failed and rest is passed.\r\nAnd currently I am trying to figure it out. If you can give some suggestion related to cypress I am new to using cypress"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-07T06:58:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1982633319",
+      "text": "@rithviknishad I made new commit please review it."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T06:57:54+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1921584095",
+      "text": "Added new Forked and Star count feature"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7332",
@@ -371,6 +427,12 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/349",
+      "title": "Fix: Bottom Border of Navbar is not sticky",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/348",
       "title": "Added new Forked and Star count feature",
       "stale_for": 0,
@@ -380,12 +442,15 @@
       "link": "https://github.com/coronasafe/care_fe/pull/7332",
       "title": "Adds support for searching user type in user creation form",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "changes required",
+        "cypress failed"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7310",
       "title": "Fix: Fixes the validation of Username in add new Users section",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "merge conflict"
       ]

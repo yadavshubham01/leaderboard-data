@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-03-06T17:28:07+00:00",
+  "last_updated": "2024-03-07T17:54:41+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-07T17:54:41+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1984121798",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/729f55f2-94f5-40ae-b75c-2031124710aa)\r\nIs it something like this?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T16:03:02+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1922873465",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#248",
+      "time": "2024-03-07T14:41:54+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1983651336",
+      "text": "@rithviknishad This issue is solved in my previous PR #314. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-07T14:39:16+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1983646014",
+      "text": "@rithviknishad Can you verify it? or still there is conflicts  i will  solve it"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#347",
+      "time": "2024-03-07T13:35:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/347#issuecomment-1983522355",
+      "text": "No, No exam is not that much important it's not university exam it is mini midsem exam so I can contribute and 3 holidays so i will close all issues assigned to me \ud83d\ude05."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#347",
+      "time": "2024-03-07T12:43:52+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/347#issuecomment-1983432165",
+      "text": "Okay sure, My exam is on going so I am not able to contribute with that much accuracy.  I will solve it all issues soon . "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#347",
+      "time": "2024-03-07T12:25:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/347#issuecomment-1983403974",
+      "text": "**After solving feed page exception problem I am familiar with octokit documentation problem so i want take all of 3 issues. Issues number \r\n#345 #346 #347**"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#314",
@@ -925,6 +974,30 @@
       "text": "I want take this task ."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "title": "Add rank of contributor on the weeklybasis in profile page",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/292",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/314"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
+    }
+  ]
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-04T13:59:33.000Z",
+  "last_updated": "2024-03-07T15:38:07+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-07T15:38:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1983781686",
+      "text": "@rithviknishad ok i will work on that as i  mentioned above will be changed according to your suggestion.\nAnd it will be easy for me to work on this if you guys assign me this issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-07T14:05:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1983575776",
+      "text": "hi @sainak can i work on this issue? \r\nmy implementation plan will be :\r\n\r\n-i will make a reusable component named Header in a Common/components/ directory named in Header.js file\r\n-and another component named HeaderCountBlock in CAREUI/display/Count.js directory for no of counts of respection sections like results sample like this\r\n![image](https://github.com/coronasafe/care_fe/assets/120932783/42ceffd8-d418-42d6-8ca8-f7b08e3f6a8e)\r\n-for the header section each component like searchbox , advanced filter , switch tabs will be sent as a props and will render \r\n\r\nand the final result may look like this \r\n![image](https://github.com/coronasafe/care_fe/assets/120932783/5f5170fe-49ff-447d-b11d-c979ace1e58b)\r\n![image](https://github.com/coronasafe/care_fe/assets/120932783/329b302a-e90a-457e-b89f-e32708444431)\r\n![image](https://github.com/coronasafe/care_fe/assets/120932783/2af93533-d296-4c9c-8d72-0ccd8668ec26)\r\n  will be changed according to your suggestions!!\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7324",
@@ -37,6 +51,16 @@
       "text": "header is redesigned to be consistent in all pages #7316"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7324",
+      "title": "fix #7316 : header is redesigned to be consistent in all pages ",
+      "stale_for": 0,
+      "labels": [
+        "hold",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

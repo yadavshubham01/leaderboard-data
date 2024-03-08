@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-06T15:34:35+00:00",
+  "last_updated": "2024-03-07T19:15:20+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T19:15:20+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1923325231",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T18:05:28+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1923180027",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T18:05:14+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1923179602",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T17:21:25+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1923072087",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7328",
+      "time": "2024-03-07T17:21:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#issuecomment-1984047118",
+      "text": "> @jainvedant392 ensure checks are passing. Cypress tests and Lint checks are failing.\r\n\r\nYeah I will check for that. Can you help me on how to ensure these checks are running successfully?\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7328",

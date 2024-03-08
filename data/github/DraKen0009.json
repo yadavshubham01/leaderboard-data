@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-06T05:57:55+00:00",
+  "last_updated": "2024-03-07T20:15:32+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1955",
+      "time": "2024-03-07T20:15:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1955",
+      "text": "Converting all tuples to choice classes"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1948",

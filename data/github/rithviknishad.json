@@ -1,6 +1,301 @@
 {
-  "last_updated": "2024-03-06T17:59:39+00:00",
+  "last_updated": "2024-03-07T15:59:56+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T15:59:56+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1922864371",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T15:59:56+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1922864371",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7328",
+      "time": "2024-03-07T15:57:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#issuecomment-1983828043",
+      "text": "@jainvedant392 ensure checks are passing. Cypress tests and Lint checks are failing."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T15:56:06+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1922856893",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T15:55:38+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1922855646",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T15:49:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1983809692",
+      "text": "Would you be able to submit the form in the first place without a local body?\r\n\r\ncc: @nihal467 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-07T15:39:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1983784536",
+      "text": "> @rithviknishad ok i will work on that as i mentioned above will be changed according to your suggestion. And it will be easy for me to work on this if you guys assign me this issue\r\n\r\nhttps://github.com/coronasafe/care_fe/issues/7316#issuecomment-1981128727"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-07T15:33:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1983769545",
+      "text": "> hi @sainak can i work on this issue? my implementation plan will be :\r\n> \r\n> -i will make a reusable component named Header in a Common/components/ directory named Header.js file -and another component named HeaderCountBlock in CAREUI/display/Count.js directory for no of counts of each sections like results sample like this ![image](https://private-user-images.githubusercontent.com/120932783/310904891-42ceffd8-d418-42d6-8ca8-f7b08e3f6a8e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MjU2NTksIm5iZiI6MTcwOTgyNTM1OSwicGF0aCI6Ii8xMjA5MzI3ODMvMzEwOTA0ODkxLTQyY2VmZmQ4LWQ0MTgtNDJkNi04Y2E4LWY3YjA4ZTNmNmE4ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QxNTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMzU2ZmY2Yjk3MzI2Mjc3MTdmYjBhNjRiYTE3MDE1ZmFiZWMwYWVlNjk0MWRiYmNkYWUyN2VlMjgzMDdkMmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NNO1cllX3ZiXhnkT3izwtqBsosj5CB6mw3wkH9q9BvA) -for the header section each component like searchbox , advanced filter , switch tabs will be sent as a props and will render\r\n> \r\n> and the final result may look like this ![image](https://private-user-images.githubusercontent.com/120932783/310905937-5f5170fe-49ff-447d-b11d-c979ace1e58b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MjU2NTksIm5iZiI6MTcwOTgyNTM1OSwicGF0aCI6Ii8xMjA5MzI3ODMvMzEwOTA1OTM3LTVmNTE3MGZlLTQ5ZmYtNDQ3ZC1iMTFkLWM5NzlhY2UxZTU4Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QxNTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWM3MzBiZGNiOTlkMWQ4MWVhZTg2MTAyNjAxNTdhYjUxY2VlMzE0ODJhZDIzNjllZTY2MWZmODJlMTU2MzMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.c4gTSEoD3HW7BQK1beenCw6vsjsw8N3rZyE51ZLjFxo) ![image](https://private-user-images.githubusercontent.com/120932783/310906026-329b302a-e90a-457e-b89f-e32708444431.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MjU2NTksIm5iZiI6MTcwOTgyNTM1OSwicGF0aCI6Ii8xMjA5MzI3ODMvMzEwOTA2MDI2LTMyOWIzMDJhLWU5MGEtNDU3ZS1iODlmLWUzMjcwODQ0NDQzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QxNTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YWZkYjc5YmZmODkyNmUyMTc5MmVmMzQ5YWE4OTU0OWE1ZTA5Yjk3NzgyZDIxMTk3ZThjZWFkMDBhOTkwZjFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pMhjmrIONGwu_oZlVt2R74NQY3Rmj7CxGOz6WMDfsmg) ![image](https://private-user-images.githubusercontent.com/120932783/310906075-2af93533-d296-4c9c-8d72-0ccd8668ec26.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MjU2NTksIm5iZiI6MTcwOTgyNTM1OSwicGF0aCI6Ii8xMjA5MzI3ODMvMzEwOTA2MDc1LTJhZjkzNTMzLWQyOTYtNGM5Yy04ZDcyLTBjY2Q4NjY4ZWMyNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QxNTI5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NzMwNTk0YmE4YzEwZTUyNzQwNTNhOTg1ZjFiY2JlNWFlZDU2ZmM0Yjg2Yzk1Njc2YWMzMTdiMDAwNGQ2YTU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BftvNq3wt0MJB9zsGxNkTls7XZO1hHqSIgXzmuFdWVA) will be changed according to your suggestions!!\r\n\r\n@bishwas-10 this still does not look consistent at all across all pages. \r\n\r\nThe objective is to have consistent placement of common elements like filter buttons should be present in the same location on every page. Same with Import/Export, Add (Patient | Asset | ...), etc."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7358",
+      "time": "2024-03-07T14:56:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7356",
+      "time": "2024-03-07T14:53:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7356#issuecomment-1983676321",
+      "text": "I think someone is already assigned to this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#248",
+      "time": "2024-03-07T14:45:19+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/248#issuecomment-1983658544",
+      "text": "Closing as completed in #314"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#248",
+      "time": "2024-03-07T14:45:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/248",
+      "text": "Using a third party fetcher such as tanstack query in `/feed` route and fix crashing of that page in 4th page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1953",
+      "time": "2024-03-07T14:30:08+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1953",
+      "text": "Fix patient viewset distinct issue",
+      "turnaround_time": 10582
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T13:55:26+00:00",
+      "title": "coronasafe/care_fe#7275",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#pullrequestreview-1922454898",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T13:55:26+00:00",
+      "title": "coronasafe/care_fe#7275",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#pullrequestreview-1922454898",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7324",
+      "time": "2024-03-07T13:50:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1983548075",
+      "text": "@bishwas-10 \r\n\r\nAlready multiple other contributors have commented on the related issue to work on this, but was never assigned to them as a mock-up was not submitted. As [mentioned in the issue comment](https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1981128727) you need to drop a mockup in the issue and request to be assigned before working on it.\r\n\r\nAs per [message shared in the slack](https://rebuildearth.slack.com/archives/CC9LWNG1K/p1709716569462299) it is a recommended practice to get the issue assigned before working on it.\r\n\r\n\r\ncc: @nihal467 @sainak"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#352",
+      "time": "2024-03-07T12:56:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/352",
+      "text": "Configurable `favicon.ico` and `logo.webp`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#347",
+      "time": "2024-03-07T12:50:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/347#issuecomment-1983443113",
+      "text": "Try to take up when you are about to start working on it \ud83d\ude04 \r\nOther contributors may be willing to solve it in the meantime"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#347",
+      "time": "2024-03-07T12:40:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/347#issuecomment-1983426655",
+      "text": "@dgparmar14 you've 3 assigned issues with no PR already. Will assign the others once currently assigned ones are completed.\r\n\r\nhttps://github.com/coronasafe/leaderboard/issues?q=assignee%3Adgparmar14+is%3Aopen+sort%3Aupdated-desc"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#295",
+      "time": "2024-03-07T12:39:23+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/295",
+      "text": "Show rank of contributor inside the contributor profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T12:25:48+00:00",
+      "title": "coronasafe/care_fe#7357",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357#pullrequestreview-1922303765",
+      "text": "Rewording Telemedicine-consultation form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T12:00:55+00:00",
+      "title": "coronasafe/care#1954",
+      "link": "https://github.com/coronasafe/care/pull/1954#pullrequestreview-1922256877",
+      "text": "Allow empty op number"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1953",
+      "time": "2024-03-07T11:54:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1953",
+      "text": "Fix patient viewset distinct issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T11:31:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1983315624",
+      "text": "But local body is a mandatory field right. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-07T11:30:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1983313748",
+      "text": "Can we improve the UI a bit? This does not seem to match the design language...\r\n\r\n\r\n<img width=\"629\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/c453b839-d030-4182-a042-b8e342dec721\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T11:15:21+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1922166995",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T11:15:21+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1922166995",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:51:06+00:00",
+      "title": "coronasafe/leaderboard#349",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349#pullrequestreview-1921969509",
+      "text": "Fix: Bottom Border of Navbar is not sticky"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:49:03+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1921958507",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:49:03+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1921958507",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:39:12+00:00",
+      "title": "coronasafe/leaderboard#351",
+      "link": "https://github.com/coronasafe/leaderboard/pull/351#pullrequestreview-1921929555",
+      "text": "fixed -> clicking on commit link on /feed. redirects to GitHub API"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:39:12+00:00",
+      "title": "coronasafe/leaderboard#351",
+      "link": "https://github.com/coronasafe/leaderboard/pull/351#pullrequestreview-1921929555",
+      "text": "fixed -> clicking on commit link on /feed. redirects to GitHub API"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T09:38:35+00:00",
+      "title": "coronasafe/leaderboard#349",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349#pullrequestreview-1921936143",
+      "text": "Fix: Bottom Border of Navbar is not sticky"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-07T09:34:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352#issuecomment-1983097939",
+      "text": "You could try XHR https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/upload"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7356",
+      "time": "2024-03-07T06:37:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7356",
+      "text": "Show a info card in patient list page if filtered by a facility or if the user has access to a single facility only to view the discharged patients of that facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#265",
+      "time": "2024-03-07T06:04:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/265#issuecomment-1982489179",
+      "text": "Yup! Expected behaviour!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7332",
+      "time": "2024-03-07T05:55:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7332#issuecomment-1982458117",
+      "text": "Are you sure the cypress tests are passing?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-07T05:43:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1982427447",
+      "text": "It is \"District Lab Admin\" is the user type. Not \"District Admin\"\r\n\r\nAlso, I'm able to replicate this issue.\r\n\r\nTo replicate this, you'll need to go directly to the URL instead of navigating to the location page through Care.\r\n\r\n<img width=\"1051\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/008c5c4a-bf2d-4b68-afd2-c951565e8ca4\">\r\n\r\nThere seems to be multiple permission issues:\r\n\r\n1. A district lab admin user seems to be able to see \"facilities\" that this user does not have access to. (Although when I click on a facility it gives 404 Not Found)\r\n2. If I directly go to the location management page of such inaccessible facilities, I'm able to list the locations of such facilities. This shouldn't be permitted. \r\n3. Now this user can read and write beds of those locations of inaccessible facilities too, which also shouldn't be permitted.\r\n\r\ncc: @sainak "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T03:41:45+00:00",
+      "title": "coronasafe/care#1951",
+      "link": "https://github.com/coronasafe/care/pull/1951#pullrequestreview-1921380584",
+      "text": "Merge Staging into Master"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-07T02:19:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1982216318",
+      "text": "Have you tried creating a district lab admin user type user and tried replicating the issue with that user?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T02:14:45+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1921252447",
+      "text": "Added new Forked and Star count feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T02:14:45+00:00",
+      "title": "coronasafe/leaderboard#348",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#pullrequestreview-1921252447",
+      "text": "Added new Forked and Star count feature"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#265",
@@ -37028,6 +37323,75 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7358",
+      "title": "Show Live/Discharged tab for patient list when single facility is accessible or filtered.",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5681",
+      "title": "HCX Communication",
+      "stale_for": 17,
+      "labels": [
+        "merge conflict",
+        "stale",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/262",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/263"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/256",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/258"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/228",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/229"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/222",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/226"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/221",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/227"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/220",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/225"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/215",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/214"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7170",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7174"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7166",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
+    }
+  ]
 }

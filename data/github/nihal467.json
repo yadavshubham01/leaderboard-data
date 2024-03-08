@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-03-06T15:11:16+00:00",
+  "last_updated": "2024-03-07T01:37:13+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7314",
+      "time": "2024-03-07T01:37:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7314",
+      "text": "Fix: Improving Facility type options",
+      "collaborated_with": [
+        "Ashesh3",
+        "SinghYuvraj0506"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7305",

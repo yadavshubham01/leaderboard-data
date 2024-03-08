@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-06T17:26:25+00:00",
+  "last_updated": "2024-03-07T14:30:09+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1952",
+      "time": "2024-03-07T14:30:09+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1952",
+      "text": "ProgrammingError: SELECT DISTINCT ON expressions must match initial ORDER BY expressions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T14:30:02+00:00",
+      "title": "coronasafe/care#1953",
+      "link": "https://github.com/coronasafe/care/pull/1953#pullrequestreview-1922593298",
+      "text": "Fix patient viewset distinct issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T14:28:54+00:00",
+      "title": "coronasafe/care#1954",
+      "link": "https://github.com/coronasafe/care/pull/1954#pullrequestreview-1922590506",
+      "text": "Allow empty op number"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-06T17:26:25+00:00",

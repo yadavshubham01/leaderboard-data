@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-02-28T14:35:51.000Z",
+  "last_updated": "2024-03-07T15:55:32+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T15:55:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1983823000",
+      "text": "No, the form will not be submitted.  The logical validation is present.\r\nWhat I am mentioning here is the UI ambiguity on the dropdown which is not handling the 'no options' scenario"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T15:44:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1983797844",
+      "text": "@rithviknishad @aparnacoronasafe \r\nI would like to propose two solutions for this\r\nSolution 1: disable the select when the result option array is empty and show the placeholder of 'No option available'. Also, handle the option length logic in the select component. so that Listbox.Options will not be rendered if empty array is passed for options. \r\nSolution 2: In the SelectMenuV2 component, do a check for the options array length and render the ListBox.Options with passed values when it is not empty and show 'No option found' disabled option in the ListBox when it is empty. \r\n\r\nLet me know your thoughts on this."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T12:33:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1983415626",
+      "text": "Yes, it is. Looks like there exists some districts without local bodies where the no option case is not handled in the dropdown "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T06:06:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1982495300",
+      "text": "@rithviknishad Can you please assign this to me? Also, please let me know your thoughts on the issue "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-07T06:01:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355",
+      "text": "Dropdown collapse when no data for local body"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7303",
+      "time": "2024-03-07T05:40:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#issuecomment-1982418876",
+      "text": "@nihal467 \r\n the add consultation update button is still not working after assigning a bed - bug is fixed and working as expected. Please review and test once again.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7303",
@@ -23,6 +65,16 @@
       "text": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7303",
+      "title": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

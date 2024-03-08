@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-06T20:26:21+00:00",
+  "last_updated": "2024-03-07T13:16:23+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-07T13:16:23+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1983484869",
+      "text": "> @vishisht-dubey ![image](https://private-user-images.githubusercontent.com/23238460/310671528-02742a32-a23b-45b9-9883-64901345d65a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MTc2NTIsIm5iZiI6MTcwOTgxNzM1MiwicGF0aCI6Ii8yMzIzODQ2MC8zMTA2NzE1MjgtMDI3NDJhMzItYTIzYi00NWI5LTk4ODMtNjQ5MDEzNDVkNjVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA3VDEzMTU1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliNDMzMmIxNzE4YjE5NWU2YzY2N2ZmYTI2YmRjOTkxM2EzNDY3NzliMTE1ZTJmMjdmOWRhY2ViMzI4Y2ViZDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.bvigLHuoSvXNH6slUELL6OyzIaWcVElmKXdCdtPCYOg)\r\n> \r\n> * Can you make a better UI for this?\r\n> * Can you fix this for darkmode?\r\n> * Can you share a csv file that I can upload here?\r\n\r\n![Screenshot 2024-03-07 184538](https://github.com/coronasafe/ayushma_fe/assets/98794736/b82dd0df-4adc-4c8e-bbad-f7c29eaacdf0)\r\nis this UI Ok??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-07T12:57:04+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1983453051",
+      "text": "> @vishisht-dubey ![image](https://private-user-images.githubusercontent.com/23238460/310671528-02742a32-a23b-45b9-9883-64901345d65a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk4MTY0MzcsIm5iZiI6MTcwOTgxNjEzNywicGF0aCI6Ii8yMzIzODQ2MC8zMTA2NzE1MjgtMDI3NDJhMzItYTIzYi00NWI5LTk4ODMtNjQ5MDEzNDVkNjVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA3VDEyNTUzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4YTI0MTdlMDYzMTZiZGQxYmNiMzg2YWIyYzQ4MGU1MTQ2ZmFmYWIwODg4M2YyNzYzYjFjN2ZmYTRiM2RiZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.B5-tQr5jcyLG37TcbCuEyLxHt0DZ-K1L6nYoMXU-Nts)\r\n> \r\n> * Can you make a better UI for this?\r\n> * Can you fix this for darkmode?\r\n> * Can you share a csv file that I can upload here?\r\n\r\n[tableConvert.com_0j4u1o.csv](https://github.com/coronasafe/ayushma_fe/files/14524281/tableConvert.com_0j4u1o.csv)\r\nthis is the dummy csv which i am using \r\n\r\ncan i create a custom input element of my own for improving the UI with dark mode compatibility?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#190",
@@ -227,13 +241,6 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/190",
-      "title": "Closes #186 Support for bulk question import from csv ",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

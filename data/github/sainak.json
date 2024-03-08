@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-03-06T17:26:32+00:00",
+  "last_updated": "2024-03-07T16:19:00+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-07T16:19:00+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1983884946",
+      "text": "> @sainak i have updated the pr, please take a look and let me know if there are any changes i have tested for some of the models it works fine for me\r\n\r\nhey @AnkurPrabhu, thanks for these changes, currently focused on some high-priority issues, I'll surely review this pr once I'm done with those "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1954",
+      "time": "2024-03-07T14:29:00+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1954",
+      "text": "Allow empty op number",
+      "turnaround_time": 9294
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-07T11:56:33+00:00",
+      "title": "coronasafe/care#1953",
+      "link": "https://github.com/coronasafe/care/pull/1953#pullrequestreview-1922247859",
+      "text": "Fix patient viewset distinct issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1954",
+      "time": "2024-03-07T11:54:06+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1954",
+      "text": "Allow empty op number"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-07T06:45:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1982592462",
+      "text": "> \"District Lab Admin\" is the user type. Not \"District Admin\"\n> \n> Also, I'm able to replicate this issue.\n> \n> To replicate this, you'll need to go directly to the URL instead of navigating to the location page through Care.\n> \n> <img width=\"1051\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/008c5c4a-bf2d-4b68-afd2-c951565e8ca4\">\n> \n> There seems to be multiple permission issues:\n> \n> 1. A district lab admin user seems to be able to see \"facilities\" that this user does not have access to. (Although when I click on a facility it gives 404 Not Found)\n> 2. If I directly go to the location management page of such inaccessible facilities, I'm able to list the locations of such facilities. This shouldn't be permitted. \n> 3. Now this user can read and write beds of those locations of inaccessible facilities too, which also shouldn't be permitted.\n> \n> cc: @sainak \n\nYes @rithviknishad this is a permission issue, it needs to be restricted on the backend "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1951",
+      "time": "2024-03-07T03:16:01+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1951",
+      "text": "Merge Staging into Master"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1946",
@@ -9853,6 +9896,137 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1951",
+      "title": "Merge Staging into Master",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
+      "title": "add ability to fetch config from care",
+      "stale_for": 7,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6457",
+      "title": "add support for webrtc stream",
+      "stale_for": 102,
+      "labels": [
+        "blocked",
+        "changes required",
+        "merge conflict",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1579",
+      "title": "refactor all files as per ruff rules",
+      "stale_for": 177,
+      "labels": [
+        "In progress"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1559",
+      "title": "feat: use ruff",
+      "stale_for": 91,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/medibase/pull/7",
+      "title": "Update dependencies",
+      "stale_for": 231,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1349",
+      "title": "use signals to update patient and bed count of facilities",
+      "stale_for": 156,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1883",
+      "pr_link": "https://github.com/coronasafe/care/pull/1888"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1702",
+      "pr_link": "https://github.com/coronasafe/care/pull/1703"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1681",
+      "pr_link": "https://github.com/coronasafe/care/pull/1682"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1658",
+      "pr_link": "https://github.com/coronasafe/care/pull/1788"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1645",
+      "pr_link": "https://github.com/coronasafe/care/pull/1646"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1627",
+      "pr_link": "https://github.com/coronasafe/care/pull/1628"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1610",
+      "pr_link": "https://github.com/coronasafe/care/pull/1611"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1594",
+      "pr_link": "https://github.com/coronasafe/care/pull/1591"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1593",
+      "pr_link": "https://github.com/coronasafe/care/pull/1591"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1542",
+      "pr_link": "https://github.com/coronasafe/care/pull/1546"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1542",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
+      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1419",
+      "pr_link": "https://github.com/coronasafe/care/pull/1420"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1417",
+      "pr_link": "https://github.com/coronasafe/care/pull/1418"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1351",
+      "pr_link": "https://github.com/coronasafe/care/pull/1371"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1350",
+      "pr_link": "https://github.com/coronasafe/care/pull/1371"
+    }
+  ]
 }
