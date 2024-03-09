@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-03-07T13:27:11+00:00",
+  "last_updated": "2024-03-08T09:06:09+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#355",
+      "time": "2024-03-08T09:06:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/355",
+      "text": "refactor: migrated projects/ActiveProject.tsx to use octokit"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#345",
+      "time": "2024-03-08T08:40:15+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/345#issuecomment-1985276865",
+      "text": "Since it is returned by a function, I think Next.js wont stop it.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#345",
+      "time": "2024-03-08T08:37:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/345#issuecomment-1985272454",
+      "text": "@rithviknishad I noticed that importing octokit in client component is not prevented which causes a security vulnerability. This can be fixed by adding in lib/octokit.ts\r\n```\r\nimport 'server-only';\r\n```\r\nshould i create a different PR for that or should i include it in this PR? It is only one line of code."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#345",
+      "time": "2024-03-08T07:54:41+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/345#issuecomment-1985213895",
+      "text": "@rithviknishad \r\nI have migrated the ActiveProjects component to use octokit but I have no way of testing if it works. The code is like this:\r\n```\r\nconst data: GraphQLOrgActiveProjectsResponse = await octokit.graphql(\r\n    `\r\n      query getIssues($org: String!, $labelsFilter: String!) {\r\n        organization(login: $org) {\r\n          repositories(first: 100, orderBy: {field: PUSHED_AT, direction: DESC}) {\r\n            edges {\r\n              node {\r\n                name\r\n                issues(first: 100, states: OPEN, labels: [$labelsFilter]) {\r\n                  edges {\r\n                    node {\r\n                      title\r\n                      body\r\n                      url\r\n                      createdAt\r\n                      updatedAt\r\n                      author {\r\n                        login\r\n                      },\r\n                      labels(first: 5) {\r\n                        edges {\r\n                          node {\r\n                            name\r\n                          }\r\n                        }\r\n                      }\r\n                    }\r\n                  }\r\n                }\r\n              }\r\n            }\r\n          }\r\n        }\r\n      }\r\n    `,\r\n    {\r\n      org: env.NEXT_PUBLIC_GITHUB_ORG,\r\n      labelsFilter,\r\n    },\r\n  );\r\n```\r\nRight now it only shows \"No active projects\" locally since GITHUB_PAT is empty."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#345",

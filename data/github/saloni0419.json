@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-03-07T14:00:18+00:00",
+  "last_updated": "2024-03-08T20:05:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-08T20:05:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-1986346292",
+      "text": "@rithviknishad I am making a new component for Prescription Log and integrate it to all required component. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7360",
+      "time": "2024-03-08T19:45:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7360#issuecomment-1986316561",
+      "text": "@nihal467 I have a question regarding this. There is no option to select the future date in DOB. Can you please guide me on how to generate this error\r\n![image](https://github.com/coronasafe/care_fe/assets/100074110/8e9a9ffd-7eda-4e66-a268-825149747b7a)\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7348",
+      "time": "2024-03-08T19:31:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7348#issuecomment-1986287085",
+      "text": "@khavinshankar I have done the changes , please do tell if there is anything more to do"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T18:33:33+00:00",
+      "title": "coronasafe/care_fe#7348",
+      "link": "https://github.com/coronasafe/care_fe/pull/7348#pullrequestreview-1925565315",
+      "text": "Log update vital feature remodified "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7361",
+      "time": "2024-03-08T11:06:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7361#issuecomment-1985500293",
+      "text": "@nihal467 can you please assign this issue to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7360",
+      "time": "2024-03-08T11:04:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7360#issuecomment-1985496712",
+      "text": "@nihal467 can you please assign this issue to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-08T09:17:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-1985332388",
+      "text": "@Sulochan-khadka  yes I am working on this issue."
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-07T14:00:18+00:00",
@@ -170,6 +219,25 @@
       "text": "@aparnacoronasafe can you please assign me this issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7348",
+      "title": "Log update vital feature remodified ",
+      "stale_for": 0,
+      "labels": [
+        "Deploy-Failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7301",
+      "title": "Log update vital feature modified ",
+      "stale_for": 2,
+      "labels": [
+        "tested",
+        "cypress passed",
+        "reviewed"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

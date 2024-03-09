@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-07T01:37:13+00:00",
+  "last_updated": "2024-03-08T17:18:48+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7365",
+      "time": "2024-03-08T17:18:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7365",
+      "text": "Enhancement of Pressure sore and Pain Scale component"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7193",
+      "time": "2024-03-08T11:55:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7193#issuecomment-1985565042",
+      "text": "- [ ] verify button in the fetch data section should check mandatory that push notification is active"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7193",
+      "time": "2024-03-08T11:46:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7193#issuecomment-1985554090",
+      "text": "<img width=\"958\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/57055998/a9d35770-be96-4d44-bda3-2178faa82abd\">\r\n\r\n- [ ] remove the unwanted invisible button from manage patient dropdown"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7361",
+      "time": "2024-03-08T10:31:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7361",
+      "text": "Add validation for facility triage with future date"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7360",
+      "time": "2024-03-08T09:54:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7360",
+      "text": "Show proper error message for invalid DOB in patient registration form"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7314",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-07T16:01:23+00:00",
+  "last_updated": "2024-03-08T15:39:46+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7293",
+      "time": "2024-03-08T15:39:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7293#issuecomment-1985915312",
+      "text": "@ab1123 sure, you can take this up."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#190",
@@ -6961,15 +6968,6 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7292",
-      "title": "Update Security Policy to redirect to issue page",
-      "stale_for": 1,
-      "labels": [
-        "stale"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

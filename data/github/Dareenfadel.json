@@ -1,0 +1,35 @@
+{
+  "last_updated": "2024-03-08T22:20:18+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7366",
+      "time": "2024-03-08T22:20:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366",
+      "text": "\"Fix issue #7361: Block users from entering date out of range\""
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7361",
+      "time": "2024-03-08T11:29:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7361#issuecomment-1985531817",
+      "text": "@nihal467 could you please assign it to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7360",
+      "time": "2024-03-08T11:29:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7360#issuecomment-1985530827",
+      "text": "@nihal467 could you please assign it to me?"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7366",
+      "title": "\"Fix issue #7361: Block users from entering date out of range\"",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

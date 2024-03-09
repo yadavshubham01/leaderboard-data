@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-07T15:55:32+00:00",
+  "last_updated": "2024-03-08T09:51:45+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7359",
+      "time": "2024-03-08T09:51:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#issuecomment-1985383902",
+      "text": "That is a holistic approach. Let me update the PR accordingly!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7359",
+      "time": "2024-03-08T06:53:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359",
+      "text": "Handle no option available case when local body returns empty response "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7355",
@@ -65,16 +79,6 @@
       "text": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7303",
-      "title": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

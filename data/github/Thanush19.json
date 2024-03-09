@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-03-07T23:59:39+00:00",
+  "last_updated": "2024-03-08T15:00:19+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-08T15:00:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1985849250",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/110150744/c70667bc-4afe-4967-a45c-7fe00c20904f\r\n\r\n\r\ni  have submitted my PR #7364,  kindly review it , if any changes need to be done , intimate me @rithviknishad \r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7364",
+      "time": "2024-03-08T14:54:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364",
+      "text": "Comment box UI fix"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-08T00:17:55+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1984825742",
+      "text": "@mohanrajnambe "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-08T00:17:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1984825413",
+      "text": "Hey, if the issue is not completed, I can work\u00a0on\u00a0this."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6612",
+      "time": "2024-03-08T00:03:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6612#issuecomment-1984810210",
+      "text": "Hey, if the issue is not completed, I can work\u00a0on\u00a0this."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-08T00:02:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1984809482",
+      "text": "Hey, if the issue is not completed, I can work\u00a0on\u00a0this.\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-08T00:01:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1984808208",
+      "text": "Hey, if the issue is not completed, I can work on this. @rithviknishad "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6989",

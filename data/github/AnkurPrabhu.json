@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-07T15:36:27+00:00",
+  "last_updated": "2024-03-08T20:16:57+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-08T20:16:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1986359963",
+      "text": "can you assign this to me ?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1697",
@@ -150,6 +157,13 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "title": "Add created_by and updated_by fields to base model",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

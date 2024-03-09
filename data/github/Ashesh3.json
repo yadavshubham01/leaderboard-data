@@ -1,6 +1,69 @@
 {
-  "last_updated": "2024-03-07T16:38:51+00:00",
+  "last_updated": "2024-03-08T18:46:11+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1900",
+      "time": "2024-03-08T18:46:11+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1900#issuecomment-1986226012",
+      "text": "@vigneshhari could you review this?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1647",
+      "time": "2024-03-08T18:44:51+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1647#issuecomment-1986223455",
+      "text": "@Shahbaz898414 Issue is already assigned and PR is already open for it \ud83d\ude05 Feel free to take up another issue!\r\n\r\nhttps://github.com/coronasafe/care/pull/1900"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7328",
+      "time": "2024-03-08T10:53:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#issuecomment-1985480250",
+      "text": "Seems like all checks are passing - LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#4558",
+      "time": "2024-03-08T10:52:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/4558#issuecomment-1985478226",
+      "text": "> @Ashesh3 can i work on this issue? and if i can can you provide brief description about the issue as there is only issue titile!\r\n\r\nHey, I only have the following context on this issue:\r\n\r\nhttps://github.com/coronasafe/care_fe/issues/4558#issuecomment-1384031287\r\n\r\ncc: @nihal467 could you provide more details on this issue?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:15:11+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924544712",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:12:12+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924538893",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:12:05+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924538539",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:11:42+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924537547",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:10:29+00:00",
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1924533892",
+      "text": "Track occupation of patient"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-07T16:38:51+00:00",
@@ -17747,7 +17810,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7353",
       "title": "Improve District filter in User Management",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "needs testing",
         "needs review",
@@ -17757,7 +17820,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "blocked",
         "waiting-for-review"
@@ -17766,13 +17829,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1900",
       "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 154,
+      "stale_for": 155,
       "labels": [
         "POC"
       ]
@@ -17780,7 +17843,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 338,
+      "stale_for": 339,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17789,7 +17852,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 351,
+      "stale_for": 352,
       "labels": []
     }
   ],

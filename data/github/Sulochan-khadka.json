@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-07T20:08:50+00:00",
+  "last_updated": "2024-03-08T05:21:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-08T05:21:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352#issuecomment-1985057235",
+      "text": "hey @rithviknishad would you mind explaining me why to replace axios? Is it not appropriate or something or efficiency related or something else?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-08T05:16:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-1985053431",
+      "text": "@aparnacoronasafe may you kindly attach the screenshots so that I can understand better. And also is the issue being worked on?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-08T05:13:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-1985051420",
+      "text": "@saloni0419 are you currently working on this? If not, let me know ... And if by any chance you require any help , let me know as well."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7159",

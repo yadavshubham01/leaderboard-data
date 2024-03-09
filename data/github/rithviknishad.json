@@ -1,6 +1,202 @@
 {
-  "last_updated": "2024-03-07T15:59:56+00:00",
+  "last_updated": "2024-03-08T10:19:10+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-08T10:19:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1985427178",
+      "text": "Yes better than before. Maybe we could also make the border have lesser contrast.\r\nAlso it'd look better with the numbers being in bold and wider... `font-bold tracking-wider/widest`."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:14:24+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924543475",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T10:13:40+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1924542278",
+      "text": "Show Live/Discharged tab for patient list when single facility is accessible or filtered."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-08T09:44:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-1985373537",
+      "text": "@saloni0419 could you specify how you are planning to solve this issue?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T09:43:03+00:00",
+      "title": "coronasafe/care_fe#7359",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#pullrequestreview-1924484452",
+      "text": "Handle no option available case when local body returns empty response "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-08T09:42:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1985369315",
+      "text": "Yes, that's what I meant. Let's show the count that's present in `/people` page here too. same logic"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T09:39:05+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1924477522",
+      "text": "Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T09:10:23+00:00",
+      "title": "coronasafe/leaderboard#354",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354#pullrequestreview-1924416840",
+      "text": "Migrate fetchGitHubReleases Method to Use Octokit for GitHub API Interactions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T09:10:23+00:00",
+      "title": "coronasafe/leaderboard#354",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354#pullrequestreview-1924416840",
+      "text": "Migrate fetchGitHubReleases Method to Use Octokit for GitHub API Interactions"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T08:59:03+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1924399455",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#345",
+      "time": "2024-03-08T08:38:58+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/345#issuecomment-1985274679",
+      "text": "Yup! Add it. But wouldn't NextJS build itself stop us from accessing non `NEXT_PUBLIC` env variables?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T08:34:59+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1924351189",
+      "text": "Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-08T05:44:13+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1985073974",
+      "text": "@Ashutosh0602 we could do something like this maybe? And since now the text is removed, we could add one more indicator to show the community engagement: \"No. of contributors\"\r\n\r\n<img width=\"195\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/fedd363c-900b-495d-a18b-802b8dcb9c8b\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T05:35:52+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1924060104",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-08T05:32:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352#issuecomment-1985065521",
+      "text": "Hey, yes. So most of the requests are currently made using browser fetch and not axios. And for very minor use cases like file upload, only we are using axios.\r\n\r\nJust for these minor use cases adding axios to the bundle size is not ideal. It'd be great if we could reduce the bundle size."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7316",
+      "time": "2024-03-08T05:27:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1985061519",
+      "text": "@SinghYuvraj0506 This looks great and example code seems to be very reusable and would lead to a consistent design pattern.\r\n\r\nJust letting you know that, we generally refrain from \"Icon Only\" designs. It'd be great if labels are also present along with the icons so any users who may not be able to interpret icons would also find it easy to use."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T05:09:52+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1924037098",
+      "text": "I333"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T05:09:52+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1924037098",
+      "text": "I333"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T05:03:53+00:00",
+      "title": "coronasafe/leaderboard#353",
+      "link": "https://github.com/coronasafe/leaderboard/pull/353#pullrequestreview-1924035973",
+      "text": "I333"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7159",
+      "time": "2024-03-08T05:00:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7159#issuecomment-1985041745",
+      "text": "The backend currently uses a package that supports uploading to any services and is not specific to S3. You can look at how patient file uploads are done by exploring the platform. We could do something similar to patient file uploads. (Or maybe upload it to patient files itself and add support to reference those files in the doctor notes)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T04:54:37+00:00",
+      "title": "coronasafe/leaderboard#351",
+      "link": "https://github.com/coronasafe/leaderboard/pull/351#pullrequestreview-1924029541",
+      "text": "fixed -> clicking on commit link on /feed. redirects to GitHub API"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6612",
+      "time": "2024-03-08T04:52:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6612#issuecomment-1985036540",
+      "text": "A rework of the entire inventory management is happening in #7155 \r\nClosing as not planned\r\n\r\ncc: @khavinshankar "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6612",
+      "time": "2024-03-08T04:52:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6612",
+      "text": "Add Minimum quantity data in the inventory list page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7355",
+      "time": "2024-03-08T04:50:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7355#issuecomment-1985035242",
+      "text": "> No, the form will not be submitted. The logical validation is present. What I am mentioning here is the UI ambiguity on the dropdown which is not handling the 'no options' scenario\r\n\r\n@mohanrajnambe Alright. Yes, I think we can disable the select menu and override the placeholder with \"No options available\""
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T04:46:34+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1924024247",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T04:46:34+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1924024247",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T04:44:32+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1924022996",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-08T02:32:57+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1923918074",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-07T15:59:56+00:00",
@@ -37323,75 +37519,6 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7358",
-      "title": "Show Live/Discharged tab for patient list when single facility is accessible or filtered.",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5681",
-      "title": "HCX Communication",
-      "stale_for": 17,
-      "labels": [
-        "merge conflict",
-        "stale",
-        "cypress failed"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/262",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/263"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/256",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/258"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/228",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/229"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/222",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/226"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/221",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/227"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/220",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/225"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7188",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7189"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/215",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/213",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/214"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7170",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7174"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7166",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7157"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }
