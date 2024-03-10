@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-08T22:20:18+00:00",
+  "last_updated": "2024-03-09T08:40:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7361",
+      "time": "2024-03-09T08:40:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7361#issuecomment-1986796068",
+      "text": "@nihal467 i made a general solution that will be in all dataformfields so any component use it will check if disabel future or past is applied it will prevent user from entering input not allowed but the message here will be general \r\n However, if you need to have each case handled alone so you can customize a message i can do and also do for each dateformfield used in the project"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7366",
@@ -23,13 +30,6 @@
       "text": "@nihal467 could you please assign it to me?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7366",
-      "title": "\"Fix issue #7361: Block users from entering date out of range\"",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

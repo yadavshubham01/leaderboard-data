@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-08T15:39:46+00:00",
+  "last_updated": "2024-03-09T14:10:08+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/ayushma_fe#191",
+      "time": "2024-03-09T14:10:08+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/191",
+      "text": "Migrate unmigrated styles to dark theme"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-09T11:27:39+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1986830847",
+      "text": "@Ashesh3 I agree, this would look better"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-09T09:57:11+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1986812250",
+      "text": "@Ashesh3 any comments on the UI?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7293",
@@ -6968,6 +6989,15 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7292",
+      "title": "Update Security Policy to redirect to issue page",
+      "stale_for": 3,
+      "labels": [
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

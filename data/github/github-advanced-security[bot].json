@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-09T10:56:53+00:00",
+  "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-09T10:56:53+00:00",
+      "title": "coronasafe/care_fe#7367",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#pullrequestreview-1926178977",
+      "text": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
