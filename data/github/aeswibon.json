@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-06T06:27:35+00:00",
+  "last_updated": "2024-03-10T14:19:14+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1921",
+      "time": "2024-03-10T14:19:14+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1921#issuecomment-1987248850",
+      "text": "Would like to work on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1920",
+      "time": "2024-03-10T14:18:59+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1920#issuecomment-1987248794",
+      "text": "Would like to work on this issue."
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7347",

@@ -1,6 +1,42 @@
 {
-  "last_updated": "2024-03-08T11:04:27+00:00",
+  "last_updated": "2024-03-10T16:25:55+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#349",
+      "time": "2024-03-10T16:25:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349",
+      "text": "Fix: Bottom Border of Navbar is not sticky",
+      "turnaround_time": 27955
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#349",
+      "time": "2024-03-10T14:56:15+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/349#issuecomment-1987260243",
+      "text": "@rithviknishad Please check if it is correct or not?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#348",
+      "time": "2024-03-10T14:55:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/348#issuecomment-1987259920",
+      "text": "@rithviknishad Is there to make any changes here?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#365",
+      "time": "2024-03-10T14:54:08+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365#issuecomment-1987259494",
+      "text": "@rithviknishad I have tried to replace fetch ocktokit is it right?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#365",
+      "time": "2024-03-10T14:53:24+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/365",
+      "text": "Replaced fetch with Ocktokit in GitHubEvents"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#348",

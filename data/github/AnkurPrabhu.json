@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-08T20:16:57+00:00",
+  "last_updated": "2024-03-10T07:16:44+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-10T07:16:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1987115810",
+      "text": "> 1. A district lab admin user seems to be able to see \"facilities\" that this user does not have access to. (Although when I click on a facility it gives 404 Not Found)\r\n\r\n@rithviknishad can you pls explain what do you mean by this as on what bases do we need to validate if user has access to these facilities ?\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",
@@ -157,13 +164,6 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1940",
-      "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

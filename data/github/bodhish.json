@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-02-22T18:53:12.000Z",
+  "last_updated": "2024-03-10T16:34:04+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T16:34:04+00:00",
+      "title": "coronasafe/care_fe#7370",
+      "link": "https://github.com/coronasafe/care_fe/pull/7370#pullrequestreview-1926582002",
+      "text": "Improve contributing guidelines in README"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T14:51:36+00:00",
+      "title": "coronasafe/care_fe#7370",
+      "link": "https://github.com/coronasafe/care_fe/pull/7370#pullrequestreview-1926563455",
+      "text": "Improve contributing guidelines in README"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7364",
+      "time": "2024-03-10T12:37:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#issuecomment-1987213979",
+      "text": "I think we should publish a small section in the readme about commit messages; "
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-02-22T18:53:12.000Z",
@@ -318,14 +339,14 @@
       "title": "coronasafe/leaderboard#115",
       "time": "2023-03-20T11:02:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#issuecomment-1476023088",
-      "text": "The quotes look odd 🧐\r\n![IMG_7739](https://user-images.githubusercontent.com/14979190/226321109-ff96ed43-ef3e-4602-aefd-28182fb907b1.jpeg)\r\n"
+      "text": "The quotes look odd \ud83e\uddd0\r\n![IMG_7739](https://user-images.githubusercontent.com/14979190/226321109-ff96ed43-ef3e-4602-aefd-28182fb907b1.jpeg)\r\n"
     },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#115",
       "time": "2023-03-20T11:00:57.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/115#issuecomment-1476019588",
-      "text": "@skks1212 you may have to move documentation for the env file into readme. 😅"
+      "text": "@skks1212 you may have to move documentation for the env file into readme. \ud83d\ude05"
     },
     {
       "type": "pr_reviewed",
@@ -525,7 +546,7 @@
       "title": "coronasafe/leaderboard#88",
       "time": "2022-09-27T04:50:08.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/88#issuecomment-1258975554",
-      "text": "@khavinshankar can we add a date at the end? \r\n\r\n```\r\n-> {issue_name} | x days\r\n```\r\n\r\nAlso I would avoid the blink and make it a filter 😄 "
+      "text": "@khavinshankar can we add a date at the end? \r\n\r\n```\r\n-> {issue_name} | x days\r\n```\r\n\r\nAlso I would avoid the blink and make it a filter \ud83d\ude04 "
     },
     {
       "type": "issue_closed",
@@ -560,7 +581,7 @@
       "title": "coronasafe/leaderboard#83",
       "time": "2022-09-27T04:45:44.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/83#issuecomment-1258973237",
-      "text": "Not a fan of that border 🥲 "
+      "text": "Not a fan of that border \ud83e\udd72 "
     },
     {
       "type": "issue_closed",
@@ -700,7 +721,7 @@
       "title": "coronasafe/leaderboard#55",
       "time": "2022-06-09T23:07:40.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/55#issuecomment-1151699927",
-      "text": "Its a good to have 😃"
+      "text": "Its a good to have \ud83d\ude03"
     },
     {
       "type": "comment_created",
@@ -735,7 +756,7 @@
       "title": "coronasafe/leaderboard#40",
       "time": "2022-06-02T06:51:59.000Z",
       "link": "https://github.com/coronasafe/leaderboard/issues/40#issuecomment-1144505379",
-      "text": "Hide the card 😅"
+      "text": "Hide the card \ud83d\ude05"
     },
     {
       "type": "issue_closed",
@@ -791,7 +812,7 @@
       "title": "coronasafe/leaderboard#45",
       "time": "2022-05-31T16:01:23.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/45#issuecomment-1142323012",
-      "text": "It should also include github bot right😅"
+      "text": "It should also include github bot right\ud83d\ude05"
     },
     {
       "type": "comment_created",

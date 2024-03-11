@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-07T12:21:33+00:00",
+  "last_updated": "2024-03-10T09:36:57+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-03-10T09:36:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351#issuecomment-1987160799",
+      "text": "@rithviknishad I have worked on it and matched the UI of critical and abnormal with stable log update can I make a pull request "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7357",

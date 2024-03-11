@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-09T11:44:55+00:00",
+  "last_updated": "2024-03-10T18:46:23+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T18:46:23+00:00",
+      "title": "coronasafe/care_fe#7368",
+      "link": "https://github.com/coronasafe/care_fe/pull/7368#pullrequestreview-1926660651",
+      "text": "replaced all axios with native fetch and XMLHttpRequest"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T07:59:40+00:00",
+      "title": "coronasafe/care#1958",
+      "link": "https://github.com/coronasafe/care/pull/1958#pullrequestreview-1926476039",
+      "text": "ExternalIDSerializerField to be UUID Field instead of Field"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-10T07:32:41+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1987118863",
+      "text": "@vishisht-dubey as you feel, you can do it in the same PR or create a new issue :)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-10T07:02:00+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1987112450",
+      "text": "> also @Ashesh3 @skks1212 this add question modal, refer below image ![Screenshot 2024-03-09 193736](https://private-user-images.githubusercontent.com/98794736/311442768-5cf2cba6-915e-40f8-aed5-d16917939163.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5OTU3OTksIm5iZiI6MTcwOTk5NTQ5OSwicGF0aCI6Ii85ODc5NDczNi8zMTE0NDI3NjgtNWNmMmNiYTYtOTE1ZS00MGY4LWFlZDUtZDE2OTE3OTM5MTYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA5VDE0NDQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkYjVjMmU0OTMzY2UzOTQzMDdmODhkOTVhOTA2NmU2MDRiN2ZlMTk5ODVlNjljYTc2YTk3Y2FiZmUzMjgxOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3JI-bH5u6yPNrnjDJYZV5LkGk61QV7qrRSW03dxHhn0) see language box is not properly visible can i change its background to dark for dark mode only then it will look like this ![Screenshot 2024-03-09 194118](https://private-user-images.githubusercontent.com/98794736/311442951-a6a71039-37b7-4ea9-8b59-5153fdc17d05.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5OTU3OTksIm5iZiI6MTcwOTk5NTQ5OSwicGF0aCI6Ii85ODc5NDczNi8zMTE0NDI5NTEtYTZhNzEwMzktMzdiNy00ZWE5LThiNTktNTE1M2ZkYzE3ZDA1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA5VDE0NDQ1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MGVjZWNhMDM4MmM2NDY4YjkzNGEyMDA3Zjg0MjU5MmE1YTRkODFhYmFiNjgyZTQzZjJmOWJhMmE3ZDVkNzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jMtB_KUzFAKzRSsEUq4CM1BNofNI2vqevSioMd24aoE) this looks better i guess what are your opinions??\r\n\r\nYep, bottom one looks better. Make that change.\r\n\r\nBtw, your design looks fine except just one thing: \r\nDark mode:\r\n![image](https://github.com/coronasafe/ayushma_fe/assets/3626859/9b7b074f-c724-45ad-a40d-96273959d200)\r\n\r\nLight mode:\r\n![image](https://github.com/coronasafe/ayushma_fe/assets/3626859/3d43ef95-6fb9-4364-a3d0-c2bedeb30f4a)\r\n\r\nIn light mode, the text is black, it should be white like other buttons. \r\n\r\nTo change the theme:\r\n![image](https://github.com/coronasafe/ayushma_fe/assets/3626859/56c8915e-6626-43db-a530-e7c928602273)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T06:20:08+00:00",
+      "title": "coronasafe/care_fe#7366",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366#pullrequestreview-1926386352",
+      "text": "\"Fix issue #7361: Block users from entering date out of range\""
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#190",
@@ -17824,7 +17859,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7353",
       "title": "Improve District filter in User Management",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "needs review",
@@ -17834,7 +17869,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": [
         "blocked",
         "waiting-for-review"
@@ -17843,13 +17878,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1900",
       "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 156,
+      "stale_for": 157,
       "labels": [
         "POC"
       ]
@@ -17857,7 +17892,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 340,
+      "stale_for": 341,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -17866,7 +17901,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 353,
+      "stale_for": 354,
       "labels": []
     }
   ],

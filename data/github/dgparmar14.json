@@ -1,6 +1,105 @@
 {
-  "last_updated": "2024-03-08T15:36:34+00:00",
+  "last_updated": "2024-03-10T14:26:26+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-10T14:26:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1987250870",
+      "text": "when you see responsiveness, \nWhole page is not responsive, \nCan we create separate issue for this?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-10T10:56:43+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1987184379",
+      "text": "I think it takes time to call a function and if I put the classes without function in div element it work's fine\r\nshould i revert it or what is your suggestion?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-10T09:45:16+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#issuecomment-1987163224",
+      "text": "It's not showing `animated-circular-shadow`."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-10T09:38:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1987161242",
+      "text": "> Yup! We could drop the word \"ongoing\" maybe. Also on hover let's show the actual date.\r\n\r\nOkk So, i will do it like `week 24` and in tooltip we can show starting date `since 1-1-2024` or only date `1-1-2024` or any suggestion by you?\r\nAnd for tooltip can i use nextui/tooltip? [https://nextui.org/docs/components/tooltip](url)\r\nOr go with react-tooltip?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-10T09:23:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1987157008",
+      "text": "> How about on top of the top 5 contributors section?\r\n\r\nI have similiar idea in leaderboard component we have text `last 7 days` instead of this can week do something like this?\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/473f79f8-dcd8-4cfa-aca6-ebd037837720)\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T09:17:25+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1926489142",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#354",
+      "time": "2024-03-10T09:01:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354",
+      "text": "Migrate fetchGitHubReleases Method to Use Octokit for GitHub API Interactions",
+      "turnaround_time": 73372
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T08:57:31+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1926485334",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-10T08:42:17+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1987145866",
+      "text": "> This doesn't seem to be right... Can you think of some other way that we could represent this better?\r\n\r\nYes, I also think this, Currently i am not asking about the design i only need confirmation of it's position .\r\nIs it right in the miidel of both or it should be close to uper side or below?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#354",
+      "time": "2024-03-10T08:21:56+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354#issuecomment-1987141313",
+      "text": "If we reduce the number of repositories down to the first 50 and we increase the number of contributors shown per release limit to something like 100. It looks like this\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/4756b13b-184c-49d2-b13b-d19bb9dce3bf)\r\nit's looks something like this.\r\nAnd if we  try to fetch more than 100 mentions whether repo is 50 or 20 github will not allowed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T07:59:34+00:00",
+      "title": "coronasafe/leaderboard#309",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309#pullrequestreview-1926476015",
+      "text": "Add rank of contributor on the weeklybasis in profile page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T06:36:56+00:00",
+      "title": "coronasafe/leaderboard#354",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354#pullrequestreview-1926387864",
+      "text": "Migrate fetchGitHubReleases Method to Use Octokit for GitHub API Interactions"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-10T06:15:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1987104394",
+      "text": "I have to change in contributors page? or somewhere else?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-10T06:02:43+00:00",
+      "title": "coronasafe/leaderboard#354",
+      "link": "https://github.com/coronasafe/leaderboard/pull/354#pullrequestreview-1926384914",
+      "text": "Migrate fetchGitHubReleases Method to Use Octokit for GitHub API Interactions"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#127",

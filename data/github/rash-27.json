@@ -1,6 +1,112 @@
 {
-  "last_updated": "2024-03-08T13:58:53+00:00",
+  "last_updated": "2024-03-10T19:54:36+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#359",
+      "time": "2024-03-10T19:54:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/359#issuecomment-1987344697",
+      "text": "i would like to work on this issue "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-10T19:46:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368",
+      "text": "Enhance Release Event Card for Mobile View closes #358"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#358",
+      "time": "2024-03-10T16:12:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/358#issuecomment-1987282045",
+      "text": "yes , I will update that too  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#358",
+      "time": "2024-03-10T16:09:11+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/358#issuecomment-1987281189",
+      "text": "okk "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#358",
+      "time": "2024-03-10T16:01:43+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/358#issuecomment-1987278806",
+      "text": "is this ok when the screen size is small ?\r\n![image](https://github.com/coronasafe/leaderboard/assets/146672184/53dda5fe-c97d-4b65-ac4d-cbae1a39b4a0)\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#367",
+      "time": "2024-03-10T15:31:06+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/367",
+      "text": "change review event text in github feed closes #362"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#362",
+      "time": "2024-03-10T15:14:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/362#issuecomment-1987265173",
+      "text": "i would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#358",
+      "time": "2024-03-10T15:10:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/358#issuecomment-1987264210",
+      "text": "I would like to work on this issue "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#366",
+      "time": "2024-03-10T15:08:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/366",
+      "text": "Update margin for timeline closes #357"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#357",
+      "time": "2024-03-10T13:58:19+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/357#issuecomment-1987242268",
+      "text": "i would like t work on this issue \r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#356",
+      "time": "2024-03-10T11:30:13+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/356",
+      "text": "Update badges overflow closes #344",
+      "turnaround_time": 64973
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#356",
+      "time": "2024-03-10T10:53:14+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/356",
+      "text": "Update badges overflow closes #344"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#344",
+      "time": "2024-03-10T10:04:20+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/344#issuecomment-1987169183",
+      "text": "okk"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#344",
+      "time": "2024-03-10T09:59:47+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/344#issuecomment-1987167915",
+      "text": "@rithviknishad is this ok ? \r\n![image](https://github.com/coronasafe/leaderboard/assets/146672184/d5a505da-61b9-490f-a40f-1481879484ca)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-10T07:50:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-1987133565",
+      "text": "![Screenshot from 2024-03-10 13-14-23](https://github.com/coronasafe/care_fe/assets/146672184/27d430e5-16dd-4099-835d-883dae744648)\r\n![Screenshot from 2024-03-10 13-13-11](https://github.com/coronasafe/care_fe/assets/146672184/3c8c8b15-5ead-451f-8030-9438fe65de98)\r\ntests are modified based on change with the backend pr #1935"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#344",
@@ -337,6 +443,64 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/368",
+      "title": "Enhance Release Event Card for Mobile View closes #358",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/367",
+      "title": "change review event text in github feed closes #362",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/366",
+      "title": "Update margin for timeline closes #357",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/353",
+      "title": "Adds support for searching in /people page and show short info about user",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "title": "Replace age field with DOB while Updating User",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "waiting for backend",
+        "cypress failed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1935",
+      "title": "Replace age field with DOB in users model",
+      "stale_for": 6,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1929",
+      "title": "Add age validation in PatientDetailSerializer",
+      "stale_for": 9,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "title": "Add validation checks in ResourceRequestSerializer",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
+    }
+  ]
 }

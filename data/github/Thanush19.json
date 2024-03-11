@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-03-08T15:00:19+00:00",
+  "last_updated": "2024-03-10T14:29:20+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7364",
+      "time": "2024-03-10T14:29:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#issuecomment-1987251749",
+      "text": "is the PR title is okay now , if any changes need to be done , intimate me @rithviknishad ...\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-10T12:01:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1987202037",
+      "text": "if the issue is not resolved , i can work on this @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7362",
+      "time": "2024-03-10T11:59:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7362#issuecomment-1987201311",
+      "text": "hey @rithviknishad , if the issue to be resolved,i can  fix this...."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7341",
+      "time": "2024-03-10T11:46:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7341#issuecomment-1987197867",
+      "text": "hey @rithviknishad , if the issue is not resolved , i can fix this....\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7293",
+      "time": "2024-03-10T11:45:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7293#issuecomment-1987197661",
+      "text": "hey @skks1212 ,if the issue is not resolved , i can fix this\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7364",
+      "time": "2024-03-10T11:38:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#issuecomment-1987195847",
+      "text": "hey @rithviknishad , i haved renamed the PR and Issue  i have resolved is Comment Section in the shifting detail page is stretching the page #6637 ( https://github.com/coronasafe/care_fe/issues/6637)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6637",
