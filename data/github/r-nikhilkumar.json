@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-10T18:13:29+00:00",
+  "last_updated": "2024-03-11T18:53:23+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7365",
+      "time": "2024-03-11T18:53:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7365#issuecomment-1989205653",
+      "text": "for width and height consistency:-\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/91010142/0ca63f84-b615-47f6-8602-b5583ea544f0)\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/91010142/37d65007-b73b-4448-88d9-e4fb1084d5a9)\r\nIs it looking cool?\r\n\r\nI did this for the painScale 0 issue\r\n![Screenshot 2024-03-12 001604](https://github.com/coronasafe/care_fe/assets/91010142/c899feba-08c2-4714-ad78-ff696636dcf2)\r\n\r\nI did this for the PressureSore 0 issue\r\n![Screenshot 2024-03-12 001334](https://github.com/coronasafe/care_fe/assets/91010142/24d330ad-77a4-4335-bfd3-607e8a8d1520)\r\n\r\n@rithviknishad, @nihal467, is it okay? Please guide...!\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-11T10:40:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1988127235",
+      "text": "@skks1212, @rithviknishad can you please assign it to me?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6715",
@@ -86,13 +100,6 @@
       "text": "please assign this issues to me, I want to contribute here"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7371",
-      "title": "issue#7362 is getting resolved",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-02-29T20:42:45.000Z",
+  "last_updated": "2024-03-11T16:02:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7254",
+      "time": "2024-03-11T16:02:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7254#issuecomment-1988794948",
+      "text": "@rithviknishad PTAL"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#219",
@@ -79,15 +86,6 @@
       "text": "@rithviknishad  Please assign me this issue .To resolve the bug, I will inspect and adjust the CSS styles associated with the comment section on shifting detail pages, ensuring responsive design and dynamic sizing. Will Thoroughly test the changes with different comment quantities and devices to ensure optimal page layout"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7254",
-      "title": "Bed Management System Redesign",
-      "stale_for": 6,
-      "labels": [
-        "merge conflict"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

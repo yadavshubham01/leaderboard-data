@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-06T06:27:35+00:00",
+  "last_updated": "2024-03-11T10:32:00+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": "2024-03-11T10:32:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-1988100782",
+      "text": "@aparnacoronasafe \r\nLooking for your input on the current Timeline UI for Bed activity. As we are not tracking asset changes on the backend, I have implemented manual checks on the frontend to determine which assets have changed.  I've segregated the assets into three categories for each Timeline Node namely, Newly Linked Assets (assets linked in that node), Existing Assets (carry over from previous object) and Unlinked Assets (assets that were unlinked in that node. \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/63492939/a1211ee1-23c5-406a-9901-7f8086f8d153)\r\n"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7347",

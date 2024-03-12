@@ -1,6 +1,49 @@
 {
-  "last_updated": "2024-03-05T16:55:40.000Z",
+  "last_updated": "2024-03-11T17:32:11+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7387",
+      "time": "2024-03-11T17:32:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7387",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "rithviknishad",
+        "Ashesh3",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7386",
+      "time": "2024-03-11T17:30:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7386",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7385",
+      "time": "2024-03-11T17:22:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7385",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7287",

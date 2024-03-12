@@ -1,6 +1,22 @@
 {
-  "last_updated": "2024-03-04T13:25:19.000Z",
+  "last_updated": "2024-03-11T17:33:29+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1962",
+      "time": "2024-03-11T17:33:29+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1962",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "DraKen0009",
+        "SinghYuvraj0506",
+        "sainak",
+        "gigincg",
+        "konavivekramakrishna",
+        "vigneshhari",
+        "rithviknishad"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1908",

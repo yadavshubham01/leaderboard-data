@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-09T14:10:08+00:00",
+  "last_updated": "2024-03-11T14:38:17+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-11T14:38:17+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1988597609",
+      "text": "PR merged, thank you for contributing! \ud83d\ude00"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": "2024-03-11T14:38:03+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186",
+      "text": "Add Support for Bulk Question Import via CSV in Automated Test Suite"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T14:37:55+00:00",
+      "title": "coronasafe/ayushma_fe#190",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#pullrequestreview-1928016739",
+      "text": "Closes #186 Support for bulk question import from csv "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-11T10:05:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1988037743",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/23238460/a3a9ae63-e88c-4474-b555-bfb2e48c7b24\r\n\r\nPain below 2 is being shown in red, then green, then once again red after 5. @aparnacoronasafe can you also tell if this coloring should be changed?\r\n\r\nIll take up the issue because I am already working on the preview UI for this"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-03-11T09:57:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "text": "Updated Preview UIs"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/ayushma_fe#191",
@@ -6989,15 +7024,6 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7292",
-      "title": "Update Security Policy to redirect to issue page",
-      "stale_for": 3,
-      "labels": [
-        "stale"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

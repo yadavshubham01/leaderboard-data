@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-03-11T17:50:40+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7390",
+      "time": "2024-03-11T17:50:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390",
+      "text": "Solved File Management Exceptions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7389",
+      "time": "2024-03-11T17:42:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7389",
+      "text": "File Management Exceptions Solved"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7384",
+      "time": "2024-03-11T15:03:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7384#issuecomment-1988656075",
+      "text": "@rithviknishad, can you please assign this to me?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7372",
+      "time": "2024-03-11T14:47:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1988618860",
+      "text": "@rithviknishad how to reproduce this issue?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7383",
+      "time": "2024-03-11T13:56:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7383#issuecomment-1988505393",
+      "text": "@rithviknishad, can you please assign this to me?"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

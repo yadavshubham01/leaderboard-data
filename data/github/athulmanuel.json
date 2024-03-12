@@ -1,6 +1,20 @@
 {
-  "last_updated": "2022-06-18T13:57:19.000Z",
+  "last_updated": "2024-03-11T08:55:12+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7377",
+      "time": "2024-03-11T08:55:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7377",
+      "text": "Dosage mandatory for combination medications."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7375",
+      "time": "2024-03-11T08:47:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7375#issuecomment-1987892635",
+      "text": "This also comes as part of schedule H drugs. Psychiatric medications and all. We can't have it as dash board because we need to know which all patients are on that medication. Flagging is good in bringing focus on the patient on such medications but that alone might not address the need. Same thing happens with patients on immunosuppressants. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#2230",
@@ -9,5 +23,6 @@
       "text": "Hi guys. Didn't get the gist of the query. Is it regarding the dilution rate? \n\nRegarding giving a medicine diluted in a solvent. Usual injection medicines comes as vial (small glass bottle) or ampule ( small glass pellet). It will be of higher concentrations. At time we give it direct and others instances as diluted. \nThe calculation is \nIn a vial or a ampule contains __ ml of X Medicne which has the strength of __ mg \nEg: 1 ampule of Morphine has 1 ml which has a strength of 10 mg \n\nThis __ ml of X Medicne is diluted in __ ml of solvent ( NS/ RL/ Sterile water/ etc.). This will be give as __ ml bolus(single dose) or as infusion @__ ml/hr "
     }
   ],
-  "open_prs": []
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-10T16:42:53+00:00",
+  "last_updated": "2024-03-11T21:01:26+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7321",
+      "time": "2024-03-11T21:01:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#issuecomment-1989437638",
+      "text": "I have pushed the necessary details and henceforth I request for maintainer's review\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7293",
@@ -83,7 +90,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7321",
       "title": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page ",
-      "stale_for": 4,
+      "stale_for": 0,
       "labels": [
         "test failed",
         "changes required"

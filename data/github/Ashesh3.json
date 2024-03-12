@@ -1,6 +1,116 @@
 {
-  "last_updated": "2024-03-10T18:46:23+00:00",
+  "last_updated": "2024-03-11T18:27:46+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T18:27:46+00:00",
+      "title": "coronasafe/care_fe#7390",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390#pullrequestreview-1928764210",
+      "text": "Solved File Management Exceptions"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T17:35:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1989039822",
+      "text": "@dgparmar14 The issue is not about making any UI changes, I think you are confusing the addition of open graph meta tags with actually making changes in the UI. When an external website is trying to fetch a thumbnail of any of our contributors' profile, in that case we can add a special http meta tag which will guide the site which image to use as the thumbnail.\r\nRefer to the resources provided by @rithviknishad above.\r\n\r\nhttps://nextjs.org/learn/dashboard-app/adding-metadata (Refer to Open Graph Metadata section)\r\n\r\nThis is different from actually changing the image in the UI itself, the issue is about adding that meta tag and not any changes to the actual image displayed on the page."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7387",
+      "time": "2024-03-11T17:32:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7387",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7386",
+      "time": "2024-03-11T17:30:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7386",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7385",
+      "time": "2024-03-11T17:22:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7385",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "AnkurPrabhu",
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7372",
+      "time": "2024-03-11T15:46:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1988758105",
+      "text": "@manasvi-gaur Here are more details on the above issue:\r\n![image](https://github.com/coronasafe/care_fe/assets/3626859/d9529e63-5517-4508-ad35-d9d64575840a)\r\n\r\nLine in question: https://github.com/coronasafe/care_fe/blob/user-filter-district/src/Components/Patient/FileUpload.tsx#L912"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1951",
+      "time": "2024-03-11T14:11:51+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1951",
+      "text": "Merge Staging into Master",
+      "collaborated_with": [
+        "sainak",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T13:57:16+00:00",
+      "title": "coronasafe/care#1951",
+      "link": "https://github.com/coronasafe/care/pull/1951#pullrequestreview-1927908189",
+      "text": "Merge Staging into Master"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7383",
+      "time": "2024-03-11T13:45:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7383#issuecomment-1988481259",
+      "text": "Interesting, could you add the link of the patient which is being shown in the attached screenshot?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#190",
+      "time": "2024-03-11T13:43:38+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#issuecomment-1988475943",
+      "text": "@skks1212 will review it and then we can merge it."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T13:25:49+00:00",
+      "title": "coronasafe/ayushma_fe#190",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/190#pullrequestreview-1927821434",
+      "text": "Closes #186 Support for bulk question import from csv "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T12:59:21+00:00",
+      "title": "coronasafe/care_fe#7136",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#pullrequestreview-1927760071",
+      "text": "Extend Update Log to bottom of the screen"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-10T18:46:23+00:00",
@@ -17855,124 +17965,6 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7353",
-      "title": "Improve District filter in User Management",
-      "stale_for": 4,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "Deploy-Failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1903",
-      "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 18,
-      "labels": [
-        "blocked",
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1900",
-      "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1657",
-      "title": "POC: AI discharge summary",
-      "stale_for": 157,
-      "labels": [
-        "POC"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5147",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 341,
-      "labels": [
-        "work-in-progress",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1227",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 354,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7240",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7305"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1893",
-      "pr_link": "https://github.com/coronasafe/care/pull/1896"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1283",
-      "pr_link": "https://github.com/coronasafe/care/pull/1286"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

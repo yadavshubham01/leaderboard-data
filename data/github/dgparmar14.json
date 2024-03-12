@@ -1,6 +1,98 @@
 {
-  "last_updated": "2024-03-10T14:26:26+00:00",
+  "last_updated": "2024-03-11T17:40:11+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T17:40:11+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1989052069",
+      "text": "@rithviknishad @Ashesh3 Okk, Properly understood I don't think about this because in the leaderboard we are using og images to show posts. So I was confused, Now i get it and I will come up with a solution. Thanks..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T17:12:06+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1988993168",
+      "text": "> It can be something simple as like this:\n> \n> Title could be `{ contributor name } - Contributor at Open Healthcare Network`\n> The description could be the short bio of the user\n> \n> Image could be the github image itself, and maybe we could show the number of contributions made so far?\n> \n> <img width=\"589\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/98f4e832-4b21-4b62-bb84-1a5b5e7e378f\">\n> \n\nSo,Where this is shown ?Can you explain more \ud83e\udd14 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T14:15:50+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1988547369",
+      "text": "Alright, But I have to show the og image instead of this?\r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/d73385f9-f732-45ad-8521-38041657a5f2)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#373",
+      "time": "2024-03-11T14:03:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/373#issuecomment-1988520423",
+      "text": "I want to work on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-11T13:28:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1988443923",
+      "text": "In contributors page where should I change this ???\nI can't get it"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#371",
+      "time": "2024-03-11T10:13:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371",
+      "text": "Add Organization Start Date Display and Tooltip with Total Weeks on Home Page",
+      "turnaround_time": 57281
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#371",
+      "time": "2024-03-11T10:13:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371",
+      "text": "Add Organization Start Date Display and Tooltip with Total Weeks on Home Page",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#371",
+      "time": "2024-03-11T09:50:39+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371#issuecomment-1988008687",
+      "text": "@rithviknishad Hey, Rithvik let's merge it and close the issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#371",
+      "time": "2024-03-11T09:49:48+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/371",
+      "text": "Add Organization Start Date Display and Tooltip with Total Weeks on Home Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#327",
+      "time": "2024-03-11T09:23:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/327#issuecomment-1987957501",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/59bcc749-c435-4868-a23f-ef3e4b8a100c)\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-11T09:15:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "text": "Add rank of contributor on the weeklybasis in profile page",
+      "turnaround_time": 59114
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#309",
+      "time": "2024-03-11T09:15:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/309",
+      "text": "Add rank of contributor on the weeklybasis in profile page",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#309",

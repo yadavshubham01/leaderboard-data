@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-10T17:00:43+00:00",
+  "last_updated": "2024-03-11T19:26:31+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7383",
+      "time": "2024-03-11T19:26:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7383#issuecomment-1989260312",
+      "text": "Hi, can I work on this issue ?  @rithviknishad \r\nI am interested to work on this."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7159",

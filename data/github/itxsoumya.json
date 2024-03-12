@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-10T16:44:38+00:00",
+  "last_updated": "2024-03-11T15:10:31+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#375",
+      "time": "2024-03-11T15:10:31+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/375",
+      "text": "fixed Broken responsiveness for Active Projects page in mobile view"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#361",
@@ -121,28 +128,6 @@
       "text": "hello maintainers please assign this issue to me \r\n "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7368",
-      "title": "replaced all axios with native fetch and XMLHttpRequest",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1934",
-      "title": "reset password schema for API docs swagger updated #1434",
-      "stale_for": 7,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1926",
-      "title": "added validate on ResetPasswordUserSerializer for username ",
-      "stale_for": 9,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

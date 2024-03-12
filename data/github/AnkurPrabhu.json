@@ -1,6 +1,105 @@
 {
-  "last_updated": "2024-03-10T07:16:44+00:00",
+  "last_updated": "2024-03-11T17:32:11+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7387",
+      "time": "2024-03-11T17:32:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7387",
+      "text": "Production release v24.11.0",
+      "collaborated_with": [
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad",
+        "Ashesh3",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7386",
+      "time": "2024-03-11T17:30:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7386",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7385",
+      "time": "2024-03-11T17:22:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7385",
+      "text": "Staging release v24.11.0-beta",
+      "collaborated_with": [
+        "UdaySagar-Git",
+        "SinghYuvraj0506",
+        "creator79",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-1988971675",
+      "text": "okay is this what ur saying \r\ni have to add \r\n   hasattr(self, \"district\")\r\n   and \r\n      hasattr(self, \"state\")\r\n    instead of simply. adding request.user.user_type >= User.TYPE_VALUE_MAP[\"DistrictLabAdmin\"] ?\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T16:59:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-1988956908",
+      "text": "> A state lab admin and greater user would have access to facilities belonging to the user's state and not user's district\r\n\r\n@rithviknishad i did not understand this comment what change is needed we dont allow object read for district lab admin ?\r\n\r\ni added it to district lab admin as in FacilityQSPermissions we allow DistrictLabAdmin to view it "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T16:26:01+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-1988854609",
+      "text": "@rithviknishad  @sainak pls take a look works fine for me "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-11T16:25:20+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959",
+      "text": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-11T14:56:26+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1988639176",
+      "text": "@sainak  these are the only changes ?\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T14:56:14+00:00",
+      "title": "coronasafe/care#1940",
+      "link": "https://github.com/coronasafe/care/pull/1940#pullrequestreview-1928068707",
+      "text": "Add created_by and updated_by fields to base model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-11T14:55:51+00:00",
+      "title": "coronasafe/care#1940",
+      "link": "https://github.com/coronasafe/care/pull/1940#pullrequestreview-1928067574",
+      "text": "Add created_by and updated_by fields to base model"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-11T09:22:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102#issuecomment-1987955506",
+      "text": "i am working on it @Thanush19 "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7102",

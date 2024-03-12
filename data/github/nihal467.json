@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-09T09:27:15+00:00",
+  "last_updated": "2024-03-11T12:44:42+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6223",
+      "time": "2024-03-11T12:44:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6223#issuecomment-1988358067",
+      "text": "@Pranshu1902 \r\n\r\n- [ ] Attach a full QA video of the PR\r\n- [ ] attach the screenshot of passing the cypress test\r\n- [ ] fix the backend test"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7380",
+      "time": "2024-03-11T12:43:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7380#issuecomment-1988355913",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/3f66ace1-436d-4f67-998b-33ea12cba2bf)\r\n\r\n- [ ] when i scroll the page, and keep exactly in the position as in the screenshot, then click on the right chest, the pop-up overlaps with the badges.\r\n- [ ] Keep the edges of the card as a curve, as we have curve border across the platform"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-11T12:08:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#issuecomment-1988293345",
+      "text": "@thedevildude \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/f5d3adcf-81e9-42c8-b2bc-3a6293e895f2)\r\n\r\n- [ ] the filter button and the cards are overlapping, fix it , keep it as it is in the current staging"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7360",

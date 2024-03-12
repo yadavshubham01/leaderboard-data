@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-03-10T14:29:20+00:00",
+  "last_updated": "2024-03-11T15:16:07+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-11T15:16:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1988686976",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/110150744/96091af0-09d4-4e77-a6f2-0ad0436dff4c)\r\nhey @rithviknishad , is this layout is fine??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-11T09:14:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1987939021",
+      "text": "@rithviknishad , how can i reproduce this ? ..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7372",
+      "time": "2024-03-11T08:37:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1987876882",
+      "text": "hey @rithviknishad , i can fix this...?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7373",
+      "time": "2024-03-11T08:36:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7373#issuecomment-1987875666",
+      "text": "@aparnacoronasafe , can i work on this..?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7374",
+      "time": "2024-03-11T08:35:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7374#issuecomment-1987874528",
+      "text": "hey @aparnacoronasafe , can i work on this...?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7343",
+      "time": "2024-03-11T08:34:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7343#issuecomment-1987872538",
+      "text": "Hey @aparnacoronasafe  , if the issue is not resolved , i can work on this..."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7364",
