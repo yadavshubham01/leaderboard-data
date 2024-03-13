@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-06T14:03:45+00:00",
+  "last_updated": "2024-03-12T13:09:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#13",
+      "time": "2024-03-12T13:09:43+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#issuecomment-1991617125",
+      "text": "@Ashesh3 @gigincg I've added the functionalities as requested. Please have a look and let me know if they're good and I will start implementing the design improvements!"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/metabase_manager#12",

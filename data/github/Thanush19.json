@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-11T15:16:07+00:00",
+  "last_updated": "2024-03-12T15:59:05+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-12T15:59:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1992001693",
+      "text": "You instructed me to reuse the existing type, but it lacks the required types for comments. Additionally, you mentioned reusing the ReadMore.tsx component, but when I attempt to do so, it doesn't align with the Comment Box. Modifying the CSS of the ReadMore component might disrupt the UI of other components, so I opted to write new code to address this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-12T15:44:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1991967754",
+      "text": "@rithviknishad , whats the status  on this PR?? is any changes required..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7399",
+      "time": "2024-03-12T15:43:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7399",
+      "text": "refrained ui of bed management page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-12T07:49:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1990970896",
+      "text": "@rithviknishad , is there any corrections needed to be done ? if so, intimate me...?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-12T07:47:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1990969069",
+      "text": "hey @rithviknishad \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/110150744/0d3b8681-8a2d-4e19-b0de-83fb4596a32a)\r\n![image](https://github.com/coronasafe/care_fe/assets/110150744/97d8d8a5-968b-49b1-b86f-3fabac822833)\r\n\r\nIs the layout for bed management satisfactory? Please let me know if there are any adjustments needed."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6974",

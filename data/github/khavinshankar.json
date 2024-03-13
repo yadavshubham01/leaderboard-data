@@ -1,6 +1,90 @@
 {
-  "last_updated": "2024-03-07T07:12:36+00:00",
+  "last_updated": "2024-03-12T11:58:44+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:58:44+00:00",
+      "title": "coronasafe/care_fe#7348",
+      "link": "https://github.com/coronasafe/care_fe/pull/7348#pullrequestreview-1930853840",
+      "text": "Log update vital feature remodified "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7352",
+      "time": "2024-03-12T11:56:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7352",
+      "text": "Replace usage of `axios` with `request` or `fetch`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:56:10+00:00",
+      "title": "coronasafe/care_fe#7368",
+      "link": "https://github.com/coronasafe/care_fe/pull/7368#pullrequestreview-1930848578",
+      "text": "replaced all axios with native fetch and XMLHttpRequest"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6634",
+      "time": "2024-03-12T11:54:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6634",
+      "text": "District Filter in the user advance filter need to be modified"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:53:50+00:00",
+      "title": "coronasafe/care_fe#7353",
+      "link": "https://github.com/coronasafe/care_fe/pull/7353#pullrequestreview-1930843402",
+      "text": "Improve District filter in User Management"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7132",
+      "time": "2024-03-12T11:49:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7132",
+      "text": "Able to create daily round update without a bed assigned through patient details page but not through consultation dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:49:49+00:00",
+      "title": "coronasafe/care_fe#7303",
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#pullrequestreview-1930835823",
+      "text": "Issue: 7132 - Disallow Add Consultation updates for active consultations without bed assigned"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7361",
+      "time": "2024-03-12T11:48:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7361",
+      "text": "Add validation for facility triage with future date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T11:47:28+00:00",
+      "title": "coronasafe/care_fe#7366",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366#pullrequestreview-1930830836",
+      "text": "\"Fix issue #7361: Block users from entering date out of range\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7349",
+      "time": "2024-03-12T11:45:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7349",
+      "text": "Rewording Telemedicine- consultation form"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7301",
+      "time": "2024-03-12T11:44:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7301#issuecomment-1991464220",
+      "text": "Closing this pr as duplicate"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T04:52:59+00:00",
+      "title": "coronasafe/care_fe#7391",
+      "link": "https://github.com/coronasafe/care_fe/pull/7391#pullrequestreview-1930095195",
+      "text": "Issue resolved \"Handle the 0 Input in the Pressure sore and Pain Scale component\""
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-07T07:12:36+00:00",

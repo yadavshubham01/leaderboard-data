@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-11T14:10:27+00:00",
+  "last_updated": "2024-03-12T05:37:37+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7378",
+      "time": "2024-03-12T05:37:37+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7378#issuecomment-1990607838",
+      "text": "Great suggestions guys!\r\n\r\n@rithviknishad yes, the existing entries needs to be adjusted against scale of 0-10. So previously entered \"2\" will become 4.\r\n\r\n@leftover19 Good suggestion. However, one change I want to suggest is to have description of pain as \"Low, mild and high\". \"Normal\" in the context of pain is not logical. \r\n\r\n0-3- Low (Green)\r\n3-7- Mild (Yellow)\r\n8-10- High (Red)\r\n\r\n@skks1212 Please go ahead with the above. "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7315",

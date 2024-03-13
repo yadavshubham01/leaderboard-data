@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-03-10T09:36:57+00:00",
+  "last_updated": "2024-03-12T11:45:21+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7357",
+      "time": "2024-03-12T11:45:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357",
+      "text": "Rewording Telemedicine-consultation form",
+      "turnaround_time": 86153
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7357",
+      "time": "2024-03-12T11:45:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357",
+      "text": "Rewording Telemedicine-consultation form",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7373",
+      "time": "2024-03-12T10:58:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7373#issuecomment-1991366898",
+      "text": "@aparnacoronasafe can you assign this to me and tell me under which section the issue is and what are the login credentials "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7351",

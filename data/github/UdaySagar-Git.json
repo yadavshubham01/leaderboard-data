@@ -1,6 +1,91 @@
 {
-  "last_updated": "2024-03-11T20:12:16+00:00",
+  "last_updated": "2024-03-12T23:00:27+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-03-12T23:00:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-1992713184",
+      "text": "@gigincg fixed cypress tests , can you please mark this as needs review /needs testing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T17:56:32+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380",
+      "text": "Added hyperlink for comments, and changed from using Link to anchor tag",
+      "turnaround_time": 23966
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T16:47:41+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1992111803",
+      "text": "@rithviknishad can you please review now ! "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T16:42:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1992102305",
+      "text": "@rithviknishad we are not showing OpenGraphImage  earlier , \r\ni will change that to use openGraphImage "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T16:28:50+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1992073674",
+      "text": "@rithviknishad \r\n![image](https://github.com/coronasafe/leaderboard/assets/111575806/914f6759-dadf-4d39-8df6-aa869506f1e3)\r\n\r\nShould i add the styles for issue opened /closed ??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:52:48+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1991477283",
+      "text": "@rithviknishad \r\nI think we need to add that to all type of events ?\r\nwhat do you think ? is it ok to change ui only for comments\r\n![image](https://github.com/coronasafe/leaderboard/assets/111575806/0ffdaf0e-cbb2-48fa-83d5-d40c1860ee03)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:48:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1991470194",
+      "text": "@rithviknishad does this look fine?\r\n![image](https://github.com/coronasafe/leaderboard/assets/111575806/d53269e1-f356-4c35-a7e5-b6dd420ff39c)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:34:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380#issuecomment-1991447102",
+      "text": "@rithviknishad sure "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1964",
+      "time": "2024-03-12T11:33:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1964#issuecomment-1991445399",
+      "text": "@rithviknishad  @sainak \r\n\r\ncan you please review this , \r\nwe can set limit from front end , if no limit is provided ,it sets to infinity "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#380",
+      "time": "2024-03-12T11:17:07+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/380",
+      "text": "Added hyperlink for comments, and changed from using Link to anchor tag"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#377",
+      "time": "2024-03-12T09:18:46+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/377#issuecomment-1991128784",
+      "text": "can you please assign this to me\r\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#377",
+      "time": "2024-03-12T09:18:33+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/377",
+      "text": "No Hyperlink support for comments "
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1964",
@@ -839,48 +924,6 @@
       "text": "Improve Input Field UI for Phone Number"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1964",
-      "title": "Adds bulk import support for assets",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7367",
-      "title": "Introduced Reusable JSON Parser and Validator with Schema, File Preview, and Selected Import Support for XLSX/CSV Files",
-      "stale_for": 2,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/312",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/313"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/311",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/325"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/289",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/310"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/271",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/280"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/270",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/296"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/257",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/267"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7248",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7250"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-03-12T16:50:44+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-03-12T16:50:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#issuecomment-1992117600",
+      "text": "> Hey nice work. Just few suggestions....\r\n\r\n\r\nThank you very much for the suggestions. I will resolve them all by tomorrow. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-03-12T10:21:27+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379",
+      "text": "Fixed issue #378"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#378",
+      "time": "2024-03-12T09:56:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/378",
+      "text": "Multiple UI Issues/Improvements"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

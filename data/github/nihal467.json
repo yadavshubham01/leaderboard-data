@@ -1,6 +1,127 @@
 {
-  "last_updated": "2024-03-11T12:44:42+00:00",
+  "last_updated": "2024-03-12T17:48:32+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7400",
+      "time": "2024-03-12T17:48:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7400",
+      "text": "log update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7398",
+      "time": "2024-03-12T13:46:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7398",
+      "text": "New Cypress Test | Normal Log Update for Admission and Non- Admission Patients | Patient Consultation Module "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7353",
+      "time": "2024-03-12T11:54:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7353",
+      "text": "Improve District filter in User Management",
+      "collaborated_with": [
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7366",
+      "time": "2024-03-12T11:48:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366",
+      "text": "\"Fix issue #7361: Block users from entering date out of range\"",
+      "collaborated_with": [
+        "Dareenfadel"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7357",
+      "time": "2024-03-12T11:45:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357",
+      "text": "Rewording Telemedicine-consultation form",
+      "collaborated_with": [
+        "hrit2773"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-12T11:08:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-1991395703",
+      "text": "@bishwas-10 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/bd154f89-aae9-44cd-8bc3-597ddbe0ef03)\r\n\r\n- [ ] when we select the \"Select\" option in the dropdown, it throws a 500 error\r\n- [ ] we are having two labels for camera presets, so modify it to a better UI\r\n\r\nCC: @rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-12T11:07:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-1991393619",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/e80083b2-fb8d-40fd-9026-d92f736deace)\r\n\r\n- [ ] when we select the \"Select\" option in the dropdown, it throws a 500 error\r\n- [ ] we are having two labels for camera presets, so modify it to a better UI\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7368",
+      "time": "2024-03-12T11:00:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7368#issuecomment-1991373847",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7366",
+      "time": "2024-03-12T10:57:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7366#issuecomment-1991364574",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7357",
+      "time": "2024-03-12T10:45:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7357#issuecomment-1991343817",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7353",
+      "time": "2024-03-12T10:35:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7353#issuecomment-1991321469",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T10:35:08+00:00",
+      "title": "coronasafe/care_fe#7353",
+      "link": "https://github.com/coronasafe/care_fe/pull/7353#pullrequestreview-1930678200",
+      "text": "Improve District filter in User Management"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-12T06:49:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1990895945",
+      "text": "> @nihal467 for\r\n> \r\n> > Test 1: Record an Audio and download the file.\r\n> > \r\n> > * Try to download the file and verify its success using API response with cy.intercept.\r\n> \r\n> Its a anchor tag so verifying with API is not possible so what if I change the tests in this format\r\n> \r\n> <img alt=\"image\" width=\"268\" src=\"https://private-user-images.githubusercontent.com/98876115/309187006-116309e4-1ce2-461d-9d1e-e0d781d95865.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAyMjYwMTgsIm5iZiI6MTcxMDIyNTcxOCwicGF0aCI6Ii85ODg3NjExNS8zMDkxODcwMDYtMTE2MzA5ZTQtMWNlMi00NjFkLTlkMWUtZTBkNzgxZDk1ODY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEyVDA2NDE1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYxZTgyNGFkMzdmNzcyMTNiODI3MGJmYzc5MjQ1MDZiNjUwYzk1ODdjZDE5MjkwYTRiMzA3ZjZhYWE2ZTk3ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n735IbyQ_w9FGw2oJmF8OrUdvP1MfvFKDPitjGB8ymk\">\r\n> how about this\r\n> \r\n> > test1 : Upload a file and download file\r\n> \r\n> > test2 : record a audio and archive it\r\n\r\n@AshrafMd-1 when you upload a file the API \"https://care.coronasafe.in/api/v1/files/\" gives you 201 responses verify that using the cy.intercept .\r\n\r\n_Note: Its fine to only do api verification for file upload in this case_"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-12T06:38:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-1990863572",
+      "text": "@gigincg can you review this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7303",
+      "time": "2024-03-12T06:34:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7303#issuecomment-1990851846",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": "2024-03-12T06:31:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-1990844535",
+      "text": "@konavivekramakrishna modify the cypress test \"Create a new patient with all field in registration form and no consultation\" in the patient_registration.cy.ts file, to include :\r\n- [ ] add the occupation to the patient registration test\r\n- [ ] verify the field is reflected in the patient details page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6223",

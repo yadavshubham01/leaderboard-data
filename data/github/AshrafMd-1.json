@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-11T14:34:34+00:00",
+  "last_updated": "2024-03-12T16:37:49+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-12T16:37:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-1992092060",
+      "text": "@nihal467 I have made changes as you have referenced \r\nCan you check once "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7392",
+      "time": "2024-03-12T05:20:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392",
+      "text": "Fix file upload UI"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7384",

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-09T10:13:01+00:00",
+  "last_updated": "2024-03-12T19:34:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7360",
+      "time": "2024-03-12T19:34:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7360#issuecomment-1992395360",
+      "text": "@nihal467 Has someone solved this issue becuase it is already showing this message\r\n![image](https://github.com/coronasafe/care_fe/assets/100074110/01c9ae51-b93b-46d3-bf97-9821ee93d64f)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7348",
+      "time": "2024-03-12T12:23:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7348#issuecomment-1991530129",
+      "text": "@rithviknishad These changes were told me to by @khavinshankar . Should I change it or not. Please tell me"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7360",
@@ -226,25 +240,6 @@
       "text": "@aparnacoronasafe can you please assign me this issue"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7348",
-      "title": "Log update vital feature remodified ",
-      "stale_for": 0,
-      "labels": [
-        "Deploy-Failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7301",
-      "title": "Log update vital feature modified ",
-      "stale_for": 3,
-      "labels": [
-        "tested",
-        "cypress passed",
-        "reviewed"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

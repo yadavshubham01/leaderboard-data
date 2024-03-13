@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-03-11T18:51:38+00:00",
+  "last_updated": "2024-03-12T16:28:38+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-12T16:28:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368",
+      "text": "Enhance Release Event Card for Mobile View closes #358",
+      "turnaround_time": 2445
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#368",
+      "time": "2024-03-12T16:28:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/368",
+      "text": "Enhance Release Event Card for Mobile View closes #358",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#368",
@@ -506,52 +524,6 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/374",
-      "title": " Adds support for searching in /people page and show short info about user",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/368",
-      "title": "Enhance Release Event Card for Mobile View closes #358",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7322",
-      "title": "Replace age field with DOB while Updating User",
-      "stale_for": 1,
-      "labels": [
-        "changes required",
-        "waiting for backend",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1935",
-      "title": "Replace age field with DOB in users model",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1929",
-      "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 10,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1928",
-      "title": "Add validation checks in ResourceRequestSerializer",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

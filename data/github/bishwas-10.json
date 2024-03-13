@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-10T23:51:07+00:00",
+  "last_updated": "2024-03-12T04:36:22+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-12T04:36:22+00:00",
+      "title": "coronasafe/care_fe#7363",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#pullrequestreview-1930080194",
+      "text": "Fix:#4558 Optimize Camera Feed for Mobile Usage"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7363",
@@ -135,15 +142,6 @@
       "text": "header is redesigned to be consistent in all pages #7316"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7363",
-      "title": "Fix:#4558 Optimize Camera Feed for Mobile Usage",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

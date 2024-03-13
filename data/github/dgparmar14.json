@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-11T17:40:11+00:00",
+  "last_updated": "2024-03-12T10:43:04+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-12T10:43:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-1991339461",
+      "text": "It is something like this?\r\n![Screenshot 2024-03-12 160749](https://github.com/coronasafe/leaderboard/assets/99136186/cb1419ac-6b99-4a09-b6dc-16d8e8e88f40)\r\n\r\nI built the above by creating a new file. Can you please verify this or provide any suggestions ?\r\n \r\n![image](https://github.com/coronasafe/leaderboard/assets/99136186/d8d2766b-7406-4b17-ab89-95171c4b872d)\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#127",
