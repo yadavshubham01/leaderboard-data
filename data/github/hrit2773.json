@@ -1,6 +1,42 @@
 {
-  "last_updated": "2024-03-12T11:45:21+00:00",
+  "last_updated": "2024-03-13T17:43:41+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7401",
+      "time": "2024-03-13T17:43:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7401#issuecomment-1995144389",
+      "text": "@khavinshankar to test the django backend I'm running the docker-compose file but the server is not running on the specified port.\r\nlocalstack-1  | \r\nlocalstack-1  | LocalStack version: 3.2.1.dev\r\nlocalstack-1  | LocalStack build date: 2024-03-01\r\nlocalstack-1  | LocalStack build git hash: db65a08e7\r\nlocalstack-1  |\r\nlocalstack-1  | 2024-03-13T17:37:00.787  WARN --- [  MainThread] localstack.deprecations    : EDGE_PORT is deprecated (since 2.0.0) and will be removed in upcoming releases of LocalStack! This configuration will be migrated to GATEWAY_LISTEN\r\nlocalstack-1  | 2024-03-13T17:37:01.865  INFO --- [-functhread4] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)\r\nlocalstack-1  | 2024-03-13T17:37:01.865  INFO --- [-functhread4] hypercorn.error            : Running on https://0.0.0.0:4566 (CTRL + C to quit)\r\nlocalstack-1  | 2024-03-13T17:37:02.018  INFO --- [  MainThread] localstack.utils.bootstrap : Execution of \"start_runtime_components\" took 1229.46ms\r\nlocalstack-1  | Ready.\r\nlocalstack-1  | 2024-03-13T17:37:02.043 ERROR --- [  MainThread] localstack.runtime.init    : Error while running script Script(path='/etc/localstack/init/ready.d/bucket-setup.sh', stage=READY, state=ERROR): [Errno 2] No such file or directory: '/etc/localstack/init/ready.d/bucket-setup.sh'"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7401",
+      "time": "2024-03-13T10:50:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7401#issuecomment-1994097971",
+      "text": "@khavinshankar issue is from the backend side just tell me to make changes in the backend side I should visit https://github.com/coronasafe/care this repo right? plz clarify"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7406",
+      "time": "2024-03-13T08:22:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7406",
+      "text": "Staging release v24.12.0-beta",
+      "collaborated_with": [
+        "mohanrajnambe",
+        "Ashesh3",
+        "Dareenfadel",
+        "gigincg",
+        "itxsoumya",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7401",
+      "time": "2024-03-13T03:44:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7401#issuecomment-1993357138",
+      "text": "@khavinshankar can you plz assign me this issue"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7357",

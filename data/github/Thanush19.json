@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-12T15:59:05+00:00",
+  "last_updated": "2024-03-13T07:59:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7402",
+      "time": "2024-03-13T07:59:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7402#issuecomment-1993764349",
+      "text": "hey @rithviknishad , done with the changes u asked for.."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6974",
+      "time": "2024-03-13T07:51:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6974#issuecomment-1993752954",
+      "text": "hey @rithviknishad , kindly review the PR #7399 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-13T07:31:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1993727032",
+      "text": "@rithviknishad , kindly review the PR [](https://github.com/coronasafe/care_fe/pull/7402)"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6637",
+      "time": "2024-03-13T06:31:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6637#issuecomment-1993660738",
+      "text": "@rithviknishad , i've submitted new PR ,correcting all the changes u asked for , and also added Multilingual support for all the Button i have used , check my PR  https://github.com/coronasafe/care_fe/pull/7402"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7402",
+      "time": "2024-03-13T06:23:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7402",
+      "text": "Fix/comment section stretching"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6637",

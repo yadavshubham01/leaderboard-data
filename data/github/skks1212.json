@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-12T18:11:37+00:00",
+  "last_updated": "2024-03-13T21:36:11+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#191",
+      "time": "2024-03-13T21:36:11+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/191#issuecomment-1995906772",
+      "text": "> Hii @skks1212 i have done all the changes just want your suggestion How about introducing theme toggle button in adminSidebar\r\n\r\nGo ahead!\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T21:35:11+00:00",
+      "title": "coronasafe/ayushma_fe#192",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#pullrequestreview-1935257359",
+      "text": "Closes #Issue-191 UI Compatibility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T21:35:11+00:00",
+      "title": "coronasafe/ayushma_fe#192",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#pullrequestreview-1935257359",
+      "text": "Closes #Issue-191 UI Compatibility"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1967",
@@ -7066,6 +7087,29 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1967",
+      "title": "Painscale changed from 0 - 5 to 0 - 10",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "title": "Updated Preview UIs and Changes to Painscale",
+      "stale_for": 1,
+      "labels": [
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7292",
+      "title": "Update Security Policy to redirect to issue page",
+      "stale_for": 7,
+      "labels": [
+        "stale"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

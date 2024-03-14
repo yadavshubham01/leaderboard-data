@@ -1,6 +1,28 @@
 {
-  "last_updated": "2024-03-12T11:48:06+00:00",
+  "last_updated": "2024-03-13T12:10:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7410",
+      "time": "2024-03-13T12:10:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7410#issuecomment-1994239887",
+      "text": "@nihal467 could you assign it to me?"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7406",
+      "time": "2024-03-13T08:22:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7406",
+      "text": "Staging release v24.12.0-beta",
+      "collaborated_with": [
+        "mohanrajnambe",
+        "Ashesh3",
+        "hrit2773",
+        "gigincg",
+        "itxsoumya",
+        "sainak"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7366",

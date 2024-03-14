@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-12T16:15:00+00:00",
+  "last_updated": "2024-03-13T13:42:40+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#32",
+      "time": "2024-03-13T13:42:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32#issuecomment-1994436950",
+      "text": "Hii @sainak i have made the readme file . Kindly review the changes."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#32",
+      "time": "2024-03-13T13:41:50+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32",
+      "text": "add: Readme.md File"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#10",
+      "time": "2024-03-13T10:34:58+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/issues/10#issuecomment-1994068240",
+      "text": "Hii @sainak can I work on this issue "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#381",
@@ -131,6 +152,13 @@
       "text": "Hii @sainak can i work on this issue."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32",
+      "title": "add: Readme.md File",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

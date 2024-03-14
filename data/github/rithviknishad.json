@@ -1,6 +1,127 @@
 {
-  "last_updated": "2024-03-12T17:56:33+00:00",
+  "last_updated": "2024-03-13T11:00:02+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T11:00:02+00:00",
+      "title": "coronasafe/care_fe#7408",
+      "link": "https://github.com/coronasafe/care_fe/pull/7408#pullrequestreview-1933803434",
+      "text": "fix: added validation for doctor experience input."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T06:53:14+00:00",
+      "title": "coronasafe/care_fe#7402",
+      "link": "https://github.com/coronasafe/care_fe/pull/7402#pullrequestreview-1933284502",
+      "text": "Fix/comment section stretching"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T06:53:14+00:00",
+      "title": "coronasafe/care_fe#7402",
+      "link": "https://github.com/coronasafe/care_fe/pull/7402#pullrequestreview-1933284502",
+      "text": "Fix/comment section stretching"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#385",
+      "time": "2024-03-13T05:36:16+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/385",
+      "text": "Organization logo not working in builds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:28:29+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1933140501",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:27:07+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1933139447",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:21:18+00:00",
+      "title": "coronasafe/care_fe#7252",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#pullrequestreview-1933135036",
+      "text": "Added IP Days Chip in Patient List and Patient Dashboard"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:21:18+00:00",
+      "title": "coronasafe/care_fe#7252",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#pullrequestreview-1933135036",
+      "text": "Added IP Days Chip in Patient List and Patient Dashboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7252",
+      "time": "2024-03-13T04:19:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7252#issuecomment-1993441044",
+      "text": "> edge case when the year is 0202 it returns NaN\r\n\r\ncan be ignored. newer data wouldn't have weird years right."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1967",
+      "time": "2024-03-13T04:17:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1967#issuecomment-1993435484",
+      "text": "@skks1212 tests and lint failing"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:16:09+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1933128412",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:16:09+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1933128412",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-13T04:08:43+00:00",
+      "title": "coronasafe/leaderboard#335",
+      "link": "https://github.com/coronasafe/leaderboard/pull/335#pullrequestreview-1933126518",
+      "text": "Community Engagement Graph/Trendline  "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#383",
+      "time": "2024-03-13T04:03:14+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/383",
+      "text": "Cache computed values to reduce build times",
+      "turnaround_time": 38858
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#382",
+      "time": "2024-03-13T04:03:15+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/382",
+      "text": "Slow builds (during pre-rendering 400+ contributors)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#384",
+      "time": "2024-03-13T04:02:16+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/384",
+      "text": "Fixes error resolving collaboration commit author in edge cases",
+      "turnaround_time": 324
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#384",
+      "time": "2024-03-13T03:56:52+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/384",
+      "text": "Fixes error resolving collaboration commit author in edge cases"
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/leaderboard#377",
