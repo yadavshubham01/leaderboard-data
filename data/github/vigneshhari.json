@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-11T17:33:29+00:00",
+  "last_updated": "2024-03-14T12:31:18+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T12:31:18+00:00",
+      "title": "coronasafe/care#1973",
+      "link": "https://github.com/coronasafe/care/pull/1973#pullrequestreview-1936524551",
+      "text": "Staging release for v24.12.0 | bug-fix 1"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7401",
+      "time": "2024-03-14T10:47:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7401",
+      "text": "Error while fetching shifting requests"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T10:47:15+00:00",
+      "title": "coronasafe/care#1972",
+      "link": "https://github.com/coronasafe/care/pull/1972#pullrequestreview-1936316179",
+      "text": "Fix assigned_facility_type migration"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1962",

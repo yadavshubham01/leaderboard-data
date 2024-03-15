@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-09T15:45:38+00:00",
+  "last_updated": "2024-03-14T12:05:42+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-03-14T12:05:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-1997293649",
+      "text": "@thedevildude, I logged in as \"devdistrictadmin\" as you said and reached the camera feed. But the feed is offline. Also, when I start the project locally, there are no patients that have camera feed available and working."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-03-14T08:48:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-1996888657",
+      "text": "@rithviknishad, I have found the files to make changes in the codebase. But to test the changes, I checked the assets, no asset had live camera feeds working. And could not find the asset with the name \"Dev Camera\". And the link you shared is showing \"Page not found\". Am I missing something here?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7342",

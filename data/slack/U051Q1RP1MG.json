@@ -2947,5 +2947,113 @@
                 }
             ]
         }
+    ],
+    "2024-03-14 00:00:00": [
+        {
+            "user": "U051Q1RP1MG",
+            "type": "message",
+            "ts": "1710392105.054599",
+            "client_msg_id": "0525eeaa-d44a-43ef-960d-820c9841c07f",
+            "text": "EOD 12/03/2024 and 13/03/2024\n\u2022 Worked on the suggestions for PR <https://github.com/coronasafe/care_fe/pull/6901|#6901>\nWhat's next\n\u2022 Looking for new issues to solve",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1703410521,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/6901",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6901 Added Timeline UI for Bed Activity",
+                    "text": "*Proposed Changes*\n\n\u2022 Fixes <https://github.com/coronasafe/care_fe/issues/6771|#6771>\n\u2022 Integrated Timeline for Bed Activity using *BedActivityTimeline*\n\nWhat's Changed?  \n<https://private-user-images.githubusercontent.com/63492939/312103627-1054684c-409c-4927-8dab-1f056f6a3cda.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAzOTI0MDYsIm5iZiI6MTcxMDM5MjEwNiwicGF0aCI6Ii82MzQ5MjkzOS8zMTIxMDM2MjctMTA1NDY4NGMtNDA5Yy00OTI3LThkYWItMWYwNTZmNmEzY2RhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE0VDA0NTUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhMWY1NzE4OGM0ZjQwZWE5MGY4NmE0ODM0MWY3MTNjZmRkMDRkYjA4ZmI1YWRhYWFhYzk1NTlhY2M0ODhmMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EhWy1GyaDBqVTLDevyKDHIT4GhM9pfeprvpLrsBDnhM|image>  \nBefore:  \n<https://private-user-images.githubusercontent.com/63492939/292778831-4f94667b-d42f-4ae7-a596-b760de3e76c7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAzOTI0MDYsIm5iZiI6MTcxMDM5MjEwNiwicGF0aCI6Ii82MzQ5MjkzOS8yOTI3Nzg4MzEtNGY5NDY2N2ItZDQyZi00YWU3LWE1OTYtYjc2MGRlM2U3NmM3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzE0VDA0NTUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFlMGI0MTU4NjNhNjcyYmNmNzdiMWI1MjM4YWIxZDFjODIwNmE5MjU2OTJkYTIyOWRhMmY5OWYzZjBiZTU4N2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1LJC84zOO-pUnRZnPxVzwotzJkIekUIHL8RNNO6qQ2w|Bed Timeline Before>\n\n@coronasafe/care-fe-code-reviewers @coronasafe/code-reviewers\n\n*Merge Checklist*\n\n\u2610 Add specs that demonstrate bug / test a new feature.\n\u2610 Update <https://docs.coronasafe.network/coronasafe-care-documentation/architecture/architecture-and-layering-of-care|product documentation>.\n\u2610 Ensure that UI text is kept in I18n files.\n\u2610 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2610 Request for Peer Reviews\n\u2610 Completion of QA",
+                    "title": "#6901 Added Timeline UI for Bed Activity",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/6901",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "fields": [
+                        {
+                            "value": "needs testing, needs review",
+                            "title": "Labels",
+                            "short": true
+                        },
+                        {
+                            "value": "7",
+                            "title": "Comments",
+                            "short": true
+                        }
+                    ],
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pyfvA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 12/03/2024 and 13/03/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the suggestions for PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6901",
+                                            "text": "#6901",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "What's next\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Looking for new issues to solve"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

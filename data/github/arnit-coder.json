@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-06T17:13:33+00:00",
+  "last_updated": "2024-03-14T08:19:05+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T08:19:05+00:00",
+      "title": "coronasafe/care_fe#7311",
+      "link": "https://github.com/coronasafe/care_fe/pull/7311#pullrequestreview-1935988609",
+      "text": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T08:16:21+00:00",
+      "title": "coronasafe/care_fe#7311",
+      "link": "https://github.com/coronasafe/care_fe/pull/7311#pullrequestreview-1935976251",
+      "text": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T08:02:08+00:00",
+      "title": "coronasafe/care_fe#7311",
+      "link": "https://github.com/coronasafe/care_fe/pull/7311#pullrequestreview-1935931972",
+      "text": "\"Set average weekly working hour\" button in user tab made responsive and \"Facility registration form cover photo upload\" added in create facility"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1930",

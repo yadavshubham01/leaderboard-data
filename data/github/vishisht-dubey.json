@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-13T14:41:57+00:00",
+  "last_updated": "2024-03-14T11:22:39+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#192",
+      "time": "2024-03-14T11:22:39+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#issuecomment-1997223673",
+      "text": "Hii @skks1212 i have done the changes please review the pr"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T11:08:26+00:00",
+      "title": "coronasafe/ayushma_fe#192",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#pullrequestreview-1936360563",
+      "text": "Closes #Issue-191 UI Compatibility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-14T11:08:20+00:00",
+      "title": "coronasafe/ayushma_fe#192",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#pullrequestreview-1936360371",
+      "text": "Closes #Issue-191 UI Compatibility"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#191",
@@ -403,13 +424,6 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/ayushma_fe/pull/192",
-      "title": "Closes #Issue-191 UI Compatibility",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

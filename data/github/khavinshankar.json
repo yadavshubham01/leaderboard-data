@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-13T10:56:35+00:00",
+  "last_updated": "2024-03-14T11:04:49+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7362",
+      "time": "2024-03-14T11:04:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7362#issuecomment-1997185869",
+      "text": "@r-nikhilkumar fork the branch from #6223 and make a pr with the base branch as #6223 \r\n\r\ncc: @rithviknishad "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7414",
+      "time": "2024-03-14T11:01:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7414",
+      "text": "Camera feed enhancement"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7401",

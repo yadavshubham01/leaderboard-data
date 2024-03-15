@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-13T08:22:46+00:00",
+  "last_updated": "2024-03-14T17:26:34+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7359",
+      "time": "2024-03-14T17:26:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#issuecomment-1997973017",
+      "text": "> Wouldn't this be better if we moved this logic to the Select Menu component itself so it'd be applicable in all use cases?\r\n\r\nSince the logic of either disabling or the placeholder text 'No options available' relies on the length of the option, taking that into selectmenu component is not viable unless we bring in a new prop to configure that again. So,  'options.length' is a good to have in the component which is utilising the SelectFormField(SelectMenuV2) "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7406",
