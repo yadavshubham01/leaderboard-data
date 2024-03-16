@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-14T15:00:14+00:00",
+  "last_updated": "2024-03-15T07:35:33+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1930",
+      "time": "2024-03-15T07:35:33+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1930#issuecomment-1999090179",
+      "text": "```\r\nBASE_ROOM_TYPES = [\r\n    (1, \"General Bed\"),\r\n    (10, \"ICU\"),\r\n    # (20, \"Ventilator\"), => ICU\r\n    # (30, \"Covid Beds\"), => Isolation beds\r\n    # (100, \"Covid Ventilators\"), => Isolation beds\r\n    # (110, \"Covid ICU\"), => Isolation beds\r\n    # (120, \"Covid Oxygen beds\"), => Isolation beds\r\n    (150, \"Oxygen beds\"),\r\n    (4, \"Isolation beds\"),\r\n    (5, \"Others\")\r\n]\r\n\r\nROOM_TYPES = [\r\n    (0, \"Total\"),\r\n    # (2, \"Hostel\"), => Other\r\n    # (3, \"Single Room with Attached Bathroom\"), => other\r\n    (40, \"KASP Beds\"),\r\n    (50, \"KASP ICU beds\"),\r\n    (60, \"KASP Oxygen beds\"),\r\n    # (70, \"KASP Ventilator beds\"), => KASP ICU beds\r\n]\r\n```\r\n@sainak  is it the correct order of shifting the data?\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1930",

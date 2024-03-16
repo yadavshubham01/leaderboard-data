@@ -1,6 +1,99 @@
 {
-  "last_updated": "2024-03-14T16:34:00+00:00",
+  "last_updated": "2024-03-15T13:04:30+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7362",
+      "time": "2024-03-15T13:04:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7362#issuecomment-1999623109",
+      "text": "You have to branch out from @JahnabDutta 's branch and make a PR to his branch instead of develop.\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1976",
+      "time": "2024-03-15T12:03:50+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1976",
+      "text": "Staging release for v24.12.0 | bug-fix 2",
+      "collaborated_with": [
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7422",
+      "time": "2024-03-15T12:03:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7422",
+      "text": "Staging Release for v24.12.0 | Hotfix 1",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1974",
+      "time": "2024-03-15T11:31:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1974",
+      "text": "fixes something went wrong error for duplicate patient no. check for OP consultations and imrpove error message",
+      "turnaround_time": 22065
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7418",
+      "time": "2024-03-15T10:05:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7418",
+      "text": "Fixes patient no. not being sent to backend if updated to empty string",
+      "turnaround_time": 4108
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7419",
+      "time": "2024-03-15T08:56:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7419",
+      "text": "Unable to remove OP number in edit consultation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7418",
+      "time": "2024-03-15T08:54:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7418",
+      "text": "Fixes patient no. not being sent to backend if updated to empty string"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1974",
+      "time": "2024-03-15T05:23:38+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1974",
+      "text": "fixes something went wrong error for duplicate patient no. check for OP consultations and imrpove error message"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7410",
+      "time": "2024-03-15T05:19:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7410#issuecomment-1998954679",
+      "text": "@hrit2773 it needs to be in the same facility too."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7359",
+      "time": "2024-03-15T04:05:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#issuecomment-1998900151",
+      "text": "But `options.length` is accessible inside SelectMenu component too right, and since we need to make the behaviour same across the platform, it'd require changes to be made in all the references and not ideal. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7415",
+      "time": "2024-03-15T03:56:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7415#issuecomment-1998893220",
+      "text": "Hey, thanks for the attempt, but https://github.com/coronasafe/care_fe/issues/7316#issuecomment-1981128727 and https://github.com/coronasafe/care_fe/pull/7324#issuecomment-1983548075 specifies to provide a mock-up and get it assigned before working on it. Also as mentioned in the comments, it should be a reusable component rather than simply making the designs look consistent across the pages.\r\n\r\nClosing the PR, feel free to re-open and follow-up once the mockup is approved and the issue is assigned."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1961",
+      "time": "2024-03-15T03:51:13+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1961#issuecomment-1998889726",
+      "text": "@krassowska \r\n\r\nFileUpload's name wouldn't contain the extension in the `name` column. This field is more like a label than a file name on disk. The `internal_name` column is the file name on the disk and contains the proper extension. Only auto-generated discharge summary files have `.pdf` suffixed in the `name` column. Rest all does not. So this needs to be fixed in the backend. \r\n\r\ncc: @sainak \r\n\r\n<img width=\"1548\" alt=\"image\" src=\"https://github.com/coronasafe/care/assets/25143503/c1d406b8-7c32-483c-9931-44c79025d569\">\r\n\r\n\r\n\r\nYes, you can add tests too. \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7397",

@@ -1,6 +1,77 @@
 {
-  "last_updated": "2024-03-14T11:04:49+00:00",
+  "last_updated": "2024-03-15T15:00:07+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7362",
+      "time": "2024-03-15T15:00:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7362#issuecomment-1999851491",
+      "text": "@r-nikhilkumar\r\n1. Create a new branch from `\"[JahnabDutta:qa-testing](https://github.com/JahnabDutta/care_fe/tree/qa-testing)\"`\r\n2. Make necessary changes\r\n3. Create a pull request with base branch as `\"[JahnabDutta:qa-testing](https://github.com/JahnabDutta/care_fe/tree/qa-testing)\"`"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1977",
+      "time": "2024-03-15T14:46:46+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1977",
+      "text": "Whatsapp bot for CARE"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/citizen#43",
+      "time": "2024-03-15T13:54:22+00:00",
+      "link": "https://github.com/coronasafe/citizen/issues/43",
+      "text": "Rewrite the citizen app with *Next + Typescript*"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7422",
+      "time": "2024-03-15T12:03:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7422",
+      "text": "Staging Release for v24.12.0 | Hotfix 1",
+      "turnaround_time": 5884
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-15T11:45:25+00:00",
+      "title": "coronasafe/care_fe#7423",
+      "link": "https://github.com/coronasafe/care_fe/pull/7423#pullrequestreview-1938753147",
+      "text": "Improve build speeds for multi platform builds"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7422",
+      "time": "2024-03-15T10:25:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7422",
+      "text": "Staging Release for v24.12.0 | Hotfix 1"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-15T10:18:53+00:00",
+      "title": "coronasafe/care_fe#7409",
+      "link": "https://github.com/coronasafe/care_fe/pull/7409#pullrequestreview-1938587205",
+      "text": "Fix arm builds and update build branches"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7419",
+      "time": "2024-03-15T10:05:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7419",
+      "text": "Unable to remove OP number in edit consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-15T09:59:52+00:00",
+      "title": "coronasafe/care_fe#7418",
+      "link": "https://github.com/coronasafe/care_fe/pull/7418#pullrequestreview-1938550146",
+      "text": "Fixes patient no. not being sent to backend if updated to empty string"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1975",
+      "time": "2024-03-15T06:29:11+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1975",
+      "text": "Build fidelius with multi platform support"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7362",
@@ -27983,6 +28054,146 @@
       "text": "Shows a 'data not available' message when null in NeurologicalTables"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7414",
+      "title": "Camera feed enhancement",
+      "stale_for": 1,
+      "labels": [
+        "do not merge"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7193",
+      "title": "ABDM M3",
+      "stale_for": 6,
+      "labels": [
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1829",
+      "title": "ABDM M3",
+      "stale_for": 2,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1229",
+      "title": "Hcx Refactors",
+      "stale_for": 2,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
+      "title": "Hcx/eligibility check workflow",
+      "stale_for": 110,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
+      "title": "Added an endpoint to get the time of the last request in observation",
+      "stale_for": 462,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1093",
+      "title": "Added is_occupied field in Bed",
+      "stale_for": 2,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 819,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 825,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 826,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/life/pull/306",
+      "title": "filtered duplicate tweets",
+      "stale_for": 1021,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care/pull/1861"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7114"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6545",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6547"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/102",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/103"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care/pull/1550"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1407",
+      "pr_link": "https://github.com/coronasafe/care/pull/1408"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5772",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5882"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5699",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5700"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5518",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5519"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5368",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5369"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4538",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4539"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4528",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4529"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4512",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4513"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4433",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4437"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1135",
+      "pr_link": "https://github.com/coronasafe/care/pull/1136"
+    }
+  ]
 }

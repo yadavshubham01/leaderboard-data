@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-14T11:22:39+00:00",
+  "last_updated": "2024-03-15T17:23:04+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#192",
+      "time": "2024-03-15T17:23:04+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#issuecomment-2000115163",
+      "text": "@skks1212 any update?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#192",
+      "time": "2024-03-15T12:59:41+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#issuecomment-1999614939",
+      "text": "> @vishisht-dubey can you attach screenshots of what all UI changes have been carried out in this PR?\r\n\r\none is this\r\n![Screenshot 2024-03-09 194118](https://github.com/coronasafe/ayushma_fe/assets/98794736/b26b9408-ebd5-49cf-9c17-71b8bcd0b321)\r\nother is introduction of theme change button in admin sidebar\r\n![Screenshot 2024-03-15 182407](https://github.com/coronasafe/ayushma_fe/assets/98794736/ae492062-807a-44c1-9cd0-78a3dd542b33)\r\nanother is this slider was not visible in light mode\r\n![Screenshot 2024-03-15 182834](https://github.com/coronasafe/ayushma_fe/assets/98794736/ba18a386-4c3f-44ea-9713-1a512c2eeed2)\r\napart from it some other places where bg is hardcoded and properly not displaying.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#192",
@@ -424,6 +438,13 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192",
+      "title": "Closes #Issue-191 UI Compatibility",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

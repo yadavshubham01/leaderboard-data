@@ -1,6 +1,69 @@
 {
-  "last_updated": "2024-03-13T10:31:41+00:00",
+  "last_updated": "2024-03-15T17:59:33+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1977",
+      "time": "2024-03-15T17:59:33+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1977#issuecomment-2000171246",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7425",
+      "time": "2024-03-15T17:59:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7425#issuecomment-2000171088",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7424",
+      "time": "2024-03-15T17:59:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7424#issuecomment-2000170945",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/teleicu_middleware#120",
+      "time": "2024-03-15T17:59:12+00:00",
+      "link": "https://github.com/coronasafe/teleicu_middleware/issues/120#issuecomment-2000170744",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/citizen#43",
+      "time": "2024-03-15T17:59:00+00:00",
+      "link": "https://github.com/coronasafe/citizen/issues/43#issuecomment-2000170440",
+      "text": "Hey everyone,\r\n\r\nThank you for showing interest in the projects. I would like to inform you that we have scheduled **EOD calls on Zoom** from Monday to Saturday at **7:30 PM** to discuss your work and address any doubts with the core team. Alternatively, feel free to use our **#care_general** Slack channel.\r\n\r\nThe meeting links will be shared in our **#reminder** channel in our Slack workspace. \r\n\r\n**Link to join the Slack:** [Slack Workspace](https://join.slack.com/t/rebuildearth/shared_invite/zt-2blycdt83-yvoJRsa10QDhE9WFiwoVkg)\r\n\r\nMeanwhile, please explore the care platform and familiarize yourself with its features. Feel free to play around with it and assign any open issues as you see fit."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7424",
+      "time": "2024-03-15T13:10:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7424",
+      "text": "Generic Scheduling\u00a0System For CARE"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7418",
+      "time": "2024-03-15T09:53:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7418#issuecomment-1999305404",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1974",
+      "time": "2024-03-15T09:49:55+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1974#issuecomment-1999297740",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7410",
+      "time": "2024-03-15T05:02:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7410#issuecomment-1998939768",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/d3fc3433-8f36-491c-b5e6-c0f2df23f5f5)\r\n\r\n- [ ] when we input duplicate OP number , the error thrown is \"something went wrong\" @rithviknishad "
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7410",
@@ -32156,6 +32219,15 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7400",
+      "title": "New Cypress Test | Normal Log Update for Admission and Non- Admission Patients | Patient Consultation Module",
+      "stale_for": 2,
+      "labels": [
+        "work-in-progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

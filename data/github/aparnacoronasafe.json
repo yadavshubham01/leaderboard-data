@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-12T05:37:37+00:00",
+  "last_updated": "2024-03-15T08:16:21+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-15T08:16:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417",
+      "text": "File Upload enhancement- multi-file support"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-15T07:57:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416#issuecomment-1999116070",
+      "text": "Expected to go live with minimum requirement in 2 weeks (by 29th Mar)"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-15T07:55:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416",
+      "text": "Feature to upload consent file per encounter"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7378",

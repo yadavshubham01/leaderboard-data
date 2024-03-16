@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-14T10:51:48+00:00",
+  "last_updated": "2024-03-15T05:17:49+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7410",
+      "time": "2024-03-15T05:17:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7410#issuecomment-1998952517",
+      "text": "@nihal467 I tried to create 2 patient consultations with same IP number but they were created successfully. I did not encounter any error"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7410",
