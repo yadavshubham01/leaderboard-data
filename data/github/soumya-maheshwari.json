@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-03-16T18:27:21+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7428",
+      "time": "2024-03-16T18:27:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7428",
+      "text": "edit padding in shifting board and resource board pages in mobile screen"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7427",
+      "time": "2024-03-16T17:48:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7427",
+      "text": " Modification of padding  in ScrollingComponent for Improved Mobile Display in pages like resource board"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7428",
+      "title": "edit padding in shifting board and resource board pages in mobile screen",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

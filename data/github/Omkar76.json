@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-02T20:39:51.000Z",
+  "last_updated": "2024-03-16T14:21:16+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6993",
+      "time": "2024-03-16T14:21:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6993#issuecomment-2002001213",
+      "text": "\r\n@aparnacoronasafe \r\nPlease correct me if I'm misunderstanding your second statement.\r\n> Add a card in patient dashboard \"update\" tab, under Basic information, before \"Symptoms\" . Title of the card must be \"Perinatal Status\" containing the information on whether the patient is antenatal (date of last menstruation) and post-partum (with date of delivery)\r\n\r\nThe place where you are suggesting to add the \"Perinatal status\" card is only shown when a consultation if filed for patient. (check the link you provided - it says consultation). We are currently collecting the perinatal details per patient and not per consultation. So showing it only when consultation is created seems odd to me. I realized this only when writing tests that I'll have to first create a consultation in order to verify perinatal info.\r\n\r\nI think it'll be more appropriate to add the details in \"Medical\" card (see the screenshot). We are already showing is \"Is pregnant\" field there. Let me know what you think. Thanks.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/56870381/c8d781b4-ebdf-4a62-a512-cde43392a0f5)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6993",
@@ -782,38 +789,6 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7275",
-      "title": "create vite plugin to treeshake uniconpaths.json",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1907",
-      "title": "track previous consultation",
-      "stale_for": 8,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6993",
-      "title": "Collect postpartum data",
-      "stale_for": 0,
-      "labels": [
-        "needs review",
-        "changes required",
-        "merge conflict"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

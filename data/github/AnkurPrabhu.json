@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-11T17:32:11+00:00",
+  "last_updated": "2024-03-16T12:58:38+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-16T12:58:38+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-2001979988",
+      "text": "hey i just noticed that for model AssetLocation we dont have a field named state thats why its failing for assetlocation where as for facility we have state so this fixed the facility permission issue part but shows the error while managing beds \r\nshould i add the state field  ? \r\n@rithviknishad "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-16T08:09:03+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2001901617",
+      "text": "@sainak  any other changes required for this or only these 2 "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7387",

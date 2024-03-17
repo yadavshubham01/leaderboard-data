@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-11T09:27:44+00:00",
+  "last_updated": "2024-03-16T14:49:12+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#391",
+      "time": "2024-03-16T14:49:12+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/391#issuecomment-2002009351",
+      "text": "Can anyone assign me this issue?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#391",
+      "time": "2024-03-16T14:48:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/391",
+      "text": "Empty profile picture when network is throttled"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#355",
@@ -274,5 +288,18 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/277",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/308"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/247",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/254"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/242",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/244"
+    }
+  ]
 }

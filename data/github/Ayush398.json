@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-11T09:29:03+00:00",
+  "last_updated": "2024-03-16T06:33:23+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7426",
+      "time": "2024-03-16T06:33:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7426",
+      "text": "Fix: \"Log Update\"- consistency in terminology"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#340",
@@ -118,6 +125,13 @@
       "text": "Can you please assign me this issue"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7426",
+      "title": "Fix: \"Log Update\"- consistency in terminology",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
