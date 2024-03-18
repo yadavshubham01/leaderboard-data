@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-11T21:01:26+00:00",
+  "last_updated": "2024-03-17T12:35:52+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T12:35:52+00:00",
+      "title": "coronasafe/care_fe#7321",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#pullrequestreview-1941460337",
+      "text": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7321",
@@ -86,16 +93,6 @@
       "text": "Hello, Myself Harsheet Sharma, and I am willing to work on this project. "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7321",
-      "title": "chores: Fixed responsiveness of the expanded sort dropdown in the patients page ",
-      "stale_for": 0,
-      "labels": [
-        "test failed",
-        "changes required"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

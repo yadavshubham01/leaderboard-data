@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-03-14T06:42:01+00:00",
+  "last_updated": "2024-03-17T05:43:48+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1928",
+      "time": "2024-03-17T05:43:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "text": "Add validation checks in ResourceRequestSerializer",
+      "turnaround_time": 29201
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1928",
+      "time": "2024-03-17T05:43:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1928",
+      "text": "Add validation checks in ResourceRequestSerializer",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7411",

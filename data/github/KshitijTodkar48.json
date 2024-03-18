@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-14T12:05:42+00:00",
+  "last_updated": "2024-03-17T16:57:01+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-03-17T16:57:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2002538039",
+      "text": "@rithviknishad, I have the backend running locally, how to connect my local frontend to the backend, because I still cannot see the \"Dev Camera\" asset and the live feed."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7342",

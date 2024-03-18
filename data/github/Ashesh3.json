@@ -1,6 +1,64 @@
 {
-  "last_updated": "2024-03-15T14:12:07+00:00",
+  "last_updated": "2024-03-17T21:02:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7408",
+      "time": "2024-03-17T21:02:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7408#issuecomment-2002616132",
+      "text": "> Thank you so much for approving the changes. Sorry if I'm asking something irrelevant; I'm new to this repository. May I know how long testing usually takes? @Ashesh3 @rithviknishad\r\n\r\nThe PRs approved are usually tested within the upcoming week by @nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T12:54:07+00:00",
+      "title": "coronasafe/care_fe#7276",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#pullrequestreview-1941467782",
+      "text": "Replaced useDispatch with request in DailyRounds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T12:06:04+00:00",
+      "title": "coronasafe/care_fe#7426",
+      "link": "https://github.com/coronasafe/care_fe/pull/7426#pullrequestreview-1941451510",
+      "text": "Fix: \"Log Update\"- consistency in terminology"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#13",
+      "time": "2024-03-17T11:47:57+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#issuecomment-2002426025",
+      "text": "Great improvement! All the functionality seems to be working now. Let's proceed with the design changes to finalize it."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1900",
+      "time": "2024-03-17T05:44:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1900",
+      "text": "Add assigned_clinicians field to PatientConsultation model",
+      "turnaround_time": 44430
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1900",
+      "time": "2024-03-17T05:44:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1900",
+      "text": "Add assigned_clinicians field to PatientConsultation model",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1692",
+      "time": "2024-03-17T05:38:52+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1692",
+      "text": "Prescription: Titrated drug dose",
+      "collaborated_with": [
+        "rithviknishad",
+        "GokulramGHV",
+        "sainak"
+      ]
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7425",
@@ -18103,7 +18161,49 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7396",
+      "title": "Update Click to chat button for WhatsApp",
+      "stale_for": 5,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1903",
+      "title": "Migrate consultation's assigned_to to assigned_clinicians",
+      "stale_for": 4,
+      "labels": [
+        "blocked",
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1657",
+      "title": "POC: AI discharge summary",
+      "stale_for": 4,
+      "labels": [
+        "POC"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5147",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 348,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1227",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 4,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7240",

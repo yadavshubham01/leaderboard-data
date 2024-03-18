@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-14T12:31:18+00:00",
+  "last_updated": "2024-03-17T05:44:35+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T05:44:35+00:00",
+      "title": "coronasafe/care#1900",
+      "link": "https://github.com/coronasafe/care/pull/1900#pullrequestreview-1941377808",
+      "text": "Add assigned_clinicians field to PatientConsultation model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T05:43:42+00:00",
+      "title": "coronasafe/care#1928",
+      "link": "https://github.com/coronasafe/care/pull/1928#pullrequestreview-1941377757",
+      "text": "Add validation checks in ResourceRequestSerializer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1957",
+      "time": "2024-03-17T05:41:51+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1957",
+      "text": "Warnings for ExternalIdSerializerField"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T05:41:46+00:00",
+      "title": "coronasafe/care#1958",
+      "link": "https://github.com/coronasafe/care/pull/1958#pullrequestreview-1941377620",
+      "text": "ExternalIDSerializerField to be UUID Field instead of Field"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1810",
+      "time": "2024-03-17T05:40:11+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1810",
+      "text": "Custom Migration to clean no input values as `null` in Daily Rounds table"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T05:40:01+00:00",
+      "title": "coronasafe/care#1839",
+      "link": "https://github.com/coronasafe/care/pull/1839#pullrequestreview-1941377454",
+      "text": "fix: Custom Migration to clean no input values as null in Daily Rounds table"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1668",
+      "time": "2024-03-17T05:38:52+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1668",
+      "text": "Prescription Serializer: serialize last administration record instead of last administered date"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-17T05:38:44+00:00",
+      "title": "coronasafe/care#1692",
+      "link": "https://github.com/coronasafe/care/pull/1692#pullrequestreview-1941377384",
+      "text": "Prescription: Titrated drug dose"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-14T12:31:18+00:00",

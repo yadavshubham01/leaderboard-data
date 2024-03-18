@@ -1,6 +1,26 @@
 {
-  "last_updated": "2024-01-08T12:09:44.000Z",
+  "last_updated": "2024-03-17T05:38:52+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1692",
+      "time": "2024-03-17T05:38:52+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1692",
+      "text": "Prescription: Titrated drug dose",
+      "turnaround_time": 72292
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1692",
+      "time": "2024-03-17T05:38:52+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1692",
+      "text": "Prescription: Titrated drug dose",
+      "collaborated_with": [
+        "rithviknishad",
+        "Ashesh3",
+        "sainak"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#6992",
@@ -612,7 +632,7 @@
       "title": "coronasafe/ayushma#299",
       "time": "2023-09-04T12:55:45.000Z",
       "link": "https://github.com/coronasafe/ayushma/pull/299#issuecomment-1705227256",
-      "text": "@Ashesh3 Also thanks for making this PR. I didn't see bodhi's review on my PR 😅"
+      "text": "@Ashesh3 Also thanks for making this PR. I didn't see bodhi's review on my PR \ud83d\ude05"
     },
     {
       "type": "comment_created",
@@ -1369,7 +1389,7 @@
       "title": "coronasafe/care_fe#5061",
       "time": "2023-03-13T08:41:28.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5061",
-      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo…"
+      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo\u2026"
     },
     {
       "type": "pr_merged",
@@ -1383,7 +1403,7 @@
       "title": "coronasafe/care_fe#5058",
       "time": "2023-03-13T08:31:31.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5058",
-      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi…"
+      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi\u2026"
     },
     {
       "type": "pr_collaborated",
@@ -1415,7 +1435,7 @@
       "title": "coronasafe/care_fe#5061",
       "time": "2023-03-08T05:32:18.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5061",
-      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo…"
+      "text": "Replaced MUI modal with custom DialogModal Component in AssetImportMo\u2026"
     },
     {
       "type": "pr_opened",
@@ -1429,7 +1449,7 @@
       "title": "coronasafe/care_fe#5058",
       "time": "2023-03-08T04:24:21.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/5058",
-      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi…"
+      "text": "Removed material UI Icons and replaced with Care Icons in GLocationPi\u2026"
     },
     {
       "type": "pr_collaborated",
@@ -1898,7 +1918,7 @@
       "title": "coronasafe/care_fe#3819",
       "time": "2022-11-05T17:13:27.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3819#issuecomment-1304593360",
-      "text": "> @GokulramGHV I meant for the DropdownItem, not the menu button 😅. \n> ![image](https://user-images.githubusercontent.com/25143503/200132087-ea70f2d2-5151-43c1-8714-8c55b349d42b.png)\n> \n\nOh sorry my bad 😅"
+      "text": "> @GokulramGHV I meant for the DropdownItem, not the menu button \ud83d\ude05. \n> ![image](https://user-images.githubusercontent.com/25143503/200132087-ea70f2d2-5151-43c1-8714-8c55b349d42b.png)\n> \n\nOh sorry my bad \ud83d\ude05"
     },
     {
       "type": "comment_created",
@@ -2882,80 +2902,6 @@
       "text": "Renamed the page heading  from 'Covid Suspect Details' to 'Patient Details'"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1742",
-      "title": "Display users list based on user access limitation",
-      "stale_for": 15,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1735",
-      "title": "District Filter to display State's name along with the district's name",
-      "stale_for": 12,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6656",
-      "title": "Remove default ordering value",
-      "stale_for": 7,
-      "labels": [
-        "tested",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1718",
-      "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 7,
-      "labels": [
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6565",
-      "title": "Add titrated prescription dosage type",
-      "stale_for": 12,
-      "labels": [
-        "tested",
-        "waiting for back end"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1692",
-      "title": "Prescription: Titrated drug dose",
-      "stale_for": 12,
-      "labels": [
-        "waiting-for-review"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1208",
-      "pr_link": "https://github.com/coronasafe/care/pull/1209"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4534",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4535"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4375",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4796"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/3705",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/3707"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2486",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2488"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/2403",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/2474"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }
