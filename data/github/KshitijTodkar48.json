@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-17T16:57:01+00:00",
+  "last_updated": "2024-03-18T18:12:30+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-03-18T18:12:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2004614480",
+      "text": "@rithviknishad, Thanks for your help so far. \r\nI've checked the live-feed, it is working. I tried updating the preset values of the live-feed and the updates were immediately available without the need of refreshing the page. I didn't find the described issue. The updated presets are available immediately without the need of refreshing the page.\r\n\r\nP.S. I've checked this on the link you shared in your above reply."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7342",

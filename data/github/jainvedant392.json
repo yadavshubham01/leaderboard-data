@@ -1,6 +1,55 @@
 {
-  "last_updated": "2024-03-17T14:54:37+00:00",
+  "last_updated": "2024-03-18T15:19:46+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T15:19:46+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943404165",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T14:20:46+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943228679",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T13:37:30+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943021056",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-18T13:19:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2003886470",
+      "text": "Ok, any other user types for which I have to do the same. And is there any way, by which i can see all the user types available?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-18T12:54:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2003833688",
+      "text": "> What about StateLabAdmin?\r\n\r\nAre you saying that like user_type: StateAdmin, there is also some user_type: StateLabAdmin?\r\nAnd if that exists, then I have to add the functionality for the same as well. Right?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:50:27+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942870597",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:50:07+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942869913",
+      "text": "Add Patient Filter for Review Missed"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7339",
@@ -612,7 +661,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1938",
       "title": "Add django filter for patient review missed",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

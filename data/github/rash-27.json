@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-17T05:43:48+00:00",
+  "last_updated": "2024-03-18T09:44:42+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-18T09:44:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-2003357480",
+      "text": "@vigneshhari here in the database we store only the age previously in Users model, \n1. Choosing a random value of date of birth is  to save the age of the user as we eliminate the age field after migration \n2. choosing only jan 1 as random dob is because , we can accurately calculate the age if needed , if we choose another date , our age calculated will get inconsistent if the actual date of birth is before the chosen date of birth\nPlease correct me , if I am wrong "
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1928",

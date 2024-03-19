@@ -1,6 +1,71 @@
 {
-  "last_updated": "2024-03-17T21:02:35+00:00",
+  "last_updated": "2024-03-18T16:56:10+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "mohanrajnambe",
+        "rithviknishad",
+        "itxsoumya",
+        "hrit2773",
+        "sainak",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T16:22:33+00:00",
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1943586295",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T16:22:10+00:00",
+      "title": "coronasafe/care_fe#7428",
+      "link": "https://github.com/coronasafe/care_fe/pull/7428#pullrequestreview-1943585407",
+      "text": "edit padding in shifting board and resource board pages in mobile screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T16:21:43+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1943584329",
+      "text": "Improves discharged tab switch behaviour"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T14:59:01+00:00",
+      "title": "coronasafe/care_fe#7339",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#pullrequestreview-1943346881",
+      "text": "Refactored condition of Different Districts in External Result"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T11:08:41+00:00",
+      "title": "coronasafe/care#1978",
+      "link": "https://github.com/coronasafe/care/pull/1978#pullrequestreview-1942639783",
+      "text": "Duplicated .pdf in the discharge summary file names"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T11:08:03+00:00",
+      "title": "coronasafe/care#1934",
+      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1942638668",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T06:06:54+00:00",
+      "title": "coronasafe/leaderboard#393",
+      "link": "https://github.com/coronasafe/leaderboard/pull/393#pullrequestreview-1942041100",
+      "text": "Implement API endpoints for tasks bot slack app"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7408",
@@ -18165,7 +18230,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7396",
       "title": "Update Click to chat button for WhatsApp",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "needs testing",
         "needs review"
@@ -18174,7 +18239,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "blocked",
         "waiting-for-review"
@@ -18183,7 +18248,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "POC"
       ]
@@ -18191,7 +18256,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 348,
+      "stale_for": 349,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -18200,7 +18265,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     }
   ],

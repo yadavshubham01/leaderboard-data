@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-09T10:56:53+00:00",
+  "last_updated": "2024-03-18T12:22:03+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:22:03+00:00",
+      "title": "coronasafe/care#1229",
+      "link": "https://github.com/coronasafe/care/pull/1229#pullrequestreview-1942808437",
+      "text": "Hcx Refactors"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-09T10:56:53+00:00",

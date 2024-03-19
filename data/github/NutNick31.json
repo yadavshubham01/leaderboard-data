@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-16T17:56:25+00:00",
+  "last_updated": "2024-03-18T15:57:39+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7433",
+      "time": "2024-03-18T15:57:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7433",
+      "text": "Overflow of the text in the UI button Advanced Filters"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7427",

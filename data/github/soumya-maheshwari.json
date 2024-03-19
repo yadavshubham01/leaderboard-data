@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-17T12:42:23+00:00",
+  "last_updated": "2024-03-18T13:39:42+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7431",
+      "time": "2024-03-18T13:39:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7431",
+      "text": "Missing DELETE API Endpoint for Resource Deletion"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7427",

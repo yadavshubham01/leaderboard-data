@@ -1,6 +1,40 @@
 {
-  "last_updated": "2024-03-15T12:03:50+00:00",
+  "last_updated": "2024-03-18T16:56:16+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1983",
+      "time": "2024-03-18T16:56:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1983",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "mohanrajnambe",
+        "rithviknishad",
+        "itxsoumya",
+        "hrit2773",
+        "Ashesh3",
+        "sainak"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1964",
+      "time": "2024-03-18T09:28:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1964#issuecomment-2003321865",
+      "text": "@vigneshhari It's simply an optimisation for Bulk Import. Currently the FE spams the BE when Bulk Imports happen"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1976",
@@ -6951,6 +6985,15 @@
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6670",
+      "title": "Add Medispeak for Preview on Care",
+      "stale_for": 97,
+      "labels": [
+        "In Progress"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

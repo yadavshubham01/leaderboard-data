@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-15T08:16:21+00:00",
+  "last_updated": "2024-03-18T12:23:45+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1982",
+      "time": "2024-03-18T12:23:45+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1982",
+      "text": "Asset list- shows assets from deleted hospitals"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7430",
+      "time": "2024-03-18T09:03:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7430",
+      "text": "Asset list- shows assets from deleted hospitals"
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/care_fe#7417",

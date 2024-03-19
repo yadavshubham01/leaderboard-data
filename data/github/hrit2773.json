@@ -1,6 +1,36 @@
 {
-  "last_updated": "2024-03-17T18:06:40+00:00",
+  "last_updated": "2024-03-18T16:56:10+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "mohanrajnambe",
+        "rithviknishad",
+        "itxsoumya",
+        "Ashesh3",
+        "sainak",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1948",
+      "time": "2024-03-18T12:59:27+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1948#issuecomment-2003845210",
+      "text": "@sainak I have familiarized myself with this issue can you plz assign me if this issue is still open"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1982",
+      "time": "2024-03-18T12:55:18+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1982#issuecomment-2003835849",
+      "text": "@rithviknishad @aparnacoronasafe can you plz assign me this issue"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7351",

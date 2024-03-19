@@ -1,6 +1,222 @@
 {
-  "last_updated": "2024-03-17T16:43:24+00:00",
+  "last_updated": "2024-03-18T16:56:16+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1983",
+      "time": "2024-03-18T16:56:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1983",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "mohanrajnambe",
+        "itxsoumya",
+        "hrit2773",
+        "Ashesh3",
+        "sainak",
+        "gigincg"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7433",
+      "time": "2024-03-18T16:01:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7433#issuecomment-2004321755",
+      "text": "Feel free to take up more valuable issues here: https://github.com/coronasafe/care_fe/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+no%3Aassignee \ud83d\ude04 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7433",
+      "time": "2024-03-18T16:00:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7433#issuecomment-2004318699",
+      "text": "I'm not aware of any mobile manufacturer manufacturing phones with such a display. Closing as not planned.\r\n\r\n<img width=\"495\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/58b7e216-389f-4f6a-9885-4d58b61c6053\">\r\n\r\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7433",
+      "time": "2024-03-18T16:00:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7433",
+      "text": "Overflow of the text in the UI button Advanced Filters"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T15:57:57+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943527977",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T15:57:08+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943525908",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T15:56:42+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1943524771",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-18T13:17:01+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2003881984",
+      "text": "Yup"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-03-18T13:16:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351#issuecomment-2003880033",
+      "text": "@Anish-Parkhi the components are already present. Just that those rescript components need to be rewritten in typescript.\r\n\r\nA mockup is only required for the second PR."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T13:01:33+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1942899296",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7358",
+      "time": "2024-03-18T12:45:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#issuecomment-2003816412",
+      "text": "@nihal467 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:43:27+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942855052",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:43:27+00:00",
+      "title": "coronasafe/care_fe#7328",
+      "link": "https://github.com/coronasafe/care_fe/pull/7328#pullrequestreview-1942855052",
+      "text": "Add Patient Filter for Review Missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:41:29+00:00",
+      "title": "coronasafe/care_fe#7339",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#pullrequestreview-1942851307",
+      "text": "Refactored condition of Different Districts in External Result"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:40:00+00:00",
+      "title": "coronasafe/care_fe#7275",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#pullrequestreview-1942848248",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-03-18T12:39:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2003804581",
+      "text": "Check now with the above-mentioned credentials.\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/fd605386-90d5-4e8b-bb82-f62b7349d1d3/configure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7351",
+      "time": "2024-03-18T12:35:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7351#issuecomment-2003797585",
+      "text": "@hrit2773 @Anish-Parkhi I've updated the main comment to clarify what needs to be done. It'd be a two-part PR as the latter would require redesigning and UI approval to move forward. A mockup design can be shared on how the new UI looks and needs approval."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:30:18+00:00",
+      "title": "coronasafe/care_fe#7404",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#pullrequestreview-1942827447",
+      "text": "fix: Removed unnecessary rendering of microphone permission warning info."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7364",
+      "time": "2024-03-18T12:28:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7364#issuecomment-2003783094",
+      "text": "Closing as duplicate of #7402 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:25:51+00:00",
+      "title": "coronasafe/leaderboard#386",
+      "link": "https://github.com/coronasafe/leaderboard/pull/386#pullrequestreview-1942816772",
+      "text": "fixing profile section overflow issue"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:14:50+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1942791898",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:14:50+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1942791898",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:13:12+00:00",
+      "title": "coronasafe/care#1934",
+      "link": "https://github.com/coronasafe/care/pull/1934#pullrequestreview-1942788398",
+      "text": "reset password schema for API docs swagger updated #1434"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T12:12:30+00:00",
+      "title": "coronasafe/care#1978",
+      "link": "https://github.com/coronasafe/care/pull/1978#pullrequestreview-1942786952",
+      "text": "Duplicated .pdf in the discharge summary file names"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6503",
+      "time": "2024-03-18T12:11:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6503#issuecomment-2003748444",
+      "text": "Try logging in as `devdistrictadmin` `Coronasafe@123` instead."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T07:03:28+00:00",
+      "title": "coronasafe/leaderboard#386",
+      "link": "https://github.com/coronasafe/leaderboard/pull/386#pullrequestreview-1942105638",
+      "text": "fixing profile section overflow issue"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#385",
+      "time": "2024-03-18T06:56:25+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/385",
+      "text": "Organization logo not working in builds"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T06:56:17+00:00",
+      "title": "coronasafe/leaderboard#394",
+      "link": "https://github.com/coronasafe/leaderboard/pull/394#pullrequestreview-1942096021",
+      "text": "fix for organisation logo and favicon"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/leaderboard#393",
@@ -39441,13 +39657,15 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1966",
       "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
-      "stale_for": 3,
-      "labels": []
+      "stale_for": 0,
+      "labels": [
+        "P2"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7381",
       "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "needs review",
         "cypress failed"
@@ -39455,17 +39673,18 @@
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7358",
-      "title": "Improved workflow on how discharged tab is accessed and bring back Show Live/Discharged tab for all users",
-      "stale_for": 5,
+      "title": "Improves discharged tab switch behaviour",
+      "stale_for": 0,
       "labels": [
         "needs testing",
-        "needs review"
+        "needs review",
+        "P1"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "merge conflict",
         "stale",
@@ -39493,10 +39712,6 @@
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/262",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/263"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/256",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/258"
     }
   ]
 }

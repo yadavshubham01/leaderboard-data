@@ -1,6 +1,48 @@
 {
-  "last_updated": "2024-03-17T05:44:35+00:00",
+  "last_updated": "2024-03-18T09:31:55+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T09:31:55+00:00",
+      "title": "coronasafe/care#1981",
+      "link": "https://github.com/coronasafe/care/pull/1981#pullrequestreview-1942404445",
+      "text": "update branch names in docs and workflows"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1886",
+      "time": "2024-03-18T09:29:30+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1886#issuecomment-2003323930",
+      "text": "@dependabot rebase"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1934",
+      "time": "2024-03-18T09:27:44+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1934#issuecomment-2003320727",
+      "text": "@sainak bump!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1935",
+      "time": "2024-03-18T09:26:36+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1935#issuecomment-2003318591",
+      "text": "Does it make sense to use Jan 1 in the migrations, a random DOB seems wrong to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1964",
+      "time": "2024-03-18T09:23:45+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1964#issuecomment-2003310331",
+      "text": "I don't really see a use case for this endpoint, @gigincg close if this does not make sense. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-18T09:21:36+00:00",
+      "title": "coronasafe/care#1980",
+      "link": "https://github.com/coronasafe/care/pull/1980#pullrequestreview-1942378240",
+      "text": "merge migrations"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-17T05:44:35+00:00",

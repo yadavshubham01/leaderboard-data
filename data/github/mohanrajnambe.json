@@ -1,6 +1,22 @@
 {
-  "last_updated": "2024-03-15T15:19:42+00:00",
+  "last_updated": "2024-03-18T16:56:10+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7432",
+      "time": "2024-03-18T16:56:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7432",
+      "text": "Production release v24.12.0 | March week 3",
+      "collaborated_with": [
+        "Dareenfadel",
+        "rithviknishad",
+        "itxsoumya",
+        "hrit2773",
+        "Ashesh3",
+        "sainak",
+        "gigincg"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7359",
@@ -120,7 +136,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7359",
       "title": "Handle no option available case when local body returns empty response ",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
