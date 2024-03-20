@@ -1,6 +1,33 @@
 {
-  "last_updated": "2024-03-18T16:56:16+00:00",
+  "last_updated": "2024-03-19T10:12:06+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T10:12:06+00:00",
+      "title": "coronasafe/care#1985",
+      "link": "https://github.com/coronasafe/care/pull/1985#pullrequestreview-1945737210",
+      "text": "Add nurse logins for cypress testing"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7436",
+      "time": "2024-03-19T05:52:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7436",
+      "text": "Merge staging",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1989",
+      "time": "2024-03-19T05:51:56+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1989",
+      "text": "Merge staging",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#1983",
@@ -6985,15 +7012,6 @@
       "text": "In the Asset Configure Page for Camera Assets, the Patient Presets (AssetBed Records) Are not Paginated\r\n\r\nhttps://care.coronasafe.in/assets/3aa2ebc2-36ea-4e33-b600-de4e13aee37b/configure"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6670",
-      "title": "Add Medispeak for Preview on Care",
-      "stale_for": 97,
-      "labels": [
-        "In Progress"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

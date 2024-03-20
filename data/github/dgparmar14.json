@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-16T10:57:14+00:00",
+  "last_updated": "2024-03-19T19:00:51+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#127",
+      "time": "2024-03-19T19:00:51+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/127#issuecomment-2007920330",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/99136186/68710677-4d9f-430c-ad68-176da5a06592)\r\n\r\nHow it looks?\r\nRegarding the logo, it appears black because when I use the`'logo. webp'` from the public directory, it's in white text. However, our OG image background is white, making it difficult to see. For the OG image, a white background is more suitable. Additionally, the leaderboard is a tool that will be used by other organizations, so each organization may prefer their logo. Therefore, I thought it best to use the same logo as found on the internet.\r\n\r\nIf there any suggestion regarding styling or addition?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#127",
@@ -1215,5 +1222,22 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/292",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/314"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
+    }
+  ]
 }

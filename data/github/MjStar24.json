@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-18T12:20:47+00:00",
+  "last_updated": "2024-03-19T18:29:39+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6376",
+      "time": "2024-03-19T18:29:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6376#issuecomment-2007864989",
+      "text": "hey @rithviknishad I have started working on this issue... can you assign this to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7058",
+      "time": "2024-03-19T18:21:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7058#issuecomment-2007851322",
+      "text": "hey @nihal467 @rithviknishad I would like to work on this can you assign this to me"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7341",
+      "time": "2024-03-19T18:14:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7341#issuecomment-2007840083",
+      "text": "hey @rithviknishad I would work on this can you assign this to me "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6503",
+      "time": "2024-03-19T16:32:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6503#issuecomment-2007637598",
+      "text": "hey @rithviknishad I have raised the pull request for this issue \r\n\r\nwhat I have done : \r\n\r\n-by default 6 monitors will displayed per view page for small screens\r\n-for large screens 9 monitors will be displayed per view page for 4k displays \r\n-for this I have used window.resize and react hooks to check the display size and change number of monitors according to display size"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7440",
+      "time": "2024-03-19T16:26:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440",
+      "text": "display CNS on large display"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6503",
@@ -44,6 +79,13 @@
       "text": "hey @nihal467 @khavinshankar  I would like to work on this issue. I have gone through the code base and I have experience on working with nextJs\r\n(Inter IIT project). Can you assign this to me"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7440",
+      "title": "display CNS on large display",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

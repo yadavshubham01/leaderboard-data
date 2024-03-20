@@ -1,6 +1,53 @@
 {
-  "last_updated": "2024-03-18T18:58:54+00:00",
+  "last_updated": "2024-03-19T17:08:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-19T17:08:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2007709797",
+      "text": "@nihal467 I am not able to understand the error \r\nThe tests works locally but when I upload here no patients are found \r\n\r\n- I did check the district `ernakulam`\r\n- The home facility `dummy facility 40`\r\n\r\nBut then the screenshots says no patients are found \r\n\r\nSo can you give me some guidance on what to do?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": "2024-03-19T16:20:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-2007613225",
+      "text": "@rithviknishad can u check once \r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7392",
+      "time": "2024-03-19T11:34:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392",
+      "text": "Fix file upload UI",
+      "turnaround_time": 73627
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7392",
+      "time": "2024-03-19T11:34:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392",
+      "text": "Fix file upload UI",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1985",
+      "time": "2024-03-19T10:12:22+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1985",
+      "text": "Add nurse logins for cypress testing",
+      "turnaround_time": 54809
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-19T04:31:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2005734828",
+      "text": "@nihal467 once this PR gets merged in care related to nurse logins, then I will rerun the tests \r\n\r\nhttps://github.com/coronasafe/care/pull/1985"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care#1985",
@@ -1731,37 +1778,27 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care/pull/1985",
-      "title": "Add nurse logins for cypress testing",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7392",
-      "title": "Fix file upload UI",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7268",
       "title": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
       "stale_for": 0,
-      "labels": []
+      "labels": [
+        "merge conflict"
+      ]
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7197",
       "title": "Add Cypress test to patient file upload",
       "stale_for": 0,
       "labels": [
-        "needs testing",
-        "needs review"
+        "changes required"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7384",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7392"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6923",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6946"

@@ -1,6 +1,251 @@
 {
-  "last_updated": "2024-03-17T20:14:03+00:00",
+  "last_updated": "2024-03-19T19:17:23+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-19T19:17:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416#issuecomment-2007945565",
+      "text": "@skks1212 any update on the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-19T18:57:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2007914505",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/75b74939-32d9-4ba0-bb99-0ba01bb0ed13)\r\n\r\n@AshrafMd-1 check the login id user access, whether it is having the particular facility access"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-03-19T18:23:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#issuecomment-2007855614",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/88037bbe-1f17-4722-b247-a65afc08cb11)\r\n\r\n- [ ] Correct the grammar in the pop-up content, rephrase it as we are talking about the patient here, so we cant use \"you\"\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/98a703f8-c8e7-4f0c-90b9-03d7168c3c4d)\r\n\r\n- [ ] the DOB should be in a single line on responsive view\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T18:18:33+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1947029067",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T18:18:33+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1947029067",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T18:13:10+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1947025849",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-19T13:37:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2007202431",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/9c4c89d2-2801-4edf-a314-901fe6ca9202)\r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7358",
+      "time": "2024-03-19T11:40:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358",
+      "text": "Improves discharged tab switch behaviour",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7391",
+      "time": "2024-03-19T11:39:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7391",
+      "text": "Issue resolved \"Handle the 0 Input in the Pressure sore and Pain Scale component\"",
+      "collaborated_with": [
+        "r-nikhilkumar",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7392",
+      "time": "2024-03-19T11:34:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392",
+      "text": "Fix file upload UI",
+      "collaborated_with": [
+        "AshrafMd-1"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7408",
+      "time": "2024-03-19T11:34:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7408",
+      "text": "fix: added validation for doctor experience input.",
+      "collaborated_with": [
+        "Spiral-Memory"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T11:33:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result",
+      "collaborated_with": [
+        "jainvedant392"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7426",
+      "time": "2024-03-19T11:26:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7426#issuecomment-2006933535",
+      "text": "@Ayush398 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/46811a52-cf43-456e-a339-855b9288bb8c)\r\n\r\n- [ ] you forgot to modify it in the notification description"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7391",
+      "time": "2024-03-19T11:21:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7391#issuecomment-2006917394",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-19T11:18:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2006908992",
+      "text": "@AshrafMd-1 the test is again failing, the backend is merged"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-19T11:16:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#issuecomment-2006901514",
+      "text": "@Omkar76 clear the merge conflict"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7402",
+      "time": "2024-03-19T11:13:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7402#issuecomment-2006892302",
+      "text": "@Thanush19 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/b01a91ca-02e1-4889-98e0-9cc27e800a65)\r\n\r\nthe entire alignment is inconsistent in the entire page now"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7408",
+      "time": "2024-03-19T11:09:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7408#issuecomment-2006879528",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7392",
+      "time": "2024-03-19T10:54:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392#issuecomment-2006825494",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7396",
+      "time": "2024-03-19T10:52:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7396#issuecomment-2006818653",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-03-19T10:44:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2006790659",
+      "text": "@UdaySagar-Git \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/818157b5-f15f-448d-ad05-dbb97828f6be)\r\n\r\n- [ ] once the upload is successful, we should auto-close the pop-up\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/5c2efd72-8fbb-4113-98f0-2fd1625f3731)\r\n\r\n- [ ] if there is error in the data, \r\n- mention the error to the user, it can be a pop-up on hovering over the error icon\r\n- or it can be written on the top or bottom in the preview component\r\n\r\n- [ ] hide the pagination component if it's a single page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7390",
+      "time": "2024-03-19T10:33:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390#issuecomment-2006751343",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-19T10:29:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-2006737954",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/97fe3693-6b8b-41bf-a8df-a2cd449e6abd)\r\n\r\nmarking it for discussion to get a final approval from team"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-19T10:25:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-2006720930",
+      "text": "LGTM , marking it for discussion to get a final approval from the team"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7276",
+      "time": "2024-03-19T10:18:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7276#issuecomment-2006695334",
+      "text": "@konavivekramakrishna \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/94502aec-fdfa-402f-9b7d-0a6eae84e425)\r\n\r\n- [ ] the category, rhythm, and temperature values have been auto-copied from the previous log update without user input "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7152",
+      "time": "2024-03-19T10:13:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152",
+      "text": "Track occupation of patient",
+      "collaborated_with": [
+        "konavivekramakrishna",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7358",
+      "time": "2024-03-19T10:04:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#issuecomment-2006630258",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T09:53:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#issuecomment-2006581927",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7400",
+      "time": "2024-03-19T09:50:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7400",
+      "text": "New Cypress Test | Normal Log Update for Admission and Non- Admission Patients | Patient Consultation Module",
+      "turnaround_time": 57741
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7152",
+      "time": "2024-03-19T09:46:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#issuecomment-2006555456",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": "2024-03-19T09:40:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-2006532150",
+      "text": "@thedevildude \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/88eb8562-dc7a-4856-b973-76d7d625eff5)\r\n\r\n- [ ] in one of the EOD call, we decided to keep each individual field in its separate rows.\r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/0314913a-ff7b-4ef4-99d0-e0a586fbb880)\r\n\r\n- [ ] the icon of present bed should be green for the current bed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T06:58:15+00:00",
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1945342184",
+      "text": "Track occupation of patient"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",
@@ -32240,15 +32485,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7400",
-      "title": "New Cypress Test | Normal Log Update for Admission and Non- Admission Patients | Patient Consultation Module",
-      "stale_for": 1,
-      "labels": [
-        "work-in-progress"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-17T05:40:11+00:00",
+  "last_updated": "2024-03-19T14:21:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7354",
+      "time": "2024-03-19T14:21:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7354#issuecomment-2007315499",
+      "text": "@aparnacoronasafe Can you give more context about the issue??"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7439",
+      "time": "2024-03-19T14:09:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7439",
+      "text": "Bug: Unable to select any other date when trying to administer the prescription in past"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1839",

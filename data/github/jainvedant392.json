@@ -1,6 +1,24 @@
 {
-  "last_updated": "2024-03-18T15:19:46+00:00",
+  "last_updated": "2024-03-19T11:33:07+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T11:33:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result",
+      "turnaround_time": 29996
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7339",
+      "time": "2024-03-19T11:33:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339",
+      "text": "Refactored condition of Different Districts in External Result",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-18T15:19:46+00:00",
@@ -640,30 +658,6 @@
       "text": "Hello @rithviknishad, I would really love to contribute to and solve this issue, as I am familiar with the tech-stack and the required frontend to solve this issue. So could you please assign me this issue?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7339",
-      "title": "Refactored condition of Different Districts in External Result",
-      "stale_for": 0,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7328",
-      "title": "Add Patient Filter for Review Missed",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1938",
-      "title": "Add django filter for patient review missed",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

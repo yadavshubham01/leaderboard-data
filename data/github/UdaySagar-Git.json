@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-12T23:00:27+00:00",
+  "last_updated": "2024-03-19T12:14:32+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-03-19T12:14:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2007025023",
+      "text": "@nihal467 Let me know if this works or need any improvements \r\n\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/3947f3b7-f1fe-401b-a598-e1dd2576110d)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/cf573234-2958-49bb-ba20-f3788e19ccf3)\r\n![image](https://github.com/coronasafe/care_fe/assets/111575806/bee4d890-724c-4917-a693-7eb4a600053c)\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-03-19T12:04:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2007003314",
+      "text": "- [x]  once the upload is successful, we should auto-close the pop-up\r\n- [ ]  if there is error in the data show it on hover \r\n- [x]  hide the pagination component if it's a single page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7367",
+      "time": "2024-03-19T10:54:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7367#issuecomment-2006823719",
+      "text": "@nihal467 regarding error on hover, I have did that for individual cell . What should I display on hover on icon ?!\r\nLike the join of cell names by \" , \" would work ? \r\n( you can observe the error in the above preview by scrolling to right ! Can you please confirm that whether it's working or not ?)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7367",

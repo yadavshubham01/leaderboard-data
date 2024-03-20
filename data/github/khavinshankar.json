@@ -1,6 +1,139 @@
 {
-  "last_updated": "2024-03-16T11:00:10+00:00",
+  "last_updated": "2024-03-19T11:40:23+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7356",
+      "time": "2024-03-19T11:40:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7356",
+      "text": "Show a info card in patient list page if filtered by a facility or if the user has access to a single facility only to view the discharged patients of that facility"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:40:09+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1945944057",
+      "text": "Improves discharged tab switch behaviour"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7365",
+      "time": "2024-03-19T11:39:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7365",
+      "text": "Handle the 0 Input in the Pressure sore and Pain Scale component"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:39:11+00:00",
+      "title": "coronasafe/care_fe#7391",
+      "link": "https://github.com/coronasafe/care_fe/pull/7391#pullrequestreview-1945942231",
+      "text": "Issue resolved \"Handle the 0 Input in the Pressure sore and Pain Scale component\""
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7372",
+      "time": "2024-03-19T11:36:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7372",
+      "text": "Handle File Management Exceptions in File Upload"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:36:12+00:00",
+      "title": "coronasafe/care_fe#7390",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390#pullrequestreview-1945936561",
+      "text": "Solved File Management Exceptions"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7384",
+      "time": "2024-03-19T11:34:52+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7384",
+      "text": "UI discrepancies in the file upload page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:34:41+00:00",
+      "title": "coronasafe/care_fe#7392",
+      "link": "https://github.com/coronasafe/care_fe/pull/7392#pullrequestreview-1945933706",
+      "text": "Fix file upload UI"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7239",
+      "time": "2024-03-19T11:34:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7239",
+      "text": "Auto-close WhatsApp Redirect Tabs to Prevent Browser Clutter in Doctor Connect Feature"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:34:18+00:00",
+      "title": "coronasafe/care_fe#7396",
+      "link": "https://github.com/coronasafe/care_fe/pull/7396#pullrequestreview-1945932280",
+      "text": "Update Click to chat button for WhatsApp"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7407",
+      "time": "2024-03-19T11:34:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7407",
+      "text": "[BUG] No validation when doctor experience input is less than 0."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:33:55+00:00",
+      "title": "coronasafe/care_fe#7408",
+      "link": "https://github.com/coronasafe/care_fe/pull/7408#pullrequestreview-1945929640",
+      "text": "fix: added validation for doctor experience input."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7101",
+      "time": "2024-03-19T11:33:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7101",
+      "text": "Failed to upload patient file in External Result"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T11:32:53+00:00",
+      "title": "coronasafe/care_fe#7339",
+      "link": "https://github.com/coronasafe/care_fe/pull/7339#pullrequestreview-1945921242",
+      "text": "Refactored condition of Different Districts in External Result"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#6945",
+      "time": "2024-03-19T10:13:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6945",
+      "text": "Occupation of patient to be tracked"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T10:13:40+00:00",
+      "title": "coronasafe/care_fe#7152",
+      "link": "https://github.com/coronasafe/care_fe/pull/7152#pullrequestreview-1945740654",
+      "text": "Track occupation of patient"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T09:50:42+00:00",
+      "title": "coronasafe/care_fe#7400",
+      "link": "https://github.com/coronasafe/care_fe/pull/7400#pullrequestreview-1945684754",
+      "text": "New Cypress Test | Normal Log Update for Admission and Non- Admission Patients | Patient Consultation Module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T06:47:01+00:00",
+      "title": "coronasafe/care_fe#6565",
+      "link": "https://github.com/coronasafe/care_fe/pull/6565#pullrequestreview-1945327671",
+      "text": "Add titrated prescription dosage type"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-19T04:39:20+00:00",
+      "title": "coronasafe/care_fe#7358",
+      "link": "https://github.com/coronasafe/care_fe/pull/7358#pullrequestreview-1945161887",
+      "text": "Improves discharged tab switch behaviour"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1975",

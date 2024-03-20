@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-16T12:58:38+00:00",
+  "last_updated": "2024-03-19T19:58:06+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": "2024-03-19T19:58:06+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-2008009143",
+      "text": "@sainak have resolved your comments. @nihal467 please take a look, I have tested it for some endpoints in my local "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-19T17:15:10+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-2007721641",
+      "text": "@rithviknishad i have added tests and also did the same for state lab admin looks good to me let me know if any changes are required "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1959",
@@ -277,6 +291,19 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1959",
+      "title": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1940",
+      "title": "Add created_by and updated_by fields to base model",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

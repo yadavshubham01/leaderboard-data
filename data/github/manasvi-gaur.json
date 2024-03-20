@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-03-13T16:48:53+00:00",
+  "last_updated": "2024-03-19T11:36:20+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7390",
+      "time": "2024-03-19T11:36:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390",
+      "text": "Solved File Management Exceptions",
+      "turnaround_time": 20894
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7397",
+      "time": "2024-03-19T11:02:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7397#issuecomment-2006853780",
+      "text": "@rithviknishad, I mistakenly unassigned myself please assign it to me, I almost solved this issue, I just had to make a confirmation and create pull request, could you please re-assign me"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7397",
@@ -51,16 +66,6 @@
       "text": "@rithviknishad, can you please assign this to me?"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7390",
-      "title": "Solved File Management Exceptions",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "reviewed"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
