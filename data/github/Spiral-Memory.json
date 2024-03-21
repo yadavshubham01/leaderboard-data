@@ -1,6 +1,46 @@
 {
-  "last_updated": "2024-03-19T14:03:02+00:00",
+  "last_updated": "2024-03-20T16:30:47+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-20T16:30:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2009998988",
+      "text": "Have a look now @rithviknishad @gigincg @Ashesh3 @nihal467 \r\nExactly as per the behavior mentioned.\r\n\r\nhttps://github.com/coronasafe/care_fe/assets/78961432/c48dcfb4-ee01-46ef-9e6d-d9ba3ac17e0f\r\n\r\n\r\n\r\n\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-20T16:24:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2009983829",
+      "text": "Okay, Got it, currently the span warning is not getting rendered if mic permission is not there and is rendering after clicking the button. \r\n\r\nLet me make another commit to fix it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-20T15:40:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2009876274",
+      "text": "> @Spiral-Memory @nihal467 @rithviknishad\r\n> \r\n> Following is the expected Behaviour:\r\n> \r\n> Warning as span :\r\n> \r\n> * Shown when Permission is not granted\r\n> * Hidden when Permission is already granted\r\n> \r\n> Warning as notification:\r\n> \r\n> * Shown when Permission is not granted & User clicks on `Record` button\r\n\r\nYep! This is exactly what's happening after this PR? Is there any unexpected behavior? Please let me know. I will fix it "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7441",
+      "time": "2024-03-20T08:30:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7441",
+      "text": "Staging release for v24.13.0",
+      "collaborated_with": [
+        "manasvi-gaur",
+        "Ashesh3",
+        "jainvedant392",
+        "konavivekramakrishna",
+        "nihal467",
+        "khavinshankar",
+        "AshrafMd-1",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "GokulramGHV"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7404",

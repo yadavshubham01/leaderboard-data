@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-19T10:12:06+00:00",
+  "last_updated": "2024-03-20T15:58:27+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-20T15:58:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2009917609",
+      "text": "@itxsoumya Your suggested solution seems inline with the required Implementation detail. Assigned the Issue to you. Please acknowledge here.\r\n\r\ncc: @nihal467  "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7417",
+      "time": "2024-03-20T15:54:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7417#issuecomment-2009914149",
+      "text": "Implementation Details:\r\n\r\nWhat is required is a Scan and Upload Document Feature. We need to allow users to Scan multiple Images of a Document; Build a PDF out of it & Upload it as a single file.\r\n\r\nAny packages that are required to enable this feature should be lazy loaded only when the Scan Document Feature is used.\r\n\r\nRef:\r\n\r\nRecommended Package:\r\nhttps://www.npmjs.com/package/jspdf\r\n\r\nFor using Rendering the Images in the PDF: \r\nhttps://stackoverflow.com/questions/19065562/add-image-in-pdf-using-jspdf\r\n\r\n\r\nNB: Feel free to suggest alternative implementations in this discussion thread if you have a better approach"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T15:46:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2009892168",
+      "text": "@vishisht-dubey @Thanush19\r\n\r\nEither of you wanna take this up?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T15:45:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2009891121",
+      "text": "@nihal467 \r\n\r\n1. Regarding showing decimal data, we can round to the precision, only if precision data exists. \r\nFor eg: \r\n- 150.00 will be shown as 150. \r\n- 130.52 will be shown as 130.52. \r\n- 130.524 will be shown as 130.52\r\n- 130.5 will be shown as 130.50\r\n\r\n2. For Cypress Tests, we can add an additional `span` with `className=\"sr-only\"`\r\nRef: https://tailwindcss.com/docs/screen-readers#screen-reader-only-elements"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-20T15:37:48+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2009870231",
+      "text": "@Spiral-Memory @nihal467 @rithviknishad \r\n\r\nFollowing is the expected Behaviour:\r\n\r\nWarning as span :\r\n\r\n- Shown when Permission is not granted\r\n- Hidden when Permission is already granted\r\n\r\nWarning as notification:\r\n\r\n- Shown when Permission is not granted & User clicks on `Record` button"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7363",
+      "time": "2024-03-20T15:34:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7363#issuecomment-2009861392",
+      "text": "> We could do something like the Live Feed page. https://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/live-monitoring?location=09ab6e88-9132-434a-b8ab-b342b10e7bef&page=1&limit=4\r\n> \r\n> <img alt=\"image\" width=\"397\" src=\"https://private-user-images.githubusercontent.com/25143503/311494280-695cf8bd-ac32-40d7-a231-7de58bcab44b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA5NDg0MjksIm5iZiI6MTcxMDk0ODEyOSwicGF0aCI6Ii8yNTE0MzUwMy8zMTE0OTQyODAtNjk1Y2Y4YmQtYWMzMi00MGQ3LWEyMzEtN2RlNThiY2FiNDRiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIwVDE1MjIwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDliNWEwM2U3NmYxYTU5NGZmNDk4ZGNhYzM3ZmMxNTRiOGVkYmQ3NTc4OWEwMGIxZmM5YWNjZDM3OWVlMzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vh-g30iMN29mIJ1IrZzofntYOjbFLRowsGrFrUFz0IY\">\r\n\r\nThis is the most ideal. Creating Presets as a Component that Switches between the current Layout (In Desktop) And as in the quoted design (In Mobile/Smaller Screens) works.\r\n\r\nAlso ensure that changes are only to the Presets Component. "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-20T15:28:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2009847646",
+      "text": "@kshitijv256 Can you update the PR based on the Image Reference in the Issue. Padding for the Picture, and the Alignment of the Buttons. Also, post Screenshots for Mobile, Tab, HD & Full HD Screens. Let's wrap this ASAP."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-20T05:52:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2008700507",
+      "text": "@vishisht-dubey @Thanush19 \n\nBlocked Discussion Issues are not assignable until more depth is added to it. The labels will be updated at that point"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-19T10:12:06+00:00",

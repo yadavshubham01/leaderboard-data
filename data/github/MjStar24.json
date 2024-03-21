@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-19T18:29:39+00:00",
+  "last_updated": "2024-03-20T07:56:53+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T07:56:53+00:00",
+      "title": "coronasafe/care_fe#7440",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#pullrequestreview-1948166737",
+      "text": "display CNS on large display"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#6376",
@@ -79,13 +86,6 @@
       "text": "hey @nihal467 @khavinshankar  I would like to work on this issue. I have gone through the code base and I have experience on working with nextJs\r\n(Inter IIT project). Can you assign this to me"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7440",
-      "title": "display CNS on large display",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

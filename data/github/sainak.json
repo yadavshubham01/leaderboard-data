@@ -1,6 +1,154 @@
 {
-  "last_updated": "2024-03-19T11:04:54+00:00",
+  "last_updated": "2024-03-20T18:37:44+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-20T18:37:44+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2010336635",
+      "text": "@Gpro654321 you could be using an outdated version of docker, try to update it or run `docker-compose -f 'docker-compose.yaml' -f 'docker-compose.local.yaml' up -d --wait`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-20T16:21:27+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2009977920",
+      "text": "@suhani221, updated the issue body, have a look and ping if you want to work on it "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1991",
+      "time": "2024-03-20T15:58:41+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1991#issuecomment-2009922474",
+      "text": "@rithviknishad do we need the mews score for list request?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T15:58:06+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1948091652",
+      "text": "Frontend issue \"Enhancement to MEWS Score #7373\" is solved"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T15:58:06+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1948091652",
+      "text": "Frontend issue \"Enhancement to MEWS Score #7373\" is solved"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T15:52:51+00:00",
+      "title": "coronasafe/care#1994",
+      "link": "https://github.com/coronasafe/care/pull/1994#pullrequestreview-1949323294",
+      "text": "updated bed types"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T15:52:51+00:00",
+      "title": "coronasafe/care#1994",
+      "link": "https://github.com/coronasafe/care/pull/1994#pullrequestreview-1949323294",
+      "text": "updated bed types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7441",
+      "time": "2024-03-20T08:30:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7441",
+      "text": "Staging release for v24.13.0",
+      "turnaround_time": 142
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1993",
+      "time": "2024-03-20T08:29:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1993",
+      "text": "Staging release for v24.13.0",
+      "turnaround_time": 163
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1993",
+      "time": "2024-03-20T08:29:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1993",
+      "text": "Staging release for v24.13.0",
+      "collaborated_with": [
+        "aeswibon",
+        "Ashesh3",
+        "krassowska",
+        "rash-27",
+        "vigneshhari",
+        "AshrafMd-1",
+        "rithviknishad",
+        "GokulramGHV"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7441",
+      "time": "2024-03-20T08:27:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7441",
+      "text": "Staging release for v24.13.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1993",
+      "time": "2024-03-20T08:27:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1993",
+      "text": "Staging release for v24.13.0"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T07:06:38+00:00",
+      "title": "coronasafe/care#1959",
+      "link": "https://github.com/coronasafe/care/pull/1959#pullrequestreview-1948085934",
+      "text": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T06:42:43+00:00",
+      "title": "coronasafe/care#1992",
+      "link": "https://github.com/coronasafe/care/pull/1992#pullrequestreview-1948034405",
+      "text": "Resolve Dependencies"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T06:38:35+00:00",
+      "title": "coronasafe/care#1940",
+      "link": "https://github.com/coronasafe/care/pull/1940#pullrequestreview-1948030429",
+      "text": "Add created_by and updated_by fields to base model"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T06:36:03+00:00",
+      "title": "coronasafe/care#1903",
+      "link": "https://github.com/coronasafe/care/pull/1903#pullrequestreview-1948028101",
+      "text": "Migrate consultation's assigned_to to assigned_clinicians"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T06:32:45+00:00",
+      "title": "coronasafe/care#1903",
+      "link": "https://github.com/coronasafe/care/pull/1903#pullrequestreview-1948012600",
+      "text": "Migrate consultation's assigned_to to assigned_clinicians"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-20T06:32:45+00:00",
+      "title": "coronasafe/care#1903",
+      "link": "https://github.com/coronasafe/care/pull/1903#pullrequestreview-1948012600",
+      "text": "Migrate consultation's assigned_to to assigned_clinicians"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1978",
+      "time": "2024-03-20T06:28:33+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1978",
+      "text": "Duplicated .pdf in the discharge summary file names",
+      "collaborated_with": [
+        "krassowska"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-19T11:04:54+00:00",

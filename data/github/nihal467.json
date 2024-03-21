@@ -1,6 +1,25 @@
 {
-  "last_updated": "2024-03-19T19:17:23+00:00",
+  "last_updated": "2024-03-20T08:30:00+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7441",
+      "time": "2024-03-20T08:30:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7441",
+      "text": "Staging release for v24.13.0",
+      "collaborated_with": [
+        "Spiral-Memory",
+        "manasvi-gaur",
+        "Ashesh3",
+        "jainvedant392",
+        "konavivekramakrishna",
+        "khavinshankar",
+        "AshrafMd-1",
+        "rithviknishad",
+        "r-nikhilkumar",
+        "GokulramGHV"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7416",

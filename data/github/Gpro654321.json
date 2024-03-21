@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-20T17:24:40+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-20T17:24:40+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2010157780",
+      "text": "@sainak \r\nI would like to contribute to this repo. But When I tried setting up the local development containers using docker (as per instructions [here](https://care-be-docs.coronasafe.network/local-setup/configuration.html#)) , \r\nWhen I ran `make up` I got the following error, \r\n`docker compose -f docker-compose.yaml -f 'docker-compose.local.yaml' up -d --wait\r\nunknown shorthand flag: 'f' in -f\r\nSee 'docker --help'.\r\n`\r\nI had used docker-compose, django in my pet projects. \r\n**I am a complete begineer to open source. Could you please help me get the containers up and running..?**"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
