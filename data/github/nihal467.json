@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-20T08:30:00+00:00",
+  "last_updated": "2024-03-21T21:15:56+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7452",
+      "time": "2024-03-21T21:15:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7452",
+      "text": "multiple dolo in the medibase"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7451",
+      "time": "2024-03-21T20:56:35+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7451",
+      "text": "Improve the Patient age reflection in the consultation page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1998",
+      "time": "2024-03-21T07:49:54+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1998#issuecomment-2011403029",
+      "text": "![image](https://github.com/coronasafe/care/assets/57055998/34915495-f720-4936-adbe-02b01e2816f6)\r\n\r\n[export_2024-03-21_13_10_53.csv](https://github.com/coronasafe/care/files/14691721/export_2024-03-21_13_10_53.csv)\r\n"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7441",

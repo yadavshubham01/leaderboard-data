@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-03-19T03:19:30+00:00",
+  "last_updated": "2024-03-21T14:54:09+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-21T14:54:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7447",
+      "time": "2024-03-21T14:42:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7447#issuecomment-2012481369",
+      "text": "Hi @rithviknishad \r\nI've created a pull request (#7448)  to address the issue (#7447)\r\nPlease review the changes and provide any feedback or suggestions. Let me know if there's anything else I can do to help move this forward."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-21T14:38:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7447",
+      "time": "2024-03-21T11:08:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7447#issuecomment-2011961954",
+      "text": "@rithviknishad Please assign me this issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7447",
+      "time": "2024-03-21T11:05:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7447",
+      "text": "Missing Toast Messages for Success and Error in Linking/Unlinking Facility and Skill sections in users page"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1987",

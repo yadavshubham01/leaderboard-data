@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-20T19:17:28+00:00",
+  "last_updated": "2024-03-21T19:31:01+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-21T19:31:01+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2013464522",
+      "text": "> After a bit of reading, I sort of understand the issue and have even worked out what needs to be implemented. But I have the following roadblocks in my way, I request you to help me clear them..\r\n\r\nHey ping me on slack i am in the ohc slack group we can get your local setup done "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-21T19:28:59+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2013454589",
+      "text": "hey @sainak can i work on this ? also i need a little more info and context i was not able to find the updated issue body"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1959",
+      "time": "2024-03-21T19:24:02+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1959#issuecomment-2013430801",
+      "text": "@khavinshankar  pls take a look "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1940",
@@ -298,19 +319,6 @@
       "text": "i can work on this issue can you pls assign this to me "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/1959",
-      "title": "[BUG] fix Location/ Bed Management issue ( District Lab Admin Account)",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1940",
-      "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

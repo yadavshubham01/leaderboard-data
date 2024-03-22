@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-20T17:24:40+00:00",
+  "last_updated": "2024-03-21T15:09:10+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#664",
+      "time": "2024-03-21T15:09:10+00:00",
+      "link": "https://github.com/coronasafe/care/issues/664#issuecomment-2012559992",
+      "text": "@sainak \r\n**Thanks, got the containers running.** \r\n\r\nAfter a bit of reading, I sort of understand the issue and have even worked out what needs to be implemented. But I have the following roadblocks in my way, I request you to help me clear them..\r\n\r\n**1. No links seen in homepage for me to navigate the site**\r\nBut when i navigate to `http://localhost:9000`, I see a page as in the attachment below\r\n![care_homepage](https://github.com/coronasafe/care/assets/124547211/fa8872f4-d285-4bd9-8f09-da1f09eb337d)\r\n, **like I do not see any links anywhere for me to navigate**\r\n\r\n**2. username password combo provided in the documentation not working** \r\nAlso I navigated to `http://localhost:9000/admin` tried using the [username:password] combo of [devdistrictadmin:Coronasafe@123], but thats not working, I tried searching it [here](https://github.com/coronasafe/care/blob/develop/data/dummy/users.json) too but didn't help.\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#664",

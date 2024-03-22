@@ -3055,5 +3055,106 @@
                 }
             ]
         }
+    ],
+    "2024-03-21 00:00:00": [
+        {
+            "user": "U051Q1RP1MG",
+            "type": "message",
+            "ts": "1711037787.533059",
+            "client_msg_id": "4cf297e0-2059-4827-809a-b73e36775412",
+            "text": "EOD 20/03/2024 and 21/03/2024\n\u2022 Worked on the suggestions for PR <https://github.com/coronasafe/care_fe/pull/6901|#6901>\n\u2022 Resolved merge conflict and worked on suggestion for PR <https://github.com/coronasafe/care_fe/pull/7198|#7198>",
+            "team": "TC99SV7B6",
+            "attachments": [
+                {
+                    "id": 1,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1703410521,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/6901",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#6901 Added Timeline UI for Bed Activity",
+                    "title": "#6901 Added Timeline UI for Bed Activity",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/6901",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+                    "ts": 1707444899,
+                    "color": "36a64f",
+                    "bot_id": "B01V56NBBNC",
+                    "app_unfurl_url": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "is_app_unfurl": true,
+                    "app_id": "A01BP7R4KNY",
+                    "fallback": "#7198 Improving Doctor Connect UI",
+                    "title": "#7198 Improving Doctor Connect UI",
+                    "title_link": "https://github.com/coronasafe/care_fe/pull/7198",
+                    "footer": "<https://github.com/coronasafe/care_fe|coronasafe/care_fe>",
+                    "mrkdwn_in": [
+                        "text"
+                    ]
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AM40s",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "EOD 20/03/2024 and 21/03/2024\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Worked on the suggestions for PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/6901",
+                                            "text": "#6901",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Resolved merge conflict and worked on suggestion for PR "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https://github.com/coronasafe/care_fe/pull/7198",
+                                            "text": "#7198",
+                                            "unsafe": true
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

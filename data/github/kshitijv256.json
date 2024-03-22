@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-20T16:52:20+00:00",
+  "last_updated": "2024-03-21T11:27:50+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-21T11:27:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2012014850",
+      "text": "@rithviknishad  `justify-between` makes the space too large\r\nshould I add some fixed gap between instead, or push this one with `justify-between` ?\r\n\r\n![Screenshot from 2024-03-21 16-53-14](https://github.com/coronasafe/care_fe/assets/101321276/3901872a-9d86-4950-8859-ca55a85f260b)"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7315",

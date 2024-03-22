@@ -1,6 +1,83 @@
 {
-  "last_updated": "2024-03-20T19:08:48+00:00",
+  "last_updated": "2024-03-21T21:31:16+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T21:31:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2013803110",
+      "text": "> Hey, could you recheck? It appears in the files changed tab.\r\n> \r\n> https://github.com/coronasafe/care_fe/pull/7450/files#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519\r\n> \r\n> Commit `E-chart preview precision problem fixed ( commit: c126287b4311ad77f5a81e46db9182de05552325 )` [c126287#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519](https://github.com/coronasafe/care_fe/commit/c126287b4311ad77f5a81e46db9182de05552325#diff-053150b640a7ce75eff69d1a22cae7f0f94ad64ce9a855db544dda0929316519)\r\n\r\n@hrit2773 maybe some version changes occured in my system while running npm install but no package was installed explicitly and there is no change in package.json right "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T21:15:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2013751036",
+      "text": "> Why have you pushed a changed `package-lock.json` file?\r\n\r\n@Ashesh3 I haven't made any changes in the package lock.json file no commit history found and I didn't install any new dependency I Just added a new function in utils.js and used it in lineplot component."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T20:14:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2013641833",
+      "text": "@Ashesh3 lint issue fixed\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T19:09:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2013376805",
+      "text": "> > > Lint check is failing\r\n> > \r\n> > \r\n> > @Ashesh3 how can I trace it is I think it's a line ending problem?\r\n> \r\n> Try `npm run lint` to check the errors and `npm run lint-fix` to fix auto-fixable lint issues.\r\n\r\n@Ashesh3 seems like my typescript version is 5.4.2 which is newer than the range specified which is till 5.2.0"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T18:45:21+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2013291641",
+      "text": "> Lint check is failing\r\n\r\n@Ashesh3 how can I trace it is I think it's a line ending problem?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-21T15:21:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450",
+      "text": "E-chart vitals precision problem fixed"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-21T05:50:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2011268839",
+      "text": "@vishisht-dubey can you share an ETA on this"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-21T05:33:49+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2011253506",
+      "text": "@rithviknishad ya sure I'll make the changes by today "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7429",
+      "time": "2024-03-21T04:49:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7429#issuecomment-2011212373",
+      "text": "@gigincg ya sure I'll start working on it tmrw morning onwards "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-21T02:15:31+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2011065382",
+      "text": "@rithviknishad I made a second commit i removed those redundant migration history so effectively i just added the delete method in facility model "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-21T01:11:56+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2011007867",
+      "text": "@rithviknishad I was initially using models.cascade but later I realised I need to perform soft delete so I changed it back to original ones so that's why you can see those redundant migrations.But the functionality is working "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7429",
@@ -178,6 +255,14 @@
     }
   ],
   "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7450",
+      "title": "E-chart vitals precision problem fixed",
+      "stale_for": 0,
+      "labels": [
+        "needs review"
+      ]
+    },
     {
       "link": "https://github.com/coronasafe/care/pull/1996",
       "title": "Soft delete assets from deleted facilities/hospitals",

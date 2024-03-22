@@ -1,6 +1,111 @@
 {
-  "last_updated": "2024-03-20T23:35:20+00:00",
+  "last_updated": "2024-03-21T14:58:38+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2002",
+      "time": "2024-03-21T14:58:38+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2002",
+      "text": "fixes issues with patient annotate + distinct not implemented for csv export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7446",
+      "time": "2024-03-21T10:02:18+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7446",
+      "text": "Removes support for exporting All Patients"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1998",
+      "time": "2024-03-21T08:33:12+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1998#issuecomment-2011633055",
+      "text": "Decided to ignore patients whose last consultation has a discharge date. \r\n\r\ncc: @gigincg "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1999",
+      "time": "2024-03-21T07:50:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1999",
+      "text": "fixes issues with patient annotate + distinct not implemented for csv export"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1998",
+      "time": "2024-03-21T07:48:22+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1998",
+      "text": "Issue with patient export for last consultation but registered without consultation in another facility"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#397",
+      "time": "2024-03-21T05:50:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/397",
+      "text": "Support for scraping EOD messages from Discord"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-21T05:40:16+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1950800218",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-21T05:39:35+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1950799575",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#212",
+      "time": "2024-03-21T05:38:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/212#issuecomment-2011258285",
+      "text": "@ankitmrj did you mean https://github.com/coronasafe/care_fe/issues/7425 instead?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": "2024-03-21T05:36:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-2011256054",
+      "text": "Also, can we have a divider between the form and the timeline?\r\n\r\nAnd maybe move the move to bed button to the right?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-21T05:35:38+00:00",
+      "title": "coronasafe/care_fe#6901",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#pullrequestreview-1950795554",
+      "text": "Added Timeline UI for Bed Activity"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-21T05:29:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2011249467",
+      "text": "Also test cases needs to be added. It'd be great if you could follow the PR template \ud83d\ude04 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-21T05:29:01+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1950788420",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7315",
+      "time": "2024-03-21T05:25:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7315#issuecomment-2011245150",
+      "text": "There is a justify-between between the manage facility and rest of the buttons in desktop view\r\n\r\n<img width=\"175\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/2424178b-73b9-4d5c-951e-effc3551f298\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1991",
+      "time": "2024-03-21T03:43:23+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1991#issuecomment-2011164448",
+      "text": "yes"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-20T23:35:20+00:00",
@@ -39957,62 +40062,6 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/393",
-      "title": "Implement API endpoints for tasks bot slack app",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1966",
-      "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
-      "stale_for": 1,
-      "labels": [
-        "P2"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7381",
-      "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
-      "stale_for": 1,
-      "labels": [
-        "needs review",
-        "stale",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5681",
-      "title": "HCX Communication",
-      "stale_for": 30,
-      "labels": [
-        "merge conflict",
-        "stale",
-        "cypress failed"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7419",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/382",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/383"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1957",
-      "pr_link": "https://github.com/coronasafe/care/pull/1958"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7356",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7358"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

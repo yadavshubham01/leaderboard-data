@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-06T04:07:38+00:00",
+  "last_updated": "2024-03-21T15:53:49+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/citizen#45",
+      "time": "2024-03-21T15:53:49+00:00",
+      "link": "https://github.com/coronasafe/citizen/pull/45",
+      "text": "Create Contributor.md"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#326",

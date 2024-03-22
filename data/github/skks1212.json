@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-03-18T11:59:55+00:00",
+  "last_updated": "2024-03-21T17:41:35+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#192",
+      "time": "2024-03-21T17:41:35+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#issuecomment-2013154077",
+      "text": "```\r\n<img\r\n                  src={(storage.theme || storage.preferedTheme) === 0 ? (process.env.NEXT_PUBLIC_LOGO_URL || \"/logo_text.svg\") : (process.env.NEXT_PUBLIC_LOGO_DARK_URL || \"/logo_white.svg\")}\r\n                  alt=\"Logo\"\r\n                  className=\"w-full h-full object-contain\"\r\n                />\r\n                ```\r\n                \r\n                snippet from chat sidebar"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#192",
+      "time": "2024-03-21T17:40:56+00:00",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192#issuecomment-2013153012",
+      "text": "@vishisht-dubey `NEXT_PUBLIC_LOGO_DARK_URL` refers to `/logo_white.svg` and `NEXT_PUBLIC_LOGO_URL` refers to `/logo_text.svg`"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-21T10:31:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416#issuecomment-2011874941",
+      "text": "@aparnacoronasafe So at once, only one type of consent can be selected and files for the selected consent, right?\r\nOr do we want the option to multiselect the consent types, and upload files for each?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-18T11:59:55+00:00",
