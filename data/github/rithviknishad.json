@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-23T04:13:53+00:00",
+  "last_updated": "2024-03-24T04:47:34+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-24T04:47:34+00:00",
+      "title": "coronasafe/care_fe#7411",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411#pullrequestreview-1956473953",
+      "text": "Add Age field in patient registration"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7363",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-21T04:57:17+00:00",
+  "last_updated": "2024-03-24T16:44:25+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#491",
+      "time": "2024-03-24T16:44:25+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/491",
+      "text": "fix(error): added more specific errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#430",
@@ -7155,6 +7162,118 @@
       "text": "added pagination in patient preset"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma/pull/491",
+      "title": "fix(error): added more specific errors",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "title": "fix: Events(Beta) improvement",
+      "stale_for": 11,
+      "labels": [
+        "work-in-progress"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1898",
+      "title": "fix: Update validation for Daily Round form",
+      "stale_for": 11,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6512",
+      "title": "fix(location): duty doctors and staff for each location in a facility",
+      "stale_for": 16,
+      "labels": [
+        "do not merge",
+        "hold",
+        "waiting for backend",
+        "merge conflict",
+        "stale"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1689",
+      "title": "fix(asset_location): added duty_staff endpoint",
+      "stale_for": 11,
+      "labels": [
+        "do-not-merge",
+        "waiting-for-review",
+        "Hold"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1376",
+      "pr_link": "https://github.com/coronasafe/care/pull/1431"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1217",
+      "pr_link": "https://github.com/coronasafe/care/pull/1218"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1164",
+      "pr_link": "https://github.com/coronasafe/care/pull/1165"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1154",
+      "pr_link": "https://github.com/coronasafe/care/pull/1155"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1142",
+      "pr_link": "https://github.com/coronasafe/care/pull/1143"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4322",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4321",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4320",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4378"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1111",
+      "pr_link": "https://github.com/coronasafe/care/pull/1112"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3968",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3974"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1089",
+      "pr_link": "https://github.com/coronasafe/care/pull/1090"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/936",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3217"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/930",
+      "pr_link": "https://github.com/coronasafe/care/pull/931"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3145",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3146"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/3114",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/3115"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/2907",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/2908"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/2769",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/2770"
+    }
+  ]
 }

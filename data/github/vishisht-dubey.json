@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-21T06:05:46+00:00",
+  "last_updated": "2024-03-24T13:08:54+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7459",
+      "time": "2024-03-24T13:08:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7459#issuecomment-2016804786",
+      "text": "Hey @rithviknishad i want to work on this can you please assign?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7429",
@@ -473,6 +480,13 @@
       "text": "Hi @Ashesh3 i would like to work on this, would you please assign this to me\r\nalso i am trying to contribute to GSOC so let me know the further details of contributing to this org."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/192",
+      "title": "Closes #Issue-191 UI Compatibility",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
