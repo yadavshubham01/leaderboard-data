@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-19T12:14:32+00:00",
+  "last_updated": "2024-03-25T11:06:02+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-25T11:06:02+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1957443953",
+      "text": "Adds bulk import support for assets"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7367",

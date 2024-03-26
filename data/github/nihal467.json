@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-22T14:42:04+00:00",
+  "last_updated": "2024-03-25T15:11:57+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7472",
+      "time": "2024-03-25T15:11:57+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7472#issuecomment-2018235101",
+      "text": "LGTM, the cypress is excepted due to baclend failure"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7446",

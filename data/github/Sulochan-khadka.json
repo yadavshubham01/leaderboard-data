@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-21T01:48:30+00:00",
+  "last_updated": "2024-03-25T19:54:30+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:54:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018796771",
+      "text": "@nihal467 @rithviknishad Kindly assign this issue to me to start working on it."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:53:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018795737",
+      "text": "\r\nhttps://github.com/coronasafe/care_fe/assets/122200551/418971b4-c8f1-451a-b0ef-5e2bff8295a2\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:50:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2018788770",
+      "text": "Kindly ignore the above video since the OBS freezed in-between. I will be uploading the video here."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:48:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:47:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-25T19:44:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474",
+      "text": "Facilities added but not displayed in Users."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-25T19:26:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473#issuecomment-2018750079",
+      "text": "@nihal467, @rithviknishad  is this issue not addressed till now? if so, may you assign this to me to work?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-25T19:25:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473",
+      "text": "\"Undefined\" is not a valid UUID : response while updating patient notes."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7382",

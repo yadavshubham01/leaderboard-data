@@ -1,6 +1,180 @@
 {
-  "last_updated": "2024-03-24T04:47:34+00:00",
+  "last_updated": "2024-03-25T15:44:42+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2013",
+      "time": "2024-03-25T15:44:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2013",
+      "text": "Adds support for validating integrity of fixtures in tests workflow",
+      "turnaround_time": 17659
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2013",
+      "time": "2024-03-25T15:44:42+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2013",
+      "text": "Adds support for validating integrity of fixtures in tests workflow",
+      "collaborated_with": [
+        "aeswibon",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7472",
+      "time": "2024-03-25T15:38:29+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7472",
+      "text": "Fixes high cpu usage in medicines tab, pagination not working, incorrect last modified date and type errors",
+      "turnaround_time": 9546
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2014",
+      "time": "2024-03-25T15:24:34+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2014",
+      "text": "fix(facility): fixed error in dummy data",
+      "collaborated_with": [
+        "aeswibon",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-25T15:18:19+00:00",
+      "title": "coronasafe/care#2014",
+      "link": "https://github.com/coronasafe/care/pull/2014#pullrequestreview-1958043312",
+      "text": "fix(facility): fixed error in dummy data"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7467",
+      "time": "2024-03-25T15:05:22+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7467#issuecomment-2018218521",
+      "text": "Closing in favour of #7472"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7472",
+      "time": "2024-03-25T15:04:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7472",
+      "text": "Fixes prescription dependency on last administered date"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7469",
+      "time": "2024-03-25T14:27:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469",
+      "text": "Fail build if typescript errors are present"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7468",
+      "time": "2024-03-25T13:42:32+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7468",
+      "text": "Builds not failing for typescript errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7467",
+      "time": "2024-03-25T13:40:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7467",
+      "text": "Fixes prescription dependency on last administered date"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2009",
+      "time": "2024-03-25T13:37:08+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2009",
+      "text": "Fixes discharged patients CSV export",
+      "turnaround_time": 19697
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2010",
+      "time": "2024-03-25T13:37:05+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2010",
+      "text": "Fixes discharged patients CSV export",
+      "turnaround_time": 19694
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7466",
+      "time": "2024-03-25T13:26:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7466",
+      "text": "Prescriptions: Pagination not working, unable to see/navigate to latest administrations"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7465",
+      "time": "2024-03-25T12:59:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7465",
+      "text": "High CPU usage in Medicines tab"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7464",
+      "time": "2024-03-25T12:41:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7464",
+      "text": "Prescriptions: Scroll to see more overlay being shown even if no more prescriptions to be shown"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2013",
+      "time": "2024-03-25T10:50:23+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2013",
+      "text": "Tests workflow to support validating integrity of fixtures"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7102",
+      "time": "2024-03-25T10:15:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7102",
+      "text": "Location/ Bed Management issue ( District Lab Admin Account)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-25T09:22:57+00:00",
+      "title": "coronasafe/care#2010",
+      "link": "https://github.com/coronasafe/care/pull/2010#pullrequestreview-1957209814",
+      "text": "Fixes discharged patients CSV export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2011",
+      "time": "2024-03-25T08:47:53+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2011",
+      "text": "Adds missing merge migrations",
+      "turnaround_time": 360
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2011",
+      "time": "2024-03-25T08:41:54+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2011",
+      "text": "Adds missing merge migrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2010",
+      "time": "2024-03-25T08:12:00+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2010",
+      "text": "Fixes discharged patients CSV export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2009",
+      "time": "2024-03-25T08:09:03+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2009",
+      "text": "Fixes discharged patients CSV export"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2008",
+      "time": "2024-03-25T08:08:51+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2008",
+      "text": "Discharge patients CSV export results in empty list"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-24T04:47:34+00:00",

@@ -1,6 +1,69 @@
 {
-  "last_updated": "2024-03-20T15:58:50+00:00",
+  "last_updated": "2024-03-25T13:44:25+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7197",
+      "time": "2024-03-25T13:44:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7197#issuecomment-2018039681",
+      "text": "@nihal467 once this PR https://github.com/coronasafe/care/pull/2012 is merged i will  test it again \r\n\r\nAlso I will create a new PR as there are test commits here "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T13:18:37+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403#issuecomment-2017992486",
+      "text": "@rithviknishad once can you check the deployment \r\nbecause locally its getting displayed locally\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7464",
+      "time": "2024-03-25T12:58:11+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7464#issuecomment-2017945268",
+      "text": "@rithviknishad I want to work on this issue can you assign me this "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2012",
+      "time": "2024-03-25T12:57:07+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012#issuecomment-2017943528",
+      "text": "@rithviknishad can you check once"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T10:52:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403#issuecomment-2017720418",
+      "text": "@rithviknishad i want to work on this issue can you assign me this "
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#403",
+      "time": "2024-03-25T10:51:54+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/403",
+      "text": "The footer is showing no image "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2012",
+      "time": "2024-03-25T10:39:06+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2012",
+      "text": "Map nurse logins to facility."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": "2024-03-25T07:17:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-2017367134",
+      "text": "@rithviknishad i want to work on this issue can you assign me this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7255",
+      "time": "2024-03-25T06:58:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7255#issuecomment-2017344832",
+      "text": "@Keshav-0907 are you still working on this issue?\r\nIf not I would like to work on this"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7197",
