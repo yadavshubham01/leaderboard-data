@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-24T18:56:27+00:00",
+  "last_updated": "2024-03-26T20:33:43+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1338",
+      "time": "2024-03-26T20:33:43+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1338#issuecomment-2021417205",
+      "text": "Hi @sainak,\r\n\r\nI would like to contribute to the project by addressing the Fix N+1 queries issue (#1338) in the /api/v1/bed/ endpoint. Could I please be assigned to work on this task? I believe I can help optimize the queries and improve performance in this area.\r\n\r\nThank you,\r\nJason Xie"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1977",

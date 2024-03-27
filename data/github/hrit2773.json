@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-25T19:34:24+00:00",
+  "last_updated": "2024-03-26T05:23:03+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-26T05:23:03+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2019419693",
+      "text": "@sainak @rithviknishad i added the cron job and should i remove the tests also for soft delete that i created because now that wont work right and maybe the custom migration is also not needed because every midnight the assets will be soft deleted and should i add logging infos and warnings in the task function? plz review it and tell me if any changes required"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1996",
@@ -352,22 +359,6 @@
       "text": "Hello Nihal sir I'm Hritesh Kumar Shanty, a 3rd year student at CBIT hyderabad. I'm interested to contribute to this project...actually Its been a while making projects using react, nextjs and express but recently I explored django and I was really looking for a project like this where I can integrate django and nextjs. I would definitely like to give my 100% to this project idea\r\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7450",
-      "title": "E-chart vitals precision problem fixed",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1996",
-      "title": "Soft delete assets from deleted facilities/hospitals",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

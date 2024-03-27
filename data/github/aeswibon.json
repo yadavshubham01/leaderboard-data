@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-25T15:44:42+00:00",
+  "last_updated": "2024-03-26T08:06:14+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1388",
+      "time": "2024-03-26T08:06:14+00:00",
+      "link": "https://github.com/coronasafe/care/issues/1388#issuecomment-2019768742",
+      "text": "Sure, you can first familiarise yourself with the test that are already there in the codebase. We basically need to add various tests for all the endpoints that are there in the consultation group. You can see the swagger documentation of our APIs."
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2013",

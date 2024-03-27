@@ -1,6 +1,14 @@
 {
-  "last_updated": "2024-03-24T16:31:48+00:00",
+  "last_updated": "2024-03-26T07:33:38+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-26T07:33:38+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275",
+      "text": "create vite plugin to treeshake uniconpaths.json",
+      "turnaround_time": 19785
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#1907",
@@ -814,37 +822,6 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7275",
-      "title": "create vite plugin to treeshake uniconpaths.json",
-      "stale_for": 1,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "P2",
-        "Major Code Change"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6993",
-      "title": "Collect postpartum data",
-      "stale_for": 8,
-      "labels": [
-        "changes required",
-        "work-in-progress",
-        "merge conflict"
-      ]
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-11T19:26:31+00:00",
+  "last_updated": "2024-03-26T14:22:40+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6609",
+      "time": "2024-03-26T14:22:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6609#issuecomment-2020569180",
+      "text": "I would like to work on this issue and update the styles and make it responsive for various screen-sizes. \r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7383",

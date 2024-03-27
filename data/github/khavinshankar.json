@@ -1,6 +1,93 @@
 {
-  "last_updated": "2024-03-25T15:37:53+00:00",
+  "last_updated": "2024-03-26T18:26:24+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7281",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7281",
+      "text": "Inconsistency in details of user"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User",
+      "collaborated_with": [
+        "nihal467",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T18:26:12+00:00",
+      "title": "coronasafe/care_fe#7322",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#pullrequestreview-1961368017",
+      "text": "Replace age field with DOB while Updating User"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:25:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2021180975",
+      "text": "merging it, approved by @nihal467 "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "nihal467",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7466",
+      "time": "2024-03-26T14:04:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7466",
+      "text": "Prescriptions: Pagination not working, unable to see/navigate to latest administrations, incorrect last modified date"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7465",
+      "time": "2024-03-26T14:04:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7465",
+      "text": "High CPU usage in Medicines tab"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T12:42:47+00:00",
+      "title": "coronasafe/care_fe#7477",
+      "link": "https://github.com/coronasafe/care_fe/pull/7477#pullrequestreview-1960252902",
+      "text": "Fixes high cpu usage in medicines tab, pagination not working, incorrect last modified date and type errors"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7270",
+      "time": "2024-03-26T07:33:39+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7270",
+      "text": "Reduce uniconpaths.json bundle size"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T07:32:52+00:00",
+      "title": "coronasafe/care_fe#7275",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#pullrequestreview-1959515975",
+      "text": "create vite plugin to treeshake uniconpaths.json"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-25T15:37:53+00:00",
@@ -28241,6 +28328,144 @@
       "text": "Shows a 'data not available' message when null in NeurologicalTables"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7414",
+      "title": "Camera feed enhancement",
+      "stale_for": 7,
+      "labels": [
+        "do not merge",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7193",
+      "title": "ABDM M3",
+      "stale_for": 4,
+      "labels": [
+        "merge conflict",
+        "ABDM"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1829",
+      "title": "ABDM M3",
+      "stale_for": 13,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1229",
+      "title": "Hcx Refactors",
+      "stale_for": 8,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
+      "title": "Hcx/eligibility check workflow",
+      "stale_for": 121,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
+      "title": "Added an endpoint to get the time of the last request in observation",
+      "stale_for": 473,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1093",
+      "title": "Added is_occupied field in Bed",
+      "stale_for": 13,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/143",
+      "title": "added browser confirmation for uncheduling in Agenda",
+      "stale_for": 830,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/141",
+      "title": "Added search bar in Patients",
+      "stale_for": 836,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/arike/pull/140",
+      "title": "Refactored Patients from ruby-html to rescript-react",
+      "stale_for": 837,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/life/pull/306",
+      "title": "filtered duplicate tweets",
+      "stale_for": 1032,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care/pull/1861"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1849",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7114"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6545",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6547"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/102",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/103"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care/pull/1550"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6117",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6136"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1407",
+      "pr_link": "https://github.com/coronasafe/care/pull/1408"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5772",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5882"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5699",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5700"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5518",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5519"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5368",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5369"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4538",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4539"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4528",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4529"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4512",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4513"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4433",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4437"
+    }
+  ]
 }

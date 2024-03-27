@@ -1,6 +1,60 @@
 {
-  "last_updated": "2024-03-25T16:17:51+00:00",
+  "last_updated": "2024-03-26T17:18:04+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "turnaround_time": 1078
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2019",
+      "time": "2024-03-26T17:17:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2019",
+      "text": "Production release v24.13.0",
+      "turnaround_time": 1078
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2019",
+      "time": "2024-03-26T17:17:16+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2019",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T17:08:14+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1961169940",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T17:06:48+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1961166735",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:00:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2019",
+      "time": "2024-03-26T16:59:19+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2019",
+      "text": "Production release v24.13.0"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#664",
@@ -10938,145 +10992,6 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/2000",
-      "title": "Make care single source of truth for asset config on middleware",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/citizen/pull/44",
-      "title": "Quick changes to get the app running again",
-      "stale_for": 8,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/389",
-      "title": "Update install and devel instructions to use pnpm",
-      "stale_for": 10,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
-      "title": "add ability to fetch config from care",
-      "stale_for": 25,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 120,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 12,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 12,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 249,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 12,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1883",
-      "pr_link": "https://github.com/coronasafe/care/pull/1888"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1702",
-      "pr_link": "https://github.com/coronasafe/care/pull/1703"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1681",
-      "pr_link": "https://github.com/coronasafe/care/pull/1682"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1658",
-      "pr_link": "https://github.com/coronasafe/care/pull/1788"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1645",
-      "pr_link": "https://github.com/coronasafe/care/pull/1646"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1627",
-      "pr_link": "https://github.com/coronasafe/care/pull/1628"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1610",
-      "pr_link": "https://github.com/coronasafe/care/pull/1611"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1594",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1593",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care/pull/1546"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
-      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1419",
-      "pr_link": "https://github.com/coronasafe/care/pull/1420"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1417",
-      "pr_link": "https://github.com/coronasafe/care/pull/1418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1351",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

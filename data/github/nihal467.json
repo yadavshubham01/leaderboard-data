@@ -1,6 +1,156 @@
 {
-  "last_updated": "2024-03-25T15:11:57+00:00",
+  "last_updated": "2024-03-26T21:49:42+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-26T21:49:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#issuecomment-2021532618",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7440",
+      "time": "2024-03-26T21:45:47+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7440#issuecomment-2021527839",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/da635c75-85b6-46da-9cca-e5544d08d883)\r\n\r\n@MjStar24 when we are viewing the cns page of a facility, its crashing and showing a white page."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-26T21:43:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449#issuecomment-2021525656",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7404",
+      "time": "2024-03-26T21:42:23+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7404#issuecomment-2021523974",
+      "text": "@Spiral-Memory \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/39a04fde-61f3-45e0-a6b5-1c6a7900d34d)\r\n\r\n- [ ] When you go to a patient consultation page and click on the \"Files\" options in the navigation bar, you will see Chrome asking the user to allow the use of the mic. This shouldn't be the case. It is expected to ask the user for mic permission only when they click on the record button in the \"Files\" section."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1966",
+      "time": "2024-03-26T21:36:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966#issuecomment-2021516397",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-26T18:52:31+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448#issuecomment-2021234929",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-26T18:40:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198#issuecomment-2021210255",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-26T18:35:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#issuecomment-2021198845",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T18:26:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322",
+      "text": "Replace age field with DOB while Updating User",
+      "collaborated_with": [
+        "khavinshankar",
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7478",
+      "time": "2024-03-26T17:18:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7478",
+      "text": "Production release v24.13.0",
+      "collaborated_with": [
+        "rithviknishad",
+        "AshrafMd-1",
+        "khavinshankar",
+        "konavivekramakrishna",
+        "Ashesh3",
+        "manasvi-gaur",
+        "jainvedant392",
+        "GokulramGHV",
+        "Spiral-Memory",
+        "gigincg",
+        "r-nikhilkumar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6901",
+      "time": "2024-03-26T17:08:59+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/6901#issuecomment-2021009958",
+      "text": "@thedevildude \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/856af797-afbf-4289-9caa-4eb684aa9aa1)\r\n\r\nhide the \"No asset linked\" , only show details about asset, if anything is linked"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7443",
+      "time": "2024-03-26T17:00:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7443#issuecomment-2020991845",
+      "text": "LGTM"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:59:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020504879",
+      "text": "@rash-27 dont push the changes, @rithviknishad is pushing it\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:54:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020493863",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/bd303821-a713-43d8-84c7-b5d73295c405)\r\n\r\nkeep the reflection in DD/MM/YYYY"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:50:14+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020484370",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/acda954d-7064-45bd-a456-42a87b1c786b)\r\n\r\nadd a '*' to the DOB field"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7322",
+      "time": "2024-03-26T13:49:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#issuecomment-2020482672",
+      "text": "![image](https://github.com/coronasafe/care_fe/assets/57055998/dd2cae45-30db-4820-985f-aa8e8967ac11)\r\n\r\n@rithviknishad keep the same error same, don't change it, as it is more specific "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-26T13:48:51+00:00",
+      "title": "coronasafe/care_fe#7322",
+      "link": "https://github.com/coronasafe/care_fe/pull/7322#pullrequestreview-1960461538",
+      "text": "Replace age field with DOB while Updating User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7476",
+      "time": "2024-03-26T11:52:09+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7476",
+      "text": "Cypress Test | Critical Care"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7275",
+      "time": "2024-03-26T07:20:53+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7275#issuecomment-2019549743",
+      "text": "LGTM and cypress is also passing"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7472",
@@ -32546,6 +32696,13 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7476",
+      "title": "Cypress Test | Critical Care",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }
