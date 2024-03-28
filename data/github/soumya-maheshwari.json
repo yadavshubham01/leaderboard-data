@@ -1,6 +1,42 @@
 {
-  "last_updated": "2024-03-25T15:19:28+00:00",
+  "last_updated": "2024-03-27T15:37:10+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "turnaround_time": 13222
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "turnaround_time": 14681
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7470",
@@ -121,6 +157,25 @@
       "text": " Modification of padding  in ScrollingComponent for Improved Mobile Display in pages like resource board"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7471",
+      "title": "Implemented responsive design for approval letter in resource",
+      "stale_for": 0,
+      "labels": [
+        "needs testing",
+        "needs review"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7447",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7448"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7427",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7449"
+    }
+  ]
 }

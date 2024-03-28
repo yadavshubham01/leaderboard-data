@@ -1,6 +1,132 @@
 {
-  "last_updated": "2024-03-26T17:18:04+00:00",
+  "last_updated": "2024-03-27T11:42:35+00:00",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2020",
+      "time": "2024-03-27T11:42:35+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2020",
+      "text": "Implement Care Scribe"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7481",
+      "time": "2024-03-27T11:42:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7481",
+      "text": "Implement Care Scribe"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#493",
+      "time": "2024-03-27T11:40:49+00:00",
+      "link": "https://github.com/coronasafe/ayushma/pull/493",
+      "text": "Add routes for care scribe"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T09:27:35+00:00",
+      "title": "coronasafe/care#1994",
+      "link": "https://github.com/coronasafe/care/pull/1994#pullrequestreview-1962747759",
+      "text": "updated bed types"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#262",
+      "time": "2024-03-27T07:49:27+00:00",
+      "link": "https://github.com/coronasafe/ayushma/issues/262#issuecomment-2022143984",
+      "text": "> Hey @skks1212, Where will I find the documentation for Ayushma, or is it referring to the readme.md?\r\n\r\nYep, I think it's the readme file. @skks1212 could you confirm?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:48:32+00:00",
+      "title": "coronasafe/care_fe#7345",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345#pullrequestreview-1962537486",
+      "text": "fix: Events(Beta) improvement"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:48:22+00:00",
+      "title": "coronasafe/care_fe#7136",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#pullrequestreview-1962536941",
+      "text": "Extend Update Log to bottom of the screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:48:22+00:00",
+      "title": "coronasafe/care_fe#7136",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136#pullrequestreview-1962536941",
+      "text": "Extend Update Log to bottom of the screen"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:45:36+00:00",
+      "title": "coronasafe/care_fe#7198",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198#pullrequestreview-1962532795",
+      "text": "Improving Doctor Connect UI"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:44:51+00:00",
+      "title": "coronasafe/care_fe#7455",
+      "link": "https://github.com/coronasafe/care_fe/pull/7455#pullrequestreview-1962531508",
+      "text": "Don't allow negative values for quantity in Manage Inventory and Minimum Quantity Required page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:43:34+00:00",
+      "title": "coronasafe/care_fe#7471",
+      "link": "https://github.com/coronasafe/care_fe/pull/7471#pullrequestreview-1962529394",
+      "text": "Implemented responsive design for approval letter in resource"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:43:27+00:00",
+      "title": "coronasafe/care_fe#7381",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381#pullrequestreview-1962529218",
+      "text": "Migrate ICD11 and Medibase Medicine search to use `useQuery`"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:42:44+00:00",
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1962528266",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:42:14+00:00",
+      "title": "coronasafe/care#2005",
+      "link": "https://github.com/coronasafe/care/pull/2005#pullrequestreview-1962527496",
+      "text": "Add validations for negative values in inventory and min quanityt"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:42:04+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1962527275",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:41:58+00:00",
+      "title": "coronasafe/care#1966",
+      "link": "https://github.com/coronasafe/care/pull/1966#pullrequestreview-1962527127",
+      "text": "Dropped `age` column from patient registration and annotated age in patient viewset"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:32:37+00:00",
+      "title": "coronasafe/care#2012",
+      "link": "https://github.com/coronasafe/care/pull/2012#pullrequestreview-1962511627",
+      "text": "Map nurse logins to facility."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T07:30:16+00:00",
+      "title": "coronasafe/care_fe#7450",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450#pullrequestreview-1962508039",
+      "text": "E-chart vitals precision problem fixed"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7478",
@@ -18413,6 +18539,125 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/2020",
+      "title": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7481",
+      "title": "Integrate Voice-Enabled Form Filling with Care Scribe in Care Frontend",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/ayushma/pull/493",
+      "title": "Add Support for Care Scribe Transcription and AI Completion Routes",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1903",
+      "title": "Migrate consultation's assigned_to to assigned_clinicians",
+      "stale_for": 6,
+      "labels": [
+        "waiting-for-review"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1657",
+      "title": "POC: AI discharge summary",
+      "stale_for": 14,
+      "labels": [
+        "POC"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5147",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 358,
+      "labels": [
+        "work-in-progress",
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1227",
+      "title": "[WIP] Integrate LiveKit for doctor connect",
+      "stale_for": 14,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7240",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7305"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7239",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7396"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1893",
+      "pr_link": "https://github.com/coronasafe/care/pull/1896"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
+      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
+      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
+      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1283",
+      "pr_link": "https://github.com/coronasafe/care/pull/1286"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
+    }
+  ]
 }

@@ -1,6 +1,35 @@
 {
-  "last_updated": "2024-03-26T05:23:03+00:00",
+  "last_updated": "2024-03-27T18:23:32+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-27T18:23:32+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2023542605",
+      "text": "@rithviknishad @sainak made the required changes plz review these changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7450",
+      "time": "2024-03-27T15:37:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7450",
+      "text": "E-chart vitals precision problem fixed",
+      "turnaround_time": 43538
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-27T04:32:25+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1962262615",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1996",
+      "time": "2024-03-27T04:30:39+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1996#issuecomment-2021906652",
+      "text": "> @hrit2773 You can remove the custom migration since it'd be taken care by the celery task itself right.\r\n\r\n@rithviknishad yes I'll remove it and I'll remove the api test case also because I feel that is not needed "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1996",
@@ -359,6 +388,13 @@
       "text": "Hello Nihal sir I'm Hritesh Kumar Shanty, a 3rd year student at CBIT hyderabad. I'm interested to contribute to this project...actually Its been a while making projects using react, nextjs and express but recently I explored django and I was really looking for a project like this where I can integrate django and nextjs. I would definitely like to give my 100% to this project idea\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1996",
+      "title": "Soft delete assets from deleted facilities/hospitals",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

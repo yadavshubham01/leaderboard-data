@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-26T20:09:04+00:00",
+  "last_updated": "2024-03-27T19:22:46+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2024",
+      "time": "2024-03-27T19:22:46+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024#issuecomment-2023794443",
+      "text": "@sainak ptal, shoud i add tests for other places as well ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2024",
+      "time": "2024-03-27T19:21:59+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024",
+      "text": "adding configurable backend"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#664",
@@ -399,9 +413,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care/pull/2024",
+      "title": "adding configurable backend",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care/pull/1940",
       "title": "Add created_by and updated_by fields to base model",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],

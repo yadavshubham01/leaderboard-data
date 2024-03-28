@@ -1,6 +1,22 @@
 {
-  "last_updated": "2024-03-23T09:59:30+00:00",
+  "last_updated": "2024-03-27T15:38:45+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7455",
+      "time": "2024-03-27T15:38:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7455",
+      "text": "Don't allow negative values for quantity in Manage Inventory and Minimum Quantity Required page",
+      "turnaround_time": 28288
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7443",
+      "time": "2024-03-27T15:36:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7443",
+      "text": "Show asset down on assets manage page",
+      "turnaround_time": 23843
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7459",
@@ -7348,29 +7364,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2005",
       "title": "Add validations for negative values in inventory and min quanityt",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7455",
-      "title": "Don't allow negative values for quantity in Manage Inventory and Minimum Quantity Required page",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7443",
-      "title": "Show asset down on assets manage page",
-      "stale_for": 0,
-      "labels": [
-        "needs testing"
-      ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1757",
       "title": "Feature: Lock asset & Patient privacy & Boundary based validation",
-      "stale_for": 10,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -7378,11 +7378,19 @@
     {
       "link": "https://github.com/coronasafe/10bedicu/pull/72",
       "title": "Fix front-end issue for footer and cards",
-      "stale_for": 96,
+      "stale_for": 100,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7454",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7455"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7442",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7443"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6855",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6860"
@@ -7474,14 +7482,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/6203",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/6204"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6190",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6253"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6165",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6166"
     }
   ]
 }

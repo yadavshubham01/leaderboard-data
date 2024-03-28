@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-26T16:49:20+00:00",
+  "last_updated": "2024-03-27T12:19:17+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma#262",
+      "time": "2024-03-27T12:19:17+00:00",
+      "link": "https://github.com/coronasafe/ayushma/issues/262#issuecomment-2022631280",
+      "text": "@Ashesh3 @mukul-oo7 yes this has to be done in the Readme file. Some have already been included"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#2006",
@@ -7220,6 +7227,46 @@
       "text": "Updated Rhythm View to table for easy access and efficiency"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/404",
+      "title": "Updated symlinks, added scripts, updated readme",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "title": "Added consent form to patient consultation",
+      "stale_for": 0,
+      "labels": [
+        "tested",
+        "P1",
+        "waiting for backend"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/2006",
+      "title": "Added consent records to patient consultation",
+      "stale_for": 0,
+      "labels": [
+        "P1"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1967",
+      "title": "Painscale changed from 0 - 5 to 0 - 10",
+      "stale_for": 9,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7380",
+      "title": "Updated Preview UIs and Changes to Painscale",
+      "stale_for": 8,
+      "labels": [
+        "waiting for backend",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

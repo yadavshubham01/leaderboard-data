@@ -1,6 +1,76 @@
 {
-  "last_updated": "2024-03-26T21:49:42+00:00",
+  "last_updated": "2024-03-27T17:57:25+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T17:57:25+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2023436762",
+      "text": "LGTM"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7136",
+      "time": "2024-03-27T15:43:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7136",
+      "text": "Extend Update Log to bottom of the screen",
+      "collaborated_with": [
+        "thedevildude",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7449",
+      "time": "2024-03-27T15:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7449",
+      "text": "edit padding in shifting board and resource board pages in mobile screen",
+      "collaborated_with": [
+        "soumya-maheshwari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7448",
+      "time": "2024-03-27T15:36:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7448",
+      "text": "added toast messages on facility and skills dialog",
+      "collaborated_with": [
+        "soumya-maheshwari"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7198",
+      "time": "2024-03-27T15:35:17+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7198",
+      "text": "Improving Doctor Connect UI",
+      "collaborated_with": [
+        "rithviknishad",
+        "thedevildude"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T10:58:40+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2022480690",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care/assets/57055998/d3cd17ca-b243-43ac-88ed-ff4446ad9f5f)\r\n\r\nthe still exist when we are creating a new consultation"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-27T08:09:33+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461#issuecomment-2022170356",
+      "text": "@skks1212 \r\n![image](https://github.com/coronasafe/care_fe/assets/57055998/31677bca-1b42-4503-8b19-509b3c31dde2)\r\n\r\nunable to upload the consent file in the patient consultation file"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-27T08:08:36+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006#issuecomment-2022169147",
+      "text": "![image](https://github.com/coronasafe/care/assets/57055998/fdbca5fb-9d02-4b2c-86d4-d681a76c500a)\r\n\r\nthe PR is not working , unable to upload the consent file"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7450",
@@ -32700,7 +32770,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7476",
       "title": "Cypress Test | Critical Care",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     }
   ],
