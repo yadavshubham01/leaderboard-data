@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-24T13:08:54+00:00",
+  "last_updated": "2024-03-28T18:50:18+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#405",
+      "time": "2024-03-28T18:50:18+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/405#issuecomment-2025894054",
+      "text": "Hii @bodhish i also faced an issue which stated `leaderboard\\contributors` no such directory found, however when i added a contrbutors folder in root directory and added a dummy.md file in it, that error got resolved, talking about this, where is this info of `leaderboard/data/slack` being used??"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#405",
+      "time": "2024-03-28T17:36:09+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/405#issuecomment-2025766836",
+      "text": "Hey @bodhish can you please assign this to me?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7459",
@@ -484,7 +498,7 @@
     {
       "link": "https://github.com/coronasafe/ayushma_fe/pull/192",
       "title": "Closes #Issue-191 UI Compatibility",
-      "stale_for": 3,
+      "stale_for": 7,
       "labels": []
     }
   ],

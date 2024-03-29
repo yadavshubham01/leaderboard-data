@@ -1,6 +1,17 @@
 {
-  "last_updated": "2024-03-27T17:57:25+00:00",
+  "last_updated": "2024-03-28T16:45:20+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7461",
+      "time": "2024-03-28T16:45:20+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7461",
+      "text": "Added consent form to patient consultation",
+      "collaborated_with": [
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#2006",
@@ -32766,13 +32777,6 @@
       "text": "@cp-Coder @gigincg can you the conflicting file "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7476",
-      "title": "Cypress Test | Critical Care",
-      "stale_for": 1,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

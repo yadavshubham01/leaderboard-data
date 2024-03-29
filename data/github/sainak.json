@@ -1,6 +1,105 @@
 {
-  "last_updated": "2024-03-27T17:46:27+00:00",
+  "last_updated": "2024-03-28T16:56:21+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2032",
+      "time": "2024-03-28T16:56:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2032",
+      "text": "Hotfix: Staging Release for v24.14.0",
+      "collaborated_with": [
+        "skks1212",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2031",
+      "time": "2024-03-28T15:14:31+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2031#issuecomment-2025469986",
+      "text": "@AnkurPrabhu its an urgent issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2031",
+      "time": "2024-03-28T14:55:44+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2031",
+      "text": "Setup a backend for plugins"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2006",
+      "time": "2024-03-28T14:16:27+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2006",
+      "text": "Added consent records to patient consultation",
+      "collaborated_with": [
+        "skks1212",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#2030",
+      "time": "2024-03-28T13:28:33+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2030",
+      "text": "fix dummy data",
+      "turnaround_time": 2730
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#2030",
+      "time": "2024-03-28T12:43:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2030",
+      "text": "Sainak/fix/dummy-data-staging"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T09:18:04+00:00",
+      "title": "coronasafe/care#2020",
+      "link": "https://github.com/coronasafe/care/pull/2020#pullrequestreview-1965565010",
+      "text": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T09:17:48+00:00",
+      "title": "coronasafe/care#2020",
+      "link": "https://github.com/coronasafe/care/pull/2020#pullrequestreview-1965564289",
+      "text": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T05:46:24+00:00",
+      "title": "coronasafe/care#2020",
+      "link": "https://github.com/coronasafe/care/pull/2020#pullrequestreview-1965209107",
+      "text": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T05:46:24+00:00",
+      "title": "coronasafe/care#2020",
+      "link": "https://github.com/coronasafe/care/pull/2020#pullrequestreview-1965209107",
+      "text": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "vigneshhari",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-27T17:46:27+00:00",
@@ -11034,69 +11133,7 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/2000",
-      "title": "Make care single source of truth for asset config on middleware",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/citizen/pull/44",
-      "title": "Quick changes to get the app running again",
-      "stale_for": 10,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/leaderboard/pull/389",
-      "title": "Update install and devel instructions to use pnpm",
-      "stale_for": 12,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
-      "title": "add ability to fetch config from care",
-      "stale_for": 27,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 122,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 14,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 14,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 251,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 14,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": [
     {
       "issue_link": "https://github.com/coronasafe/care/issues/1883",

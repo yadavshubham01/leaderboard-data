@@ -1,6 +1,47 @@
 {
-  "last_updated": "2024-03-27T18:18:08+00:00",
+  "last_updated": "2024-03-28T14:16:28+00:00",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#2004",
+      "time": "2024-03-28T14:16:28+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2004",
+      "text": "Creating a super user without creating a district results in an error"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7416",
+      "time": "2024-03-28T14:16:27+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7416",
+      "text": "Feature to upload consent file per encounter"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T14:16:06+00:00",
+      "title": "coronasafe/care#2006",
+      "link": "https://github.com/coronasafe/care/pull/2006#pullrequestreview-1966354921",
+      "text": "Added consent records to patient consultation"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2025",
+      "time": "2024-03-28T05:10:48+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2025",
+      "text": "Staging release for v24.14.0 ",
+      "collaborated_with": [
+        "Omkar76",
+        "sainak",
+        "rash-27",
+        "itxsoumya",
+        "aeswibon",
+        "krassowska",
+        "AnkurPrabhu",
+        "Ashesh3",
+        "rithviknishad",
+        "GokulramGHV",
+        "AshrafMd-1"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-27T18:18:08+00:00",
@@ -7343,13 +7384,6 @@
       "text": "Prevent creation of bed with the same name"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/docs/pull/6",
-      "title": "CEP 4 RBAC: initial spec",
-      "stale_for": 10,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
