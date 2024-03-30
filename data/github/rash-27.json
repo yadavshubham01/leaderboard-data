@@ -1,6 +1,31 @@
 {
-  "last_updated": "2024-03-28T18:37:50+00:00",
+  "last_updated": "2024-03-29T21:37:53+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#219",
+      "time": "2024-03-29T21:37:53+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/219#issuecomment-2027759666",
+      "text": "@Samuel-Aktar-Laskar I too started working on this , but no problem."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-29T09:21:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link",
+      "turnaround_time": 73335
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-29T09:21:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#219",
@@ -754,15 +779,9 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/407",
-      "title": "update show more contributors link",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7411",
       "title": "Add Age field in patient registration",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Backend",
         "tested",
@@ -773,13 +792,13 @@
     {
       "link": "https://github.com/coronasafe/leaderboard/pull/374",
       "title": " Adds support for searching in /people page and show short info about user",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     }
   ],

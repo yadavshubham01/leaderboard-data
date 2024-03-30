@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-28T05:10:54+00:00",
+  "last_updated": "2024-03-29T09:44:00+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:44:00+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1968202022",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7485",
@@ -404,6 +411,13 @@
       "text": "Hello Nihal sir I'm Hritesh Kumar Shanty, a 3rd year student at CBIT hyderabad. I'm interested to contribute to this project...actually Its been a while making projects using react, nextjs and express but recently I explored django and I was really looking for a project like this where I can integrate django and nextjs. I would definitely like to give my 100% to this project idea\r\n"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care/pull/1996",
+      "title": "Soft delete assets from deleted facilities/hospitals",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

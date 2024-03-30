@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-28T05:10:48+00:00",
+  "last_updated": "2024-03-29T12:41:02+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7268",
+      "time": "2024-03-29T12:41:02+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7268#issuecomment-2027189714",
+      "text": "There seem to be some errors so I will reopen a new PR"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2025",
@@ -1947,21 +1954,15 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2012",
       "title": "Map nurse logins to facility.",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "reviewed"
       ]
     },
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7268",
-      "title": "Restrict Unauthorized Users from Accessing Facility's Patient Registration",
-      "stale_for": 4,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7197",
       "title": "Add Cypress test to patient file upload",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required",
         "Deploy-Failed",

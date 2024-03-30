@@ -1,6 +1,170 @@
 {
-  "last_updated": "2024-03-28T16:56:21+00:00",
+  "last_updated": "2024-03-29T16:51:04+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-03-29T16:51:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2027478444",
+      "text": "Nope :/ still same error..."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-03-29T15:44:08+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2027403504",
+      "text": "Yes you are right. \r\n\r\nI've trigerred a re-deploy without cache."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T15:42:21+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1968824197",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T15:42:21+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1968824197",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T10:07:31+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968239461",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T10:01:07+00:00",
+      "title": "coronasafe/leaderboard#388",
+      "link": "https://github.com/coronasafe/leaderboard/pull/388#pullrequestreview-1968231772",
+      "text": "Custom date range filter implemented in Contributor Activity (#294)"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:58:45+00:00",
+      "title": "coronasafe/leaderboard#379",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#pullrequestreview-1968226106",
+      "text": "Nav bar item highlight feature added | issue #378"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:58:45+00:00",
+      "title": "coronasafe/leaderboard#379",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#pullrequestreview-1968226106",
+      "text": "Nav bar item highlight feature added | issue #378"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#288",
+      "time": "2024-03-29T09:53:47+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/288",
+      "text": "Improve mobile responsiveness of Contributors page"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#326",
+      "time": "2024-03-29T09:53:02+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/326#issuecomment-2026968249",
+      "text": "Closing as stale due to no activity + conflicts + not a requirement. Let's keep it minimal."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:51:55+00:00",
+      "title": "coronasafe/leaderboard#387",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#pullrequestreview-1968213199",
+      "text": "hidden leaderboard filters in mobile view"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:50:32+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1968211531",
+      "text": "feat: added blur placeholder for TopContributor and ContributorImage"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:33:32+00:00",
+      "title": "coronasafe/leaderboard#389",
+      "link": "https://github.com/coronasafe/leaderboard/pull/389#pullrequestreview-1968188606",
+      "text": "Update install and devel instructions to use pnpm"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:31:22+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1968186054",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:31:22+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1968186054",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#406",
+      "time": "2024-03-29T09:22:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/406",
+      "text": "Show more contributors link, shows negative number for less number of contributors"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#407",
+      "time": "2024-03-29T09:21:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407",
+      "text": "update show more contributors link",
+      "collaborated_with": [
+        "rash-27"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:21:23+00:00",
+      "title": "coronasafe/leaderboard#407",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407#pullrequestreview-1968173539",
+      "text": "update show more contributors link"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:21:23+00:00",
+      "title": "coronasafe/leaderboard#407",
+      "link": "https://github.com/coronasafe/leaderboard/pull/407#pullrequestreview-1968173539",
+      "text": "update show more contributors link"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T09:19:00+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1968169948",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T04:30:31+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1967814962",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T04:30:31+00:00",
+      "title": "coronasafe/care#1991",
+      "link": "https://github.com/coronasafe/care/pull/1991#pullrequestreview-1967814962",
+      "text": "Enhance MEWS calculation by fetching data from last 5 log updates"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#405",
+      "time": "2024-03-29T04:15:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/405#issuecomment-2026620844",
+      "text": "@vishisht-dubey the `./load-org-data.sh` script works only in linux/mac since the symlinks contains `/` slashes instead of `\\`."
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2032",
@@ -40901,6 +41065,92 @@
       "text": "Changes \"Patient Details\" to \"Patient Dashboard\" in Consultation Page"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7469",
+      "title": "Perform type checks during build and fix all errors",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "P2",
+        "merge conflict",
+        "Major Code Change"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
+      "stale_for": 2,
+      "labels": [
+        "P2"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
+      "stale_for": 2,
+      "labels": [
+        "needs testing",
+        "needs review",
+        "cypress passed"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/5681",
+      "title": "HCX Communication",
+      "stale_for": 39,
+      "labels": [
+        "merge conflict",
+        "stale",
+        "cypress failed"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7466",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7472"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7465",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7472"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/2008",
+      "pr_link": "https://github.com/coronasafe/care/pull/2009"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/2008",
+      "pr_link": "https://github.com/coronasafe/care/pull/2010"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1998",
+      "pr_link": "https://github.com/coronasafe/care/pull/1999"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1998",
+      "pr_link": "https://github.com/coronasafe/care/pull/2002"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7419",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7418"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/382",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/383"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care/issues/1957",
+      "pr_link": "https://github.com/coronasafe/care/pull/1958"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7356",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7358"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
+    }
+  ]
 }

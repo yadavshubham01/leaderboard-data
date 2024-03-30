@@ -1,6 +1,76 @@
 {
-  "last_updated": "2024-03-25T19:54:30+00:00",
+  "last_updated": "2024-03-29T18:42:34+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:42:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495#issuecomment-2027593628",
+      "text": "@rithviknishad kindly have a look at PR ."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7496",
+      "time": "2024-03-29T18:18:46+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes. #7495"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:14:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495#issuecomment-2027566813",
+      "text": "@nihal467 @rithviknishad  let me know if this is not solved. Am raising PR for while , if it is previously solved, I will close it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7495",
+      "time": "2024-03-29T18:12:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7495",
+      "text": "Icon overlapping with text in text-box of Doctor's Notes."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-29T17:31:05+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1969141095",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-03-29T12:38:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473#issuecomment-2027187882",
+      "text": "@rithviknishad did you solve this issue in your PR or shall I raise one?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7159",
+      "time": "2024-03-29T11:18:54+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7159#issuecomment-2027097461",
+      "text": "> The backend currently uses a package that supports uploading to any services and is not specific to S3. You can look at how patient file uploads are done by exploring the platform. We could do something similar to patient file uploads. (Or maybe upload it to patient files itself and add support to reference those files in the doctor notes)\r\n\r\nThanks for the response. Also since I was busy finding the bugs and reporting, I did not get time for pre-proposal. So May you provide me just an overview that might increase the chances of my selection as s GSOC contributor (what is must to include and what is plus to include )!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-29T11:06:40+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2027084362",
+      "text": "Pr number is #7494 "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7474",
+      "time": "2024-03-29T11:06:03+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7474#issuecomment-2027083821",
+      "text": "@rithviknishad I have raised a PR for this. Kindly review it and merge! Also let me know if there are improvements needed."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7494",
+      "time": "2024-03-29T11:01:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7474",
@@ -114,6 +184,21 @@
       "text": "Hey where do I store the uploaded image ? in S3? Kindly do specify... Working on it."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "title": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7494",
+      "title": "\"Solved facility linking issue under manage facilities/view users\"#7474",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }
