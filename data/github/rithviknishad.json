@@ -1,6 +1,133 @@
 {
-  "last_updated": "2024-03-29T16:51:04+00:00",
+  "last_updated": "2024-03-30T17:06:40+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T17:06:40+00:00",
+      "title": "coronasafe/leaderboard#414",
+      "link": "https://github.com/coronasafe/leaderboard/pull/414#pullrequestreview-1970023343",
+      "text": "Updated README.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T17:06:40+00:00",
+      "title": "coronasafe/leaderboard#414",
+      "link": "https://github.com/coronasafe/leaderboard/pull/414#pullrequestreview-1970023343",
+      "text": "Updated README.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#411",
+      "time": "2024-03-30T10:23:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/411#issuecomment-2028004404",
+      "text": "The logo issue has been solved in #404 "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T10:17:18+00:00",
+      "title": "coronasafe/leaderboard#404",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404#pullrequestreview-1969882663",
+      "text": "Updated symlinks, added scripts, updated readme"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:22:58+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027988251",
+      "text": "> and i also run build locally and it is run perfectly fine with my changes\r\n\r\nAre you sure it's working locally? Not sure if I'm doing something wrong... I did checkout the data-repo to the one you've made and tried running this branch with it and getting the following errors upon visiting the profile of a contributor. Also getting 404 page not found for all contributors.\r\n\r\n<img width=\"3120\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/fd96d75d-18d2-4a16-b026-5234e8bef9ec\">\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:10:08+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027984859",
+      "text": "Reviewed the data-repo PR. Also it'd be great if you could mention related PR's from data-repo in this PR's body itself. It's nice to keep track of related PRs documented in the PR body."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T09:09:00+00:00",
+      "title": "coronasafe/leaderboard-data#33",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/33#pullrequestreview-1969870846",
+      "text": "logo.webp to logo.jpg"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:03:35+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027982688",
+      "text": "@dgparmar14 I assume whats happening is it is getting pre-rendered and so those files wouldn't be served until the build is completed and output is served right?\r\n\r\nHave you tried importing the font from `next/fonts` instead? We could also disable pre-renders for this maybe."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T09:00:09+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1969869348",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:58:15+00:00",
+      "title": "coronasafe/leaderboard#402",
+      "link": "https://github.com/coronasafe/leaderboard/pull/402#pullrequestreview-1969868945",
+      "text": "extra scrollbar removed from cotributor's profile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:54:02+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1969868415",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:54:02+00:00",
+      "title": "coronasafe/leaderboard#396",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#pullrequestreview-1969868415",
+      "text": "Added contrbutors OG image using genratemetadata"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:38:09+00:00",
+      "title": "coronasafe/leaderboard#409",
+      "link": "https://github.com/coronasafe/leaderboard/pull/409#pullrequestreview-1969860228",
+      "text": "Scaling points for PRs based on size of the PR"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:38:08+00:00",
+      "title": "coronasafe/leaderboard#409",
+      "link": "https://github.com/coronasafe/leaderboard/pull/409#pullrequestreview-1969860228",
+      "text": "Scaling points for PRs based on size of the PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T08:26:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404#issuecomment-2027969556",
+      "text": "@skks1212 still same issue. 5 minutes past and still couldn't clone this repo... Did not even reach the install / build step.\r\n\r\n<img width=\"1492\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/296f71db-0caf-4fd3-aa1f-5a643f812e8d\">\r\n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#410",
+      "time": "2024-03-30T07:48:46+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/410",
+      "text": "Fixes issue with current level resolver for GA if not achieved",
+      "turnaround_time": 1700
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#410",
+      "time": "2024-03-30T07:20:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/410",
+      "text": "Fixes issue with current level resolver for GA if not achieved"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T03:44:03+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1969752844",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#398",
@@ -41069,19 +41196,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7469",
       "title": "Perform type checks during build and fix all errors",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "needs testing",
         "needs review",
         "P2",
-        "merge conflict",
+        "Deploy-Failed",
         "Major Code Change"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1966",
       "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
-      "stale_for": 2,
+      "stale_for": 1,
       "labels": [
         "P2"
       ]
@@ -41089,7 +41216,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7381",
       "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": [
         "needs testing",
         "needs review",
@@ -41099,7 +41226,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": [
         "merge conflict",
         "stale",

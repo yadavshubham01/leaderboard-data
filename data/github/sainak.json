@@ -1,6 +1,132 @@
 {
-  "last_updated": "2024-03-29T09:33:38+00:00",
+  "last_updated": "2024-03-30T09:02:55+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T09:02:55+00:00",
+      "title": "coronasafe/care#1938",
+      "link": "https://github.com/coronasafe/care/pull/1938#pullrequestreview-1969869724",
+      "text": "Add django filter for patient review missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T09:02:17+00:00",
+      "title": "coronasafe/care#1929",
+      "link": "https://github.com/coronasafe/care/pull/1929#pullrequestreview-1969869665",
+      "text": "Add age validation in PatientDetailSerializer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:38:04+00:00",
+      "title": "coronasafe/care#1938",
+      "link": "https://github.com/coronasafe/care/pull/1938#pullrequestreview-1969863112",
+      "text": "Add django filter for patient review missed"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:36:08+00:00",
+      "title": "coronasafe/care#1967",
+      "link": "https://github.com/coronasafe/care/pull/1967#pullrequestreview-1969861561",
+      "text": "Painscale changed from 0 - 5 to 0 - 10"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:29:16+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1969860059",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2024",
+      "time": "2024-03-30T08:26:59+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2024#issuecomment-2027969637",
+      "text": "@vigneshhari though the django-sms provides a standard wrapper for sms, the backend themselves have different names for settings, and some backends require client sdks to be installed\r\nalso I just noticed that django-sms has a 3BSD license"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:24:36+00:00",
+      "title": "coronasafe/care#2024",
+      "link": "https://github.com/coronasafe/care/pull/2024#pullrequestreview-1969854989",
+      "text": "add support for configurable sms backend"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:24:36+00:00",
+      "title": "coronasafe/care#2024",
+      "link": "https://github.com/coronasafe/care/pull/2024#pullrequestreview-1969854989",
+      "text": "add support for configurable sms backend"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:06:33+00:00",
+      "title": "coronasafe/care#2034",
+      "link": "https://github.com/coronasafe/care/pull/2034#pullrequestreview-1969854849",
+      "text": "test for various endpoints in the external_result module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:05:09+00:00",
+      "title": "coronasafe/care#1718",
+      "link": "https://github.com/coronasafe/care/pull/1718#pullrequestreview-1969854614",
+      "text": "Sort \"No Consultation Filed\" patients to the top of Patient List page "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:03:09+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1969854319",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:01:52+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1969853850",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:00:18+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1969853512",
+      "text": "Adds bulk import support for assets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:00:18+00:00",
+      "title": "coronasafe/care#1964",
+      "link": "https://github.com/coronasafe/care/pull/1964#pullrequestreview-1969853512",
+      "text": "Adds bulk import support for assets"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T07:52:49+00:00",
+      "title": "coronasafe/care#2035",
+      "link": "https://github.com/coronasafe/care/pull/2035#pullrequestreview-1969852691",
+      "text": "fix N+1 queries in /api/v1/resource/"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T07:43:12+00:00",
+      "title": "coronasafe/care#1912",
+      "link": "https://github.com/coronasafe/care/pull/1912#pullrequestreview-1969851662",
+      "text": "converted investigation and investigation group data into JSON"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T07:37:56+00:00",
+      "title": "coronasafe/care#1941",
+      "link": "https://github.com/coronasafe/care/pull/1941#pullrequestreview-1969849387",
+      "text": "Loading medibase and icd11 static json and migrations"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T07:37:56+00:00",
+      "title": "coronasafe/care#1941",
+      "link": "https://github.com/coronasafe/care/pull/1941#pullrequestreview-1969849387",
+      "text": "Loading medibase and icd11 static json and migrations"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#389",
@@ -11141,139 +11267,6 @@
       "text": "fix: sidebar on devices with small height"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care/pull/2000",
-      "title": "Make care single source of truth for asset config on middleware",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/citizen/pull/44",
-      "title": "Quick changes to get the app running again",
-      "stale_for": 12,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
-      "title": "add ability to fetch config from care",
-      "stale_for": 29,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/6457",
-      "title": "add support for webrtc stream",
-      "stale_for": 124,
-      "labels": [
-        "blocked",
-        "changes required",
-        "merge conflict",
-        "cypress failed"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1579",
-      "title": "refactor all files as per ruff rules",
-      "stale_for": 16,
-      "labels": [
-        "In progress"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1559",
-      "title": "feat: use ruff",
-      "stale_for": 16,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/medibase/pull/7",
-      "title": "Update dependencies",
-      "stale_for": 253,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1349",
-      "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 16,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1883",
-      "pr_link": "https://github.com/coronasafe/care/pull/1888"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1702",
-      "pr_link": "https://github.com/coronasafe/care/pull/1703"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6500",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6501"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1681",
-      "pr_link": "https://github.com/coronasafe/care/pull/1682"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1658",
-      "pr_link": "https://github.com/coronasafe/care/pull/1788"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1645",
-      "pr_link": "https://github.com/coronasafe/care/pull/1646"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1627",
-      "pr_link": "https://github.com/coronasafe/care/pull/1628"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1610",
-      "pr_link": "https://github.com/coronasafe/care/pull/1611"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1594",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1593",
-      "pr_link": "https://github.com/coronasafe/care/pull/1591"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6131",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care/pull/1546"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1542",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6132"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6086",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6087"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/zoomdrive/issues/2",
-      "pr_link": "https://github.com/coronasafe/zoomdrive/pull/4"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1419",
-      "pr_link": "https://github.com/coronasafe/care/pull/1420"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1417",
-      "pr_link": "https://github.com/coronasafe/care/pull/1418"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5783",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5800"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1351",
-      "pr_link": "https://github.com/coronasafe/care/pull/1371"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

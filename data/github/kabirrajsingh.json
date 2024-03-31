@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-27T06:58:35+00:00",
+  "last_updated": "2024-03-30T08:18:55+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/citizen#43",
+      "time": "2024-03-30T08:18:55+00:00",
+      "link": "https://github.com/coronasafe/citizen/issues/43#issuecomment-2027967058",
+      "text": "Hi @khavinshankar . Regarding fetching the medical records part and the booking a slot for OP consultation, \r\n1.do we also need to include the medical records from Care Backend (basically things included in https://care.coronasafe.in/facility/{facilityID}/patient/{patientId}/files or just the user records uploaded to ABDM (https://sandbox.abdm.gov.in/abdm-docs/UploadingUserRecord) ?\r\n2. For booking a slot for OP Consultation, should this be a seperate module (like booking consultations within the ABDM environment between the PHR and health facility) or should this also be connected to the care backend, like displaying the OPD consultations as well in the patients tab, since the current consultation module mostly focuses on the in patient daily rounds consultation. \r\n3. Given a consultation record needs to be made between the PHR and health facility, do we need to simply put it through the queue or do we also need to integrate it with the Generic Scheduling System (https://github.com/coronasafe/care_fe/issues/7424)"
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7480",
@@ -65,21 +72,6 @@
       "text": "Multiple issues with validateFileUpload function in src/patient/fileUpload.ts"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7480",
-      "title": "fixes \"Set average weekly working hour\" button in user tab is not responsive Fixes #7309",
-      "stale_for": 0,
-      "labels": [
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7462",
-      "title": "Fixes #7458",
-      "stale_for": 4,
-      "labels": []
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

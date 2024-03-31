@@ -1,6 +1,83 @@
 {
-  "last_updated": "2024-03-28T20:20:32+00:00",
+  "last_updated": "2024-03-30T08:20:55+00:00",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#413",
+      "time": "2024-03-30T08:20:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/413",
+      "text": "We should have an option to make the pages optional;"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#412",
+      "time": "2024-03-30T08:19:19+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/412",
+      "text": "Lets skill the scroll for activity"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#411",
+      "time": "2024-03-30T08:17:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/411",
+      "text": "Footer doesn't respect the theme."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T08:05:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404#issuecomment-2027962341",
+      "text": "@skks1212 let get the deploy working?"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#399",
+      "time": "2024-03-30T08:04:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/399",
+      "text": "Remove Beta Header from Contrbutor's Page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T08:04:31+00:00",
+      "title": "coronasafe/leaderboard#401",
+      "link": "https://github.com/coronasafe/leaderboard/pull/401#pullrequestreview-1969854500",
+      "text": "remove beta header"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#390",
+      "time": "2024-03-30T07:59:00+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/390#issuecomment-2027959785",
+      "text": "@HARSHDOIPHODE \r\n\r\n<img width=\"1215\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/14979190/d5250284-f117-410e-8c52-8ab88a3af97c\">\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-03-30T07:56:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#issuecomment-2027959352",
+      "text": "@kshitijv256 The design looks good; Lets ship it out"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-03-30T07:55:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379#issuecomment-2027959103",
+      "text": "@Samuel-Aktar-Laskar, Nice work, lets get this merged!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-30T07:54:26+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2027958608",
+      "text": "It would be nice to show a search animation when we start the network request, currently its hard to notice when the search starts;"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-30T07:48:35+00:00",
+      "title": "coronasafe/leaderboard#410",
+      "link": "https://github.com/coronasafe/leaderboard/pull/410#pullrequestreview-1969852276",
+      "text": "Fixes issue with current level resolver for GA if not achieved"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#405",

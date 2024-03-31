@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-03-28T16:56:32+00:00",
+  "last_updated": "2024-03-30T10:18:02+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T10:18:02+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404",
+      "text": "Updated symlinks, added scripts, updated readme",
+      "turnaround_time": 85823
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#404",
+      "time": "2024-03-30T09:59:49+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/404#issuecomment-2027997558",
+      "text": "@bodhish @rithviknishad ready to review"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7489",
@@ -7302,21 +7317,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/404",
-      "title": "Updated symlinks, added scripts, updated readme",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1967",
       "title": "Painscale changed from 0 - 5 to 0 - 10",
-      "stale_for": 10,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7380",
       "title": "Updated Preview UIs and Changes to Painscale",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "waiting for backend",
         "merge conflict",

@@ -1,6 +1,25 @@
 {
-  "last_updated": "2024-03-12T13:09:43+00:00",
+  "last_updated": "2024-03-30T07:20:57+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/metabase_manager#15",
+      "time": "2024-03-30T07:20:57+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/15",
+      "text": "Sync Log",
+      "turnaround_time": 11552
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/metabase_manager#15",
+      "time": "2024-03-30T07:20:57+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/15",
+      "text": "Sync Log",
+      "collaborated_with": [
+        "Ashesh3",
+        "Neil Chowdhary"
+      ]
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/metabase_manager#13",

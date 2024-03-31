@@ -1,6 +1,42 @@
 {
-  "last_updated": "2024-03-25T14:31:11+00:00",
+  "last_updated": "2024-03-30T09:27:33+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:27:33+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027989938",
+      "text": "> > and i also run build locally and it is run perfectly fine with my changes\n> \n> Are you sure it's working locally? Not sure if I'm doing something wrong... I did checkout the data-repo to the one you've made and tried running this branch with it and getting the following errors upon visiting the profile of a contributor. Also getting 404 page not found for all contributors.\n> \n> <img width=\"3120\" alt=\"image\" src=\"https://github.com/coronasafe/leaderboard/assets/25143503/fd96d75d-18d2-4a16-b026-5234e8bef9ec\">\n> \n> \n\nSure, I will look out in the evening after exam "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#33",
+      "time": "2024-03-30T09:13:06+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/33#issuecomment-2027985529",
+      "text": "> Can we preserve the `logo.webp` too for sometime? Once the related leaderboard PR gets deployed correct, we can create a separate PR to remove `logo.webp`.\n\nYa, sure"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:08:01+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027984358",
+      "text": "> > @dgparmar14 I assume whats happening is it is getting pre-rendered and so those files wouldn't be served until the build is completed and output is served right?\n> > \n> > Have you tried importing the font from `next/fonts` instead? We could also disable pre-renders for this maybe.\n> \n> Yes I tried but it doesn't work at the edge time\n> And above error is because of first need to merge pr of data repo.\n> and i also run build locally and it is run perfectly fine with my changes. \n\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#396",
+      "time": "2024-03-30T09:05:11+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/396#issuecomment-2027983539",
+      "text": "> @dgparmar14 I assume whats happening is it is getting pre-rendered and so those files wouldn't be served until the build is completed and output is served right?\n> \n> Have you tried importing the font from `next/fonts` instead? We could also disable pre-renders for this maybe.\n\nYes I tried but it doesn't work at the edge time\nAnd above error is because of first need to merge pr of data repo."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#401",
+      "time": "2024-03-30T08:04:36+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/401",
+      "text": "remove beta header",
+      "turnaround_time": 2362
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#373",
@@ -1347,6 +1383,50 @@
       "text": "I want take this task ."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/402",
+      "title": "extra scrollbar removed from cotributor's profile",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/33",
+      "title": "logo.webp to logo.jpg",
+      "stale_for": 1,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/396",
+      "title": "Added contrbutors OG image using genratemetadata",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/399",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/401"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/292",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/314"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/246",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/273"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/237",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/241"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/234",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/236"
+    }
+  ]
 }
