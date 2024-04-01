@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-30T19:53:26+00:00",
+  "last_updated": "2024-03-31T21:44:45+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7321",
+      "time": "2024-03-31T21:44:45+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7321#issuecomment-2028912546",
+      "text": "@rithviknishad can you please review the latest commit as all the requested change are migrated in the latest commit.\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2003",
+      "time": "2024-03-31T21:34:51+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003#issuecomment-2028910656",
+      "text": "@rithviknishad I guess this issue is resolved for the Satging application too as I am unable to reproduce it. Can you please check??\r\n![image](https://github.com/coronasafe/care/assets/37205949/0ea579b5-9aea-490e-b9a5-b1441cbc16a0)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1838",

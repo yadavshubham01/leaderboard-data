@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-03-30T08:18:55+00:00",
+  "last_updated": "2024-03-31T17:23:50+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T17:23:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028832884",
+      "text": "@Sulochan-khadka it is actually a restriction on the basis of District, I raised the issue in the last standup. A district admin can only use the action buttons in his own district, which in this case is Thiruvananthapuram. When you try to use it on user from another district, it would throw an error. We can work on this together but the issue needs discussion first as to which approach would be the best to solve it."
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T16:50:15+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500",
+      "text": "Refactoring the access of a district admin in respect to list of users"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/citizen#43",
@@ -72,6 +86,21 @@
       "text": "Multiple issues with validateFileUpload function in src/patient/fileUpload.ts"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7480",
+      "title": "fixes \"Set average weekly working hour\" button in user tab is not responsive Fixes #7309",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7462",
+      "title": "Fixes #7458",
+      "stale_for": 3,
+      "labels": [
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

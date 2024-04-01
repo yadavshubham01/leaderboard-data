@@ -1,6 +1,21 @@
 {
-  "last_updated": "2024-03-30T09:27:33+00:00",
+  "last_updated": "2024-03-31T14:38:12+00:00",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#402",
+      "time": "2024-03-31T14:38:12+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/402",
+      "text": "extra scrollbar removed from cotributor's profile",
+      "turnaround_time": 25961
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#402",
+      "time": "2024-03-31T12:40:52+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/402#issuecomment-2028703326",
+      "text": "@rithviknishad Let's merge this.\r\n"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#396",
@@ -1385,14 +1400,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/402",
-      "title": "extra scrollbar removed from cotributor's profile",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/leaderboard-data/pull/33",
       "title": "logo.webp to logo.jpg",
       "stale_for": 1,
@@ -1408,6 +1415,10 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/400",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/402"
+    },
     {
       "issue_link": "https://github.com/coronasafe/leaderboard/issues/399",
       "pr_link": "https://github.com/coronasafe/leaderboard/pull/401"

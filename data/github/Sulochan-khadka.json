@@ -1,6 +1,69 @@
 {
-  "last_updated": "2024-03-30T11:28:17+00:00",
+  "last_updated": "2024-03-31T22:00:50+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-31T22:00:50+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2028919686",
+      "text": "> > Dear @Shahbaz898414 , kindly do not halt the solution to this issue. If you are stuck somewhere, let me know if I can help. Also if you want , I can give you the idea or rather the initial approach to solve this issue.\r\n> \r\n> I apologize for the delay. Please grant me some additional time to work on this.\r\n\r\nSure... No issues . Just let me know if you get stuck somewhere."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7382",
+      "time": "2024-03-31T19:32:25+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7382#issuecomment-2028884495",
+      "text": "Dear @Shahbaz898414 , kindly do not halt the solution to this issue. If you are stuck somewhere, let me know if I can help. Also if you want , I can give you the idea or rather the initial approach to solve this issue."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T19:01:56+00:00",
+      "title": "coronasafe/care_fe#7494",
+      "link": "https://github.com/coronasafe/care_fe/pull/7494#pullrequestreview-1970392147",
+      "text": "\"Solved facility linking issue under manage facilities/view users\"#7474"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7501",
+      "time": "2024-03-31T18:02:26+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7501#issuecomment-2028846649",
+      "text": "@rithviknishad Kindly review the bug if it is previously addressed and if not, then review the PR. Thankyou."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T18:01:28+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028846374",
+      "text": "@kabirrajsingh Yeah I guess this issue will be addressed once it comes to the attention of the contributors."
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7502",
+      "time": "2024-03-31T17:58:49+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7501",
+      "time": "2024-03-31T17:55:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7501",
+      "text": "No Information if list is empty."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T17:17:07+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028830189",
+      "text": "@kabirrajsingh if your PR solves multiple issues, then I guess you should go ahead with my issue as well... But first get the conformation ."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7500",
+      "time": "2024-03-31T17:08:06+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7500#issuecomment-2028825702",
+      "text": "Actually I as well encountered the issue, but am not sure whether this is an actual issue or some role-based feature.\r\nIt would be better if @rithviknishad confirm this..."
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7497",
@@ -221,15 +284,21 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "title": "Issues/7501/empty list",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7496",
       "title": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7494",
       "title": "\"Solved facility linking issue under manage facilities/view users\"#7474",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
         "changes required"
       ]

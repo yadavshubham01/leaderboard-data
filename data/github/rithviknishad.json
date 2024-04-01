@@ -1,6 +1,62 @@
 {
-  "last_updated": "2024-03-30T17:06:40+00:00",
+  "last_updated": "2024-03-31T14:52:54+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T14:52:54+00:00",
+      "title": "coronasafe/care_fe#7359",
+      "link": "https://github.com/coronasafe/care_fe/pull/7359#pullrequestreview-1970300436",
+      "text": "Handle no option available case when local body returns empty response "
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#408",
+      "time": "2024-03-31T14:48:28+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/408",
+      "text": "Readme Update"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T14:48:10+00:00",
+      "title": "coronasafe/leaderboard#414",
+      "link": "https://github.com/coronasafe/leaderboard/pull/414#pullrequestreview-1970298542",
+      "text": "Updated README.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#294",
+      "time": "2024-03-31T14:42:55+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/294",
+      "text": "Support for custom date range filter in Contributor Activity"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T14:42:41+00:00",
+      "title": "coronasafe/leaderboard#388",
+      "link": "https://github.com/coronasafe/leaderboard/pull/388#pullrequestreview-1970296710",
+      "text": "Custom date range filter implemented in Contributor Activity (#294)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#400",
+      "time": "2024-03-31T14:38:12+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/400",
+      "text": "Remove extra scroll bar from Contributor's profile page. "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T14:36:24+00:00",
+      "title": "coronasafe/leaderboard#402",
+      "link": "https://github.com/coronasafe/leaderboard/pull/402#pullrequestreview-1970293973",
+      "text": "extra scrollbar removed from cotributor's profile"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-31T04:05:06+00:00",
+      "title": "coronasafe/care#1996",
+      "link": "https://github.com/coronasafe/care/pull/1996#pullrequestreview-1970091999",
+      "text": "Soft delete assets from deleted facilities/hospitals"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-30T17:06:40+00:00",
@@ -41226,7 +41282,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": [
         "merge conflict",
         "stale",

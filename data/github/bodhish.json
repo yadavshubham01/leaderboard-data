@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-30T08:20:55+00:00",
+  "last_updated": "2024-03-31T08:58:59+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-03-31T08:58:59+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2028607531",
+      "text": "The UI should show search happening "
+    },
     {
       "type": "issue_opened",
       "title": "coronasafe/leaderboard#413",
