@@ -1,6 +1,308 @@
 {
-  "last_updated": "2024-03-31T14:52:54+00:00",
+  "last_updated": "2024-04-01T17:51:47+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2042",
+      "time": "2024-04-01T17:51:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2042",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "skks1212",
+        "vigneshhari",
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2041",
+      "time": "2024-04-01T17:51:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2041",
+      "text": "Staging release for v24.14.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "skks1212",
+        "vigneshhari",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-01T09:53:19+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2029504401",
+      "text": "@NNSiri the \"Feed\" tab/button is hidden for any of the following reasons as of today:\r\n\r\n- No bed assigned to the patient\r\n- No camera is attached/configured to the patient's bed.\r\n- The consultation has ended (discharged).\r\n- User is not one of the following: \"District Admin\", \"State Admin\", \"Doctor\"\r\n\r\n@NNSiri could you also specify which user type this bug is present for? The screenshots attached above does not confirm if both are same users.\r\n\r\n@gigincg read-only users of the above mentioned users also does not have access to the camera feed from consultation dashboard. Should we allow for read only user types?\r\n\r\n\r\n<img width=\"810\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/9fd1ad8e-a0a0-4707-b2e8-92dca6869728\">\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T09:40:15+00:00",
+      "title": "coronasafe/care_fe#7508",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508#pullrequestreview-1970989716",
+      "text": "Upgrade to node v20"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T09:39:44+00:00",
+      "title": "coronasafe/care_fe#7508",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508#pullrequestreview-1970989129",
+      "text": "Upgrade to node v20"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7473",
+      "time": "2024-04-01T08:30:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7473#issuecomment-2029400645",
+      "text": "Solved in #7469, it was a minor type error so had to fix it in that PR itself.\r\nFeel free to checkout other open issues."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T08:28:42+00:00",
+      "title": "coronasafe/leaderboard#418",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#pullrequestreview-1970893801",
+      "text": "enable/disable features from env variables"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T08:28:42+00:00",
+      "title": "coronasafe/leaderboard#418",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#pullrequestreview-1970893801",
+      "text": "enable/disable features from env variables"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7508",
+      "time": "2024-04-01T08:23:43+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508#issuecomment-2029389303",
+      "text": "Lint checks have been fixed in https://github.com/coronasafe/care_fe/pull/7469"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7508",
+      "time": "2024-04-01T08:19:05+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508",
+      "text": "Upgrade to node v20"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#418",
+      "time": "2024-04-01T07:21:34+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#issuecomment-2029299616",
+      "text": "> I have considered the env variable as a string with features separated with a ', ', Is that a good practice to do so?\r\n\r\nIt should be fine for now. We can refactor it later if we encounter an issue with this approach.\r\n\r\n> And should I also add checks for the leaderboard and other routes as well?\r\nThe leaderboard is always going to be present since all orgs would have some activity where the leaderboard would have data. Let's not disable it...\r\nWe can now have flags for routes like \"projects\" and \"releases\" for now.\r\n\r\ncc: @bodhish "
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T07:16:31+00:00",
+      "title": "coronasafe/leaderboard#418",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#pullrequestreview-1970789668",
+      "text": "enable/disable features from env variables"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7507",
+      "time": "2024-04-01T05:35:00+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7507",
+      "text": "Switch to pnpm with corepack instead of npm"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7506",
+      "time": "2024-04-01T05:33:30+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7506",
+      "text": "Upgrade care to node v20"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care_fe#7505",
+      "time": "2024-04-01T04:54:51+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7505",
+      "text": "Replace `react-qr-scanner` package"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard-data#33",
+      "time": "2024-04-01T03:35:41+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/33#issuecomment-2029101621",
+      "text": "not really. If both are present, it wouldn't cause any issues to existing deployments or current deployments"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard-data#10",
+      "time": "2024-04-01T03:34:56+00:00",
+      "link": "https://github.com/coronasafe/leaderboard-data/issues/10",
+      "text": "Create Readme"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T03:34:49+00:00",
+      "title": "coronasafe/leaderboard-data#32",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32#pullrequestreview-1970613154",
+      "text": "add: Readme.md File"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/leaderboard#417",
+      "time": "2024-04-01T03:32:11+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/417",
+      "text": "Incorrect week summary in leaderboard"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#387",
+      "time": "2024-04-01T03:21:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/387#issuecomment-2029091672",
+      "text": "@kshitijv256 could you resolve the merge conflicts?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#390",
+      "time": "2024-04-01T03:20:44+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/390#issuecomment-2029091048",
+      "text": "@HARSHDOIPHODE could you clear the merge conflicts?"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T03:19:48+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1970606285",
+      "text": "feat: added blur placeholder for TopContributor and ContributorImage"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#378",
+      "time": "2024-04-01T03:17:22+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/378",
+      "text": "Multiple UI Issues/Improvements"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#379",
+      "time": "2024-04-01T03:17:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/379",
+      "text": "Nav bar item highlight feature added | issue #378",
+      "collaborated_with": [
+        "Samuel-Aktar-Laskar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#279",
+      "time": "2024-04-01T03:13:21+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/279#issuecomment-2029085116",
+      "text": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-2029084679"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#279",
+      "time": "2024-04-01T03:13:20+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/279",
+      "text": "Enhance Scrollbar Design for Improved User Experience"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#305",
+      "time": "2024-04-01T03:12:45+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/305#issuecomment-2029084679",
+      "text": "@Lobi29 closing as stale + conflicts + not a requirement. Let's keep the design minimal and consistent across all browsers.\r\n\r\nFeel free to re-open once if we can do this for all browsers consistently."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T02:58:42+00:00",
+      "title": "coronasafe/leaderboard#416",
+      "link": "https://github.com/coronasafe/leaderboard/pull/416#pullrequestreview-1970587091",
+      "text": "implement lazy load"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T02:56:11+00:00",
+      "title": "coronasafe/leaderboard-data#32",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/32#pullrequestreview-1970585863",
+      "text": "add: Readme.md File"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/leaderboard#333",
+      "time": "2024-04-01T02:55:04+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/333",
+      "text": "Adding search bar to `/people` and popover on hover to show contributor details"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T02:53:19+00:00",
+      "title": "coronasafe/leaderboard#374",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#pullrequestreview-1970584506",
+      "text": " Adds support for searching in /people page and show short info about user"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T02:50:36+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1970581051",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T02:50:36+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1970581051",
+      "text": "Issues/7501/empty list"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2003",
+      "time": "2024-04-01T02:30:54+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003#issuecomment-2029052018",
+      "text": "@ab1123 unassigning as should be solved by #1941\r\n\r\ncc: @sainak "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#2003",
+      "time": "2024-04-01T02:21:08+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2003#issuecomment-2029044816",
+      "text": "@nihal467 Although the initial issue has been fixed by manually updating the search index, the reason for the occurrence of this issue has not been fixed yet. \r\n\r\n\r\nTo reproduce: \r\n\r\n- Load search index from one db\r\n- Load search index from another db (this DB would have different external ID's)"
+    },
     {
       "type": "pr_reviewed",
       "time": "2024-03-31T14:52:54+00:00",
@@ -41250,21 +41552,29 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/care_fe/pull/7508",
+      "title": "Upgrade to node v20",
+      "stale_for": 0,
+      "labels": [
+        "needs review"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7469",
       "title": "Perform type checks during build and fix all errors",
-      "stale_for": 1,
+      "stale_for": 0,
       "labels": [
+        "urgent",
         "needs testing",
         "needs review",
-        "P2",
-        "Deploy-Failed",
+        "P1",
         "Major Code Change"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1966",
       "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "P2"
       ]
@@ -41272,7 +41582,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7381",
       "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "needs testing",
         "needs review",
@@ -41282,7 +41592,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": [
         "merge conflict",
         "stale",

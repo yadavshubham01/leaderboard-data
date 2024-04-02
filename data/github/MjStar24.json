@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-31T19:13:54+00:00",
+  "last_updated": "2024-04-01T14:56:12+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7504",
+      "time": "2024-04-01T14:56:12+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7504#issuecomment-2029890907",
+      "text": "I wasn't aware of the procedure. My apologies for the oversight, @nihal467."
+    },
     {
       "type": "pr_opened",
       "title": "coronasafe/care_fe#7504",
@@ -158,21 +165,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7504",
-      "title": "cypress tests for patient details page",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
       "link": "https://github.com/coronasafe/care_fe/pull/7492",
       "title": "create asset css fix",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7440",
       "title": "Show more CNS monitors on large displays",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "needs testing",
         "needs review"

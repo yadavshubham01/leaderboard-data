@@ -1,6 +1,74 @@
 {
-  "last_updated": "2024-03-30T10:18:02+00:00",
+  "last_updated": "2024-04-01T17:51:47+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2042",
+      "time": "2024-04-01T17:51:47+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2042",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "vigneshhari",
+        "rithviknishad",
+        "gigincg",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2041",
+      "time": "2024-04-01T17:51:04+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2041",
+      "text": "Staging release for v24.14.0",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "vigneshhari",
+        "rithviknishad",
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/leaderboard#404",
@@ -7319,13 +7387,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1967",
       "title": "Painscale changed from 0 - 5 to 0 - 10",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7380",
       "title": "Updated Preview UIs and Changes to Painscale",
-      "stale_for": 3,
+      "stale_for": 0,
       "labels": [
         "waiting for backend",
         "merge conflict",

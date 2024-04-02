@@ -1,6 +1,47 @@
 {
-  "last_updated": "2024-03-28T05:10:54+00:00",
+  "last_updated": "2024-04-01T17:04:41+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7485",
@@ -858,6 +899,30 @@
       "text": "You can assign this issue to me."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/6993",
+      "title": "Collect postpartum data",
+      "stale_for": 16,
+      "labels": [
+        "changes required",
+        "work-in-progress",
+        "merge conflict"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7270",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7275"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6879",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6880"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/6805",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/6806"
+    }
+  ]
 }

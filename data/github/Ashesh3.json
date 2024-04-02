@@ -1,6 +1,125 @@
 {
-  "last_updated": "2024-03-31T15:20:57+00:00",
+  "last_updated": "2024-04-01T18:48:04+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#6917",
+      "time": "2024-04-01T18:48:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/6917#issuecomment-2030345078",
+      "text": "> @Ashesh3 is this UI okay if yes i will start working on the logic\r\n> \r\n> ![image](https://private-user-images.githubusercontent.com/98876115/318534307-4c56916b-5a36-48d2-891d-e5c395654d0f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE5OTc1MzEsIm5iZiI6MTcxMTk5NzIzMSwicGF0aCI6Ii85ODg3NjExNS8zMTg1MzQzMDctNGM1NjkxNmItNWEzNi00OGQyLTg5MWQtZTVjMzk1NjU0ZDBmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAxVDE4NDcxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1NmUxYzk2Y2VmYTEwYmE1NTQyMmI2OWY4MWI1NzY4MTk5MmI0OTJiNmMyZTM4ZTU4ZTUyODc0MmMwYjhkNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iBImx_BBuVrOoy15l9dgrdUIL7KCwvN9UOOsGQRKOx4)\r\n\r\nThis looks good to me! Let's confirm this in tomorrow's EOD call once to finalize it before you start working on it."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T14:03:44+00:00",
+      "title": "coronasafe/care_fe#7508",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508#pullrequestreview-1971328335",
+      "text": "Upgrade to node v20"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7515",
+      "time": "2024-04-01T11:36:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515",
+      "text": "Fix invalid page title while rendering consent form",
+      "turnaround_time": 4886
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7515",
+      "time": "2024-04-01T11:36:34+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515",
+      "text": "Fix invalid page title while rendering consent form",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7514",
+      "time": "2024-04-01T11:36:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514",
+      "text": "Fix invalid page title while rendering consent form",
+      "turnaround_time": 5053
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7514",
+      "time": "2024-04-01T11:36:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514",
+      "text": "Fix invalid page title while rendering consent form",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7515",
+      "time": "2024-04-01T10:15:08+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515",
+      "text": "Fix invalid page title while rendering consent form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7514",
+      "time": "2024-04-01T10:12:04+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514",
+      "text": "Fix invalid page title while rendering consent form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T09:11:59+00:00",
+      "title": "coronasafe/ayushma#497",
+      "link": "https://github.com/coronasafe/ayushma/pull/497#pullrequestreview-1970956979",
+      "text": "fix: Adds Linter CI and maintains formatting across codebase"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T06:46:50+00:00",
+      "title": "coronasafe/care_fe#7469",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469#pullrequestreview-1970753751",
+      "text": "Perform type checks during build and fix all errors"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma#491",
@@ -18652,13 +18771,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2020",
       "title": "Implement Voice-Enabled Form Filling Feature in Care with Care Scribe",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7481",
       "title": "Integrate Voice-Enabled Form Filling with Care Scribe in Care Frontend",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "urgent",
         "tested",
@@ -18669,7 +18788,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1903",
       "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "waiting-for-review"
       ]
@@ -18677,7 +18796,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1657",
       "title": "POC: AI discharge summary",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "POC"
       ]
@@ -18685,7 +18804,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5147",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 362,
+      "stale_for": 363,
       "labels": [
         "work-in-progress",
         "merge conflict"
@@ -18694,7 +18813,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1227",
       "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     }
   ],

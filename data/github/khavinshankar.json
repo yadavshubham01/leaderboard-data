@@ -1,6 +1,39 @@
 {
-  "last_updated": "2024-03-28T16:56:32+00:00",
+  "last_updated": "2024-04-01T17:04:41+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "rash-27",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T11:36:25+00:00",
+      "title": "coronasafe/care_fe#7515",
+      "link": "https://github.com/coronasafe/care_fe/pull/7515#pullrequestreview-1971118220",
+      "text": "Fix invalid page title while rendering consent form"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-01T11:36:03+00:00",
+      "title": "coronasafe/care_fe#7514",
+      "link": "https://github.com/coronasafe/care_fe/pull/7514#pullrequestreview-1971117868",
+      "text": "Fix invalid page title while rendering consent form"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7489",
@@ -28552,7 +28585,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7414",
       "title": "Camera feed enhancement",
-      "stale_for": 1,
+      "stale_for": 5,
       "labels": [
         "do not merge",
         "merge conflict",
@@ -28562,7 +28595,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7193",
       "title": "ABDM M3",
-      "stale_for": 6,
+      "stale_for": 10,
       "labels": [
         "merge conflict",
         "ABDM"
@@ -28571,13 +28604,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1829",
       "title": "ABDM M3",
-      "stale_for": 15,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1229",
       "title": "Hcx Refactors",
-      "stale_for": 10,
+      "stale_for": 14,
       "labels": [
         "waiting-for-review"
       ]
@@ -28585,19 +28618,19 @@
     {
       "link": "https://github.com/coronasafe/care_fe_hcx/pull/3",
       "title": "Hcx/eligibility check workflow",
-      "stale_for": 123,
+      "stale_for": 127,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/62",
       "title": "Added an endpoint to get the time of the last request in observation",
-      "stale_for": 475,
+      "stale_for": 479,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1093",
       "title": "Added is_occupied field in Bed",
-      "stale_for": 15,
+      "stale_for": 19,
       "labels": [
         "changes required"
       ]
@@ -28605,25 +28638,25 @@
     {
       "link": "https://github.com/coronasafe/arike/pull/143",
       "title": "added browser confirmation for uncheduling in Agenda",
-      "stale_for": 832,
+      "stale_for": 836,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/141",
       "title": "Added search bar in Patients",
-      "stale_for": 838,
+      "stale_for": 842,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/arike/pull/140",
       "title": "Refactored Patients from ruby-html to rescript-react",
-      "stale_for": 839,
+      "stale_for": 843,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/life/pull/306",
       "title": "filtered duplicate tweets",
-      "stale_for": 1034,
+      "stale_for": 1038,
       "labels": []
     }
   ],

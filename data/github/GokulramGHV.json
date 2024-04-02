@@ -1,6 +1,28 @@
 {
-  "last_updated": "2024-03-28T05:10:48+00:00",
+  "last_updated": "2024-04-01T17:04:28+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "rash-27",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2025",
@@ -2982,13 +3004,13 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1742",
       "title": "Display users list based on user access limitation",
-      "stale_for": 15,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6656",
       "title": "Remove default ordering value",
-      "stale_for": 65,
+      "stale_for": 69,
       "labels": [
         "tested",
         "waiting for backend",
@@ -2998,10 +3020,8 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1718",
       "title": "Sort \"No Consultation Filed\" patients to the top of Patient List page ",
-      "stale_for": 1,
-      "labels": [
-        "waiting-for-review"
-      ]
+      "stale_for": 2,
+      "labels": []
     }
   ],
   "authored_issue_and_pr": [

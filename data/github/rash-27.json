@@ -1,6 +1,90 @@
 {
-  "last_updated": "2024-03-31T21:53:45+00:00",
+  "last_updated": "2024-04-01T17:04:41+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7518",
+      "time": "2024-04-01T17:04:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7518",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "thedevildude",
+        "soumya-maheshwari",
+        "Omkar76",
+        "gigincg",
+        "Pranshu1902",
+        "hrit2773",
+        "khavinshankar",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#2038",
+      "time": "2024-04-01T17:04:28+00:00",
+      "link": "https://github.com/coronasafe/care/pull/2038",
+      "text": "Production release v24.14.0 | April week 1",
+      "collaborated_with": [
+        "GokulramGHV",
+        "AshrafMd-1",
+        "krassowska",
+        "itxsoumya",
+        "vigneshhari",
+        "Omkar76",
+        "gigincg",
+        "sainak",
+        "AnkurPrabhu",
+        "aeswibon",
+        "skks1212",
+        "rithviknishad",
+        "Ashesh3"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#418",
+      "time": "2024-04-01T07:21:38+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#issuecomment-2029299691",
+      "text": "Yes , I'll update it "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#418",
+      "time": "2024-04-01T05:24:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418#issuecomment-2029181064",
+      "text": "@rithviknishad here, I have considered the env variable as a string with features separated with a ', '. And should I also add checks for leader board and other routes as well ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#418",
+      "time": "2024-04-01T05:21:34+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/418",
+      "text": "enable/disable features from env variables"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#2037",
+      "time": "2024-04-01T04:43:18+00:00",
+      "link": "https://github.com/coronasafe/care/issues/2037",
+      "text": "Sending a notification to patient via SMS about their appointments"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-04-01T02:56:42+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374#issuecomment-2029072934",
+      "text": "Ok , we can link this issue with the color of the footer during the theme change."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#374",
+      "time": "2024-04-01T02:55:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/374",
+      "text": " Adds support for searching in /people page and show short info about user",
+      "turnaround_time": 71884
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#413",
@@ -807,9 +891,17 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/418",
+      "title": "enable/disable features from env variables",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    },
+    {
       "link": "https://github.com/coronasafe/care_fe/pull/7411",
       "title": "Add Age field in patient registration",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "Backend",
         "tested",
@@ -818,17 +910,9 @@
       ]
     },
     {
-      "link": "https://github.com/coronasafe/leaderboard/pull/374",
-      "title": " Adds support for searching in /people page and show short info about user",
-      "stale_for": 0,
-      "labels": [
-        "changes required"
-      ]
-    },
-    {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     }
   ],
