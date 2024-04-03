@@ -319,7 +319,7 @@
       "title": "coronasafe/care_fe#7295",
       "time": "2024-02-29T12:20:12.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7295#issuecomment-1971021375",
-      "text": "> Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes.\r\n> <img alt=\"Screenshot 2024-02-29 at 3 05 53\u202fPM\" width=\"954\" src=\"https://private-user-images.githubusercontent.com/98007961/308872460-28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NjAtMjhmYjZmZmEtMzQ0YS00YmE2LTgyZGQtZWQ3M2VlYTFkYzlmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MzVmMmE4OGNmMmQ2Yzc0ZjlkMTljNzNmMjk5MDY0ZDdhNDg3ZmQ2MzgwNGU1ODIwMTc3MDNmMjlmNDY5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mTbIiLKb3CAokjwLj2zGGrX9s2C6BedeWtTxaBDuRvM\"> <img alt=\"Screenshot 2024-02-29 at 3 06 30\u202fPM\" width=\"1141\" src=\"https://private-user-images.githubusercontent.com/98007961/308872476-0ccc7546-9cfb-446d-ab0f-d21449320fa3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NzYtMGNjYzc1NDYtOWNmYi00NDZkLWFiMGYtZDIxNDQ5MzIwZmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNDc0Y2M0MDMzZDdkNjlhZmMwZWI1YTg5OTE1YzNmOTg2YWY1Y2RiZWZkMzgwMTIwMDA0ODk3ODQwOWEzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XoQosSAP_W8-u_jhHkmQFL4EPB9WUeaIr4dcp0ofCSw\">\r\n\r\nYou can use makemigrations utility from django. \r\nRead this: https://docs.djangoproject.com/en/5.0/topics/migrations/"
+      "text": "> Hi @aeswibon i have done changes in the frontend and its working fine, for the backend migrations I have made changes in facility.py model you can see in the figure, is it ok, how can I make migrations out of these changes.\r\n> <img alt=\"Screenshot 2024-02-29 at 3 05 53 PM\" width=\"954\" src=\"https://private-user-images.githubusercontent.com/98007961/308872460-28fb6ffa-344a-4ba6-82dd-ed73eea1dc9f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NjAtMjhmYjZmZmEtMzQ0YS00YmE2LTgyZGQtZWQ3M2VlYTFkYzlmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MzVmMmE4OGNmMmQ2Yzc0ZjlkMTljNzNmMjk5MDY0ZDdhNDg3ZmQ2MzgwNGU1ODIwMTc3MDNmMjlmNDY5OGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mTbIiLKb3CAokjwLj2zGGrX9s2C6BedeWtTxaBDuRvM\"> <img alt=\"Screenshot 2024-02-29 at 3 06 30 PM\" width=\"1141\" src=\"https://private-user-images.githubusercontent.com/98007961/308872476-0ccc7546-9cfb-446d-ab0f-d21449320fa3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkyMDkzOTMsIm5iZiI6MTcwOTIwOTA5MywicGF0aCI6Ii85ODAwNzk2MS8zMDg4NzI0NzYtMGNjYzc1NDYtOWNmYi00NDZkLWFiMGYtZDIxNDQ5MzIwZmEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI5VDEyMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNDc0Y2M0MDMzZDdkNjlhZmMwZWI1YTg5OTE1YzNmOTg2YWY1Y2RiZWZkMzgwMTIwMDA0ODk3ODQwOWEzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XoQosSAP_W8-u_jhHkmQFL4EPB9WUeaIr4dcp0ofCSw\">\r\n\r\nYou can use makemigrations utility from django. \r\nRead this: https://docs.djangoproject.com/en/5.0/topics/migrations/"
     },
     {
       "type": "comment_created",
@@ -4453,7 +4453,7 @@
       "title": "coronasafe/care_fe#3172",
       "time": "2022-07-21T04:59:04.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/3172#issuecomment-1191039509",
-      "text": "> @cp-Coder Please add a preview screenshot \ud83d\ude42\r\n\r\n![image](https://user-images.githubusercontent.com/77210185/180133126-ee431d93-8089-472f-8946-e5b01769985c.png)\r\n"
+      "text": "> @cp-Coder Please add a preview screenshot 🙂\r\n\r\n![image](https://user-images.githubusercontent.com/77210185/180133126-ee431d93-8089-472f-8946-e5b01769985c.png)\r\n"
     },
     {
       "type": "issue_opened",
@@ -6091,14 +6091,14 @@
       "time": "2022-06-24T12:46:54.000Z",
       "title": "coronasafe/care_fe#2843",
       "link": "https://github.com/coronasafe/care_fe/pull/2843#pullrequestreview-1018427748",
-      "text": "Completed patient details section for read-only user \ud83e\udd41"
+      "text": "Completed patient details section for read-only user 🥁"
     },
     {
       "type": "pr_reviewed",
       "time": "2022-06-24T12:46:21.000Z",
       "title": "coronasafe/care_fe#2843",
       "link": "https://github.com/coronasafe/care_fe/pull/2843#pullrequestreview-1018427189",
-      "text": "Completed patient details section for read-only user \ud83e\udd41"
+      "text": "Completed patient details section for read-only user 🥁"
     },
     {
       "type": "pr_opened",
@@ -7253,7 +7253,7 @@
       "title": "coronasafe/care_fe#2297",
       "time": "2022-05-13T05:55:26.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/2297#issuecomment-1125682482",
-      "text": "Getting errors whenever a put request is generated to AWS. The error generated is:\r\n```\r\nXHR OPTIONS https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3/20220512/ap-south-1/s3/aws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f\r\nCORS Missing Allow Origin\r\n\r\nCross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3%2F20220512%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f. (Reason: CORS header \u2018Access-Control-Allow-Origin\u2019 missing). Status code: 403.\r\n\r\nCross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3%2F20220512%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f. (Reason: CORS request did not succeed). Status code: (null).\r\n```\r\nProbably we need to change some of the settings in AWS."
+      "text": "Getting errors whenever a put request is generated to AWS. The error generated is:\r\n```\r\nXHR OPTIONS https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3/20220512/ap-south-1/s3/aws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f\r\nCORS Missing Allow Origin\r\n\r\nCross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3%2F20220512%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 403.\r\n\r\nCross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://egov-s3-patient-data-10bedicu.s3.amazonaws.com/CONSULTATION/d3c44c74-d47c-49d2-a119-abe549d3ef931652342184.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAULRENCOF6S7P2YT3%2F20220512%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20220512T075624Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd9cb5460fa8b54d8f2ee3298a6d6a0c31ce34aeaa26de3fd892852261408f. (Reason: CORS request did not succeed). Status code: (null).\r\n```\r\nProbably we need to change some of the settings in AWS."
     },
     {
       "type": "pr_opened",
@@ -7275,6 +7275,265 @@
       "time": "2022-05-17T18:15:33.000Z",
       "link": "https://github.com/coronasafe/care_fe/pull/2335",
       "text": "added pagination in patient preset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2755",
+      "time": "2022-06-23T07:49:38Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2755",
+      "text": "Removed Diagnosis section from Notes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2836",
+      "time": "2022-07-15T08:22:03Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2836",
+      "text": "Alignment issue of Patient Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#2924",
+      "time": "2022-07-07T07:14:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2924",
+      "text": "Added ImageCompression for FileUpload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2987",
+      "time": "2022-07-03T08:00:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2987",
+      "text": "Fixed malfunction in patient file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#2989",
+      "time": "2022-07-03T08:41:47Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/2989",
+      "text": "Fixed styling issue in consultation page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3019",
+      "time": "2022-07-06T06:42:31Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3019",
+      "text": "Removed bed number for discharged patient"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3266",
+      "time": "2022-08-25T01:47:39Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3266",
+      "text": "Fixed: Asset Page Malfunction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3682",
+      "time": "2022-10-04T13:49:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3682",
+      "text": "Revamped Download option in Facility Page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3801",
+      "time": "2022-11-03T09:33:48Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3801",
+      "text": "fix: misalignment of No Assets Found text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3882",
+      "time": "2022-10-30T08:55:04Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3882",
+      "text": "fix(asset): droplist is stretching the asset page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#3883",
+      "time": "2022-10-30T09:17:10Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3883",
+      "text": "fix(patient): patient page alignment is off"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#3977",
+      "time": "2022-11-30T11:32:02Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/3977",
+      "text": "fix: replaced multiselect with new tailwind component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4063",
+      "time": "2022-12-08T12:30:28Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4063",
+      "text": "fix(UserProfile): Unable to update user details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4214",
+      "time": "2022-12-08T12:24:42Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4214",
+      "text": "fix(facility): cancel button is malfunction in facility update page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4215",
+      "time": "2022-12-08T12:24:07Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4215",
+      "text": "fix(patient): re-admission is using existing consultation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4245",
+      "time": "2022-12-08T12:22:43Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4245",
+      "text": "feat(prescription): add new medicines to the prescription module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4260",
+      "time": "2022-12-08T16:26:46Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4260",
+      "text": "Added middleware update feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4288",
+      "time": "2022-12-15T09:10:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4288",
+      "text": "fix(asset): Modified breadcrumbs in asset page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4315",
+      "time": "2022-12-15T15:00:20Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4315",
+      "text": "fix: upgrade the facility creation component to tailwind components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4378",
+      "time": "2022-12-20T19:01:22Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4378",
+      "text": "fix: Tailwind the Add User page + cypress tests for user feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#4730",
+      "time": "2023-02-01T17:56:21Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4730",
+      "text": "fix: Bed Assignment necessary before filing log update for patients admitted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#4730",
+      "time": "2023-02-02T15:02:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/4730",
+      "text": "fix: Bed Assignment necessary before filing log update for patients admitted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#5052",
+      "time": "2023-04-11T11:03:01Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/5052",
+      "text": "fix: reorder and group the patient filters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7257",
+      "time": "2024-03-04T05:24:23Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7257",
+      "text": "fix: Limit number of facilities a single user can be linked to"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7345",
+      "time": "2024-04-03T10:34:59Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7345",
+      "text": "fix: Events(Beta) improvement"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1058",
+      "time": "2022-10-09T04:47:24Z",
+      "link": "https://github.com/coronasafe/care/pull/1058",
+      "text": "Fixed: Added occupation field for text support"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1059",
+      "time": "2022-10-09T05:05:36Z",
+      "link": "https://github.com/coronasafe/care/pull/1059",
+      "text": "Fixes: Permission Error during Facility Delete"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1076",
+      "time": "2022-10-25T08:41:35Z",
+      "link": "https://github.com/coronasafe/care/pull/1076",
+      "text": "fix(Patient): Updated review_time logic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1081",
+      "time": "2022-10-27T13:00:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1081",
+      "text": "fix: update of last_daily_round on auto log update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1115",
+      "time": "2022-12-08T14:44:11Z",
+      "link": "https://github.com/coronasafe/care/pull/1115",
+      "text": "Add middleware_address field to the serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1115",
+      "time": "2022-12-08T18:48:15Z",
+      "link": "https://github.com/coronasafe/care/pull/1115",
+      "text": "Add middleware_address field to the serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1165",
+      "time": "2023-01-30T14:03:19Z",
+      "link": "https://github.com/coronasafe/care/pull/1165",
+      "text": "fix: Error during creating new asset"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1167",
+      "time": "2023-01-29T09:30:51Z",
+      "link": "https://github.com/coronasafe/care/pull/1167",
+      "text": "fix: Predated Log Updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1288",
+      "time": "2023-06-06T14:12:06Z",
+      "link": "https://github.com/coronasafe/care/pull/1288",
+      "text": "fix: centralise linting across the project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1589",
+      "time": "2023-09-09T17:38:30Z",
+      "link": "https://github.com/coronasafe/care/pull/1589",
+      "text": "Adds Nurse user type and promote existing staffs to nurse"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#175",
+      "time": "2023-06-10T08:26:24Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/175",
+      "text": "fix: Profile not updating"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/ayushma#176",
+      "time": "2023-06-10T16:50:08Z",
+      "link": "https://github.com/coronasafe/ayushma/pull/176",
+      "text": "feat: Adds test"
     }
   ],
   "open_prs": [],

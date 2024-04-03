@@ -922,6 +922,48 @@
       "time": "2024-02-23T12:19:03.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7260",
       "text": "Translations are not made properly in some places"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7264",
+      "time": "2024-02-28T04:13:24Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7264",
+      "text": "Fix Translations in login page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7411",
+      "time": "2024-04-03T02:13:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7411",
+      "text": "Add Age field in patient registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#366",
+      "time": "2024-03-11T03:57:39Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/366",
+      "text": "Update margin for timeline closes #357"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#367",
+      "time": "2024-03-11T03:46:46Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/367",
+      "text": "change review event text in github feed closes #362"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#369",
+      "time": "2024-03-11T04:54:03Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/369",
+      "text": "Update Navbar styling for readability closes #359"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#369",
+      "time": "2024-03-11T05:56:44Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/369",
+      "text": "Update Navbar styling for readability closes #359"
     }
   ],
   "open_prs": [
