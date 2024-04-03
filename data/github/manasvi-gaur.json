@@ -1,115 +1,33 @@
 {
-  "last_updated": "2024-04-02T03:27:17+00:00",
+  "last_updated": "2024-03-11T17:42:47Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "coronasafe/care_fe#7522",
-      "time": "2024-04-02T03:27:17+00:00",
-      "link": "https://github.com/coronasafe/care_fe/pull/7522",
-      "text": "[Enhancement] Ventilator Parameters Input - Validate Consultation Bed for Linked Ventilator Asset is getting resolved"
+      "title": "coronasafe/care_fe#7389",
+      "time": "2024-03-11T17:42:47Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7389",
+      "text": "File Management Exceptions Solved"
     },
     {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#7478",
-      "time": "2024-03-26T17:18:04+00:00",
-      "link": "https://github.com/coronasafe/care_fe/pull/7478",
-      "text": "Production release v24.13.0",
-      "collaborated_with": [
-        "rithviknishad",
-        "AshrafMd-1",
-        "nihal467",
-        "khavinshankar",
-        "konavivekramakrishna",
-        "Ashesh3",
-        "jainvedant392",
-        "GokulramGHV",
-        "Spiral-Memory",
-        "gigincg",
-        "r-nikhilkumar"
-      ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "coronasafe/care_fe#7441",
-      "time": "2024-03-20T08:30:00+00:00",
-      "link": "https://github.com/coronasafe/care_fe/pull/7441",
-      "text": "Staging release for v24.13.0",
-      "collaborated_with": [
-        "Spiral-Memory",
-        "Ashesh3",
-        "jainvedant392",
-        "konavivekramakrishna",
-        "nihal467",
-        "khavinshankar",
-        "AshrafMd-1",
-        "rithviknishad",
-        "r-nikhilkumar",
-        "GokulramGHV"
-      ]
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7390",
+      "time": "2024-03-11T17:50:37Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7390",
+      "text": "Solved File Management Exceptions"
     },
     {
       "type": "pr_merged",
       "title": "coronasafe/care_fe#7390",
-      "time": "2024-03-19T11:36:20+00:00",
-      "link": "https://github.com/coronasafe/care_fe/pull/7390",
-      "text": "Solved File Management Exceptions",
-      "turnaround_time": 20894
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7397",
-      "time": "2024-03-19T11:02:16+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7397#issuecomment-2006853780",
-      "text": "@rithviknishad, I mistakenly unassigned myself please assign it to me, I almost solved this issue, I just had to make a confirmation and create pull request, could you please re-assign me"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7397",
-      "time": "2024-03-13T16:48:53+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7397#issuecomment-1994959851",
-      "text": "@gigincg Where a user saves Ventilator Parameters in the system, where do I need to make changes?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7397",
-      "time": "2024-03-12T13:49:27+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7397#issuecomment-1991697828",
-      "text": "@gigincg @rithviknishad can you please assign this issue to me ?"
-    },
-    {
-      "type": "pr_opened",
-      "title": "coronasafe/care_fe#7390",
-      "time": "2024-03-11T17:50:40+00:00",
+      "time": "2024-03-19T11:36:19Z",
       "link": "https://github.com/coronasafe/care_fe/pull/7390",
       "text": "Solved File Management Exceptions"
     },
     {
       "type": "pr_opened",
-      "title": "coronasafe/care_fe#7389",
-      "time": "2024-03-11T17:42:49+00:00",
-      "link": "https://github.com/coronasafe/care_fe/pull/7389",
-      "text": "File Management Exceptions Solved"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7384",
-      "time": "2024-03-11T15:03:43+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7384#issuecomment-1988656075",
-      "text": "@rithviknishad, can you please assign this to me?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7372",
-      "time": "2024-03-11T14:47:33+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7372#issuecomment-1988618860",
-      "text": "@rithviknishad how to reproduce this issue?"
-    },
-    {
-      "type": "comment_created",
-      "title": "coronasafe/care_fe#7383",
-      "time": "2024-03-11T13:56:27+00:00",
-      "link": "https://github.com/coronasafe/care_fe/issues/7383#issuecomment-1988505393",
-      "text": "@rithviknishad, can you please assign this to me?"
+      "title": "coronasafe/care_fe#7522",
+      "time": "2024-04-02T03:27:16Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7522",
+      "text": "[Enhancement] Ventilator Parameters Input - Validate Consultation Bed for Linked Ventilator Asset is getting resolved"
     }
   ],
   "open_prs": [],
