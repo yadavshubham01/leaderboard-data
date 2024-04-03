@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-01T10:34:38+00:00",
+  "last_updated": "2024-04-02T06:33:16+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-02T06:33:16+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2031180212",
+      "text": "@rithviknishad We understood, that the issue is observed when the presets are deleted. but we do not know who deleted the presets. can we restrict the delete option, and keep only edit preset option. ?"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7511",

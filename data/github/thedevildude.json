@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-01T17:04:41+00:00",
+  "last_updated": "2024-04-02T12:05:24+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7342",
+      "time": "2024-04-02T12:05:24+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7342#issuecomment-2031863972",
+      "text": "I'd like to work on this issue if it's still relevant"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7518",
@@ -692,9 +699,10 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6901",
       "title": "Added Timeline UI for Bed Activity",
-      "stale_for": 6,
+      "stale_for": 0,
       "labels": [
-        "changes required"
+        "changes required",
+        "merge conflict"
       ]
     }
   ],

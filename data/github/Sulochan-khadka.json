@@ -1,6 +1,27 @@
 {
-  "last_updated": "2024-04-01T04:47:14+00:00",
+  "last_updated": "2024-04-02T12:54:58+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7525",
+      "time": "2024-04-02T12:54:58+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7525#issuecomment-2031969379",
+      "text": "Some of the features missing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7525",
+      "time": "2024-04-02T12:33:44+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7525",
+      "text": "Issues/7382/inline autocomplete"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T11:28:12+00:00",
+      "title": "coronasafe/care_fe#7502",
+      "link": "https://github.com/coronasafe/care_fe/pull/7502#pullrequestreview-1973479557",
+      "text": "Issues/7501/empty list"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care_fe#7382",
@@ -289,6 +310,32 @@
       "text": "Hey where do I store the uploaded image ? in S3? Kindly do specify... Working on it."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7502",
+      "title": "Issues/7501/empty list",
+      "stale_for": 0,
+      "labels": [
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7496",
+      "title": "Icon overlapping with text in text-box of Doctor's Notes. #7495",
+      "stale_for": 1,
+      "labels": [
+        "merge conflict"
+      ]
+    },
+    {
+      "link": "https://github.com/coronasafe/care_fe/pull/7494",
+      "title": "\"Solved facility linking issue under manage facilities/view users\"#7474",
+      "stale_for": 0,
+      "labels": [
+        "changes required",
+        "merge conflict"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

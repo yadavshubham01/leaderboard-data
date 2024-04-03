@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-04-01T17:51:47+00:00",
+  "last_updated": "2024-04-02T17:07:07+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T17:07:07+00:00",
+      "title": "coronasafe/care#1966",
+      "link": "https://github.com/coronasafe/care/pull/1966#pullrequestreview-1974442553",
+      "text": "Dropped `age` column from patient registration and annotated age in patient viewset"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2042",
@@ -7475,7 +7482,7 @@
     {
       "link": "https://github.com/coronasafe/docs/pull/18",
       "title": "Add CEP 5 initial spec : Plugs",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -7489,7 +7496,7 @@
     {
       "link": "https://github.com/coronasafe/docs/pull/6",
       "title": "CEP 4 RBAC: initial spec",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     }
   ],

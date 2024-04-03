@@ -1,6 +1,20 @@
 {
-  "last_updated": "2024-04-01T17:51:47+00:00",
+  "last_updated": "2024-04-02T15:01:42+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-02T15:01:42+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2032296496",
+      "text": "@NNSiri The presets being deleted seems is being repeatedly reported from the field now. We can work on improving the audit trail for Preset Deletions to track this better.\r\n\r\n@rithviknishad Can you update the issue to improve the AssetBed through table as well as add audit-trail for soft deleted presets"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7510",
+      "time": "2024-04-02T14:37:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7510#issuecomment-2032219071",
+      "text": "@NNSiri The hierarchy in CARE are State, District, Local Body & Wards, And for users we have only State, District & Local Body. Local Body is an optional field when creating Users, therefore a Local Body filter for Users may not work as you would expect.\r\n\r\nCan you tell us what would be the purpose of looking at Users from a certain Taluka? If the purpose is to filter users by a Home Facility, that can be implemented in a better way. "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2042",
@@ -7210,7 +7224,7 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6670",
       "title": "Add Medispeak for Preview on Care",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": [
         "In Progress"
       ]

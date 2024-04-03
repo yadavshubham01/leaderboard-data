@@ -1,6 +1,41 @@
 {
-  "last_updated": "2024-04-01T17:04:41+00:00",
+  "last_updated": "2024-04-02T11:19:03+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#420",
+      "time": "2024-04-02T11:19:03+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420#issuecomment-2031742855",
+      "text": "![image](https://github.com/coronasafe/leaderboard/assets/146672184/a09ecd28-908b-4821-9d34-798e6a00878e)\r\nis this ok?\r\nand also logo cant always be a color image right ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#420",
+      "time": "2024-04-02T11:02:10+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420#issuecomment-2031707254",
+      "text": "Yeah sure, ill update it "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#420",
+      "time": "2024-04-02T10:52:02+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420#issuecomment-2031684659",
+      "text": "@rithviknishad, Is the colour for the footer in the light theme ok?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#420",
+      "time": "2024-04-02T10:48:40+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420",
+      "text": "fix theme for footer"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#411",
+      "time": "2024-04-02T09:13:35+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/issues/411#issuecomment-2031477706",
+      "text": "I would like to work on this issue "
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care_fe#7518",
@@ -891,9 +926,15 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/coronasafe/leaderboard/pull/420",
+      "title": "fix theme for footer",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/coronasafe/leaderboard/pull/418",
       "title": "enable/disable features from env variables",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "changes required"
       ]
@@ -901,18 +942,17 @@
     {
       "link": "https://github.com/coronasafe/care_fe/pull/7411",
       "title": "Add Age field in patient registration",
-      "stale_for": 5,
+      "stale_for": 0,
       "labels": [
         "Backend",
         "tested",
-        "P1",
-        "waiting for backend"
+        "P1"
       ]
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1929",
       "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     }
   ],

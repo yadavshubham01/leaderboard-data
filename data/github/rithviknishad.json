@@ -1,6 +1,159 @@
 {
-  "last_updated": "2024-04-01T17:51:47+00:00",
+  "last_updated": "2024-04-02T17:31:28+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#398",
+      "time": "2024-04-02T17:31:28+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#issuecomment-2032641495",
+      "text": "@Re-Dei could you resolve the merge conflicts?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1966",
+      "time": "2024-04-02T17:07:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "text": "Dropped `age` column from patient registration and annotated age in patient viewset",
+      "turnaround_time": 26161
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1966",
+      "time": "2024-04-02T17:07:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "text": "Dropped `age` column from patient registration and annotated age in patient viewset",
+      "collaborated_with": [
+        "sainak"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7381",
+      "time": "2024-04-02T16:40:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "text": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
+      "turnaround_time": 17438
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7381",
+      "time": "2024-04-02T16:40:13+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7381",
+      "text": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7511",
+      "time": "2024-04-02T16:18:10+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7511#issuecomment-2032497318",
+      "text": "Updated the issue body with the following:\r\n\r\n> Currently, each camera bed preset is stored as an individual AssetBed record (1 preset => 1 AssetBed record; 10 presets => 10 AssetBed records). This is not very efficient. Instead a camera (asset) can be linked to a bed (which represents an AssetBed record), and multiple presets can be added for this AssetBed record.\r\n> \r\n> ### Action Items\r\n> \r\n> - [ ] Create a new model `CameraPreset` (having many-to-one relation with `AssetBed` model).\r\n> - [ ] Add fields for tracking modifications made to the CameraPreset records (created_by and modified_by along with created and updated at datetime fields)\r\n> - [ ] Necessary changes in FE to reflect these."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:37:53+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974220557",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:37:53+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974220557",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7469",
+      "time": "2024-04-02T13:43:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469",
+      "text": "Perform type checks during build and fix all errors",
+      "turnaround_time": 85
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7469",
+      "time": "2024-04-02T13:43:56+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7469",
+      "text": "Perform type checks during build and fix all errors",
+      "collaborated_with": [
+        "nihal467"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#420",
+      "time": "2024-04-02T11:22:32+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420#issuecomment-2031750067",
+      "text": "Ideally we could have two files: `logo-light.webp` and `logo-dark.webp`. This looks fine for now"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T10:57:01+00:00",
+      "title": "coronasafe/leaderboard#420",
+      "link": "https://github.com/coronasafe/leaderboard/pull/420#pullrequestreview-1973395718",
+      "text": "fix theme for footer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#419",
+      "time": "2024-04-02T09:05:28+00:00",
+      "link": "https://github.com/coronasafe/leaderboard/pull/419",
+      "text": "Adds script for pulling historical data for an org."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7508",
+      "time": "2024-04-02T05:03:36+00:00",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508",
+      "text": "Upgrade to node v20",
+      "turnaround_time": 84607
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T03:27:53+00:00",
+      "title": "coronasafe/care_fe#7491",
+      "link": "https://github.com/coronasafe/care_fe/pull/7491#pullrequestreview-1972540248",
+      "text": "Solving the scroll issue in Shifting"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T03:27:53+00:00",
+      "title": "coronasafe/care_fe#7491",
+      "link": "https://github.com/coronasafe/care_fe/pull/7491#pullrequestreview-1972540248",
+      "text": "Solving the scroll issue in Shifting"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T03:26:31+00:00",
+      "title": "coronasafe/care_fe#7492",
+      "link": "https://github.com/coronasafe/care_fe/pull/7492#pullrequestreview-1972538587",
+      "text": "create asset css fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T03:26:31+00:00",
+      "title": "coronasafe/care_fe#7492",
+      "link": "https://github.com/coronasafe/care_fe/pull/7492#pullrequestreview-1972538587",
+      "text": "create asset css fix"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T03:18:29+00:00",
+      "title": "coronasafe/care_fe#7517",
+      "link": "https://github.com/coronasafe/care_fe/pull/7517#pullrequestreview-1972534514",
+      "text": "Fixed scroll overlay in medicine dashboard "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7521",
+      "time": "2024-04-02T03:03:41+00:00",
+      "link": "https://github.com/coronasafe/care_fe/issues/7521#issuecomment-2030989443",
+      "text": "@tanpreetjolly could you provide more specific insights in detail?\r\n\r\nAs for what I see, the patients' list API itself takes ~4 seconds to respond. I don't think using memo would make it 50% better.\r\n\r\n<img width=\"999\" alt=\"image\" src=\"https://github.com/coronasafe/care_fe/assets/25143503/a068941e-1887-4465-af81-ec5e4c4ef1b9\">\r\n"
+    },
     {
       "type": "pr_collaborated",
       "title": "coronasafe/care#2042",
@@ -41552,47 +41705,15 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/coronasafe/care_fe/pull/7508",
-      "title": "Upgrade to node v20",
+      "link": "https://github.com/coronasafe/leaderboard/pull/419",
+      "title": "Adds script for pulling historical data for an org.",
       "stale_for": 0,
-      "labels": [
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7469",
-      "title": "Perform type checks during build and fix all errors",
-      "stale_for": 0,
-      "labels": [
-        "urgent",
-        "needs testing",
-        "needs review",
-        "P1",
-        "Major Code Change"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1966",
-      "title": "Dropped `age` column from patient registration and annotated age in patient viewset",
-      "stale_for": 2,
-      "labels": [
-        "P2"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7381",
-      "title": "Migrate ICD11 and Medibase Medicine search to use `useQuery`",
-      "stale_for": 5,
-      "labels": [
-        "needs testing",
-        "needs review",
-        "cypress passed"
-      ]
+      "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/5681",
       "title": "HCX Communication",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "merge conflict",
         "stale",
@@ -41601,6 +41722,18 @@
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7506",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7508"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7482",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7469"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/care_fe/issues/7468",
+      "pr_link": "https://github.com/coronasafe/care_fe/pull/7469"
+    },
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7466",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7472"
@@ -41640,10 +41773,6 @@
     {
       "issue_link": "https://github.com/coronasafe/care_fe/issues/7356",
       "pr_link": "https://github.com/coronasafe/care_fe/pull/7358"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/leaderboard/issues/328",
-      "pr_link": "https://github.com/coronasafe/leaderboard/pull/339"
     }
   ]
 }

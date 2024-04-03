@@ -1,6 +1,30 @@
 {
-  "last_updated": "2024-04-01T17:51:47+00:00",
+  "last_updated": "2024-04-02T17:07:21+00:00",
   "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1966",
+      "time": "2024-04-02T17:07:21+00:00",
+      "link": "https://github.com/coronasafe/care/pull/1966",
+      "text": "Dropped `age` column from patient registration and annotated age in patient viewset",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T08:25:04+00:00",
+      "title": "coronasafe/care#2034",
+      "link": "https://github.com/coronasafe/care/pull/2034#pullrequestreview-1973009225",
+      "text": "test for various endpoints in the external_result module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T04:34:45+00:00",
+      "title": "coronasafe/care_fe#7508",
+      "link": "https://github.com/coronasafe/care_fe/pull/7508#pullrequestreview-1972599027",
+      "text": "Upgrade to node v20"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/care#2042",
@@ -11444,25 +11468,25 @@
     {
       "link": "https://github.com/coronasafe/care/pull/2000",
       "title": "Make care single source of truth for asset config on middleware",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/citizen/pull/44",
       "title": "Quick changes to get the app running again",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/teleicu_middleware/pull/119",
       "title": "add ability to fetch config from care",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care_fe/pull/6457",
       "title": "add support for webrtc stream",
-      "stale_for": 127,
+      "stale_for": 128,
       "labels": [
         "blocked",
         "changes required",
@@ -11473,7 +11497,7 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1579",
       "title": "refactor all files as per ruff rules",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "In progress"
       ]
@@ -11481,19 +11505,19 @@
     {
       "link": "https://github.com/coronasafe/care/pull/1559",
       "title": "feat: use ruff",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/medibase/pull/7",
       "title": "Update dependencies",
-      "stale_for": 256,
+      "stale_for": 257,
       "labels": []
     },
     {
       "link": "https://github.com/coronasafe/care/pull/1349",
       "title": "use signals to update patient and bed count of facilities",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     }
   ],

@@ -1,6 +1,34 @@
 {
-  "last_updated": "2024-04-01T07:18:25+00:00",
+  "last_updated": "2024-04-02T16:25:37+00:00",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T16:25:37+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974332843",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T16:14:54+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974306642",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:49:17+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974246655",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-02T15:46:58+00:00",
+      "title": "coronasafe/leaderboard#398",
+      "link": "https://github.com/coronasafe/leaderboard/pull/398#pullrequestreview-1974240928",
+      "text": "feat: added image with blur to /leaderboard and /people routes"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/leaderboard#398",
@@ -329,6 +357,28 @@
       "text": "Hi!\nI am Hridaya. Getting straight to the point, I would like to contribute to this open source project by solving this issue for GSOC 2024. I am fairly experienced in Next.js and have more than 1.5 years+ experience working with Next.js and more than 2 years as a web developer. I wouldn't say I am a expert however I am more than an intermediate developer regarding Next.js  and the features such as SSR, SSG, ISR, streaming components as well as optimizing the performance of the website to have at least 90 score on lighthouse which is tough to obtain since Next.js is very heavy on performance in comparison to frameworks like Solid and Astro. So I hope I could get a chance to work on this open source project which aims to contribute towards the health sector."
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/coronasafe/leaderboard/pull/398",
+      "title": "feat: added image with blur to /leaderboard and /people routes",
+      "stale_for": 0,
+      "labels": [
+        "changes required"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/277",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/308"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/247",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/254"
+    },
+    {
+      "issue_link": "https://github.com/coronasafe/leaderboard/issues/242",
+      "pr_link": "https://github.com/coronasafe/leaderboard/pull/244"
+    }
+  ]
 }

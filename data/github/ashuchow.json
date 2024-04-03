@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-03-30T07:20:57+00:00",
+  "last_updated": "2024-04-02T14:43:46+00:00",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#14",
+      "time": "2024-04-02T14:43:46+00:00",
+      "link": "https://github.com/coronasafe/metabase_manager/issues/14#issuecomment-2032234059",
+      "text": "I would like to receive feedback about how the embedded dashboards should look in metabase manager app. \r\n![WhatsApp Image 2024-04-02 at 20 11 54 (1)](https://github.com/coronasafe/metabase_manager/assets/48214113/7e84144c-c90c-499f-9ac7-7135d6c7c754)\r\n![WhatsApp Image 2024-04-02 at 20 11 54](https://github.com/coronasafe/metabase_manager/assets/48214113/f78631cd-5346-487a-8c42-1a9b350b72e9)\r\nWe have the navigation bar set up where we can click on the state link which leads to another page on the app that showcases the embedded dashboard but there are no distinctive signifiers that show that it is on the metabase manager app. Would we like to incorporate such features so it doesn't feel like it has led to a separate app. \r\n"
+    },
     {
       "type": "pr_merged",
       "title": "coronasafe/metabase_manager#15",
