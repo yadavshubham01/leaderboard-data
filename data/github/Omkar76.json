@@ -897,6 +897,13 @@
       "time": "2023-09-30T08:41:02.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/6373#issuecomment-1741716463",
       "text": "You can assign this issue to me."
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7118",
+      "time": "2024-02-21T08:00:53Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7118",
+      "text": "Replace font-awesome icons by CareIcon component"
     }
   ],
   "open_prs": [

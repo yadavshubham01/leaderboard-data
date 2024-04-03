@@ -693,6 +693,20 @@
       "time": "2023-07-29T07:26:56.000Z",
       "link": "https://github.com/coronasafe/ayushma_fe/pull/74",
       "text": "Added infinite scrolling for chat history #25"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7228",
+      "time": "2024-02-28T04:16:00Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7228",
+      "text": " Introduce (i) Button Popover Component in HL7Monitor and VentilatorPatientVitalsMonitor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/ayushma_fe#170",
+      "time": "2024-01-16T14:14:12Z",
+      "link": "https://github.com/coronasafe/ayushma_fe/pull/170",
+      "text": "Fixed chat upvote and downvote Feedback UI"
     }
   ],
   "open_prs": [

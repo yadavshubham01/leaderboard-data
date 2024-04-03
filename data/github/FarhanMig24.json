@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-04-03T12:26:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7531",
+      "time": "2024-04-03T12:26:41Z",
+      "link": "https://github.com/coronasafe/care_fe/pull/7531",
+      "text": "Solved no consultation history and no sample test history with appropriate styling."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -664,7 +664,7 @@
       "title": "coronasafe/leaderboard#280",
       "time": "2024-02-29T08:37:38.000Z",
       "link": "https://github.com/coronasafe/leaderboard/pull/280#issuecomment-1970658066",
-      "text": "![Screenshot_2024-02-29-14-05-34-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/coronasafe/leaderboard/assets/111575806/d21e272d-b580-4222-89bb-1ccd38adf677)\r\nWe don't get the option like that I guess \ud83e\udee0 will look into it \ud83d\udc4d"
+      "text": "![Screenshot_2024-02-29-14-05-34-25_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/coronasafe/leaderboard/assets/111575806/d21e272d-b580-4222-89bb-1ccd38adf677)\r\nWe don't get the option like that I guess 🫠 will look into it 👍"
     },
     {
       "type": "pr_merged",
@@ -964,6 +964,41 @@
       "time": "2024-02-22T06:38:17.000Z",
       "link": "https://github.com/coronasafe/care_fe/issues/7248",
       "text": "Improve Input Field UI for Phone Number"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#22",
+      "time": "2024-03-04T05:13:40Z",
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/22",
+      "text": "Update UdaySagar-Git.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#245",
+      "time": "2024-02-28T04:56:59Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/245",
+      "text": "select filter for leaderboard contributors role"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#267",
+      "time": "2024-02-28T02:48:42Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/267",
+      "text": "Added Tailwind Classes Sorting Plugin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#310",
+      "time": "2024-03-04T06:32:00Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/310",
+      "text": "Changes Default Values of Roles for Initial Page Load on Leaderboard Page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#313",
+      "time": "2024-03-04T03:08:44Z",
+      "link": "https://github.com/coronasafe/leaderboard/pull/313",
+      "text": "Added indication for option selected in Date Range picker"
     }
   ],
   "open_prs": [
