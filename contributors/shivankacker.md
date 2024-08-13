@@ -1,7 +1,7 @@
 ---
 name: Shivank Kacker
 title: Software Engineer
-github: skks1212
+github: shivankacker
 twitter: shivankacker
 linkedin: shivankkacker
 slack: U02TB83Q5V0
