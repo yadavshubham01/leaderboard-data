@@ -1,5 +1,5 @@
 ---
-name: shubham yadav
+name: Shubham Yadav
 title: Intern
 github: yadavshubham01
 twitter: "yadavshubham_1"
